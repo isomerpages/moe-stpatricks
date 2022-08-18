@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 
 #### **Profile**
 
-**"To Strive With Pride and Dedication"  **
+**"To Strive With Pride and Dedication"**
 
  The NCC (Land) of St. Patrick’s School is awarded Distinction in the Unit Recognition for 2021. This achievement, yet again, is a testament of the dedication and commitment of Teachers and Cadets. With the guidance of the teachers, the senior cadets planned and carried out weekly trainings for the junior cadets.
 
