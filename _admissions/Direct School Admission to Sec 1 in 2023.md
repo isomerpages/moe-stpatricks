@@ -95,4 +95,16 @@ _**Students who are admitted through DSA, will be expected to remain and honour 
 |  <br> <br> <br> <br>1 September to 8 September | Notification of results |  Both successful and unsuccessful applicants will be notified through post / email. <br><br>No results of applications will be released or confirmed through telephone enquiries. |
 |
 
+#### **Application Process**
 
+1\.&nbsp; Application can only be done through the DSA-Sec Portal from 5th&nbsp;May to 1st&nbsp;June 2022.&nbsp;
+
+2\.&nbsp; Please follow the instructions in the DSA-Sec Portal carefully.
+
+3\.&nbsp; Shortlisted applicants may be notified to produce certified true photocopies of supporting documents
+
+For any **enquiries**, please contact the following personnel:-
+
+1.&nbsp; Mr Irwan Wijaya, HOD CCA ([irwan\_wijaya\_zainal@moe.edu.sg](mailto:irwan_wijaya_zainal@moe.edu.sg)&nbsp;/ 6344 0929)
+
+2.&nbsp; Mr Seow Jian Ting, DSA Coordinator ([seow\_jian\_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg)&nbsp;/ 6344 0929)
