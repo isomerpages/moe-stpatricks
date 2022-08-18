@@ -14,8 +14,8 @@ third_nav_title: Staff Directory
 
 | 4 Teamwork |  |
 |:---:|:---:|
-| Mdm Ng Yi Ting | ng_yi_ting@moe.edu.sg |
-| Ms Christie Eugenia Cheah Yi-Lin | cheah_yi-lin_christie_eugenia@moe.edu.sg |
+| Mdm Ng Yi Ting | [ng_yi_ting@moe.edu.sg](mailto:ng_yi_ting@moe.edu.sg) |
+| Ms Christie Eugenia Cheah Yi-Lin | [cheah_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) |
 |
 
 | 4 Respect |  |
