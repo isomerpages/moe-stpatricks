@@ -6,12 +6,15 @@ third_nav_title: Uniformed Groups
 ---
 ### **NCC (Air)**
 
-![](/images/Ncc%201.jpg)
-![](/images/Ncc%202.jpg)
 
+<img src="/images/Ncc%201.jpg" 
+     style="width:65%" align = left>
+<img src="/images/Ncc%202.jpg" 
+     style="width:65%" align = left>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 #### **Profile**
 
-"Above all!"
+**"Above all!"**
 
 Our school’s NCC Air exhibited excellence in multifarious aspects to clinch the Distinction Award in this year’s Unit Recognition. On top of rigorous training that increased our cadet’s fitness, our cadets also collaborated with the Singapore Kindness Movement to conceptualize and execute a social media campaign. Cadets also attended adventure camps such as Camp FORGE, and Camp STEEL, and leadership training camps such as the Senior Specialist Leaders Course (SSLC) to prepare top student leaders in the CCA to be resilient leaders.
 
