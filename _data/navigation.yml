@@ -1,5 +1,22 @@
 logo: /images/sch logo.png
 links:
+  - title: About
+    url: /about/vision-mission-motto-values/
+    sublinks:
+      - title: Vision,Mission,Motto & Values
+        url: /about/vision-mission-motto-values/
+      - title: School History,Heritage &Ethos
+        url: /about/sch-history-heritage-ethos/
+      - title: Principal's Message
+        url: /about/principals-message/
+      - title: Staff Directory
+        url: /about/staff-directory/
+      - title: Alumni Achievements
+        url: /about/alumni-achievement/
+      - title: PDLP
+        url: /about/pdlp/
+      - title: Financial & Non-Financial Info
+        url: /about/financial/
   - title: Connect
     url: /connect/sch-communication-channels/
     sublinks:
