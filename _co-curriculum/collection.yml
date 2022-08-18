@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Education and Career Guidance (ECG) Cohort Learning Experiences.md
       - National Education.md
