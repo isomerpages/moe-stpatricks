@@ -2,4 +2,5 @@ collections:
   connect:
     output: true
     order:
+      - School Communication Channels.md
       - The Patrician Parent.md
