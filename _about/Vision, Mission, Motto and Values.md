@@ -15,4 +15,4 @@ Touch hearts. Engage minds. Transform lives.
 Potest Qui Vult! (He who Wills, Can!)
 
 #### **Values**
-
+![](/images/value.png)
