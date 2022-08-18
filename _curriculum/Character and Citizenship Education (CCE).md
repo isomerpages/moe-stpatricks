@@ -15,7 +15,7 @@ description: ""
 Through the CCE and Religious Character and Citizenship Education (RCCE) curriculum and learning experiences, it is hoped that the following goals can be achieved for each Patrician at the end of each level.
 
 <img src="/images/cce%201.jpg" 
-     style="width:70%" align=left>
+     style="width:65%" align=left>
 		 
 <br><br><br><br><br>
 <br><br><br><br><br>
