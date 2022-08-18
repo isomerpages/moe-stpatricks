@@ -101,6 +101,6 @@ A list of answers to Frequently Asked Questions can be found [here](/files/FAQs
 If you have any further queries, kindly email us at:
 
 |  |  |
-|---|---|
+|:---:|:---:|
 | **Technical Matters** <br> Mr Syed Salleh Alattas HOD ICT <br>syed_sellah@moe.edu.sg | **Financial Matters** <br>Ms Joyce Leow<br> Administration Manager<br> leow_li-sze@moe.edu.sg |
 |  |  |
