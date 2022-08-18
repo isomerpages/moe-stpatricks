@@ -14,21 +14,21 @@ third_nav_title: Staff Directory
 | 4.            | HOD Mother Tongue | Mdm Laura Lim Hwee Mean | [lim_hwee_mean@moe.edu.sg](mailto:lim_hwee_mean@moe.edu.sg) |
 | 5.            | HOD English Language | Ms Nur Azzah Bte Amir Gany | [nur_azzah_amir_gany@moe.edu.sg](mailto:nur_azzah_amir_gany@moe.edu.sg) |
 | 6.            | School Staff Developer | Mr Errol Chang Lik Hung | [chang_lik_hung_errol@moe.edu.sg](mailto:chang_lik_hung_errol@moe.edu.sg) |
-| 7.            | HOD ICT & MRL | Mr Syed Salleh | syed_salleh@moe.edu.sg |
-| 8.            | HOD PE/CCA | Mr Irwan Wijaya Zainal | irwan_wijaya_zainal@moe.edu.sg |
-| 9.            | HOD CCE | Mr Adrian Lim | adrian_lim_ming@moe.edu.sg |
-| 10.         | HOD SM | Mr Mahadir Wahab | mahadir_b_wahab@moe.edu.sg |
-| 11.         | HOD SEN | Ms Goh Huiling Winnie | goh_huiling_winnie@moe.edu.sg |
-| 12.         | YEAR HEAD (S1) | Mdm Grace Alessandra Lim | grace_alessandra_lim@moe.edu.sg |
-| 13.         | YEAR HEAD (S2) | Ms Alyssa Lim | peining_alyssa_lim@moe.edu.sg |
-| 14.         | YEAR HEAD (S3) | Mdm Soh Kim Ling | soh_kim_ling@moe.edu.sg |
-| 15.         | YEAR HEAD (S4) | Mr Huang YeWei | huang_yewei@moe.edu.sg |
-| 16.         | SUBJECT HEAD (Malay Language) | Ms Hazlian Bte Karim | Hazlian_karim@moe.edu.sg |
-| 17.         | SUBJECT HEAD (D&T) | Mr Mahadi b Salam | mahadi_salam@moe.edu.sg |
-| 18.         | SUBJECT HEAD (ICT) | Mr Tan Chee Wei | tan_chee_wei@moe.edu.sg |
-| 19.         | SUBJECT HEAD (Computing) | Mr Tay Woei Long Samuel | tay_woei_long@moe.edu.sg |
-| 20.         | SUBJECT HEAD (CCA) | Mr Seow Jian Ting | seow_jian_ting@moe.edu.sg |
-| 21.         | SUBJECT HEAD (Aesthetics) | Mdm Seng Swee Cheng Dorothy | seng_swee_cheng_dorothy@moe.edu.sg |
-| 22.         | SUBJECT HEAD (COVERING) SLD | Miss Cheryl Lek | lek_li_ling_cheryl@moe.edu.sg |
-| 23.         | SUBJECT HEAD (COVERING) SWB | Miss Erica Reyes Rodrigues | erica_reyes_rodriguez@moe.edu.sg |
+| 7.            | HOD ICT & MRL | Mr Syed Salleh | [syed_salleh@moe.edu.sg](mailto:syed_salleh@moe.edu.sg) |
+| 8.            | HOD PE/CCA | Mr Irwan Wijaya Zainal | [irwan_wijaya_zainal@moe.edu.sg](mailto:irwan_wijaya_zainal@moe.edu.sg) |
+| 9.            | HOD CCE | Mr Adrian Lim | [adrian_lim_ming@moe.edu.sg](mailto:adrian_lim_ming@moe.edu.sg) |
+| 10.         | HOD SM | Mr Mahadir Wahab | [mahadir_b_wahab@moe.edu.sg](mailto:mahadir_b_wahab@moe.edu.sg) |
+| 11.         | HOD SEN | Ms Goh Huiling Winnie | [goh_huiling_winnie@moe.edu.sg](mailto:goh_huiling_winnie@moe.edu.sg) |
+| 12.         | YEAR HEAD (S1) | Mdm Grace Alessandra Lim | [grace_alessandra_lim@moe.edu.sg](mailto:grace_alessandra_lim@moe.edu.sg) |
+| 13.         | YEAR HEAD (S2) | Ms Alyssa Lim | [peining_alyssa_lim@moe.edu.sg](mailto:peining_alyssa_lim@moe.edu.sg) |
+| 14.         | YEAR HEAD (S3) | Mdm Soh Kim Ling | [soh_kim_ling@moe.edu.sg](mailto:soh_kim_ling@moe.edu.sg) |
+| 15.         | YEAR HEAD (S4) | Mr Huang YeWei | [huang_yewei@moe.edu.sg](mailto:huang_yewei@moe.edu.sg) |
+| 16.         | SUBJECT HEAD (Malay Language) | Ms Hazlian Bte Karim | [Hazlian_karim@moe.edu.sg](mailto:Hazlian_karim@moe.edu.sg) |
+| 17.         | SUBJECT HEAD (D&T) | Mr Mahadi b Salam | [mahadi_salam@moe.edu.sg](mailto:mahadi_salam@moe.edu.sg) |
+| 18.         | SUBJECT HEAD (ICT) | Mr Tan Chee Wei | [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg) |
+| 19.         | SUBJECT HEAD (Computing) | Mr Tay Woei Long Samuel | [tay_woei_long@moe.edu.sg](mailto:tay_woei_long@moe.edu.sg) |
+| 20.         | SUBJECT HEAD (CCA) | Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
+| 21.         | SUBJECT HEAD (Aesthetics) | Mdm Seng Swee Cheng Dorothy | [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg) |
+| 22.         | SUBJECT HEAD (COVERING) SLD | Miss Cheryl Lek | [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) |
+| 23.         | SUBJECT HEAD (COVERING) SWB | Miss Erica Reyes Rodrigues | [erica_reyes_rodriguez@moe.edu.sg](mailto:erica_reyes_rodriguez@moe.edu.sg) |
 |
