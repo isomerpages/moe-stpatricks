@@ -21,22 +21,22 @@ _‘Thinking with a Purpose to Transform Lives for the Better’_
 The teaching of **Nutrition & Food Science** includes Food Studies and Consumer Studies.  Food Studies equip students with knowledge about diet and health and the benefits of a balanced meal. Consumer Studies prepares students to make sound food choices. Using the knowledge learnt, students will be given opportunities to extend their learning as they undertake projects from Secondary One to Three.
 
 <img src="/images/craftntech%202.jpg" 
-     style="width:65%">
+     style="width:55%">
 Students consolidating their learning about diet and health and the benefits of balanced meals.
 
 <img src="/images/craftntech%203.png" 
-     style="width:85%">
+     style="width:75%">
 Students with their final products based on the choices they made for their Applied Module.
 
 <img src="/images/craftntech%204.jpg" 
-     style="width:65%">
+     style="width:55%">
 **Video submission of John Decruz Francis & Alief Ahmad, 2 Patrick**<br>
 Finalists for Sec 1 & 2 Category Keat Hong CC WEC Sandwich Making Competition 2021
 
 Lower secondary **Art** students explore 2-dimensional and 3-dimensional art forms through appreciating well-known artworks, using digital apps for stop-motion animation videos, learning basic photography and exploring dry and wet media like acrylic and colour pencil rendering.  They also understand and learn art and design principles to create authentic art tasks. Students also reflect on their progress in activities in order to improve their quality of outcome.
 
 <img src="/images/craftntech%205.jpg" 
-     style="width:85%">
+     style="width:65%">
 		 		 
 #### **Department Events and Achievements**
 
