@@ -29,7 +29,7 @@ This competition is organised by Infineon according to the defined theme: "A.I c
 A team from St. Patrick’s School applied their scientific knowledge and innovative thinking. They emerged second place for their idea to design a Sweat Health Monitor that is able to detect and provide user health information through biochemical operations based on artificial intelligence.
 
 <img src="/images/S2.png" 
-     style="width:85%">
+     style="width:95%">
 
 2. **Mindfest**  
 
