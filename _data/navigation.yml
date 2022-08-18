@@ -1,6 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Connect
+    url: /connect/sch-communication-channels/
+    sublinks:
+      - title: School Communication Channels
+        url: /connect/sch-communication-channels/
+      - title: The Patrician Parent
+        url: /connect/the-patrician-parent/
+      - title: Patrician Society
+        url: /connect/patrician-society/
+      - title: MOE Website
+        url: /connect/moe-website/
+      - title: Student Learning Space
+        url: /connect/SLS/
+      - title: Contact Us
+        url: /contact-us/
