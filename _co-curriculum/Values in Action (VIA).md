@@ -26,8 +26,10 @@ Every student playing their part to keep the school clean as part of daily class
 ![](/images/VIA6.png)
 Writing gratitude cards for parents during Mother’s Day and Father’s Day
 
-![](/images/VIA7.jpg)
+<img src="/images/VIA7.jpg" 
+     style="width:75%">
 Students packing cookies they have baked for a community initiative to express gratitude to 4000 cleaners in Singapore. #standupforcleaners
 
-![](/images/VIA8.jpg)
+<img src="/images/VIA8.jpg" 
+     style="width:45%">
 Students with the cookies they have baked for a good cause
