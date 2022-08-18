@@ -24,6 +24,22 @@ Inquiry continues to be a key experience in Science education. The department en
 
 This competition is organised by Infineon according to the defined theme: "A.I connecting the world". Students participated in a design thinking workshop and learnt more about semiconductors and artificial intelligence. Teams of students are then required generate novel ideas to help improve lives and present to a panel of leaders from Infineon.
 
+
+
 A team from St. Patrick’s School applied their scientific knowledge and innovative thinking. They emerged second place for their idea to design a Sweat Health Monitor that is able to detect and provide user health information through biochemical operations based on artificial intelligence.
 
 ![](/images/S2.png)
+
+2. **Mindfest**  
+
+Mindfest is organised by the Singapore Science Centre. Our Secondary Two Normal (Academic) students experience a day of putting technology and science together in applications related to their daily lives. This encourages the exploration of science, arts and technology through creative, immersive and enjoyable tinkering activities. It also helps students to understand the fundamentals of energy and its importance.
+
+![](/images/S7.jpg)
+
+3.  **Bright Ideas Challenge**
+
+This prestigious inter-school competition challenged students to imagine how cities will look like in 2050, identify key energy challenges in the future and articulate their visions by presenting innovative solutions that would help make future cities a vibrant, healthy and clean place to live in.
+
+  
+
+In 2017, the team from St Patrick’s School won second place for their idea of layering roads and floors with piezo material as a means of renewable energy, by converting the pressure generated from road transport into electrical energy that can be used for lighting up the lampposts on the streets at night.
