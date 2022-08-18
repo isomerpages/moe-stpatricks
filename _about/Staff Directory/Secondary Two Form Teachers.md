@@ -8,8 +8,8 @@ third_nav_title: Staff Directory
 
 | 2 Self-Discipline |  |
 |:---:|:---:|
-| Ms Yeo Hui Wen | yeo_hui_wen@moe.edu.sg |
-| Mr Mariappan Arjunan | mariappan_arjunan@moe.edu.sg |
+| Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
+| Mr Mariappan Arjunan | [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg) |
 |
 
 | 2 Teamwork |  |
