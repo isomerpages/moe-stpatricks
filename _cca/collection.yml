@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/.keep
       - Clubs & Societies/Legion of Mary.md
       - Clubs & Societies/Library.md
       - Clubs & Societies/Media Club.md
