@@ -94,3 +94,13 @@ Please refer to our Frequently Asked Questions section for more information on t
 </a></p><br>
 
 [help123.sg](http://help123.sg/)
+
+#### **Frequently Asked Questions**
+A list of answers to Frequently Asked Questions can be found [here](/files/FAQs-on-PDLP.pdf)
+
+If you have any further queries, kindly email us at:
+
+|  |  |
+|---|---|
+| **Technical Matters** <br> Mr Syed Salleh Alattas HOD ICT <br>syed_sellah@moe.edu.sg | **Financial Matters** <br>Ms Joyce Leow<br> Administration Manager<br> leow_li-sze@moe.edu.sg |
+|  |  |
