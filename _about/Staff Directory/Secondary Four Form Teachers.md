@@ -39,7 +39,7 @@ third_nav_title: Staff Directory
 | 4 Excellence |  |
 |:---:|:---:|
 | Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
-| Mr Muhamad Shahrom B Mohd Salleh | muhamad_shahrom_mohammed_sal@moe.edusg |
+| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edusg](mailto:muhamad_shahrom_mohammed_sal@moe.edusg) |
 |
 
 | 4 Patrick |  |
