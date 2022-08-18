@@ -50,6 +50,6 @@ third_nav_title: Staff Directory
 
 | 4 Lasalle |  |
 |:---:|:---:|
-| Miss Erica Reyes Rodriguez | erica_reyes_rodriguez@moe.edu.sg |
-| Mr Chew Damien Gerard | chew_damien_gerard@moe.edu.sg |
+| Miss Erica Reyes Rodriguez | [erica_reyes_rodriguez@moe.edu.sg](mailto:erica_reyes_rodriguez@moe.edu.sg) |
+| Mr Chew Damien Gerard | [chew_damien_gerard@moe.edu.sg](mailto:chew_damien_gerard@moe.edu.sg) |
 |
