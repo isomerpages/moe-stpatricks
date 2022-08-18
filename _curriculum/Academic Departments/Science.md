@@ -43,3 +43,9 @@ This prestigious inter-school competition challenged students to imagine how cit
   
 
 In 2017, the team from St Patrick’s School won second place for their idea of layering roads and floors with piezo material as a means of renewable energy, by converting the pressure generated from road transport into electrical energy that can be used for lighting up the lampposts on the streets at night.
+
+![](/images/S3.jpg)
+
+In 2018, the team from St Patrick’s School emerged third for their idea to design a 3-in-1 sustainable HDB building using renewable resources (water, sunlight and wind) to generate enough energy and clean drinking water for the household.
+
+![](/images/S4.jpg)
