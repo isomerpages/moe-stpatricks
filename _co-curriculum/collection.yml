@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Leadership/Student Council.md
       - Student Leadership/.keep
       - Values in Action (VIA).md
       - Education and Career Guidance (ECG) Cohort Learning Experiences.md
