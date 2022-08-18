@@ -28,3 +28,12 @@ Male students from primary schools completing their PSLE examinations in academi
 | Area of Interest | Minimum criteria |
 | National Cadet Corps (NCC) Land,<br><br> National Police Cadet Corps (NPCC),<br><br> Scouts | Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc) or Uniformed Groups in their primary school<br><br> and <br><br>Demonstrated exemplary character and leadership in their primary school |
 |
+
+##### **Performing Arts**
+
+| Area of Interest | Minimum criteria |
+|:---:|:---:|
+|<br> Concert Band <br><br><br><br><br>Guitar Ensemble | A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.<br><br> or<br><br> Attainment of an ABRSM grade (Theory and/or practical) or equivalent on a musical instrument. <br><br>or<br><br>Displays talent in music during audition. |
+| <br>English Drama | Represented school or any external organisation in a Drama/Play/Musical event<br> or <br>Displays talent in Drama during audition. |
+| Modern Dance | Represented school or any external organisation in a dance event <br>or<br> Displays talent in Dance during audition. |
+|
