@@ -23,9 +23,8 @@ Male students from primary schools completing their PSLE examinations in academi
 
 ##### **Leadership and Uniformed Groups**
 
-|  |  |
-|:---:|:---:|
 | Area of Interest | Minimum criteria |
+|:---:|:---:|
 | National Cadet Corps (NCC) Land,<br><br> National Police Cadet Corps (NPCC),<br><br> Scouts | Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc) or Uniformed Groups in their primary school<br><br> and <br><br>Demonstrated exemplary character and leadership in their primary school |
 |
 
