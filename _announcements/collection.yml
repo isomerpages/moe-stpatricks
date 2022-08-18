@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements.md
+      - St Patrick’s House Renovation.md
