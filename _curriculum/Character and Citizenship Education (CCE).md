@@ -17,8 +17,8 @@ Through the CCE and Religious Character and Citizenship Education (RCCE) curricu
 <img src="/images/cce%201.jpg" 
      style="width:70%" align=left>
 		 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
 
