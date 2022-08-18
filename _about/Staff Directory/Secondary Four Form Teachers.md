@@ -8,7 +8,7 @@ third_nav_title: Staff Directory
 
 | 4 Self-Discipline |  |
 |:---:|:---:|
-| Miss Quek Yi Ling Geraldine | quek_yi_ling_geraldine@moe.edu.sg |
+| Miss Quek Yi Ling Geraldine | quek_yi_ling_geraldine@moe.edu.sg (mailto:quek_yi_ling_geraldine@moe.edu.sg) |
 | Miss Koh Shi Li | shi_li_koh@moe.edu.sg |
 |
 
