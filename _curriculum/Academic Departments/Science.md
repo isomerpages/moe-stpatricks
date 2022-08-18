@@ -24,10 +24,6 @@ Inquiry continues to be a key experience in Science education. The department en
 
 This competition is organised by Infineon according to the defined theme: "A.I connecting the world". Students participated in a design thinking workshop and learnt more about semiconductors and artificial intelligence. Teams of students are then required generate novel ideas to help improve lives and present to a panel of leaders from Infineon.
 
-![](/images/S2.png)
-
-
-
-  
-
 A team from St. Patrick’s School applied their scientific knowledge and innovative thinking. They emerged second place for their idea to design a Sweat Health Monitor that is able to detect and provide user health information through biochemical operations based on artificial intelligence.
+
+![](/images/S2.png)
