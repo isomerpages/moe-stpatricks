@@ -1,4 +1,5 @@
 collections:
   connect:
     output: true
-    order: []
+    order:
+      - The Patrician Parent.md
