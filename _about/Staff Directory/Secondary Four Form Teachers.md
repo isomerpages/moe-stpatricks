@@ -20,14 +20,14 @@ third_nav_title: Staff Directory
 
 | 4 Respect |  |
 |:---:|:---:|
-| Mdm Choi Mei Yoke Adeline | choi_mei_yoke_adeline@moe.edu.sg |
-| Mr Chia Wenn Teck | chia_wenn_teck@moe.edu.sg |
+| Mdm Choi Mei Yoke Adeline | [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg) |
+| Mr Chia Wenn Teck | [chia_wenn_teck@moe.edu.sg](chia_wenn_teck@moe.edu.sg) |
 |
 
 | 4 Integrity |  |
 |:---:|:---:|
-| Miss Chen Li Yan | chen_li_yan@moe.edu.sg |
-| Mr Yosef Effency | yosef_effendy@moe.edu.sg |
+| Miss Chen Li Yan | [chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg) |
+| Mr Yosef Effency | [yosef_effendy@moe.edu.sg](mailto:yosef_effendy@moe.edu.sg ) |
 |
 
 | 4 Valour |  |
