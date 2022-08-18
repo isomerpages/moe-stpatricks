@@ -17,6 +17,45 @@ links:
         url: /about/pdlp/
       - title: Financial & Non-Financial Info
         url: /about/financial/
+  - title: Admissions
+    url: /admission/dsa-2023/
+    sublinks:
+      - title: DSA to Sec 1 in 2023
+        url: /admission/dsa-2023/
+      - title: Returning Students
+        url: /admission/returning-students/
+      - title: Leave of Absence (LOA)
+        url: /admission/loa/
+      - title: Financial Assistance
+        url: /admission/fas/
+      - title: School Transfers
+        url: /admission/school-transfers/
+      - title: Sec 1 Registration (for 2022)
+        url: /admission/sec-1-registration-for-2022/
+  - title: Curriculum
+    url: /curriculum/academic-departments/craft-and-tech/
+    sublinks:
+      - title: Academic Departments
+        url: /curriculum/academic-departments/craft-and-tech/
+      - title: Character & Citizenship Edu
+        url: /curriculum/cce/
+      - title: Lifelong Learning Programme
+        url: /curriculum/LLP/
+      - title: STEM Applied Learning Program
+        url: /curriculum/stem-alp/
+  - title: Co-Curriculum
+    url: /co-curriculum/cca/
+    sublinks:
+      - title: CCA
+        url: /co-curriculum/cca/
+      - title: Student Leadership
+        url: /co-curriculum/student-leadership/
+      - title: Values in Action (VIA)
+        url: /co-curriculum/via/
+      - title: Education & Career Guidance
+        url: /co-curriculum/ecg/
+      - title: National Education
+        url: /co-curriculum/national-education/
   - title: Connect
     url: /connect/sch-communication-channels/
     sublinks:
