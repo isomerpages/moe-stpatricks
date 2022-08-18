@@ -49,3 +49,20 @@ In 2017, the team from St Patrick’s School won second place for their idea of 
 In 2018, the team from St Patrick’s School emerged third for their idea to design a 3-in-1 sustainable HDB building using renewable resources (water, sunlight and wind) to generate enough energy and clean drinking water for the household.
 
 ![](/images/S4.jpg)
+
+4. **International C.B. Paul Science Quiz**  
+
+The International C.B. Paul Science Quiz aims to provide a platform for students to develop their aptitude and potential in the pure and applied Sciences through critical thinking. There are 2 categories for the Quiz, the Lower Secondary and the Upper Secondary category. 
+
+  
+
+The school sends students for this Quiz annually. They performed well, receiving the following accolades over the years:
+  
+
+*   2017: 1 Gold and 4 Bronze awards
+*   2018: 1 Gold, 1 Silver and 5 Merit awards
+*   2019: 1 Bronze, 3 Honourable Mentions and 3 Merit awards
+*   2021: 2 Gold, 6 Bronze, 6 Honourable Mentions and 5 Merit awards
+
+![](/images/S5.jpg)
+
