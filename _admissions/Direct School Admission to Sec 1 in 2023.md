@@ -47,6 +47,52 @@ Male students from primary schools completing their PSLE examinations in academi
 | Football | Represented School/Club/Academy in any tournaments or any local / overseas competitions. |
 | Golf | Minimum USGA Handicap Index of not more than 24.0 (as of 1st April 2016) from a bona fide club affiliated to a recognized golf association |
 | <br><br><br><br>Tennis | Participated in National Inter School Championships.<br><br> or<br><br> Participated in tournaments organised by SPEX, Intermediate or KLM. <br><br>or<br><br>Be able to demonstrate talent / attributes in tennis. |
-| <br><br>Track & Field | Participated in National Inter School Championships or any local / overseas competitions, <br><br>or<br><br> Be able to demonstrate talent / attributes in track & field. |
+| <br><br>Track &amp; Field | Participated in National Inter School Championships or any local / overseas competitions, <br><br>or<br><br> Be able to demonstrate talent / attributes in track &amp; field. |
 |
+
+**Applicants not studying in MOE mainstream primary schools:**
+
+* Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at&nbsp; &nbsp;[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
+
+_**Students who are admitted through DSA, will be expected to remain and honour his commitment to the DSA School that he is posted to, for the duration of the programme that he has applied for and been admitted into.**_
+
+#### **Selection Criteria**
+
+##### **Audition &amp; Panel Interview**
+----------------------------------------------------------------
+##### **For Leadership and Uniformed Groups:**
+
+1\. Applicants are required to attend an interview.<br>
+(Interview dates will be notified on school website by 1st&nbsp;July 2022)
+
+##### **For Performing Arts:**
+1\. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.&nbsp;
+
+2\. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.
+
+3\. Shortlisted applicants will be invited for an interview on a separate date.
+
+##### **For Sports and Games:**
+
+1\. Applicants are required to attend a trial for the respective sports.&nbsp;
+
+(Trial dates will be notified on school website by 1st&nbsp;July 2022)
+
+2\. Only shortlisted applicants will be invited for additional trials and/or interview.
+
+3\. Applicants are to bring their own personal sporting equipment or gear for the trials.
+
+*   &nbsp;**_All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons._**
+*   &nbsp;**_**Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview by e-mode.**_**
+
+#### **Timeline**
+
+| Date | Process | Remarks |
+|---|---|---|
+| 20 April (Thursday) |  Information about DSA application to St. Patrick’s School will be published on the school’s website at http://www.stpatricks.moe.edu.sg/ |  |
+| 5 May (Thursday) to 1 June (Wednesday) | DSA-Sec Online Application via DSA-Sec Portal More information about the DSA-Sec Exercise can be found at <br>[Direct School Admission for secondary schools (DSA-Sec) MOE](https://www.moe.gov.sg/secondary/dsa) |  |
+|  <br> 4 July (Monday) to 19 August (Friday) | CCA Auditions, Trials and interviews. | Shortlisted applicants will be informed of the schedule through email or telephone. |
+|  <br> <br> <br> <br>1 September to 8 September | Notification of results |  Both successful and unsuccessful applicants will be notified through post / email. <br><br>No results of applications will be released or confirmed through telephone enquiries. |
+|
+
 
