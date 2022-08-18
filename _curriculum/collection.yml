@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Music Lifelong Learning Programme (LLP).md
       - STEM Applied Learning Programme (ALP).md
