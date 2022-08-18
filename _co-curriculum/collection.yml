@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Leadership/Overview.md
       - Student Leadership/Class Committee.md
       - Student Leadership/Student Council.md
       - Student Leadership/.keep
