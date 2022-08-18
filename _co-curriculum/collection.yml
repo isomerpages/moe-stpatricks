@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Values in Action (VIA).md
       - Education and Career Guidance (ECG) Cohort Learning Experiences.md
       - National Education.md
