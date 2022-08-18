@@ -16,4 +16,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+        - title: Student Learning Space (SLS)
+          description: ""
+          url: https://vle.learning.moe.edu.sg/login
 ---
