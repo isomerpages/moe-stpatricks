@@ -4,3 +4,28 @@ permalink: /cca/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+### **NPCC**
+
+![](/images/NPCC.jpg)
+
+#### **Profile**
+ **"To lead with Resilience, Integrity, Service, Excellence, to RISE above"**
+ 
+ In 2021, the changes in Safe Management Measures saw our NPCC cadets display resilience and adaptability to plan and execute training sessions that prioritise the safety of our members while engaging them at the same time. Some of our notable accomplishments were having our cadets spread awareness of crime and cybercrime prevention to their schoolmates, and our Cadet Leaders teaching the juniors drills via zoom and designing campcraft lesson packages for the unit.  
+  
+These efforts led to all our cadets attaining proficiency in different skills and being promoted to their next rank, and culminated in us achieving Gold for the Unit Overall Proficiency Award. This year, our cadets are embracing the opportunity to partake in more activities and competitions, such as the Adventure Training Camps and Inter-Unit eCSI Competition. We also see our newly appointed Cadet Leaders rising to the occasion of creating even more meaningful experiences for the unit in the hope of greater achievements to come.
+
+#### **Achievements/ Participation Unit**
+
+Fridays: 2.30 - 5.30pm
+
+#### **CCA Training Schedule**
+Overall Proficiency Award 2021 - Gold 
+
+SPF-NPCC Badge Awardee (Pinnacle Award in NPCC) 2022 - Gabriel Ang Wee Jun (4V)
+
+#### **CCA Teachers-in-Charge**
+
+A/ASP (NPCC) Ruth Zhuo - [zhuo\_suyin\_ruth@moe.edu.sg](http://zhuo_suyin_ruth@moe.edu.sg/)  <br>
+INSP (NPCC) Sylvester Chan - [sylvester\_chan\_chee\_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg)  <br>
+INSP (NPCC) Rachel Koh - [koh\_wen\_yuan\_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
