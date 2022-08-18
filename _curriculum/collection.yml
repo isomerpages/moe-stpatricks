@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Music Lifelong Learning Programme (LLP).md
       - STEM Applied Learning Programme (ALP).md
