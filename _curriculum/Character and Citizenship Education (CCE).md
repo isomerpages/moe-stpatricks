@@ -19,8 +19,8 @@ Through the CCE and Religious Character and Citizenship Education (RCCE) curricu
 		 
 <br><br><br><br><br>
 <br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 
 #### **Overview of the CCE Journey of a Patrician**
 
