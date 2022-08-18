@@ -11,7 +11,12 @@ third_nav_title: Uniformed Groups
      style="width:65%" align = left>
 <img src="/images/Ncc%202.jpg" 
      style="width:65%" align = left>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
 #### **Profile**
 
 **"Above all!"**
