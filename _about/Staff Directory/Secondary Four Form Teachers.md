@@ -44,8 +44,8 @@ third_nav_title: Staff Directory
 
 | 4 Patrick |  |
 |:---:|:---:|
-| Mr Haniel Soh En Han | soh_en_han_haniel@moe.edu.sg |
-| Mdm Faheema Bte Mohamad | faheema_mohamad@moe.edu.sg |
+| Mr Haniel Soh En Han | [soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg) |
+| Mdm Faheema Bte Mohamad | [faheema_mohamad@moe.edu.sg](mailto:faheema_mohamad@moe.edu.sg) |
 |
 
 | 4 Lasalle |  |
