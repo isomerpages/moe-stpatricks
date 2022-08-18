@@ -24,7 +24,7 @@ In Lower Secondary, we nurture the habit of extensive reading in our students. P
 In Upper Secondary, our programme aims to encourage students to remain well-versed in Current Affairs. Regular teacher-led and peer-led sharing in class as well as Current Affairs quizzes spark our students’ interest in reading more widely about events that are affecting the world around us.
 
 <img src="/images/englit%203.jpg" 
-     style="width:85%">
+     style="width:75%">
 		 
 ##### **SPS Speaks!**
 Patricians go through a structured programme that aims to develop them into confident and eloquent speakers. In Lower Secondary, they immerse themselves in story-telling and giving speeches. In Upper Secondary, the department focuses not just on preparing students for the national oral exam but also for the interviews many of them go through as they apply for post-secondary institutions.
