@@ -24,7 +24,7 @@ Male students from primary schools completing their PSLE examinations in academi
 ##### **Leadership and Uniformed Groups**
 
 |  |  |
-|---|---|
+|:---:|:---:|
 | Area of Interest | Minimum criteria |
 | National Cadet Corps (NCC) Land,<br><br> National Police Cadet Corps (NPCC),<br><br> Scouts | Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc) or Uniformed Groups in their primary school<br><br> and <br><br>Demonstrated exemplary character and leadership in their primary school |
 |
@@ -88,7 +88,7 @@ _**Students who are admitted through DSA, will be expected to remain and honour 
 #### **Timeline**
 
 | Date | Process | Remarks |
-|---|---|---|
+|:---:|:---:|:---:|
 | 20 April (Thursday) |  Information about DSA application to St. Patrick’s School will be published on the school’s website at http://www.stpatricks.moe.edu.sg/ |  |
 | 5 May (Thursday) to 1 June (Wednesday) | DSA-Sec Online Application via DSA-Sec Portal More information about the DSA-Sec Exercise can be found at <br>[Direct School Admission for secondary schools (DSA-Sec) MOE](https://www.moe.gov.sg/secondary/dsa) |  |
 |  <br> 4 July (Monday) to 19 August (Friday) | CCA Auditions, Trials and interviews. | Shortlisted applicants will be informed of the schedule through email or telephone. |
