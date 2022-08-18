@@ -32,13 +32,13 @@ third_nav_title: Staff Directory
 
 | 4 Valour |  |
 |:---:|:---:|
-| Mr Chng Siong Hwa | chng_siong_hwa@moe.edu.sg |
-| Ms Faith Wong Soke Yee | faith_wong_soke_yee@moe.edu.sg |
+| Mr Chng Siong Hwa | [chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg) |
+| Ms Faith Wong Soke Yee | [faith_wong_soke_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg) |
 |
 
 | 4 Excellence |  |
 |:---:|:---:|
-| Mr Seow Jian Ting | seow_jian_ting@moe.edu.sg |
+| Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
 | Mr Muhamad Shahrom B Mohd Salleh | muhamad_shahrom_mohammed_sal@moe.edusg |
 |
 
