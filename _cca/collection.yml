@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Badminton.md
       - Sports/.keep
       - Aesthetics/Military Band.md
       - Aesthetics/Modern Dance.md
