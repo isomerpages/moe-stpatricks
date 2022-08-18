@@ -38,18 +38,18 @@ third_nav_title: Staff Directory
 
 | 3 Excellence |  |
 |:---:|:---:|
-| Mr Nicholas Huang Hanmin | huang_hanmin_nicholas@moe.edu.sg |
-| Mdm Nur Huda Bte Mohamed Ali | nur_huda_mohamed_ali@moe.edu.sg |
+| Mr Nicholas Huang Hanmin | [huang_hanmin_nicholas@moe.edu.sg](mailto:huang_hanmin_nicholas@moe.edu.sg) |
+| Mdm Nur Huda Bte Mohamed Ali | [nur_huda_mohamed_ali@moe.edu.sg](mailto:nur_huda_mohamed_ali@moe.edu.sg) |
 |
 
 | 3 Patrick |  |
 |:---:|:---:|
-| Mr Kelvin Yee Chee Chung | kelvin_yee_chee_chung@moe.edu.sg |
-| Miss Lee Chain Ting | lee_chain_ting@moe.edu.sg |
+| Mr Kelvin Yee Chee Chung | [kelvin_yee_chee_chung@moe.edu.sg](mailto:kelvin_yee_chee_chung@moe.edu.sg) |
+| Miss Lee Chain Ting | [lee_chain_ting@moe.edu.sg](mailto:lee_chain_ting@moe.edu.sg) |
 |
 
 | 3 Lasalle |  |
 |:---:|:---:|
-| Mdm Sunanety Bte Zainul Abeedin | sunanety_zainul_abeedin@moe.edu.sg |
-| Mr Wong Liang Deng | wong_liang_deng@moe.edu.sg |
+| Mdm Sunanety Bte Zainul Abeedin | [sunanety_zainul_abeedin@moe.edu.sg](mailto:sunanety_zainul_abeedin@moe.edu.sg) |
+| Mr Wong Liang Deng | [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg) |
 |
