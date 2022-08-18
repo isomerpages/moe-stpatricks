@@ -8,15 +8,10 @@ third_nav_title: Uniformed Groups
 
 
 <img src="/images/Ncc%201.jpg" 
-     style="width:85%" align = left>
+     style="width:85%">
 <img src="/images/Ncc%202.jpg" 
-     style="width:85%" align = left>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
+     style="width:85%">
+
 
 #### **Profile**
 
