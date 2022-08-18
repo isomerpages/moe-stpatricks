@@ -62,4 +62,4 @@ Please refer to our Frequently Asked Questions section for more information on t
 <img style="width:25%" src="/images/cyberwellness%20for%20parents%201.jpg">
 </a></p>
 
-[](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+[here](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
