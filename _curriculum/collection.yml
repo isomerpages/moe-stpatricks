@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic Departments/Science.md
       - Academic Departments/Craft and Technology.md
       - Academic Departments/.keep
       - Character and Citizenship Education (CCE).md
