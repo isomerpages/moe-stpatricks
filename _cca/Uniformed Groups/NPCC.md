@@ -6,7 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### **NPCC**
 
-![](/images/NPCC.jpg)
+
+<img src="/images/NPCC.jpg" 
+     style="width:65%">
 
 #### **Profile**
  **"To lead with Resilience, Integrity, Service, Excellence, to RISE above"**
