@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Aesthetics/Modern Dance.md
       - Aesthetics/Drama.md
       - Aesthetics/Guitar Ensemble.md
       - Aesthetics/.keep
