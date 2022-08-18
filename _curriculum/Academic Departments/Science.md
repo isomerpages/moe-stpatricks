@@ -66,3 +66,12 @@ The school sends students for this Quiz annually. They performed well, receiving
 
 ![](/images/S5.jpg)
 
+5. **MOE ExCEL Fest 2017**  
+
+Our project for the Shell STEM Youth Innovation Challenge 2015, ‘NightDryer: A Solar-Heated Novel Alternative to Conventional Clothes Dryer’, which was one of the 4 top winners, was showcased during ExCEL Fest 2017. The SPS team comprised of students from all streams who journeyed together for seven months, applying their academic knowledge to eventually create the ‘NightDryer’ prototype. The experience not only sparked their interest in STEM but also enhanced their self-confidence and self-esteem. The students acquired skills in project management, problem solving and presentation.
+
+  
+
+During the ExCEL Fest, our school displayed the prototype, which is a system to harvest solar energy for households to dry clothes at night. For two days, our student representatives were able to engage our guests who included the Minister of Education and the Parliamentary Secretary of Education. They shared their project and how they have benefited from the experience.
+
+![](/images/S6.jpg)
