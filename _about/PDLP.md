@@ -65,7 +65,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 <br>
 
 <p><a href=" go.gov.sg/moe-cyber-wellness">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg"align = left >
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" align=left >
 </a></p><br>
 
  [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
