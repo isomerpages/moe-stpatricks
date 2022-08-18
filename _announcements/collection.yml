@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - St Patrick’s School’s Unleash the Roar national football collaboration.md
       - St Patrick’s House Renovation.md
