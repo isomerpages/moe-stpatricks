@@ -58,8 +58,21 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 #### **Cyberwellness Resources for Parents**
 
-<p><a href="pdf link">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/Parent-Handbook-I-on-1_1-Learning.pdf">
 <img style="width:25%" src="/images/cyberwellness%20for%20parents%201.jpg">
 </a></p>
 
-[here](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+<br>
+
+<p><a href=" go.gov.sg/moe-cyber-wellness">
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg"align = left >
+</a></p><br>
+
+ [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
+
+
+<p><a href=" https://www.moe.gov.sg/programmes/cyber-wellness">
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%203.jpg" align = left >
+</a></p><br>
+
+[https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
