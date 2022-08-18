@@ -45,12 +45,12 @@ third_nav_title: Staff Directory
 
 | 2 Patrick |  |
 |:---:|:---:|
-| Mr Sylvester Chan Chee Cheong | sylvester_chan_chee_choong@moe.edu.sg |
-| Mdm Rachel Koh Wen Yuan | koh_wen_yuan_rachel@moe.edu.sg |
+| Mr Sylvester Chan Chee Cheong | [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) |
+| Mdm Rachel Koh Wen Yuan | [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg) |
 |
 
 | 2 Lasalle |  |
 |:---:|:---:|
-| Miss Cheryl Lek Li Ling | lek_li_ling_cheryl@moe.edu.sg |
-| Miss Yee Yun Shawn | yee_yun_shawn@moe.edu.sg |
+| Miss Cheryl Lek Li Ling | [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) |
+| Miss Yee Yun Shawn | [yee_yun_shawn@moe.edu.sg](mailto:yee_yun_shawn@moe.edu.sg) |
 |
