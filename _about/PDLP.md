@@ -91,7 +91,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 <p><a href=" help123.sg">
 <img style="width:35%" src="/images/cyberwellness%20for%20parents%206.png" align = left >
-</a></p><br><br><br>
+</a></p><br><br>
 
 [help123.sg](http://help123.sg/)
 
