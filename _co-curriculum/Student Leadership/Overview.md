@@ -27,8 +27,8 @@ Our leadership development opportunities can be classified into three tiers wher
 ![](/images/SLDRS%20progression%201.png)
 
 **Teachers in Charge** <br>
-1\. Ms Cheryl Lek (Overall IC) – lek_li_ling_cheryl@moe.edu.sg <br>
+1\. Ms Cheryl Lek (Overall IC) – [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) <br>
 2\. Mr Kang Xianbin<br>
 3\. Mr Boon Jia hui<br>
 4\. Ms Zoey Ang<br>
-5\. Mr Kelvin Yee 
+5\. Mr Kelvin Yee
