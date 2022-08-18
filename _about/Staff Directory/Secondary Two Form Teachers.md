@@ -14,33 +14,33 @@ third_nav_title: Staff Directory
 
 | 2 Teamwork |  |
 |:---:|:---:|
-| Ms Dorothy Seng Swee Cheng | seng_swee_cheng_dorothy@moe.edu.sg |
-| Mr Koh Seng John | koh_seng_john@moe.edu.sg |
-| Ms Shirley Tang | tang_xueli_shirley@moe.edu.sg |
+| Ms Dorothy Seng Swee Cheng | [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg) |
+| Mr Koh Seng John | [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg) |
+| Ms Shirley Tang | [tang_xueli_shirley@moe.edu.sg](mailto:tang_xueli_shirley@moe.edu.sg) |
 |
 
 | 2 Respect |  |
 |:---:|:---:|
-| Mr Ang Darrenkane | ang_darrenkane@moe.edu.sg |
-| Miss Faith Ang Si Ying | faith_ang_si_ying@moe.edu.sg |
+| Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
+| Miss Faith Ang Si Ying | [faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg) |
 |
 
 | 2 Integrity |  |
 |:---:|:---:|
-| Miss Lee Yen Pheng Felicia | lee_yen_pheng_felicia@moe.edu.sg |
-| Miss Nicola Loh Sijin | nicola_loh_sijin@moe.edu.sg |
+| Miss Lee Yen Pheng Felicia | [lee_yen_pheng_felicia@moe.edu.sg](mailto:lee_yen_pheng_felicia@moe.edu.sg) |
+| Miss Nicola Loh Sijin | [nicola_loh_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg) |
 |
 
 | 2 Valour |  |
 |:---:|:---:|
-| Mr Boon Jia Hui | boon_jia_hui@moe.edu.sg |
-| Miss Lim Li Chen Ruth | lim_li_chen_ruth@moe.edu.sg |
+| Mr Boon Jia Hui | [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg) |
+| Miss Lim Li Chen Ruth | [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) |
 |
 
 | 2 Excellence |  |
 |:---:|:---:|
-| Mr Ong Ling Kang | ong_ling_kang@moe.edu.sg |
-| Miss Chan Hui Lun | hui_lun_chan@moe.edu.sg |
+| Mr Ong Ling Kang | [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg) |
+| Miss Chan Hui Lun | [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) |
 |
 
 | 2 Patrick |  |
