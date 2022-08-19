@@ -6,7 +6,6 @@ third_nav_title: Sports
 ---
 ### **Tennis**
 
-![](/images/Tennis.jpg)
 <img src="/images/Tennis.jpg" 
      style="width:65%">
 		 
