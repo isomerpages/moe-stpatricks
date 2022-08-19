@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ### **NPCC**
 
 <img src="/images/NPCC.jpg" 
-     style="width:55%">
+     style="width:45%">
 
 #### **Profile**
 
