@@ -60,23 +60,21 @@ Friday, 230 - 530pm
 #### **CCA Teachers-in-Charge**
 
 **Overall I/C:**<br>
-Ms Geraldine Quek (_[_quek\_yi\_ling\_geraldine@moe.edu.sg_](mailto:quek_yi_ling_geraldine@moe.edu.sg) _)_
+* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg_](mailto:quek_yi_ling_geraldine@moe.edu.sg)
 
-**Second I/C and Media and Design I/C:**<br>
-_Ms Ruth Lim (_[_lim\_li\_chen\_ruth@moe.edu.sg_](mailto:lim_li_chen_ruth@moe.edu.sg) _)_
+**Second I/C and Media and Design I/C:**
+* Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg_](mailto:lim_li_chen_ruth@moe.edu.sg) 
 
 **Broadcast Journalism:**
 
-_Miss Faith Wong (_[_faith\_wong\_soke\_yee@moe.edu.sg_](mailto:faith_wong_soke_yee@moe.edu.sg) _)_
+* Miss Faith Wong - [faith\_wong\_soke\_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
 
-_Media and Design:_
+**Media and Design:**
 
-_Ms Karen Pereira (_[_pereira\_karen\_louise@moe.edu.sg_](mailto:pereira_karen_louise@moe.edu.sg) _)_
+* Ms Karen Pereira - [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg)
 
 **Audio/Videography:**
 
-_Mr Juhari (Teacher I/C) (_[_juhari\_mohamed@moe.edu.sg_](mailto:juhari_mohamed@moe.edu.sg) _)_
-
-_Ms Mabel Sim (_[_sim\_yi\_wei\_mabel@moe.edu.sg_](mailto:sim_yi_wei_mabel@moe.edu.sg) _)_
-
-_Mr Tan Tat Hock (_[_tan\_tat\_hock@moe.edu.sg_](mailto:tan_tat_hock@moe.edu.sg) _)_
+* Mr Juhari (Teacher I/C) - [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) 
+* Ms Mabel Sim - [sim_yi)wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
+* Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg_](mailto:tan_tat_hock@moe.edu.sg) _)_
