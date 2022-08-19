@@ -11,8 +11,7 @@ third_nav_title: Sports
 		 
 #### **Profile**
 
-##### **"Badminton School Team: Serve it, Smash it, Win it, Love it!<br>
-Badminton Development team: To learn, to love and to lead."**
+##### **"Badminton School Team: Serve it, Smash it, Win it, Love it!<br>Badminton Development team: To learn, to love and to lead."**
 
 The Badminton team takes a unique approach in charting a holistic development plan for every player. Weekly training sessions are an essential balance of physical training and basic footwork exercises, alongside group skills training and gameplay. Gruelling though the sessions may be, our shuttlers emerge physically and mentally resilient and thoroughly able to work effectively as part of a winning team.
 
