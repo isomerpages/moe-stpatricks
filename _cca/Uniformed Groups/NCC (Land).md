@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 
 #### **Profile**
 
-**"To Strive With Pride and Dedication"**
+##### **"To Strive With Pride and Dedication"**
 
  The NCC (Land) of St. Patrick’s School is awarded Distinction in the Unit Recognition for 2021. This achievement, yet again, is a testament of the dedication and commitment of Teachers and Cadets. With the guidance of the teachers, the senior cadets planned and carried out weekly trainings for the junior cadets.
 
@@ -21,16 +21,15 @@ third_nav_title: Uniformed Groups
  
 #### **Achievements/ Participation**
 
-
 Distinction in Unit Recognition 2021
 
 Participation in Free Style Drill 2022
 
 #### **CCA Teachers-in-Charge**
 
-Commanding Officer: CPT (NCC) Ang Darrenkane - [ang\_darrenkane@moe.edu.sg  
+Commanding Officer: CPT (NCC) Ang Darrenkane - [ang_darrenkane@moe.edu.sg  
 ](mailto:ang_darrenkane@moe.edu.sg)<br>
-Teacher Officers: CPT (NCC) Tan Chiew Seng – [tan\_chiew\_seng@moe.edu.sg  
+Teacher Officers: CPT (NCC) Tan Chiew Seng – [tan_chiew_seng@moe.edu.sg  
 ](mailto:tan_chiew_seng@moe.edu.sg)<br>
-Teacher Officers: LTA (NCC) Chan Hui Lun - [hui\_lun\_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) <br>
-Teacher Officers: LTA (NCC) Zoey Ang - [ang\_zoey@moe.edu.sg](mailto:ang_zoey@moe.edu.sg)
+Teacher Officers: LTA (NCC) Chan Hui Lun - [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) <br>
+Teacher Officers: LTA (NCC) Zoey Ang - [ang_zoey@moe.edu.sg](mailto:ang_zoey@moe.edu.sg)
