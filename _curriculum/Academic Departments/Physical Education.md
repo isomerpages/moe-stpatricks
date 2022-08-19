@@ -11,7 +11,7 @@ _‘Education of, about and through the physical!’_
 <img src="/images/PE%201.jpg" 
      style="width:85%">
 		 
-### **PE Curriculum**
+#### **PE Curriculum**
 
 The PE department envisions pupils who are motivated, displays confidence, are physically competent with the knowledge and understanding to value and take responsibility for engagement in physical activities for life.  
 
@@ -22,7 +22,7 @@ Games such as football, badminton, softball, floorball, and volleyball are taugh
 <img src="/images/PE%202.jpg" 
      style="width:85%">
 
-### **Outdoor Education**
+#### **Outdoor Education**
 
 Our Outdoor Education Programme consists of lessons during Physical Education periods and application of those lessons during their level camps. The Secondary 1 pupils will go for their 4 days 3 nights Outdoor Adventure Camp at Dairy Farm Outdoor Adventure Centre, the Secondary 2 pupils will undertake a 1 star proficiency in Kayaking skills and the Secondary 3 pupils will attend the Multi- School Outward Bound School programme for 5 days 4 nights. Apart from the usual adventure itinerary like trekking and high elements, the pupils focussed on application of skills learnt in the Outdoor Education syllabus like map reading, tent pitching and outdoor cooking. Together with 3 other schools, our Sec 3 pupils will experience camp life and reinforce their outdoor education skills with pupils from different social backgrounds, gender and abilities.
 
