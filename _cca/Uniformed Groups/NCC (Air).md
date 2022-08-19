@@ -36,6 +36,6 @@ Fridays: 2.00 – 6.00pm
 
 #### **CCA Teacher-In-Charge**
 
-LTA (NCC) Firza Maisarah Bte Mohd Raffid - [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg)  
-LTA (NCC) Koh Shi Li - [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
-2LT (NCC)  Ong Lingkang - [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
+* LTA (NCC) Firza Maisarah Bte Mohd Raffid - [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg)  
+* LTA (NCC) Koh Shi Li - [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
+* 2LT (NCC)  Ong Lingkang - [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
