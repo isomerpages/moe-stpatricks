@@ -8,7 +8,8 @@ third_nav_title: Academic Departments
 
 _IN3guing Science – Inquire · Inspire · Innovate_
 
-![](/images/S1.jpg)
+<img src="/images/S1.jpg" 
+     style="width:85%">
 
 #### **Department Highlights**
 
