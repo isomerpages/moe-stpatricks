@@ -29,6 +29,6 @@ Fridays: 2.30 - 5.30pm
 
 #### **CCA Teachers-in-Charge**
 
-A/ASP (NPCC) Ruth Zhuo - [zhuo_suyin_ruth@moe.edu.sg](mailto:zhuo_suyin_ruth@moe.edu.sg)  <br>
-INSP (NPCC) Sylvester Chan - [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg)  <br>
-INSP (NPCC) Rachel Koh - [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
+* A/ASP (NPCC) Ruth Zhuo - [zhuo_suyin_ruth@moe.edu.sg](mailto:zhuo_suyin_ruth@moe.edu.sg) 
+* INSP (NPCC) Sylvester Chan - [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) 
+* INSP (NPCC) Rachel Koh - [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
