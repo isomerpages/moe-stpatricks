@@ -19,11 +19,11 @@ The Mother Tongue Department has a range of programmes to support Patricians in 
 ##### **1. Learning journeys**
 
 <img src="/images/mothertongue%202.jpg" 
-     style="width:75%">
+     style="width:60%">
 _A walk down memory lane at Chinatown Heritage Centre_
 
 <img src="/images/mothertongue%203.jpeg" 
-     style="width:75%">
+     style="width:60%">
 _Practicing the Art of Tea Appreciation at the Tea Chapter_
 
 <img src="/images/mothertongue%20%204.jpg" 
@@ -31,7 +31,7 @@ _Practicing the Art of Tea Appreciation at the Tea Chapter_
 _Asian Civilisation Museum_
 
 <img src="/images/mothertongue%205.jpg" 
-     style="width:75%">
+     style="width:60%">
 _Uncovering stories behind the relics at Thian Hock Keng Temple_
 
 <img src="/images/mothertongue%206.jpg" 
@@ -48,7 +48,7 @@ _Trip down to Little India – Learning the names of vegetables_
 _Dikir Barat Workshop – Learning the ‘tepuk sepuluh’ and playing the percussion_
 
 <img src="/images/mothertongue%209.jpg" 
-     style="width:75%">
+     style="width:60%">
 _Drama workshop - Students reenacted wartime scenes of the heroic feats of Lieutenant Adnan Saidi and the Malay Regiment’s 1st Battalion during World War II._
 
 <img src="/images/mothertongue%2010.jpg" 
