@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 ### **NCC (Land)**
 
 <img src="/images/NCC%20LAND.jpg" 
-     style="width:85%">
+     style="width:65%">
 
 #### **Profile**
 
