@@ -37,3 +37,9 @@ B and C Division: 2nd National (School Premier League One)
 Monday, 2:40 to 5:30pm<br>
 Wednesday, 3:30 to 5:30pm<br>
 Friday, 2:30 to 5:30pm<br>
+
+#### **CCA Teachers-in-Charge**
+
+* Mr Taufiq Malek [taufiq_abd_malek@moe.edu.sg](mailto:taufiq_abd_malek@moe.edu.sg)
+* Mdm Siti Norniza [siti_norniza_junadi@moe.edu.sg](mailto:siti_norniza_junadi@moe.edu.sg)
+* Mdm Sunanety Zainul Abeedin [sunanety_zainul_abeedin@moe.edu.sg](mailto:sunanety_zainul_abeedin@moe.edu.sg)
