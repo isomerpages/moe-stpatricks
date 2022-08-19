@@ -8,6 +8,7 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/Ncc%201.jpg" 
      style="width:65%">
+		 
 <img src="/images/Ncc%202.jpg" 
      style="width:65%">
 
