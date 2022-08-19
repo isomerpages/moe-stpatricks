@@ -11,8 +11,7 @@ third_nav_title: Sports
 		 
 #### **Profile**
 
-##### **"Determined. Driven to Succeed.<br>
-Cricket is a battle, a service, a sport as well as a form of Art."**
+##### **"Determined. Driven to Succeed.<br>Cricket is a battle, a service, a sport as well as a form of Art."**
 
 The St. Patrick’s cricket team embodies the values of teamwork, respect, self-discipline, valour and excellence. Though a team sport, members of the Cricket Team constantly STRIVE to develop their individual skills during training sessions.
 
