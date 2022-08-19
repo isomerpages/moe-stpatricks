@@ -22,7 +22,7 @@ Fueled by their camaraderie and grounded in their training, the St. Patrick’s 
 
 #### **Achievements/ Participation**
 
-Unit Recognition 2021  
+**Unit Recognition 2021**  
   
 National Air Race (organized by Asia Flight Simulation Centre)
 
