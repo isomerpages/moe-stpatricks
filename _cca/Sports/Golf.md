@@ -37,9 +37,5 @@ Monday, 2:30 to 6pm
 
 #### **CCA Teachers-in-Charge**
 
-* Mr. Chng Siong Hwa - 【chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg)
+* Mr. Chng Siong Hwa - [chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg)
 * Mrs. Adeline Low [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg)
-
-
-
-		 
