@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 
 #### **Profile**
 
-**"Pajigwad: Stick to it!"**
+##### **"Pajigwad: Stick to it!"**
 
 St. Patrick’s School Pajigwad Scouts Troop has attained the Frank Cooper Sands Gold Award for more than 10 consecutive years. 
 
@@ -38,6 +38,6 @@ Fridays: 2.00 - 5.00pm
 
 #### **CCA Teachers-in-Charge**
 
-Ms Christie Cheah: [cheah\_yi-lin\_christie\_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg)  <br>
-Mr Boon Jia Hui: [boon\_jia\_hui@moe.edu.sg](http://boon_jia_hui@moe.edu.sg/)  <br>
-Mr Wong Liang Deng: [wong\_liang\_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg)
+Ms Christie Cheah: [cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg)  <br>
+Mr Boon Jia Hui: [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)  <br>
+Mr Wong Liang Deng: [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg)
