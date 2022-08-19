@@ -28,8 +28,5 @@ Participation in Free Style Drill 2022
 #### **CCA Teachers-in-Charge**
 
 Commanding Officer: CPT (NCC) Ang Darrenkane - [ang_darrenkane@moe.edu.sg  
-](mailto:ang_darrenkane@moe.edu.sg)<br>
-Teacher Officers: CPT (NCC) Tan Chiew Seng – [tan_chiew_seng@moe.edu.sg  
-](mailto:tan_chiew_seng@moe.edu.sg)<br>
-Teacher Officers: LTA (NCC) Chan Hui Lun - [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) <br>
-Teacher Officers: LTA (NCC) Zoey Ang - [ang_zoey@moe.edu.sg](mailto:ang_zoey@moe.edu.sg)
+](mailto:ang_darrenkane@moe.edu.sg)<br>Teacher Officers: CPT (NCC) Tan Chiew Seng – [tan_chiew_seng@moe.edu.sg  
+](mailto:tan_chiew_seng@moe.edu.sg)<br>Teacher Officers: LTA (NCC) Chan Hui Lun - [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) <br>Teacher Officers: LTA (NCC) Zoey Ang - [ang_zoey@moe.edu.sg](mailto:ang_zoey@moe.edu.sg)
