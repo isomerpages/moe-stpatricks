@@ -56,7 +56,6 @@ All **Secondary Three** students are provided with applied learning opportunit
 <figcaption> Secondary 3 students in the middle of their self-scripted performance during an Advance Elective Module.</figcaption>
 </figure>
 
-
 <figure>
 <img src="/images/ECG%208.jpg" 
      style="width:75%">
@@ -65,14 +64,21 @@ All **Secondary Three** students are provided with applied learning opportunit
 
 **Secondary 4 & 5 s**tudents are provided with knowledge to help guide them with longer term career goals, so that students can utilise the information gained on the various post-secondary education pathways to set realistic and achievable targets for the rest of the year to work towards.
 
+<figure>
 <img src="/images/ECG%209.jpg" 
      style="width:85%">
-Students attending a talk by an alumnus during ECG Day.
+<figcaption> Students attending a talk by an alumnus during ECG Day.</figcaption>
+</figure>
 
+<figure>
 <img src="/images/ECG%2010.jpg" 
      style="width:85%">
-Students exploring various booths during the annual ECG Day.
+<figcaption> Students exploring various booths during the annual ECG Day.</figcaption>
+</figure>
 
+<figure>
 <img src="/images/ECG%2011.jpg" 
      style="width:85%">
-Parents joined their sons for an alumni career talk on Airport operations during ECG Day.
+<figcaption> Parents joined their sons for an alumni career talk on Airport operations during ECG Day.</figcaption>
+</figure>
+
