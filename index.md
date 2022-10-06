@@ -10,13 +10,7 @@ sections:
       title: St. Patrick's School
       subtitle: POTEST QUI VUILT
       background: /images/hero banner.gif
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
-        - title: Student Learning Space (SLS)
-          description: ""
-          url: https://vle.learning.moe.edu.sg/login
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
 ---
