@@ -65,20 +65,20 @@ Please refer to our Frequently Asked Questions section for more information on t
 <br>
 
 <p><a href=" go.gov.sg/moe-cyber-wellness">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" align=left >
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" align=center >
 </a></p><br>
 
  [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
 
 
 <p><a href=" https://www.moe.gov.sg/programmes/cyber-wellness">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%203.jpg" align = left >
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%203.jpg" align=center >
 </a></p><br>
 
 [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
 
 <p><a href=" go.gov.sg/better-internet-sg">
-<img style="width:25%" src="/images/cyberwellness%20for%20parents%204.png" align = left >
+<img style="width:25%" src="/images/cyberwellness%20for%20parents%204.png" align=center >
 </a></p><br><br>
 
 [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
@@ -90,7 +90,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
 
 <p><a href=" help123.sg">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%206.png" align = left >
+<img style="width:35%" src="/images/cyberwellness%20for%20parents%206.png" align=center >
 </a></p><br><br>
 
 [help123.sg](http://help123.sg/)
