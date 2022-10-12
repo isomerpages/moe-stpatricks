@@ -68,12 +68,8 @@ Please refer to our Frequently Asked Questions section for more information on t
 <img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" align=center >
 </a></p>
 
- [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
 
-
-<div class="img-with-text">
-	    <p>  <img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" alt=“go.gov.sg/moe-cyber-wellness“ >go.gov.sg/moe-cyber-wellness</p>
-</div>
+[go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
 
 <p><a href=" https://www.moe.gov.sg/programmes/cyber-wellness">
 <img style="width:35%" src="/images/cyberwellness%20for%20parents%203.jpg" align=center >
