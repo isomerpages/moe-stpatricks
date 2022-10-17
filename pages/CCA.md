@@ -12,65 +12,18 @@ description: ""
 
 
 
-| ![](/images/NCC(air).jpg) NCC (Air)  | ![](/images/NCC%20(land).jpg) NCC (Land) | ![](/images/Scouts.jpg) Scouts | ![](/images/NPCC.jpg) NPCC |
+| <img src="images/NCC(air).jpg" style="width:300px; height:80px"/> NCC (Air)  | <img src="images/NCC%20(land).jpg" style="width:300px; height:80px"/> NCC (Land) | <img src="/images/Scouts.jpg" style="width:300px; height:80px"/> Scouts | <img src="/images/NPCC.jpg" style="width:300px; height:80px"/> NPCC |
 |-----|-----|-----|-----|
 
 
 Sports
 ------
 
-| ![](/images/football.jpg) Football  | ![](/images/Golf.jpg) Golf | ![](/images/Basketball.jpg) Basketball | ![](/images/track%20n%20Field.jpg) |
+| <img src="/images/football.jpg" style="width:300px; height:80px"/> Football  | <img src="/images/Golf.jpg" style="width:300px; height:80px"/> Golf | <img src="/images/Basketball.jpg" style="width:300px; height:80px"/> Basketball | <img src="/images/track%20n%20Field.jpg" style="width:300px; height:80px"/> |
 |-----|-----|-----|-----|
-| ![](/images/tennis.jpg) Tennis  | ![](/images/Squash.jpg) Squash | ![](/images/Cricket.jpg) Cricket | ![](/images/Badminton.jpg) Badminton |
+| <img src="/images/tennis.jpg" style="width:300px; height:80px"/> Tennis  | <img src="/images/Squash.jpg" style="width:300px; height:80px"/> Squash | <img src="/images/Cricket.jpg" style="width:300px; height:80px"/> Cricket | <img src="/images/Badminton.jpg" style="width:300px; height:80px"/> Badminton |
 
 
-
- 
-
-
- 
-
-
-
- 
-
-![Athletics](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/track%20n%20Field.jpg)
-
-Athletics
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
-
- 
-
-![Tennis](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/tennis.jpg)
-
-Tennis
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
-
- 
-
-![Squash](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/Squash.jpg)
-
-Squash
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
-
- 
-
-![Cricket](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/cricket.jpg)
-
-Cricket
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
-
- 
-
-![Badminton](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/Badminton.jpg)
-
-Badminton
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
 
 Aesthetics
 ----------
