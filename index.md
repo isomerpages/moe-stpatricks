@@ -9,9 +9,8 @@ sections:
   - hero:
       title: St. Patrick's School
       subtitle: POTEST QUI VUILT
-      background: /images/hero banner.gif
+      background: /images/Herobanner2.gif
       dropdown:
         title: Hero Dropdown Title
         options: []
 ---
-
