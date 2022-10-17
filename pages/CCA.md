@@ -28,5 +28,5 @@ Aesthetics
 Club & Societies
 ----------------
 
-| <img src="images/legion%20of%20mary.jpg" style="width:300px; height:80px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:300px; height:80px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:300px; height:80px"/> Media Club |
+| <img src="images/legion%20of%20mary.jpg" style="width:250px; height:80px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:80px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:80px"/> Media Club |
 |-----|-----|-----|
