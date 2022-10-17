@@ -19,27 +19,18 @@ description: ""
 Sports
 ------
 
-![Football](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/football.jpg)
+| ![](/images/football.jpg) Football  | ![](/images/Golf.jpg) Golf | ![](/images/Basketball.jpg) Basketball | ![](/images/track%20n%20Field.jpg) |
+|-----|-----|-----|-----|
+| ![](/images/tennis.jpg) Tennis  | ![](/images/Squash.jpg) Squash | ![](/images/Cricket.jpg) Cricket | ![](/images/Badminton.jpg) Badminton |
 
-Football
 
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
-
- 
-
-![Golf](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/Golf.jpg)
-
-Golf
-
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
 
  
 
-![Basketball](https://stpatricks.moe.edu.sg/qql/slot/u144/2020/CCA/Basketball.jpg)
 
-Basketball
+ 
 
-![](https://stpatricks.moe.edu.sg/pix/spacer.gif)
+
 
  
 
