@@ -20,7 +20,7 @@ Sports
 
 <img src="/images/football.jpg" style="width:250px; height:90px"/> Football  | <img src="/images/Golf.jpg" style="width:250px; height:90px"/> Golf | <img src="/images/Basketball.jpg" style="width:250px; height:90px"/> Basketball | <img src="/images/track%20n%20Field.jpg" style="width:250px; height:90px"/> Athletics |
 |-----|-----|-----|-----|
-| <img src="/images/tennis.jpg" style="width:250px; height:90px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:90px"/> Squash | <img src="/images/Cricket.jpg" style="width:250px; height:90px"/> Cricket | <img src="/images/Badminton.jpg" style="width:250px; height:90px"/> Badminton |
+<img src="/images/tennis.jpg" style="width:250px; height:90px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:90px"/> Squash | <img src="/images/Cricket.jpg" style="width:250px; height:90px"/> Cricket | <img src="/images/Badminton.jpg" style="width:250px; height:90px"/> Badminton |
 
 Aesthetics
 ----------
@@ -34,7 +34,3 @@ Club & Societies
 
  <img src="/images/images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
 |-----|-----|-----|
-
-
-
-
