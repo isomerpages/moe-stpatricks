@@ -9,14 +9,13 @@ description: ""
 ## Uniformed Groups
 
 
- <img src="images/Ncc_1.jpg" style="width:250px; height:150px"> NCC (Air)
+NCC (Air) <img src="images/Ncc_1.jpg" style="width:250px; height:150px"> 
 
 NCC (Land) <img src="images/NCC%20(land).jpg" style="width:250px; height:80px"/> 
 
-<img src="/images/Scouts.jpg" style="width:250px; height:80px"/> Scouts | 
+ Scouts <img src="/images/Scouts.jpg" style="width:250px; height:80px"/>
 
-<img src="/images/NPCC.jpg" style="width:250px; height:80px"/> NPCC |
-|-----|-----|-----|-----|
+ NPCC <img src="/images/NPCC.jpg" style="width:250px; height:80px"/>
 
 
 Sports
