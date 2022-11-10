@@ -33,5 +33,5 @@ Club & Societies
 
 | <img src="images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
 
- <img src="/images/images/legion%20of%20mary.jpg" style="width:250px; height:90px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:90px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:90px"/> Media Club | 
+ <img src="/images/images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
 |-----|-----|-----|
