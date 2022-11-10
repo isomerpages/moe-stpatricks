@@ -13,7 +13,7 @@ NCC (Air) <img src="images/Ncc_1.jpg" style="width:250px; height:150px">
 
 NCC (Land) <img src="images/NCC%20(land).jpg" style="width:250px; height:80px"/> 
 
- Scouts <img src="/images/Scouts.jpg" style="width:250px; height:150px"/>
+ Scouts <img src="/images/Scouts.jpg" style="width:250px; height:180px"/>
 
  NPCC <img src="/images/NPCC.jpg" style="width:250px; height:80px"/>
 
