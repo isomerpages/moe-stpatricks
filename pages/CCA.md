@@ -9,7 +9,7 @@ description: ""
 ## Uniformed Groups
 
 
- <img src="images/NCC(air).jpg" style="width:250px; height:150px"> NCC (Air)</img>
+ <img src="images/Ncc_1.jpg" style="width:250px; height:150px"> NCC (Air)</img>
 
 NCC (Land) <img src="images/NCC%20(land).jpg" style="width:250px; height:80px"/> 
 
