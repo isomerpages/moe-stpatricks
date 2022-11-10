@@ -27,11 +27,11 @@ Sports
 
 Aesthetics
 ----------
-| <img src="images/Military%20Band.jpg" style="width:250px; height:80px"/> Military Band  | <img src="images/dance.jpg" style="width:250px; height:80px"/> Modern Dance | <img src="/images/drama.jpg" style="width:250px; height:80px"/> Drama | <img src="/images/Guitar%20Ensemble.jpg" style="width:250px; height:80px"/> Guitar Ensemble |
+| <img src="images/Military%20Band.jpg" style="width:250px; height:180px"/> Military Band  | <img src="images/dance.jpg" style="width:250px; height:180px"/> Modern Dance | <img src="/images/drama.jpg" style="width:250px; height:180px"/> Drama | <img src="/images/Guitar%20Ensemble.jpg" style="width:250px; height:180px"/> Guitar Ensemble |
 |-----|-----|-----|-----|
 
 Club & Societies
 ----------------
 
-| <img src="images/legion%20of%20mary.jpg" style="width:250px; height:80px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:80px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:80px"/> Media Club |
+| <img src="images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
 |-----|-----|-----|
