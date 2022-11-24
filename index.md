@@ -11,5 +11,5 @@ sections:
   - infobar:
       title: Announcement
       url: /announcement
-      button: " "
+      button: " Here"
 ---
