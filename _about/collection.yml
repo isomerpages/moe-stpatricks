@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Open House, 26th November 2022 (Saturday).md
       - Vision, Mission, Motto and Values.md
       - School History, Heritage and Ethos.md
       - Principal's Message.md
