@@ -8,4 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Herobanner2.gif
+  - infobar:
+      title: Announcement
+      url: /announcement
 ---
