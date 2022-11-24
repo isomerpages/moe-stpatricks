@@ -12,7 +12,4 @@ sections:
       title: Announcement
       url: /announcement
       button: " Here"
-  - resources:
-      title: Announcement
-      button: Here
 ---
