@@ -67,13 +67,13 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">13 – 22</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">22</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">10 - 13</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">13</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:134.75pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" width="180"><p style="margin-bottom:0cm;text-align:center;
@@ -84,13 +84,13 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">21 – 24</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">24</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">21 – 22</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">22</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:134.75pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" width="180"><p style="margin-bottom:0cm;text-align:center;
@@ -101,11 +101,11 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">25 – 28</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">28</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">26 - 28</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">28</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
