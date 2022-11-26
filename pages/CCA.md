@@ -11,7 +11,7 @@ description: ""
 
 |   |   |   |  |
 | -------- | -------- | -------- | -------- | 
-|  <img src="images/2022-Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
+|  <img src="images/2022-Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/2022-Migration/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/2022-Migration/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/2022-Migration/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
 
 Sports
 ------
