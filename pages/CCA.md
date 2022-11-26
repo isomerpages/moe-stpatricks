@@ -16,9 +16,9 @@ description: ""
 Sports
 ------
 
-<img src="/images/football.jpg" style="width:250px; height:90px"/> Football  | <img src="/images/Golf.jpg" style="width:250px; height:90px"/> Golf | <img src="/images/Basketball.jpg" style="width:250px; height:90px"/> Basketball | <img src="/images/track%20n%20Field.jpg" style="width:250px; height:90px"/> Athletics |
+<img src="/images/football.jpg" style="width:250px; height:180px"/> Football  | <img src="/images/Golf.jpg" style="width:250px; height:180px"/> Golf | <img src="/images/Basketball.jpg" style="width:250px; height:180px"/> Basketball | <img src="/images/track%20n%20Field.jpg" style="width:250px; height:180px"/> Athletics |
 |-----|-----|-----|-----|
-<img src="/images/tennis.jpg" style="width:250px; height:90px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:90px"/> Squash | <img src="/images/Cricket.jpg" style="width:250px; height:90px"/> Cricket | <img src="/images/Badminton.jpg" style="width:250px; height:90px"/> Badminton |
+<img src="/images/tennis.jpg" style="width:250px; height:180px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:180px"/> Floorball | <img src="/images/Cricket.jpg" style="width:250px; height:180px"/> Cricket | <img src="/images/Badminton.jpg" style="width:250px; height:180px"/> Badminton |
 
 Aesthetics
 ----------
