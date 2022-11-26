@@ -6,36 +6,28 @@ third_nav_title: Academic Departments
 ---
 ### **Craft & Technology**
 
-_‘Thinking with a Purpose to Transform Lives for the Better’_
+**‘Thinking with a Purpose to Transform Lives for the Better’**
 
 <img src="/images/2022_Migration/craftntech.jpg" 
      style="width:85%">
 		 
-#### **Department Highlights**
+#### **Department's core beliefs**
 
-**Design & Technology** offers opportunities for students to develop creative and critical thinking skills through the design process. Basic design knowledge (design elements and design principles), basic technology (structures, mechanisms, electronics), sketching and 3-Dimensional Manipulation using mock-ups and working with resistant materials, form the basic characteristics of learning in D&T.
+*   Using boy-centric teaching strategies to stretch our students’ potential. 
+    
+*   Bringing real-world connections into the classroom through a hands-on learning experience.
+    
 
-<img src="/images/2022_Migration/craftntech%201.jpg" 
-     style="width:85%">
+#### **About Department**
 
-The teaching of **Nutrition & Food Science** includes Food Studies and Consumer Studies.  Food Studies equip students with knowledge about diet and health and the benefits of a balanced meal. Consumer Studies prepares students to make sound food choices. Using the knowledge learnt, students will be given opportunities to extend their learning as they undertake projects from Secondary One to Three.
+**Design & Technology** offers opportunities for students to develop creative and critical thinking skills through the design process. Basic design knowledge includes design elements and design principles, coupled with basic technology to conceptualize structures, mechanisms, electronics form the cornerstone of the subject. Sketching and 3-Dimensional Manipulation using mock-ups and working with resistant materials also form the basic characteristics of learning in D&T.
 
-<img src="/images/craftntech%202.jpg" 
-     style="width:55%">
-Students consolidating their learning about diet and health and the benefits of balanced meals.
+<img src="/images/2022_Migration/DT_1.jpg" 
+     style="width:65%">
 
-<img src="/images/craftntech%203.png" 
-     style="width:75%">
-Students with their final products based on the choices they made for their Applied Module.
+**Art** at Lower Secondary offers students the opportunity to explore 2-dimensional and 3-dimensional art forms through a range of teaching approaches. These include guiding them through appreciating well-known artworks, using digital apps for stop-motion animation videos, basic photography and exploring dry and wet media such as acrylic and color pencil rendering. Students are also provided the opportunity to understand and learn art and design principles. These principles are then used in the completion of authentic art tasks. Students are also guided through a reflection process to improve on the quality of their submissions.
 
-<img src="/images/craftntech%204.jpg" 
-     style="width:55%">
-**Video submission of John Decruz Francis & Alief Ahmad, 2 Patrick**<br>
-Finalists for Sec 1 & 2 Category Keat Hong CC WEC Sandwich Making Competition 2021
-
-Lower secondary **Art** students explore 2-dimensional and 3-dimensional art forms through appreciating well-known artworks, using digital apps for stop-motion animation videos, learning basic photography and exploring dry and wet media like acrylic and colour pencil rendering.  They also understand and learn art and design principles to create authentic art tasks. Students also reflect on their progress in activities in order to improve their quality of outcome.
-
-<img src="/images/craftntech%205.jpg" 
+<img src="/images/2022_Migration/craftntech%205.jpg" 
      style="width:65%">
 		 		 
 #### **Department Events and Achievements**
