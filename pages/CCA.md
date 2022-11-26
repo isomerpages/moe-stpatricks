@@ -11,7 +11,7 @@ description: ""
 
 |   |   |   |  |
 | -------- | -------- | -------- | -------- | 
-|  <img src="images/2022_Migration/NCC_Air.jpg" style="width:220px; height:158px"> NCC (Air)    | <img src="images/2022_Migration/NCC_Land_Thm.jpg" style="width:220px; height:158px"/>  NCC (Land)    | <img src="/images/2022_Migration/Scouts.jpg" style="width:220px; height:158px"/>  Scouts     |  <img src="/images/2022_Migration/NPCC.jpg" style="width:220px; height:158px"/> NPCC     |    
+|  <img src="images/2022_Migration/NCCAir.jpg" style="width:220px; height:158px"> NCC (Air)    | <img src="images/2022_Migration/NCCLand_Thm.jpg" style="width:220px; height:158px"/>  NCC (Land)    | <img src="/images/2022_Migration/Scouts.jpg" style="width:220px; height:158px"/>  Scouts     |  <img src="/images/2022_Migration/NPCC.jpg" style="width:220px; height:158px"/> NPCC     |    
 
 Sports
 ------
@@ -31,4 +31,4 @@ Club & Societies
 ----------------
 |   |   |   |  |
 | -------- | -------- | -------- | -------- | 
- <img src="/images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
+ <img src="/images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
