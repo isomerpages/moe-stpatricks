@@ -22,7 +22,7 @@ Sports
 
 Aesthetics
 ----------
-| <img src="images/Military%20Band.jpg" style="width:250px; height:180px"/> Military Band  | <img src="images/dance.jpg" style="width:250px; height:180px"/> Modern Dance | <img src="/images/drama.jpg" style="width:250px; height:180px"/> Drama | <img src="/images/Guitar%20Ensemble.jpg" style="width:250px; height:180px"/> Guitar Ensemble |
+| <img src="images/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
 |-----|-----|-----|-----|
 
 Club & Societies
