@@ -8,7 +8,7 @@ third_nav_title: Academic Departments
 
 _‘Thinking with a Purpose to Transform Lives for the Better’_
 
-<img src="/images/craftntech.jpg" 
+<img src="/images/2022_Migration/craftntech.jpg" 
      style="width:85%">
 		 
 #### **Department Highlights**
