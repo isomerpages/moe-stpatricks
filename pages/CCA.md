@@ -22,8 +22,8 @@ Sports
 
 Aesthetics
 ----------
-| <img src="images/2022_Migration/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/2022_Migration/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/2022_Migration/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/2022_Migration/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
-|-----|-----|-----|-----|
+<img src="images/2022_Migration/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/2022_Migration/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/2022_Migration/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/2022_Migration/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
+
 
 Club & Societies
 ----------------
