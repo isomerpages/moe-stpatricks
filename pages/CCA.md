@@ -11,7 +11,7 @@ description: ""
 
 |   |   |   |  |
 | -------- | -------- | -------- | -------- | 
-|  <img src="images/[2022 Isomer Migration](https://cms.isomer.gov.sg/sites/moe-stpatricks/media/images/mediaDirectory/images%2F2022%20Isomer%20Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
+|  <img src="images/2022-Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
 
 Sports
 ------
