@@ -22,8 +22,8 @@ third_nav_title: Academic Departments
 
 **Design & Technology** offers opportunities for students to develop creative and critical thinking skills through the design process. Basic design knowledge includes design elements and design principles, coupled with basic technology to conceptualize structures, mechanisms, electronics form the cornerstone of the subject. Sketching and 3-Dimensional Manipulation using mock-ups and working with resistant materials also form the basic characteristics of learning in D&T.
 
-<img src="/images/2022_Migration/craftntech_1.jpg.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/craftntech_1.jpg" 
+     style="width:100%">
 
 **Art** at Lower Secondary offers students the opportunity to explore 2-dimensional and 3-dimensional art forms through a range of teaching approaches. These include guiding them through appreciating well-known artworks, using digital apps for stop-motion animation videos, basic photography and exploring dry and wet media such as acrylic and color pencil rendering. Students are also provided the opportunity to understand and learn art and design principles. These principles are then used in the completion of authentic art tasks. Students are also guided through a reflection process to improve on the quality of their submissions.
 
