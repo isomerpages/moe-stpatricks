@@ -29,4 +29,3 @@ third_nav_title: Academic Departments
 
 <img src="/images/2022_Migration/craftntech%205.jpg" 
      style="width:65%">
-		 		 
