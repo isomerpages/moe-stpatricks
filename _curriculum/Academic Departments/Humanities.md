@@ -7,7 +7,7 @@ third_nav_title: Academic Departments
 ## **Humanities**
 
 
-#### To develop gentlemen who see the relevance of an education in the Humanities and are responsible and active citizens of Singapore and the world.
+#### <center>To develop gentlemen who see the relevance of an education in the Humanities and are responsible and active citizens of Singapore and the world.
 
 
 <img src="/images/2022_Migration/humanities%201.jpg" 
