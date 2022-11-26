@@ -15,7 +15,7 @@ _‘Thinking with a Purpose to Transform Lives for the Better’_
 
 **Design & Technology** offers opportunities for students to develop creative and critical thinking skills through the design process. Basic design knowledge (design elements and design principles), basic technology (structures, mechanisms, electronics), sketching and 3-Dimensional Manipulation using mock-ups and working with resistant materials, form the basic characteristics of learning in D&T.
 
-<img src="/images/craftntech%201.jpg" 
+<img src="/images/2022_Migration/craftntech%201.jpg" 
      style="width:85%">
 
 The teaching of **Nutrition & Food Science** includes Food Studies and Consumer Studies.  Food Studies equip students with knowledge about diet and health and the benefits of a balanced meal. Consumer Studies prepares students to make sound food choices. Using the knowledge learnt, students will be given opportunities to extend their learning as they undertake projects from Secondary One to Three.
