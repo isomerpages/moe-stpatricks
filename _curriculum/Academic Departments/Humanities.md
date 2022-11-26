@@ -6,7 +6,9 @@ third_nav_title: Academic Departments
 ---
 ### **Humanities**
 
-_‘Rooted Locally, Growing Globally’_
+
+##**To develop gentlemen who see the relevance of an education in the Humanities and are responsible and active citizens of Singapore and the world.
+
 
 <img src="/images/humanities%201.jpg" 
      style="width:85%">
