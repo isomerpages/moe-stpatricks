@@ -22,11 +22,13 @@ Sports
 
 Aesthetics
 ----------
-<img src="images/2022_Migration/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/2022_Migration/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/2022_Migration/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/2022_Migration/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
+|   |   |   |  |
+| -------- | -------- | -------- | -------- | 
+<img src="images/2022_Migration/Military%20Band.jpg" style="width:250px; height:170px"/> Military Band  | <img src="images/2022_Migration/dance.jpg" style="width:250px; height:170px"/> Modern Dance | <img src="/images/2022_Migration/drama.jpg" style="width:250px; height:170px"/> Drama | <img src="/images/2022_Migration/Guitar%20Ensemble.jpg" style="width:250px; height:170px"/> Guitar Ensemble |
 
 
 Club & Societies
 ----------------
-
+|   |   |   |  |
+| -------- | -------- | -------- | -------- | 
  <img src="/images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
-|-----|-----|-----|
