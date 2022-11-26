@@ -11,24 +11,24 @@ description: ""
 
 |   |   |   |  |
 | -------- | -------- | -------- | -------- | 
-|  <img src="images/2022-Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/2022-Migration/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/2022-Migration/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/2022-Migration/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
+|  <img src="images/2022_Migration/Ncc_1.jpg" style="width:250px; height:180px"> NCC (Air)    | <img src="images/2022_Migration/NCC%20(land).jpg" style="width:250px; height:180px"/>  NCC (Land)    | <img src="/images/2022_Migration/Scouts.jpg" style="width:250px; height:180px"/>  Scouts     |  <img src="/images/2022_Migration/NPCC.jpg" style="width:250px; height:180px"/> NPCC     |    
 
 Sports
 ------
 
-<img src="/images/football.jpg" style="width:250px; height:180px"/> Football  | <img src="/images/Golf.jpg" style="width:250px; height:180px"/> Golf | <img src="/images/Basketball.jpg" style="width:250px; height:180px"/> Basketball | <img src="/images/track%20n%20Field.jpg" style="width:250px; height:180px"/> Athletics |
+<img src="/images/2022_Migration/football.jpg" style="width:250px; height:180px"/> Football  | <img src="/images/2022_Migration/Golf.jpg" style="width:250px; height:180px"/> Golf | <img src="/images/2022_Migration/Basketball.jpg" style="width:250px; height:180px"/> Basketball | <img src="/images/2022_Migration/track%20n%20Field.jpg" style="width:250px; height:180px"/> Athletics |
 |-----|-----|-----|-----|
-<img src="/images/tennis.jpg" style="width:250px; height:180px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:180px"/> Floorball | <img src="/images/Cricket.jpg" style="width:250px; height:180px"/> Cricket | <img src="/images/Badminton.jpg" style="width:250px; height:180px"/> Badminton |
+<img src="/images/2022_Migration/tennis.jpg" style="width:250px; height:180px"/> Tennis  | <img src="/images/Squash.jpg" style="width:250px; height:180px"/> Floorball | <img src="/images/2022_Migration/Cricket.jpg" style="width:250px; height:180px"/> Cricket | <img src="/images/2022_Migration/Badminton.jpg" style="width:250px; height:180px"/> Badminton |
 
 Aesthetics
 ----------
-| <img src="images/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
+| <img src="images/2022_Migration/Military%20Band.jpg" style="width:180px; height:90px"/> Military Band  | <img src="images/2022_Migration/dance.jpg" style="width:180px; height:90px"/> Modern Dance | <img src="/images/2022_Migration/drama.jpg" style="width:180px; height:90px"/> Drama | <img src="/images/2022_Migration/Guitar%20Ensemble.jpg" style="width:180px; height:90px"/> Guitar Ensemble |
 |-----|-----|-----|-----|
 
 Club & Societies
 ----------------
 
-| <img src="images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
+| <img src="images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
 
- <img src="/images/images/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
+ <img src="/images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club | 
 |-----|-----|-----|
