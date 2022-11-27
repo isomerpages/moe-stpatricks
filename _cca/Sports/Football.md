@@ -6,10 +6,10 @@ third_nav_title: Sports
 ---
 ### **Football**
 
-<img src="/images/football%201.jpg" 
+<img src="/images/2022_Migration/football%201.jpg" 
      style="width:65%">
 		 
-<img src="/images/football%202.jpg" 
+<img src="/images/2022_Migration/football%202.jpg" 
      style="width:65%">		 
 		 
 #### **Profile**
