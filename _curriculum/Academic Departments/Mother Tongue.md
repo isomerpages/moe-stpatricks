@@ -6,7 +6,7 @@ third_nav_title: Academic Departments
 ---
 ### **Mother Tongue**
 
-#### **<center>Develop confident speakers and learners who appreciate their culture and find purpose and relevance in their Mother Tongue.**
+#### <center>Develop confident speakers and learners who appreciate their culture and find purpose and relevance in their Mother Tongue.
 
 <img src="/images/2022_Migration/mothertongue%201.jpg" 
      style="width:100%">
