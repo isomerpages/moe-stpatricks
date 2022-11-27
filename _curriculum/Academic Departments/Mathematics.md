@@ -6,17 +6,25 @@ third_nav_title: Academic Departments
 ---
 ### **Mathematics**
 
-_‘Problem Solving - The Heart of Mathematics Learning!’_
+#### <center>‘To inculcate in our students a positive attitude towards the learning of Mathematics and to fully develop their mathematical skills and knowledge.’
 
-<img src="/images/math%201.jpg" 
-     style="width:85%">
+<img src="/images/2022_Migration/math%201.jpg" 
+     style="width:100%">
 		 
-#### **Department Highlights**
-The Mathematics Department aims to develop Patricians into critical thinkers and problem solvers by teaching problem-solving skills. We also strive to create connectedness between the Mathematics concepts learnt in class and the practical applications of it to allow greater appreciation of Mathematics.
+#### **Department's core beliefs**
+*   Using boy-centric teaching strategies to stretch our students’ potential. 
+    
+*   Bringing real-world connections into the classroom through a hands-on learning experience.
 
-#### **Department Events and Achievements**
-1\. Students explore Mathematics through experiential learning to understand the relatedness between the theories learnt in class and the real-life applications through activities such as Mathematics Trail and Algebra Camp. This allows students to have deeper appreciation and to inculcate the joy of learning through engaging means. Even during daily lessons, teachers will try to link the concepts learnt in class to real world context such as financial literacy and the interpretation of data.
- 
-2\. Essential skills like logical thinking and problem-solving skills were taught through Mathematical Modelling where students complete projects in groups, working on collecting data and solving problems using Mathematical concepts learnt in class. This develops the students’ analytical mind for viable solutions towards any problems they may face in the future.
- 
-3\. Learning through ICT is also familiar to Patricians. Not only does this help in home-based learning but it also engages this technologically-savvy generation. Students were engaged through Kahoot quiz which is both applicable to lessons in school and during home-based learning. In addition, teachers also look for other creative methods such as using virtual reality to teach the application of trigonometry in three-dimensional problems and virtual escape room to keep students engaged and excited about Mathematics lessons.
+#### **About Department**
+The Mathematics Department provides students with learning experiences that allow them to apply mathematical concepts and skills to solve contextual problems.
+
+Great emphasis is placed on mathematical processes and reasoning, while engaging students using different pedagogies to make learning fun and interesting. 
+
+For example, mathematical concepts are reinforced through meaningful and deliberate teaching and learning strategies such as the Visible Thinking Routines which allow students to articulate their thinking and learning. 
+
+Students are also given exposure to Mathematical Modelling (MM) Tasks that models the real world and provides students with the opportunity to apply mathematical concepts to authentic, real-world scenarios. 
+
+Likewise, Inquiry Based Learning in the classroom creates opportunities for investigation and exploration and allows students to discuss and share ideas. This helps to develop their critical thinking skills and enhances their communication skills. 
+
+ICT is also widely used in class to engage the students and enhance their learning while the flipped classroom approach encourages the students to be self-directed learners.
