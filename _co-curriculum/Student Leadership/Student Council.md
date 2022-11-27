@@ -10,4 +10,4 @@ Tier Two of our leadership education focuses on Team Leadership, where outstandi
 
 Tier Three of our leadership education focuses on Community Leadership, where Patricians who have demonstrated outstanding self and team leadership will be given the opportunity to function as the core representatives of the student leader population in crafting and executing meaningful action plans for the improvement of the school environment. Students in this level will be trained in skills such as situational analysis as well as event planning under the advisement of the student leadership teachers. This program will allow the EXCO leaders to have the opportunity to envision their long and short term goals for the school, to redefine their leadership roles as well as to develop skills such as people management, forward planning, facilitation and managing the organisational effectiveness of the Student Leadership body of St. Patrick’s School.
 
-![](/images/Stdnt%20Council.png)
+![](/images/2022_Migration/Stdnt%20Council.png)
