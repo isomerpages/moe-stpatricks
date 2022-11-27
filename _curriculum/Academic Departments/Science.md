@@ -6,29 +6,35 @@ third_nav_title: Academic Departments
 ---
 ### **Science**
 
-_IN3guing Science – Inquire · Inspire · Innovate_
+#### <center>IN3guing Science – Inquire · Inspire · Innovate
 
-<img src="/images/S1.jpg" 
-     style="width:85%">
+<img src="/images/2022_Migration/S1.jpg" 
+     style="width:100%">
 
-#### **Department Highlights**
+#### **Department's core beliefs**
 
-The Science Department aims to enthuse and nurture all students to be scientifically literate. We hope to provide a strong foundation in scientific innovation that will inspire students to pursue STEM for future learning.  
+Building a positive learning culture to develop students into competent and confident 21st century learners 
 
-  
+Use of technology to support students in understanding scientific ideas and organizing knowledge
 
-Inquiry continues to be a key experience in Science education. The department encourages our students to use scientific inquiry in coming up with innovative solutions for their everyday lives. To do this, as many students are possible are given platforms to apply their scientific knowledge in authentic settings.
+Leveraging on real-world problems for conceptual change in a student-centric classroom
 
-#### **Department Events and Achievements**
+#### About Department
 
-##### 1. **Chips@Schools 2021**
+The department aims to create an engaging and conducive learning environment that develops students into 21st century learners who are scientifically literate. 
 
-This competition is organised by Infineon according to the defined theme: "A.I connecting the world". Students participated in a design thinking workshop and learnt more about semiconductors and artificial intelligence. Teams of students are then required generate novel ideas to help improve lives and present to a panel of leaders from Infineon.
+Through our differentiated approach, we hope to nurture students who
+*   enjoy learning Science and regard Science as relevant and meaningful 
+*   have a strong foundation in Science and possess the spirit of scientific inquiry 
+*   apply and experience the potential of Science to generate creative solution to solve real-world problems 
 
-A team from St. Patrick’s School applied their scientific knowledge and innovative thinking. They emerged second place for their idea to design a Sweat Health Monitor that is able to detect and provide user health information through biochemical operations based on artificial intelligence.
+Technology and hands-on experiences are leveraged to 
+*   engage and harness students’ preconceptions for conceptual change 
+*   provide students with task environments that represent and simulate the real-world problems, situations, and contexts 
+*   design tasks to connect, challenge, deepen and extend students’ thinking.
 
-<img src="/images/S2.png" 
-     style="width:95%">
+<img src="/images/2022_Migration/S2.png" 
+     style="width:100%">
 
 ##### 2. **Mindfest**  
 
