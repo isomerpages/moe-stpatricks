@@ -6,7 +6,7 @@ third_nav_title: Academic Departments
 ---
 ### **Physical Education**
 
-_‘Education of, about and through the physical!’_
+##To develop students to demonstrate both individually and others the physical, affective, and cognitive skills to enjoy a lifetime of active and healthy living.
 
 <img src="/images/PE%201.jpg" 
      style="width:85%">
