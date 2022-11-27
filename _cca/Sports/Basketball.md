@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### **Basketball**
 
-<img style="width:65%" src="/images/Basketball.jpg">
+<img src="/images/2022_Migration/Basketball.jpg" style="width:65%">
 		 
 #### **Title**
 
@@ -30,4 +30,3 @@ Friday, 2:30 – 5:30pm
 
 * Mr. Yosef Effendy - [yosef_effendy@moe.edu.sg](mailto:yosef_effendy@moe.edu.sg)
 * Mr. Tan Chee Wei - [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg)
-		 
