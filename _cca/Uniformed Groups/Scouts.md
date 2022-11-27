@@ -6,8 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 ### **Scouts**
 
-<img src="/images/Scouts.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Scouts.jpg" 
+     style="width:85%">
 
 #### **Profile**
 
