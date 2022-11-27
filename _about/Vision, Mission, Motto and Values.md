@@ -16,4 +16,4 @@ Potest Qui Vult! (He who Wills, Can!)
 
 #### **Values**
 <img src="/images/2022_Migration/value.png" 
-     style="width:100%">
+     style="width:80%">
