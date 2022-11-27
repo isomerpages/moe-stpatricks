@@ -10,11 +10,11 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 
 The aims of PDLP is to …
 
-![](/images/pdlp%20aim.jpg)
+![](/images/2022_Migration/pdlp%20aim.jpg)
 
 #### **Personal Learning Device (PLD)**
 
-![](/images/pdlp%20device.png)
+![](/images/2022_Migration/pdlp%20device.png)
 
 St Patrick’s School has selected Chromebooks as its PLD. Despite its small size, our Chromebook of choice will be lightweight, durable, with touchscreen, camera and stylus.  Bundled with 3 years of warranty and insurance coverage, it offers superb value for money and will provide students with many good years of learning and productivity.
 
@@ -59,41 +59,37 @@ Please refer to our Frequently Asked Questions section for more information on t
 #### **Cyberwellness Resources for Parents**
 
 <p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/Parent-Handbook-I-on-1_1-Learning.pdf">
-<img style="width:25%" src="/images/cyberwellness%20for%20parents%201.jpg">
+<img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%201.jpg">
 </a></p>
 
 <br>
 
 <p><a href=" go.gov.sg/moe-cyber-wellness">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%202.jpg" align=center >
+<img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align=center >
 </a></p>
 
-
-[go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
+<br>
 
 <p><a href=" https://www.moe.gov.sg/programmes/cyber-wellness">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%203.jpg" align=center >
+<img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%203.jpg" align=center >
 </a></p><br>
 
-[https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
 
 <p><a href=" go.gov.sg/better-internet-sg">
-<img style="width:25%" src="/images/cyberwellness%20for%20parents%204.png" align=center >
-</a></p><br><br>
+<img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%204.png" align=center >
+</a></p><br>
 
-[go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
 
 <p><a href=" sure.nlb.gov.sg">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%205.jpg" align = left >
-</a></p><br><br>
+<img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" align = center >
+</a></p>
+<br>
 
-[sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
 
 <p><a href=" help123.sg">
-<img style="width:35%" src="/images/cyberwellness%20for%20parents%206.png" align=center >
-</a></p><br><br>
-
-[help123.sg](http://help123.sg/)
+<img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%206.png" align=center >
+</a></p>
+<br><br>
 
 #### **Frequently Asked Questions**
 A list of answers to Frequently Asked Questions can be found [here](/files/FAQs-on-PDLP.pdf)
