@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ### **Badminton**
 
-<img src="/images/Badminton.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Badminton.jpg" 
+     style="width:85%">
 		 
 #### **Profile**
 
