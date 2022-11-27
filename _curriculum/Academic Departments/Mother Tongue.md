@@ -6,61 +6,23 @@ third_nav_title: Academic Departments
 ---
 ### **Mother Tongue**
 
-_‘Helping Patricians to appreciate the joys of learning their Mother Tongue and using it as a gateway to uncovering the beauty of their culture’_
+#### **<center>Develop confident speakers and learners who appreciate their culture and find purpose and relevance in their Mother Tongue.**
 
-<img src="/images/mothertongue%201.jpg" 
-     style="width:85%">
+<img src="/images/2022_Migration/mothertongue%201.jpg" 
+     style="width:100%">
 		 
-#### **Department Highlights**
-The Mother Tongue Department has a range of programmes to support Patricians in learning their Mother Tongue. The Mother Tongue Language Fortnight comprises of a variety of in-house workshops, as well as external cultural learning journeys. Enrichment programme for our lower Secondary students are filled with fun-filled activities for students to learn through non-conventional ways, such as charades, song appreciation, board games, and video recording session. Our students are also encouraged to participate in external events, such as the Xinyao Singing and Song Writing Competition, Text Recital Competition, Radio Drama Script Writing Competition, to provide opportunities for them to uncover their talents in various fields.
+#### **Department's core beliefs**
+St Patrick’s School Mother Tongue Department envisions  helping Patricians seek out the joys of learning their Mother Tongue, uncover the beauty of their culture, and to develop them to be active communicators and keen appreciators of their own culture.
 
-#### **Department Events and Achievements**
+#### **About Department**
+Student-centric based structure, learning-processes and resources are our main focuses in developing Patricians’ aptitude in their Mother Tongue.    
 
-##### **1. Learning journeys**
+Students who display flair in the language are regularly given opportunities to develop their potential via enrichment classes and exposure to external competitions. 
 
-<img src="/images/mothertongue%202.jpg" 
-     style="width:60%">
-_A walk down memory lane at Chinatown Heritage Centre_
+Likewise, students who require additional support are provided with customized learning resources, focused learning strategies and a collaborative learning environment to help them enjoy the learning process. 
 
-<img src="/images/mothertongue%203.jpeg" 
-     style="width:60%">
-_Practicing the Art of Tea Appreciation at the Tea Chapter_
-
-<img src="/images/mothertongue%20%204.jpg" 
-     style="width:75%">
-_Asian Civilisation Museum_
-
-<img src="/images/mothertongue%205.jpg" 
-     style="width:60%">
-_Uncovering stories behind the relics at Thian Hock Keng Temple_
-
-<img src="/images/mothertongue%206.jpg" 
-     style="width:75%">
-_Reliving the good old kampung days and making ondeh-ondeh!_
-
-
-<img src="/images/mothertongue%207.jpg" 
-     style="width:75%">
-_Trip down to Little India – Learning the names of vegetables_
-
-<img src="/images/mothertongue%208.jpg" 
-     style="width:75%">
-_Dikir Barat Workshop – Learning the ‘tepuk sepuluh’ and playing the percussion_
-
-<img src="/images/mothertongue%209.jpg" 
-     style="width:60%">
-_Drama workshop - Students reenacted wartime scenes of the heroic feats of Lieutenant Adnan Saidi and the Malay Regiment’s 1st Battalion during World War II._
-
-<img src="/images/mothertongue%2010.jpg" 
-     style="width:75%">
-_Indian Traditional Games Workshop – Learning how to play Kaabadi and Adu Puli Aattam_
-
-##### **2. Competitions**
-
-<img src="/images/mothertongue%2011.png" 
-     style="width:75%">
-_Xinyao Singing Competition and Xinyao Song Writing Competition_
-
-<img src="/images/mothertongue%2012.jpg" 
-     style="width:75%">
-_National Text Recital Competition_
+In addition, activities such as the Mother Tongue Language Fortnight experience, learning camps and cultural festival-based activities are carefully curated and provide a culturally rich learning experience for our students.
+	
+#### **Key Events / Achievements**
+##### **Mother Tongue Language Fortnight Carnival**
+Through a wide array of authentic activities, students were provided with an immersive environment that enabled them to learn, use and appreciate their MT language and culture. The hands-on activities also gave students the freedom to learn about other cultures.
