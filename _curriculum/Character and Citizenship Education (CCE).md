@@ -7,26 +7,23 @@ description: ""
 
 'St Patrick’s School CCE department grow Patricians who care for one another, care to excel and care to make a positive difference.'
 
-<img src="/images/cce.jpg" 
+<img src="/images/2022_Migration/cce.jpg" 
      style="width:85%">
 		 
 #### **Our CCE Level Outcomes**
 
 Through the CCE and Religious Character and Citizenship Education (RCCE) curriculum and learning experiences, it is hoped that the following goals can be achieved for each Patrician at the end of each level.
 
-<img src="/images/cce%201.jpg" 
+<img src="/images/2022_Migration/cce%201.jpg" 
      style="width:55%" align=center>
 		 
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+
 
 #### **Overview of the CCE Journey of a Patrician**
 
 At each level, students will experience these highlights in their CCE journey:
 
-![](/images/Overview%20of%20CCE%20Journey%20of%20Patrician.png)
+![](/images/2022_Migration/Overview%20of%20CCE%20Journey%20of%20Patrician.png)
 
 #### **MOE Sexuality Education Programme in St Patrick’s School**
 
