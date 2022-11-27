@@ -6,9 +6,9 @@ third_nav_title: Aesthetics
 ---
 ### **Guitar Ensemble**
 
-![](/images/guitar%201.jpg)
+![](/images/2022_Migration/guitar%201.jpg)
 
-![](/images/guitar%202.jpg)
+![](/images/2022_Migration/guitar%202.jpg)
 
 #### **Profile**
 
@@ -49,5 +49,3 @@ Wednesday and Friday (even week)
 * Ms Chen Li Yan - [chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg)
 * Ms Faith Ang - [faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg)
 * Mr Shahrom - [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg%C2%A0)
-
-
