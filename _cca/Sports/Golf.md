@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ### **Golf**
 
-<img src="/images/Golf.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Golf.jpg" 
+     style="width:100%">
 		 
 #### **Profile**
 
