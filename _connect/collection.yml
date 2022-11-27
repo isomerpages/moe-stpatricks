@@ -2,6 +2,6 @@ collections:
   connect:
     output: true
     order:
-      - The Patrician Society.md
       - School Communication Channels.md
+      - The Patrician Society.md
       - The Patrician Parent.md
