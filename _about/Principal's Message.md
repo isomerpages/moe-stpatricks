@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/principal.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/2022_Migration/principal.jpg" style="width:45%;margin-right:15px;" align = "left">
 
 _Warm wishes for good health and peace be with you!_
 
