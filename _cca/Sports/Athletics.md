@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ### **Athletics**
 
-<img src="/images/Athletics.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Athletics.jpg" 
+     style="width:100%">
 
 #### **Profile**
 
