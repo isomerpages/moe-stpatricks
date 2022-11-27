@@ -3,7 +3,7 @@ title: The Patrician Parent
 permalink: /connect/the-patrician-parent/
 description: ""
 ---
-![](/images/patrician%20parent%20header.jpg)
+![](/images/2022_Migration/patrician_parent_header.jpg)
 
 <img src="/images/2022_Migration/patrician%20parent%20Kevin%20Seah-Co-Chairperson.jpg" style="width:30%;margin-right:15px;" align = "Left">
 
