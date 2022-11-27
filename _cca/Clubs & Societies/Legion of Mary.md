@@ -6,8 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 ### **Legion of Mary**
 
-<img src="/images/Legion.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Legion.jpg" 
+     style="width:100%">
 
 #### **Profile**
 
