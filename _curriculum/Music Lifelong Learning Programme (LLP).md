@@ -7,8 +7,8 @@ description: ""
 
 _‘Every Patrician, a lover of music’_
 
-<img src="/images/llp.jpg" 
-     style="width:85%">
+<img src="/images/2022_Migration/llp.jpg" 
+     style="width:100%">
 		 
 #### **Department Highlights**
 
@@ -42,7 +42,7 @@ Students will learn the basics of the keyboard in a contemporary pop style i.e. 
 3. **Creating Music with Music Technology & ICT Tools**<br>
 Students will be introduced to Music Technology tools and software to create music arrangements, emotive or action music cues.
 
-![](/images/LLP%201.jpg)
+![](/images/2022_Migration/LLP%201.jpg)
 
 ##### **Music Exposure & Engagement Programmes**
 
