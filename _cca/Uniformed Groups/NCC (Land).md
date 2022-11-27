@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ### **NCC (Land)**
 
-<img src="/images/NCC%20LAND.jpg" 
+<img src="/images/2022_Migration/NCC%20LAND.jpg" 
      style="width:65%">
 
 #### **Profile**
