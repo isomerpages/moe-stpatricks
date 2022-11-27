@@ -18,7 +18,7 @@ description: ""
 
 <img src="/images/2022_Migration/football.jpg" style="width:250px; height:150px"/> Football  | <img src="/images/2022_Migration/Golf.jpg" style="width:250px; height:150px"/> Golf | <img src="/images/2022_Migration/Basketball.jpg" style="width:250px; height:150px"/> Basketball | <img src="/images/2022_Migration/track%20n%20Field.jpg" style="width:250px; height:150px"/> Athletics |
 |-----|-----|-----|-----|
-<a href="default.asp"><img src="/images/2022_Migration/tennis.jpg" style="width:250px; height:150px"/></a> Tennis  | <img src="/images/CCA_Update_Dec2022/Floorball_Thm.jpg" style="width:250px; height:150px"/> Floorball | <img src="/images/2022_Migration/Cricket.jpg" style="width:250px; height:150px"/> Cricket | <img src="/images/2022_Migration/Badminton.jpg" style="width:250px; height:150px"/> Badminton |
+<a href="/cca/Sports/tennis/"><img src="/images/2022_Migration/tennis.jpg" style="width:250px; height:150px"/></a> Tennis  | <img src="/images/CCA_Update_Dec2022/Floorball_Thm.jpg" style="width:250px; height:150px"/> Floorball | <img src="/images/2022_Migration/Cricket.jpg" style="width:250px; height:150px"/> Cricket | <img src="/images/2022_Migration/Badminton.jpg" style="width:250px; height:150px"/> Badminton |
 
 ## Aesthetics
 
