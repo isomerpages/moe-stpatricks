@@ -6,8 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 ### **NPCC**
 
-<img src="/images/NPCC.jpg" 
-     style="width:45%">
+<img src="/images/2022_Migration/NPCC.jpg" 
+     style="width:100%">
 
 #### **Profile**
 
