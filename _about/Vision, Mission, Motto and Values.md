@@ -15,5 +15,5 @@ Touch hearts. Engage minds. Transform lives.
 Potest Qui Vult! (He who Wills, Can!)
 
 #### **Values**
-<img src="/images/value.png" 
-     style="width:65%">
+<img src="/images/2022_Migration/value.png" 
+     style="width:100%">
