@@ -6,8 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 ### **Media Club**
 
-<img src="/images/Media.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Media.jpg" 
+     style="width:100%">
 		 
 **video not on youtube**
 
