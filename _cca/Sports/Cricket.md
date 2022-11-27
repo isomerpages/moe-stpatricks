@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ### **Cricket**
 
-<img src="/images/Cricket.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/Cricket.jpg" 
+     style="width:100%">
 		 
 #### **Profile**
 
