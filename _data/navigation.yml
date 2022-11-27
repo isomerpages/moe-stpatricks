@@ -20,6 +20,8 @@ links:
   - title: Admissions
     url: /admission/dsa-2023/
     sublinks:
+      - title: "Direct School Admission "
+        url: admission/dsa-2023/
       - title: Returning Students
         url: /admission/returning-students/
       - title: Leave of Absence (LOA)
@@ -28,8 +30,6 @@ links:
         url: /admission/fas/
       - title: School Transfers
         url: /admission/school-transfers/
-      - title: "Direct School Admission "
-        url: admission/dsa-2023/
   - title: Curriculum
     url: /curriculum/academic-departments/craft-and-tech/
     sublinks:
