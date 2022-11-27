@@ -81,7 +81,7 @@ In 2022, our students again impressed the judges with their novel idea of preser
 <center><img src="/images/2022_Migration/Science07.png" 
 						 style="width:100%"></center>
 
-<center><img src="/images/2022_Migration/Science08.png" 
+<center><img src="/images/2022_Migration/Science08a.png" 
 						 style="width:100%"></center>
 
 	
