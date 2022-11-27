@@ -28,6 +28,8 @@ links:
         url: /admission/fas/
       - title: School Transfers
         url: /admission/school-transfers/
+      - title: "Direct School Admission "
+        url: admission/dsa-2023/
   - title: Curriculum
     url: /curriculum/academic-departments/craft-and-tech/
     sublinks:
