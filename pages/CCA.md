@@ -35,27 +35,10 @@ description: ""
  
 ##  **Uniformed Groups**
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/">
-<img src="/images/2022_Migration/NCCAir.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/">
-<img src="/images/2022_Migration/NCCLand_Thm.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/">
-<img src="/images/2022_Migration/Scouts.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/">
-<img src="/images/2022_Migration/NPCC.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| [NCC (Air)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/) | [NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | [Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | [NPCC](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/) |
+|<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/"><img style="width:100%" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/"><img style="width:100%" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/"><img style="width:100%" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/"><img style="width:100%" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/) 
+
 
 ##  **Sports**
 <p><a href="web">
