@@ -56,5 +56,5 @@ note: unable to remove the extra line as it is in table format.
 
 ##  **Club & Societies**
 
-| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() | <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() | <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |
+| <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/legion-of-mary/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/Library.jpg"></a>[Library](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/library/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/media%20and%20design.jpg"></a>[Media Club](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/media-club/) |
 |:---:|:---:|:---:|
