@@ -46,26 +46,7 @@ note: unable to remove the extra line as it is in table format.
 | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/"><img style="width:250px; height:150px" src="/images/2022_Migration/football.jpg"></a>[Football](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/golf/"><img style="width:250px; height:150px" src="/images/2022_Migration/Golf.jpg"></a>[Golf](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/golf/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/basketball/"><img style="width:250px; height:150px" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/basketball/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/athletics/"><img style="width:250px; height:150px" src="/images/2022_Migration/Athletics.jpg"></a>[Athletics](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/athletics/) |
 |:---:|:---:|:---:|:---:|
 
-
-<p><a href="web">
-<img src="/images/2022_Migration/tennis.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/CCA_Update_Dec2022/Floorball.jpeg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/cricket.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/Badminton.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |  |  |  |
+| <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/tennis/"><img style="width:250px; height:150px" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/tennis/) | <a href="(https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/Floorball/"><img style="width:250px; height:150px" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/Floorball/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/cricket/"><img style="width:250px; height:150px" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/cricket/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/badminton/"><img style="width:250px; height:150px" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/badminton/) |
 |:---:|:---:|:---:|:---:|
 
 ##  **Aesthetics**
@@ -87,9 +68,8 @@ note: unable to remove the extra line as it is in table format.
 
 <br clear="left">
 
-|  |  |  |  |
+| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
 
 ##  **Club & Societies**
 
