@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## **Floorball**
 
-#### <center>We never lose. We either win or learn. You do not need to be great to start, but you need to start to be great.
+#### <center><b>We never lose. We either win or learn. You do not need to be great to start, but you need to start to be great.</b>
 	
 Floorball is an exciting new CCA in St. Patrick’s School! Bringing together players from diverse backgrounds and levels of experience, our team is united in the belief that playing with passion leads to limitless possibilities. 
 
