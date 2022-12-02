@@ -38,15 +38,11 @@ note: unable to remove the extra line as it is in table format.
 
 ##  **Uniformed Groups**
 
-<br clear="left">
-
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 |<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/"><img style="width:100%" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/"><img style="width:100%" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/"><img style="width:100%" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/"><img style="width:100%" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/)
 
 ##  **Sports**
-
-<br clear="left">
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
@@ -58,16 +54,12 @@ note: unable to remove the extra line as it is in table format.
 
 ##  **Aesthetics**
 
-<br clear="left">
-
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 |<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/military-band/"><img style="width:250px; height:150px" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/military-band/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/modern-dance/"><img style="width:250px; height:150px" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/modern-dance/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/drama/"><img style="width:250px; height:150px" src="/images/2022_Migration/drama.jpg"></a>[Drama](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/drama/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/guitar-ensemble/"><img style="width:250px; height:150px" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/guitar-ensemble/) |
 
 ##  **Club & Societies**
 
-<br clear="left">
-
 |  |  |  |  |
 |:---:|:---:|:---:|
-| <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/legion-of-mary/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/Library.jpg"></a>[Library](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/library/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/media%20and%20design.jpg"></a>[Media Club](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/media-club/) |
+|<a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/legion-of-mary/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/Library.jpg"></a>[Library](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/library/) | <a href="webhere"><img style="width:250px; height:180px" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
