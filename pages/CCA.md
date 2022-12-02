@@ -34,7 +34,9 @@ description: ""
  <img src="/images/2022_Migration/legion%20of%20mary.jpg" style="width:250px; height:180px"/> Legion of Mary  | <img src="/images/2022_Migration/Library.jpg" style="width:250px; height:180px"/> Library | <img src="/images/2022_Migration/media%20and%20design.jpg" style="width:250px; height:180px"/> Media Club |
 
 ---will delete the above version if st. patricks is ok with the updated version below---
-note: unable to remove the extra line as it is in table format.
+note: unable to remove the extra line as it is in table format. 
+
+**updated**
 
 ##  **Uniformed Groups**
 
