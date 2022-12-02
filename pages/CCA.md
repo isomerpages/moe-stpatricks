@@ -50,43 +50,11 @@ note: unable to remove the extra line as it is in table format.
 |:---:|:---:|:---:|:---:|
 
 ##  **Aesthetics**
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
 
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |  |  |  |
+|<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/military-band/"><img style="width:250px; height:150px" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/military-band/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/modern-dance/"><img style="width:250px; height:150px" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/modern-dance/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/drama/"><img style="width:250px; height:150px" src="/images/2022_Migration/drama.jpg"></a>[Drama](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/drama/) | <a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/guitar-ensemble/"><img style="width:250px; height:150px" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/guitar-ensemble/) |
 |:---:|:---:|:---:|:---:|
 
 ##  **Club & Societies**
 
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="web">
-<img src="/images/2022_Migration/bball.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-|  |  |  |
+| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() | <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() | <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |
 |:---:|:---:|:---:|
-|  |  |  |
