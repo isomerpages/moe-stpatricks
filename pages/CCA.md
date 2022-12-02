@@ -36,8 +36,6 @@ description: ""
 ---will delete the above version if st. patricks is ok with the updated version below---
 note: unable to remove the extra line as it is in table format. 
 
-**updated**
-
 ##  **Uniformed Groups**
 
 <br clear="left">
