@@ -65,9 +65,8 @@ note: unable to remove the extra line as it is in table format.
 
 <br clear="left">
 
-|  |  |  |  |
+| <a href="webhere"><img style="width:250px; height:150px" src="/images/2022_Migration/img.jpg"></a>[]() |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
 
 ##  **Aesthetics**
 <p><a href="web">
