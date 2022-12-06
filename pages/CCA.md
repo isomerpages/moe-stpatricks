@@ -15,7 +15,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/football/"><img style="width:95%; aspect-ratio:1/1" src="/images/2022_Migration/football.jpg"></a>[Football](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:200%; aspect-ratio:1/1" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:70%; aspect-ratio:1/1" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:23%; aspect-ratio:1/1" src="/images/2022_Migration/Athletics.jpg"></a>[Athletics](/cca/Sports/athletics/) |
+| <a href="/cca/Sports/football/"><img style="width:95%; aspect-ratio:1/1" src="/images/2022_Migration/football.jpg"></a>[Football](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:100%; aspect-ratio:1/1" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:70%; aspect-ratio:1/1" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:30%; aspect-ratio:1/1" src="/images/2022_Migration/Athletics.jpg"></a>[Athletics](/cca/Sports/athletics/) |
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
