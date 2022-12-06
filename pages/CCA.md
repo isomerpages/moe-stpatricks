@@ -25,7 +25,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|<a href="/cca/Aesthetics/military-band/"><img style="width:100%" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:100%" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/modern-dance/) | <a href="/cca/Aesthetics/drama/"><img style="width:100%" src="/images/2022_Migration/drama.jpg"></a>[Drama](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Aesthetics/drama/) | <a href="/cca/Aesthetics/guitar-ensemble/"><img style="width:100%" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](/cca/Aesthetics/guitar-ensemble/) |
+|<a href="/cca/Aesthetics/military-band/"><img style="width:100%" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:100%" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](/cca/Aesthetics/modern-dance/) | <a href="/cca/Aesthetics/drama/"><img style="width:100%" src="/images/2022_Migration/drama.jpg"></a>[Drama](/cca/Aesthetics/drama/) | <a href="/cca/Aesthetics/guitar-ensemble/"><img style="width:100%" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](/cca/Aesthetics/guitar-ensemble/) |
 
 ####  **Club & Societies**
 
