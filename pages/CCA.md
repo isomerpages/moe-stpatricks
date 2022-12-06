@@ -9,13 +9,13 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/"><img style="width:100%" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/) | <a href="/cca/Uniformed-Groups/ncc-land/"><img style="width:100%" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | <a href="/cca/Uniformed-Groups/scouts/"><img style="width:100%" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | <a href="/cca/Uniformed-Groups/npcc/"><img style="width:100%" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/)
+|<a href="/cca/Uniformed-Groups/ncc-air/"><img style="width:100%" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](/cca/Uniformed-Groups/ncc-air/) | <a href="/cca/Uniformed-Groups/ncc-land/"><img style="width:100%" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | <a href="/cca/Uniformed-Groups/scouts/"><img style="width:100%" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | <a href="/cca/Uniformed-Groups/npcc/"><img style="width:100%" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](/cca/Uniformed-Groups/npcc/)
 
 ####  **Sports**
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/football/"><img style="width:75%" src="/images/2022_Migration/football.jpg"></a>[Football](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:100%" src="/images/2022_Migration/Golf.jpg"></a>[Golf](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:70%" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:23%" src="/images/2022_Migration/Athletics.jpg"></a>[Athletics](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/athletics/) |
+| <a href="/cca/Sports/football/"><img style="width:75%" src="/images/2022_Migration/football.jpg"></a>[Football](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:100%" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:70%" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:23%" src="/images/2022_Migration/Athletics.jpg"></a>[Athletics](/cca/Sports/athletics/) |
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
