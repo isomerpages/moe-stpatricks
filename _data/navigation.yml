@@ -19,7 +19,10 @@ links:
         url: /co-curriculum/ecg/
       - title: National Education
         url: /co-curriculum/national-education/
-  - title: Connect
-    collection: connect
   - title: Contact Us
     url: /contact-us/
+  - title: Connect
+    url: /permalink
+    sublinks:
+      - title: The Patrician Society
+        url: https://thepatriciansociety.org/
