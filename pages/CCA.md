@@ -19,7 +19,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/tennis/"><img style="width:250px; height:150px" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:250px; height:150px" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:250px; height:150px" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:250px; height:150px" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/badminton/) |
+| <a href="/cca/Sports/tennis/"><img style="width:100%" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:100%" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:100%" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:100%" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Sports/badminton/) |
 
 ####  **Aesthetics**
 
