@@ -1,46 +1,11 @@
 logo: /images/logo text Transparent SM.png
 links:
   - title: About
-    url: /about/vision-mission-motto-values/
-    sublinks:
-      - title: Vision,Mission,Motto & Values
-        url: /about/vision-mission-motto-values/
-      - title: School History,Heritage &Ethos
-        url: /about/sch-history-heritage-ethos/
-      - title: Principal's Message
-        url: /about/principals-message/
-      - title: Staff Directory
-        url: /about/staff-directory/
-      - title: Alumni Achievements
-        url: /about/alumni-achievement/
-      - title: PDLP
-        url: /about/pdlp/
-      - title: Financial & Non-Financial Info
-        url: /about/financial/
+    collection: about
   - title: Admissions
-    url: /admission/dsa-2023/
-    sublinks:
-      - title: "Direct School Admission "
-        url: admission/dsa-2023/
-      - title: Returning Students
-        url: /admission/returning-students/
-      - title: Leave of Absence (LOA)
-        url: /admission/loa/
-      - title: Financial Assistance
-        url: /admission/fas/
-      - title: School Transfers
-        url: /admission/school-transfers/
+    collection: admissions
   - title: Curriculum
-    url: /curriculum/academic-departments/craft-and-tech/
-    sublinks:
-      - title: Academic Departments
-        url: /curriculum/academic-departments/craft-and-tech/
-      - title: Character & Citizenship Edu
-        url: /curriculum/cce/
-      - title: Lifelong Learning Programme
-        url: /curriculum/LLP/
-      - title: STEM Applied Learning Program
-        url: /curriculum/stem-alp/
+    collection: curriculum
   - title: Co-Curriculum
     url: /co-curriculum/cca
     sublinks:
@@ -55,19 +20,6 @@ links:
       - title: National Education
         url: /co-curriculum/national-education/
   - title: Connect
-    url: /connect/sch-communication-channels/
-    sublinks:
-      - title: School Communication Channels
-        url: /connect/sch-communication-channels/
-      - title: The Patrician Parent
-        url: /connect/the-patrician-parent/
-      - title: Patrician Society
-        url: https://stpatricks.moe.edu.sg/connect/contact-us
-      - title: MOE Website
-        url: https://www.moe.gov.sg/
-      - title: Student Learning Space
-        url: https://vle.learning.moe.edu.sg/login
-      - title: Contact Us
-        url: /contact-us/
+    collection: connect
   - title: Contact Us
     url: /contact-us/
