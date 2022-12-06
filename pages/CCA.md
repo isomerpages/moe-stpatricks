@@ -11,7 +11,7 @@ description: ""
 |:---:|:---:|:---:|:---:|
 |<a href="https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/"><img style="width:100%" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-air/) | <a href="/cca/Uniformed-Groups/ncc-land/"><img style="width:100%" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/ncc-land/) | <a href="/cca/Uniformed-Groups/scouts/"><img style="width:100%" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/scouts/) | <a href="/cca/Uniformed-Groups/npcc/"><img style="width:100%" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Uniformed-Groups/npcc/)
 
-####  **Sports**
+####  **Sports** width:250px; height:180px
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
@@ -31,4 +31,4 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|
-|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:100%" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:100%" src="/images/2022_Migration/Library.jpg"></a>[Library](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:250px; height:180px" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
+|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:100%" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:100%" src="/images/2022_Migration/Library.jpg"></a>[Library](https://staging.dgqb0jbouderh.amplifyapp.com/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:100%" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
