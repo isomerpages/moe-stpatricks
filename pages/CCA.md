@@ -19,7 +19,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/tennis/"><img style="width:100%; aspect-ratio:1/1" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:70%; aspect-ratio:1/1" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:90%; aspect-ratio:1/1" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:65%; aspect-ratio:1/1" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](/cca/Sports/badminton/) |
+| <a href="/cca/Sports/tennis/"><img style="width:100%; aspect-ratio:1/1" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:30%; aspect-ratio:1/1" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:90%; aspect-ratio:1/1" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:65%; aspect-ratio:1/1" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](/cca/Sports/badminton/) |
 
 ####  **Aesthetics**
 
