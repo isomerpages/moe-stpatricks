@@ -22,9 +22,11 @@ links:
   - title: Connect
     url: /connect/sch-communication-channels/
     sublinks:
-      - title: The Patrician Parent
-        url: /connect/sch-communication-channels/
       - title: The Patrician Society
         url: https://thepatriciansociety.org/
+      - title: The Patrician Parent
+        url: /connect/sch-communication-channels/
+      - title: School Communication Channels
+        url: /connect/sch-communication-channels/
   - title: Contact Us
     url: /contact-us/
