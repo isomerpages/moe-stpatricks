@@ -58,12 +58,17 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 #### **Cyberwellness Resources for Parents**
 
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf">
+<img style="width:50%" src="/images/2023%20PDLP/Parents HB Part 1.png">
+</a></p>
+
+<br>
+
 <p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/Parent-Handbook-I-on-1_1-Learning.pdf">
 <img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%201.jpg">
 </a></p>
 
 <br>
-
 <p><a href=" go.gov.sg/moe-cyber-wellness">
 <img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align=center >
 </a></p>
