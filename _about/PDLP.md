@@ -28,7 +28,7 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE Financial Assistance Scheme (FAS) or School-based FAS will automatically qualify for these subsidies and do not need to take any action.  Please note that it is compulsory for all existing students on MOE FAS to use their Edusave to pay for the PLD, after subsidies have been granted.
 
-Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.
+Students who are currently not under the MOE Financial Assistance Scheme may approach the school’s General Office to apply for additional subsidy if their Gross Household Income (GHI) is $4,400 or less, or Per Capita Income (PCI) is $1,100 or less.
 
 “**PCI**" refers to the Gross Household Income divided by the total number of family members in the household.
 
