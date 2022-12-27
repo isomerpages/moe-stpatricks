@@ -97,7 +97,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 <br><br>
 
 #### **Frequently Asked Questions**
-A list of answers to Frequently Asked Questions can be found [here](files/mediaDirectory/files%2FPDLP%202023/editMediaSettings/FAQs-on-PDLP.pdf)
+A list of answers to Frequently Asked Questions can be found [here](files/PDLP%202023/FAQs-on-PDLP.pdf)
 
 If you have any further queries, kindly email us at:
 
