@@ -99,11 +99,11 @@ Please refer to our Frequently Asked Questions section for more information on t
 #### **Frequently Asked Questions**
 A list of answers to Frequently Asked Questions can be found [here](https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf)
 
-SPS Parent Engagement Deck
+[SPS Parent Engagement Deck](https://cms.isomer.gov.sg/sites/moe-stpatricks/media/files/mediaDirectory/files%2FPDLP%202023/editMediaSettings/SPS%20Parent%20Engagement%20Deck.pdf)
 
 If you have any further queries, kindly email us at:
 
 |  |  |
 |:---:|:---:|
-| **Technical Matters** <br> Mr Syed Salleh Alattas HOD ICT <br>syed_sallah@moe.edu.sg | **Financial Matters** <br>Ms Joyce Leow<br> Administration Manager<br> leow_li-sze@moe.edu.sg |
+| **Technical Matters** <br> Mr Syed Salleh Alattas HOD ICT <br>syed_salleh@moe.edu.sg | **Financial Matters** <br>Ms Joyce Leow<br> Administration Manager<br> leow_li-sze@moe.edu.sg |
 |  |  |
