@@ -20,8 +20,8 @@ third_nav_title: Staff Directory
 
 | 2 Respect |  |
 |:---:|:---:|
-| Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
-| Miss Faith Ang Si Ying | [faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg) |
+| Mr Tan Tat Hock | [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg) |
+| Ms Dorothy Seng Swee Cheng | [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg) |
 |
 
 | 2 Integrity |  |
@@ -32,8 +32,8 @@ third_nav_title: Staff Directory
 
 | 2 Valour |  |
 |:---:|:---:|
-| Mr Boon Jia Hui | [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg) |
-| Miss Lim Li Chen Ruth | [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) |
+| Mdm Rafiqah Bte Sani | [rafiqah_sani@moe.edu.sg](mailto:rafiqah_sani@moe.edu.sg) |
+| Miss Teng Mui Lim | [teng_mui_lim@moe.edu.sg](mailto:teng_mui_lim@moe.edu.sg) |
 |
 
 | 2 Excellence |  |
