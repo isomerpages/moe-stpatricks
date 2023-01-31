@@ -14,9 +14,8 @@ third_nav_title: Staff Directory
 
 | 2 Teamwork |  |
 |:---:|:---:|
-| Ms Dorothy Seng Swee Cheng | [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg) |
-| Mr Koh Seng John | [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg) |
-| Ms Shirley Tang | [tang_xueli_shirley@moe.edu.sg](mailto:tang_xueli_shirley@moe.edu.sg) |
+| Mr Tan Chee Wei | [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg) |
+| Miss Haida Bte Abdulah | [haida_abdullah@moe.edu.sg](mailto:haida_abdullah@moe.edu.sg) |
 |
 
 | 2 Respect |  |
