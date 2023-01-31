@@ -38,8 +38,8 @@ third_nav_title: Staff Directory
 
 | 2 Excellence |  |
 |:---:|:---:|
-| Mr Ong Ling Kang | [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg) |
-| Miss Chan Hui Lun | [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) |
+| Mdm Hazlian Bte Karim | [hazlian_karim@moe.edu.sg](mailto:hazlian_karim@moe.edu.sg) |
+| Mr Taufiq Bin Abdul Malek | [taufiq_abd_malek@moe.edu.sg](mailto:taufiq_abd_malek@moe.edu.sg) |
 |
 
 | 2 Patrick |  |
