@@ -8,8 +8,8 @@ third_nav_title: Staff Directory
 
 | 2 Self-Discipline |  |
 |:---:|:---:|
-| Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
-| Mr Mariappan Arjunan | [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg) |
+| Mr Rajesh Somu | [rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg) |
+| Mdm Siti Nur Faizah Bte Ibrahim | [siti_nur_faizah_ibrahim@moe.edu.sg](mailto:siti_nur_faizah_ibrahim@moe.edu.sg) |
 |
 
 | 2 Teamwork |  |
