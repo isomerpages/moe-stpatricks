@@ -8,14 +8,14 @@ third_nav_title: Staff Directory
 
 | 1 Self-Discipline |  |
 |:---:|:---:|
-| Mr Rajesh Somu | [rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg) |
-| Mdm Siti Nur Faizah Bte Ibrahim | [siti_nur_faizah_ibrahim@moe.edu.sg](mailto:siti_nur_faizah_ibrahim@moe.edu.sg) |
+| Miss Koh Shi Li | [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg) |
+| Mdm Faheema Bte Mohamad | [faheema\_mohamad@moe.edu.sg](mailto:faheema_mohamad@moe.edu.sg) |
 |
 
 | 1 Teamwork |  |
 |:---:|:---:|
-| Mr Tan Chee Wei | [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg) |
-| Miss Haida Bte Abdulah | [haida_abdullah@moe.edu.sg](mailto:haida_abdullah@moe.edu.sg) |
+| Mdm Wong Shwo Mun | [wong_shwo_mun@moe.edu.sg](mailto:wong_shwo_mun@moe.edu.sg) |
+| Ms Christie Eugenia Cheah Yi-Lin | [cheah_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) |
 |
 
 | 1 Respect |  |
