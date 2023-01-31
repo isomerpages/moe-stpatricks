@@ -43,7 +43,7 @@ third_nav_title: Staff Directory
 |
 
 | 1 Patrick |  |
-|:---:|:---:|
+|:------:|:---:|
 | Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg) |
 | Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
 |
