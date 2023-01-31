@@ -26,8 +26,8 @@ third_nav_title: Staff Directory
 
 | 1 Integrity |  |
 |:---:|:---:|
-| Mr Kang Xianbin | [kang_xianbin@moe.edu.sg](mailto:kang_xianbin@moe.edu.sg) |
-| Ms Annisa’ Bte Sha’aban | [annisa_shaaban@moe.edu.sg](mailto:annisa_shaaban@moe.edu.sg) |
+| Ms Lee Yen Pheng Felicia | [lee_yen_pheng_felicia@moe.edu.sg](mailto:lee_yen_pheng_felicia@moe.edu.sg) |
+| Mr Haniel Soh En Han | [soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg) |
 |
 
 | 1 Valour |  |
