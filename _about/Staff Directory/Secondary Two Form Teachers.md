@@ -50,6 +50,6 @@ third_nav_title: Staff Directory
 
 | 2 Lasalle |  |
 |:---:|:---:|
-| Miss Cheryl Lek Li Ling | [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) |
-| Miss Yee Yun Shawn | [yee_yun_shawn@moe.edu.sg](mailto:yee_yun_shawn@moe.edu.sg) |
+| Mdm Siti Norniza Bte Junadi | [siti_norniza_junadi@moe.edu.sg](mailto:siti_norniza_junadi@moe.edu.sg) |
+| Mr Vincent Chong Weng Chiew | [chong_weng_chiew_vincent@moe.edu.sg](mailto:chong_weng_chiew_vincent@moe.edu.sg) |
 |
