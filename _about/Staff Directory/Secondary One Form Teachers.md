@@ -44,8 +44,8 @@ third_nav_title: Staff Directory
 
 | 1 Patrick |  |
 |:---:|:---:|
-| Mdm Li Xiyao | [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg) |
-| Mr Samuel Tay Woei Long | [tay_woei_long@moe.edu.sg](mailto:tay_woei_long@moe.edu.sg) |
+| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg) |
+| Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
 |
 
 | 1 Lasalle |  |
