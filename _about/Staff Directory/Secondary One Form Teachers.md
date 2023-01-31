@@ -32,8 +32,8 @@ third_nav_title: Staff Directory
 
 | 1 Valour |  |
 |:---:|:---:|
-| Mdm Rafiqah Bte Sani | [rafiqah_sani@moe.edu.sg](mailto:rafiqah_sani@moe.edu.sg) |
-| Miss Teng Mui Lim | [teng_mui_lim@moe.edu.sg](mailto:teng_mui_lim@moe.edu.sg) |
+| Mdm Choi Mei Yoke Adeline | [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg) |
+| Mdm Mariana Bte Yunus | [mariana_yunus@moe.edu.sg](mailto:mariana_yunus@moe.edu.sg) |
 |
 
 | 1 Excellence |  |
