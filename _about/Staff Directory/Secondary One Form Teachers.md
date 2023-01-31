@@ -20,8 +20,8 @@ third_nav_title: Staff Directory
 
 | 1 Respect |  |
 |:---:|:---:|
-| Mr Tan Tat Hock | [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg) |
-| Mdm Rozlinda Bte Abdul Rahim | [rozlinda_abdul_rahim@moe.edu.sg](mailto:rozlinda_abdul_rahim@moe.edu.sg) |
+| Ms Faith Wong Soke Yee | [faith_wong_soke_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg) |
+| Mr Yosef Effency | [yosef_effendy@moe.edu.sg](mailto:yosef_effendy@moe.edu.sg) |
 |
 
 | 1 Integrity |  |
