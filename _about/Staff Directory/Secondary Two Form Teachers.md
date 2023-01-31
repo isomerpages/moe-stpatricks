@@ -44,8 +44,8 @@ third_nav_title: Staff Directory
 
 | 2 Patrick |  |
 |:---:|:---:|
-| Mr Sylvester Chan Chee Cheong | [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) |
-| Mdm Rachel Koh Wen Yuan | [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg) |
+| Mdm Li Xiyao | [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg) |
+| Mr Samuel Tay Woei Long | [tay_woei_long@moe.edu.sg](mailto:tay_woei_long@moe.edu.sg) |
 |
 
 | 2 Lasalle |  |
