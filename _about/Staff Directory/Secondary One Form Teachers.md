@@ -43,13 +43,13 @@ third_nav_title: Staff Directory
 |
 
 | 1 Patrick |  |
-|:------:|:---:|
+|:---:|:---:|
 | Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg) |
 | Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
 |
 
 | 1 Lasalle |  |
 |:---:|:---:|
-| Mdm Siti Norniza Bte Junadi | [siti_norniza_junadi@moe.edu.sg](mailto:siti_norniza_junadi@moe.edu.sg) |
-| Mr Vincent Chong Weng Chiew | [chong_weng_chiew_vincent@moe.edu.sg](mailto:chong_weng_chiew_vincent@moe.edu.sg) |
+| Mr Chng Siong Hwa | [chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg) |
+| Mr Joseph Teo Huay Meng | [joseph_teo_huay_meng@moe.edu.sg](mailto:joseph_teo_huay_meng@moe.edu.sg) |
 |
