@@ -38,8 +38,8 @@ third_nav_title: Staff Directory
 
 | 1 Excellence |  |
 |:---:|:---:|
-| Mdm Hazlian Bte Karim | [Hazlian_karim@moe.edu.sg](mailto:Hazlian_karim@moe.edu.sg) |
-| Mr Taufiq Bin Abdul Malek | [taufiq_abd_malek@moe.edu.sg](mailto:taufiq_abd_malek@moe.edu.sg) |
+| Miss Chen Li Yan | [chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg) |
+| Mr Chia Wenn Teck | [chia_wenn_teck@moe.edu.sg](mailto:chia_wenn_teck@moe.edu.sg) |
 |
 
 | 1 Patrick |  |
