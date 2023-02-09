@@ -26,8 +26,8 @@ third_nav_title: Staff Directory
 
 | 4 Integrity |  |
 |:---:|:---:|
-| Miss Chen Li Yan | [chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg) |
-| Mr Yosef Effency | [yosef_effendy@moe.edu.sg](mailto:yosef_effendy@moe.edu.sg ) |
+| Mdm Belinda Toh Mei Fang | [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg) |
+| Mr Sayed Hud Bin S H Alhabshe | [sayed_hud_alhabshe@moe.edu.sg](mailto:sayed_hud_alhabshe@moe.edu.sg) |
 |
 
 | 4 Valour |  |
