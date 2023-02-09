@@ -8,8 +8,8 @@ third_nav_title: Staff Directory
 
 | 4 Self-Discipline |  |
 |:---:|:---:|
-| Miss Quek Yi Ling Geraldine | [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg) |
-| Miss Koh Shi Li | [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg) |
+| Mr Chew Damien Gerard | [chew_damien_gerard@moe.edu.sg](mailto:chew_damien_gerard@moe.edu.sg) |
+| Ms Zhao Jing | [zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg) |
 |
 
 | 4 Teamwork |  |
