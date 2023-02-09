@@ -8,8 +8,8 @@ third_nav_title: Staff Directory
 
 | 3 Self-Discipline |  |
 |:---:|:---:|
-| Miss Zhuo Suin Ruth | [zhuo_suyin_ruth@moe.edu.sg](mailto:zhuo_suyin_ruth@moe.edu.sg) |
-| Ms Zhao Jing | [zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg) |
+| Miss Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
+| Mr Mariappan Arjunan | [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg) |
 |
 
 | 3 Teamwork |  |
