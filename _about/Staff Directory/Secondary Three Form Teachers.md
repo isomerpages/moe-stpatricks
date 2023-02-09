@@ -27,8 +27,8 @@ third_nav_title: Staff Directory
 
 | 3 Integrity |  |
 |:---:|:---:|
-| Mdm Belinda Toh Mei Fang | [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg) |
-| Mr Sayed Hud Bin S H Alhabshe | [sayed_hud_alhabshe@ moe.edu.sg](mailto:sayed_hud_alhabshe@moe.edu.sg) |
+| Miss Nicola Loh Sijin | [nicola_loh_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg) |
+| Mr Tan Chiew Seng | [tan_chiew_seng@moe.edu.sg](mailto:tan_chiew_seng@moe.edu.sg) |
 |
 
 | 3 Valour |  |
