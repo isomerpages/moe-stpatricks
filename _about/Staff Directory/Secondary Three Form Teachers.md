@@ -33,8 +33,8 @@ third_nav_title: Staff Directory
 
 | 3 Valour |  |
 |:---:|:---:|
-| Mdm Firza Maisarah Binte Mohd Raffid | [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg) |
-| Mdm Pereira Karen Louise | [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg) |
+| Mr Boon Jia Hui | [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg) |
+| Ms Lim Li Chen Ruth | [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) |
 |
 
 | 3 Excellence |  |
