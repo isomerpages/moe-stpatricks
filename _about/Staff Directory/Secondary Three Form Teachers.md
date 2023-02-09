@@ -20,8 +20,9 @@ third_nav_title: Staff Directory
 
 | 3 Respect |  |
 |:---:|:---:|
-| Mdm Wong Shwo Mun | [wong_shwo_mun@moe.edu.sg](mailto:wong_shwo_mun@moe.edu.sg) |
-| Mr Juhari Bin Mohamed | [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) |
+| Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
+| Miss Faith Ang Si Ying | [faith_ang_si_ying@moe.edu.sg]
+(mailto:faith_ang_si_ying@moe.edu.sg) |
 |
 
 | 3 Integrity |  |
