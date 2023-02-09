@@ -21,7 +21,7 @@ third_nav_title: Staff Directory
 | 3 Respect |  |
 |:---:|:---:|
 | Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
-| Miss Faith Ang Si Ying | [faith_ang_si_ying@moe.edu.sg] |
+| Miss Faith Ang Si Ying |[faith_ang_si_ying@moe.edu.sg)]
 (mailto:faith_ang_si_ying@moe.edu.sg) |
 |
 
