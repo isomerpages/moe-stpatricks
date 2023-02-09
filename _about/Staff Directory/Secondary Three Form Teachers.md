@@ -51,6 +51,6 @@ third_nav_title: Staff Directory
 
 | 3 Lasalle |  |
 |:---:|:---:|
-| Mdm Sunanety Bte Zainul Abeedin | [sunanety_zainul_abeedin@moe.edu.sg](mailto:sunanety_zainul_abeedin@moe.edu.sg) |
-| Mr Wong Liang Deng | [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg) |
+| Miss Cheryl Lek Li Ling | [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) |
+| Miss Yee Yun Shawn | [yee_yun_shawn@moe.edu.sg](mailto:yee_yun_shawn@moe.edu.sg) |
 |
