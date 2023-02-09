@@ -20,8 +20,8 @@ third_nav_title: Staff Directory
 
 | 4 Respect |  |
 |:---:|:---:|
-| Mdm Choi Mei Yoke Adeline | [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg) |
-| Mr Chia Wenn Teck | [chia_wenn_teck@moe.edu.sg](chia_wenn_teck@moe.edu.sg) |
+| Miss Quek Yi Ling Geraldine | [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg) |
+| Mr Juhari Bin Mohamed | [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) |
 |
 
 | 4 Integrity |  |
