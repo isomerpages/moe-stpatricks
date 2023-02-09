@@ -32,8 +32,8 @@ third_nav_title: Staff Directory
 
 | 4 Valour |  |
 |:---:|:---:|
-| Mr Chng Siong Hwa | [chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg) |
-| Ms Faith Wong Soke Yee | [faith_wong_soke_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg) |
+| Mdm Firza Maisarah Bte Mohd Raffid | [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg) |
+| Mdm Pereira Karen | [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg) |
 |
 
 | 4 Excellence |  |
