@@ -45,8 +45,8 @@ third_nav_title: Staff Directory
 
 | 3 Patrick |  |
 |:---:|:---:|
-| Mr Kelvin Yee Chee Chung | [kelvin_yee_chee_chung@moe.edu.sg](mailto:kelvin_yee_chee_chung@moe.edu.sg) |
-| Miss Lee Chain Ting | [lee_chain_ting@moe.edu.sg](mailto:lee_chain_ting@moe.edu.sg) |
+| Mr Sylvester Chan Chee Cheong | [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) |
+| Mdm Ng Yi Ting | [ng_yi_ting@moe.edu.sg](mailto:lng_yi_ting@moe.edu.sg) |
 |
 
 | 3 Lasalle |  |
