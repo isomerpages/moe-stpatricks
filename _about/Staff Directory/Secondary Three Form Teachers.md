@@ -14,8 +14,8 @@ third_nav_title: Staff Directory
 
 | 3 Teamwork |  |
 |:---:|:---:|
-| Ms Zoey Ang | [ang_zoey@moe.edu.sg](mailto:ang_zoey@moe.edu.sg) |
-| Ms Charissa Chia Jia Hui | [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg) |
+| Mr Koh Seng John | [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg) |
+| Ms Shirley Tang | [tang_xueli_shirley@moe.edu.sg](mailto:tang_xueli_shirley@moe.edu.sg) |
 |
 
 | 3 Respect |  |
