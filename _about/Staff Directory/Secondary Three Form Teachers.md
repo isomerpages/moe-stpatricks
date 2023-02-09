@@ -39,8 +39,8 @@ third_nav_title: Staff Directory
 
 | 3 Excellence |  |
 |:---:|:---:|
-| Mr Nicholas Huang Hanmin | [huang_hanmin_nicholas@moe.edu.sg](mailto:huang_hanmin_nicholas@moe.edu.sg) |
-| Mdm Nur Huda Bte Mohamed Ali | [nur_huda_mohamed_ali@moe.edu.sg](mailto:nur_huda_mohamed_ali@moe.edu.sg) |
+| Mr Ong Ling Kang | [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg) |
+| Ms Chan Hui Lun | [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) |
 |
 
 | 3 Patrick |  |
