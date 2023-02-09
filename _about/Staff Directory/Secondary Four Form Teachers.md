@@ -38,8 +38,8 @@ third_nav_title: Staff Directory
 
 | 4 Excellence |  |
 |:---:|:---:|
-| Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
-| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edusg](mailto:muhamad_shahrom_mohammed_sal@moe.edusg) |
+| Mr Nicholas Huang Hanmin | [huang_hanmin_nicholas@moe.edu.sg](mailto:huang_hanmin_nicholas@moe.edu.sg) |
+| Mdm Nur Huda Bte Mohamed Ali | [nur_huda_mohamed_ali@moe.edu.sg](mailto:nur_huda_mohamed_ali@moe.edu.sg) |
 |
 
 | 4 Patrick |  |
