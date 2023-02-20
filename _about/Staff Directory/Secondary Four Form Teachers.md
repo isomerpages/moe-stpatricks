@@ -45,11 +45,11 @@ third_nav_title: Staff Directory
 | 4 Patrick |  |
 |:---:|:---:|
 | Mr Kelvin Yee Chee Chung | [kelvin_yee_chee_chung@moe.edu.sg](mailto:kelvin_yee_chee_chung@moe.edu.sg) |
-| Mdm Faheema Bte Mohamad | [faheema_mohamad@moe.edu.sg](mailto:faheema_mohamad@moe.edu.sg) |
+| Miss Lee Chain Ting | [lee_chain_ting@moe.edu.sg](mailto:lee_chain_ting@moe.edu.sg) |
 |
 
 | 4 Lasalle |  |
 |:---:|:---:|
-| Miss Erica Reyes Rodriguez | [erica_reyes_rodriguez@moe.edu.sg](mailto:erica_reyes_rodriguez@moe.edu.sg) |
-| Mr Chew Damien Gerard | [chew_damien_gerard@moe.edu.sg](mailto:chew_damien_gerard@moe.edu.sg) |
+| Mdm Sunanety Bte Zainul Abeedin | [sunanety_zainul_abeedin@moe.edu.sg](mailto:sunanety_zainul_abeedin@moe.edu.sg) |
+| Mr Wong Liang Deng | [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg) |
 |
