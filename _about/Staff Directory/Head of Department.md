@@ -19,7 +19,7 @@ third_nav_title: Staff Directory
 | 9.            | HOD CCE | Mr Adrian Lim | [adrian_lim_ming@moe.edu.sg](mailto:adrian_lim_ming@moe.edu.sg) |
 | 10.         | HOD SM | Mr Mahadir Wahab | [mahadir_b_wahab@moe.edu.sg](mailto:mahadir_b_wahab@moe.edu.sg) |
 | 11.         | HOD SEN | Ms Goh Huiling Winnie | [goh_huiling_winnie@moe.edu.sg](mailto:goh_huiling_winnie@moe.edu.sg) |
-| 12.         | YEAR HEAD (S1) | Mdm Grace Alessandra Lim | [grace_alessandra_lim@moe.edu.sg](mailto:grace_alessandra_lim@moe.edu.sg) |
+| 12.         | YEAR HEAD (S1) | Mr Huang YeWei | [huang_yewei@moe.edu.sg](mailto:huang_yewei@moe.edu.sg) |
 | 13.         | YEAR HEAD (S2) | Ms Alyssa Lim | [peining_alyssa_lim@moe.edu.sg](mailto:peining_alyssa_lim@moe.edu.sg) |
 | 14.         | YEAR HEAD (S3) | Mdm Soh Kim Ling | [soh_kim_ling@moe.edu.sg](mailto:soh_kim_ling@moe.edu.sg) |
 | 15.         | YEAR HEAD (S4) | Mr Huang YeWei | [huang_yewei@moe.edu.sg](mailto:huang_yewei@moe.edu.sg) |
