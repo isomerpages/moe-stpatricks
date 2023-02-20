@@ -21,8 +21,8 @@ third_nav_title: Staff Directory
 | 11.         | HOD SEN | Ms Goh Huiling Winnie | [goh_huiling_winnie@moe.edu.sg](mailto:goh_huiling_winnie@moe.edu.sg) |
 | 12.         | YEAR HEAD (S1) | Mr Huang YeWei | [huang_yewei@moe.edu.sg](mailto:huang_yewei@moe.edu.sg) |
 | 13.         | YEAR HEAD (S2) | Ms Grace Lim | [grace_alessandra_lim@moe.edu.sg](mailto:grace_alessandra_lim@moe.edu.sg) |
-| 14.         | YEAR HEAD (S3) | Mdm Soh Kim Ling | [soh_kim_ling@moe.edu.sg](mailto:soh_kim_ling@moe.edu.sg) |
-| 15.         | YEAR HEAD (S4) | Mr Huang YeWei | [huang_yewei@moe.edu.sg](mailto:huang_yewei@moe.edu.sg) |
+| 14.         | YEAR HEAD (S3) | Mdm Tan Cheng Gek Christine | [tan_cheng_gek_christine@moe.edu.sg](mailto:tan_cheng_gek_christine@moe.edu.sg) |
+| 15.         | YEAR HEAD (S4) | Mdm Soh Kim Ling | [soh_kim_ling@moe.edu.sg](mailto:soh_kim_ling@moe.edu.sg) |
 | 16.         | SUBJECT HEAD (Malay Language) | Ms Hazlian Bte Karim | [Hazlian_karim@moe.edu.sg](mailto:Hazlian_karim@moe.edu.sg) |
 | 17.         | SUBJECT HEAD (D&T) | Mr Mahadi b Salam | [mahadi_salam@moe.edu.sg](mailto:mahadi_salam@moe.edu.sg) |
 | 18.         | SUBJECT HEAD (ICT) | Mr Tan Chee Wei | [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg) |
