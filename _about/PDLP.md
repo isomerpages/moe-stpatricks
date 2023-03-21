@@ -85,7 +85,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 </a></p><br>
 
 
-<p><a href=" sure.nlb.gov.sg">
+<p><a href="https://sure.nlb.gov.sg/">
 <img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" align = center >
 </a></p>
 <br>
