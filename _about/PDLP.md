@@ -91,7 +91,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 <br>
 
 
-<p><a href=" help123.sg">
+<p><a href="https://www.help123.sg/">
 <img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%206.png" align=center >
 </a></p>
 <br><br>
