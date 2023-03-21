@@ -69,7 +69,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 </a></p>
 
 <br>
-<p><a href=" go.gov.sg/moe-cyber-wellness">
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
 <img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align=center >
 </a></p>
 
