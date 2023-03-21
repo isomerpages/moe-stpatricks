@@ -75,11 +75,6 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 <br>
 
-<p><a href=" https://www.moe.gov.sg/programmes/cyber-wellness">
-<img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%203.jpg" align=center >
-</a></p><br>
-
-
 <p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents">
 <img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%204.png" align=center >
 </a></p><br>
