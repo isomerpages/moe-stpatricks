@@ -38,4 +38,4 @@ Fridays: 2.00 – 6.00pm
 
 * LTA (NCC) Koh Shi Li - [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
 * 2LT (NCC)  Ong Lingkang - [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
-* Ms Ng Yan Li [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
+* 2LT (NCC) Ms Ng Yan Li - [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
