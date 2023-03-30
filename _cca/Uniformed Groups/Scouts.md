@@ -38,6 +38,6 @@ Fridays: 2.00 - 5.00pm
 
 #### **CCA Teachers-in-Charge**
 
-* Ms Christie Cheah: [cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) 
-* Mr Boon Jia Hui: [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)
-* Mr Wong Liang Deng: [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg)
+* Ms Christie Cheah - [cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) 
+* Mr Boon Jia Hui - [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)
+* Mdm Li Xiyao - [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg)
