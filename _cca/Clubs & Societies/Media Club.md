@@ -60,7 +60,7 @@ Friday, 230 - 530pm
 
 **Overall I/C:**<br>
 
-* Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg_](mailto:lim_li_chen_ruth@moe.edu.sg) 
+* Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) 
 
 **Second I/C and Media and Design I/C:**
 
@@ -68,7 +68,7 @@ Friday, 230 - 530pm
 
 **Broadcast Journalism:**
 
-* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg_](mailto:quek_yi_ling_geraldine@moe.edu.sg)
+* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg)
 
 **Photography:**
 
@@ -78,4 +78,4 @@ Friday, 230 - 530pm
 
 * Mr Juhari- [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) 
 * Ms Mabel Sim - [sim_yi_wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
-* Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg) _)
+* Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg)
