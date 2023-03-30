@@ -8,8 +8,6 @@ third_nav_title: Clubs & Societies
 
 <img src="/images/2022_Migration/Media.jpg" 
      style="width:100%">
-		 
-**video not on youtube**
 
 #### **Profile**
 
@@ -54,22 +52,25 @@ Trained by industry professionals, the 3 branches of the Media and Info Communic
 
 #### **CCA Training Schedule**
 
+Wednesday, 230 - 530pm (ad hoc)
 Friday, 230 - 530pm
 
 
 #### **CCA Teachers-in-Charge**
 
 **Overall I/C:**<br>
-* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg_](mailto:quek_yi_ling_geraldine@moe.edu.sg)
 
-**Second I/C and Media and Design I/C:**
 * Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg_](mailto:lim_li_chen_ruth@moe.edu.sg) 
 
-**Broadcast Journalism:**
+**Second I/C and Media and Design I/C:**
 
 * Miss Faith Wong - [faith\_wong\_soke\_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
 
-**Media and Design:**
+**Broadcast Journalism:**
+
+* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg_](mailto:quek_yi_ling_geraldine@moe.edu.sg)
+
+**Photography:**
 
 * Ms Karen Pereira - [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg)
 
