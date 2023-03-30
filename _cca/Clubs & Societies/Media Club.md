@@ -76,6 +76,6 @@ Friday, 230 - 530pm
 
 **Audio/Videography:**
 
-* Mr Juhari (Teacher I/C) - [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) 
-* Ms Mabel Sim - [sim_yi)wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
-* Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg_](mailto:tan_tat_hock@moe.edu.sg) _)_
+* Mr Juhari- [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) 
+* Ms Mabel Sim - [sim_yi_wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
+* Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg) _)
