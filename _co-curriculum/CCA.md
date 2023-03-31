@@ -15,7 +15,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/football/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:200px; aspect-ratio: 4/3x" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
+| <a href="/cca/Sports/football/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:250px; aspect-ratio: 3/2" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:200px; aspect-ratio: 4/3x" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
