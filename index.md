@@ -9,6 +9,6 @@ sections:
   - hero:
       background: /images/Herobanner2.gif
   - resources:
-      title: Announcement
+      title: Announcements
       button: More
 ---
