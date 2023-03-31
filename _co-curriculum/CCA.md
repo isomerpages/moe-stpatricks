@@ -19,13 +19,13 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/tennis/"><img style="width:150px; aspectratio:3/4" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:100%" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:100%" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:100%" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](/cca/Sports/badminton/) |
+| <a href="/cca/Sports/tennis/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/tennis.jpg"></a>[Tennis](/cca/Sports/tennis/) | <a href="/cca/Sports/Floorball/"><img style="width:150px; aspect-ratio: 4/3" src="/images/CCA_Update_Dec2022/Floorball.jpeg"></a>[Floorball](/cca/Sports/Floorball/) | <a href="/cca/Sports/cricket/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/cricket.jpg"></a>[Cricket](/cca/Sports/cricket/) | <a href="/cca/Sports/badminton/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/Badminton.jpg"></a>[Badminton](/cca/Sports/badminton/) |
 
 ####  **Aesthetics**
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|<a href="/cca/Aesthetics/military-band/"><img style="width:100%" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:100%" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](/cca/Aesthetics/modern-dance/) | <a href="/cca/Aesthetics/drama/"><img style="width:100%" src="/images/2022_Migration/drama.jpg"></a>[Drama](/cca/Aesthetics/drama/) | <a href="/cca/Aesthetics/guitar-ensemble/"><img style="width:100%" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](/cca/Aesthetics/guitar-ensemble/) |
+|<a href="/cca/Aesthetics/military-band/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](/cca/Aesthetics/modern-dance/) | <a href="/cca/Aesthetics/drama/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/drama.jpg"></a>[Drama](/cca/Aesthetics/drama/) | <a href="/cca/Aesthetics/guitar-ensemble/"><img style="width:150px; aspect-ratio: 4/3" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](/cca/Aesthetics/guitar-ensemble/) |
 
 ####  **Club &amp; Societies**
 
