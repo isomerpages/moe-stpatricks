@@ -7,7 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Herobanner2.gif
+      background: /images/websiteherobanner v2-04.png
+      key_highlights:
+        - title: Contact Us
+          description: ""
+          url: ""
+        - title: 90th Anniversary Happenings
+          description: ""
+          url: ""
+        - title: Useful Links
+          description: ""
+          url: ""
   - resources:
       title: Announcements
       button: More
