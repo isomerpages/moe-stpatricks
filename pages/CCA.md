@@ -15,7 +15,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/football/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
+| <a href="/cca/Sports/football/"><img style="width:100%; aspect-ratio:1/1" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:100%; aspect-ratio:1/1" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:150px; aspect-ratio:1/1" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
@@ -27,7 +27,7 @@ description: ""
 |:---:|:---:|:---:|:---:|
 |<a href="/cca/Aesthetics/military-band/"><img style="width:100%" src="/images/2022_Migration/Military%20Band.jpg"></a>[Military Band](/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:100%" src="/images/2022_Migration/dance.jpg"></a>[Modern Dance](/cca/Aesthetics/modern-dance/) | <a href="/cca/Aesthetics/drama/"><img style="width:100%" src="/images/2022_Migration/drama.jpg"></a>[Drama](/cca/Aesthetics/drama/) | <a href="/cca/Aesthetics/guitar-ensemble/"><img style="width:100%" src="/images/2022_Migration/Guitar%20Ensemble.jpg"></a>[Guitar Ensemble](/cca/Aesthetics/guitar-ensemble/) |
 
-####  **Club & Societies**
+####  **Club &amp; Societies**
 
 |  |  |  |
 |:---:|:---:|:---:|
