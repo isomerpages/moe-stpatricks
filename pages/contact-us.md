@@ -2,31 +2,30 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: St Patrick’s School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 490 East Coast Road
+      - Singapore 429058
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.15am to 5.30pm
+        description: Closed on weekends and Public Holidays
+      - days: Mon-Fri
+        time: 8am to 5pm
+        description: on school holidays
+    maps_link: ""
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6344 0929
+      - email: stpatricksch@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6344 5152
+      - email: ""
+      - other: ""
+    title: Fax
 ---

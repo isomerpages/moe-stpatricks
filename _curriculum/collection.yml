@@ -1,0 +1,15 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Academic Departments/.keep
+      - Academic Departments/Craft and Technology.md
+      - Academic Departments/English & Literature.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Mother Tongue.md
+      - Academic Departments/Physical Education.md
+      - Academic Departments/Science.md
+      - Character and Citizenship Education (CCE).md
+      - Music Lifelong Learning Programme (LLP).md
+      - STEM Applied Learning Programme (ALP).md

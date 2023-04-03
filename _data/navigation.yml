@@ -1,15 +1,32 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo text Transparent SM.png
 links:
+  - title: About
+    collection: about
+  - title: Admissions
+    collection: admissions
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    url: /co-curriculum/cca
+    sublinks:
+      - title: CCA
+        url: /co-curriculum/cca
+      - title: Student Leadership
+        url: /co-curriculum/student-leadership/
+      - title: Values in Action (VIA)
+        url: /co-curriculum/via/
+      - title: Education & Career Guidance
+        url: /co-curriculum/ecg/
+      - title: National Education
+        url: /co-curriculum/national-education/
+  - title: Connect
+    url: /connect/sch-communication-channels/
+    sublinks:
+      - title: School Communication Channels
+        url: /connect/sch-communication-channels/
+      - title: The Patrician Society
+        url: https://thepatriciansociety.org/
+      - title: The Patrician Parent
+        url: /connect/the-patrician-parent/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
