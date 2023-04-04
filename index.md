@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Contact Us
           description: ""
-          url: ""
+          url: https://www.stpatricks.moe.edu.sg/contact-us/
         - title: 90th Anniversary Happenings
           description: ""
           url: ""
