@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Herobanner2.gif
-      key_highlights:
-        - title: Contact Us
-          description: ""
-          url: https://www.stpatricks.moe.edu.sg/contact-us/
   - resources:
       title: Announcements
       button: More
