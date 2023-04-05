@@ -3,11 +3,10 @@ title: CCA
 permalink: /co-curriculum/cca/
 description: ""
 ---
-### **CCA**
+![](/images/culture%20of%20excellence.png)
 
 ####  **Uniformed Groups**
-
-|  |  |  |  |
+| |  |  |  |
 |:---:|:---:|:---:|:---:|
 |<a href="/cca/Uniformed-Groups/ncc-air/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/NCCAir.jpg"></a>[NCC (Air)](/cca/Uniformed-Groups/ncc-air/) | <a href="/cca/Uniformed-Groups/ncc-land/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/NCCLand_Thm.jpg"></a>[NCC (Land)](/cca/Uniformed-Groups/ncc-land/) | <a href="/cca/Uniformed-Groups/scouts/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Scouts.jpg"></a>[Scouts](/cca/Uniformed-Groups/scouts/) | <a href="/cca/Uniformed-Groups/npcc/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/NPCC.jpg"></a>[NPCC](/cca/Uniformed-Groups/npcc/)
 
@@ -31,4 +30,4 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Library.jpg"></a>[Library](/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
+|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Library.jpg"></a>[Library](/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:200px; aspect-ratio: 4/34/3" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
