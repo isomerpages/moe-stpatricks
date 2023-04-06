@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA.md
       - Student Leadership/Overview.md
       - Student Leadership/Class Committee.md
       - Student Leadership/Student Council.md
