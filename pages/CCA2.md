@@ -12,6 +12,6 @@ To know more about the CCA program for the individual groups, please click...
 
 |||
 | ------ | ------ |
-|![/co-curriculum/cca2/uniformed-groups/](/images/uniformed%20groups.png)| ![](/images/aesthetics.png)|
+|![(/co-curriculum/cca2/uniformed-groups/)](/images/uniformed%20groups.png)| ![](/images/aesthetics.png)|
 ![](/images/sports.png)|![](/images/clubs%20and%20societies.png)
 |
