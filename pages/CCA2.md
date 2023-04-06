@@ -10,9 +10,8 @@ Through this program students are....
 To know more about the CCA program for the individual groups, please click...
 
 ```
-<button class="accordian">Open Collapsible </button>
-<div class="panel">
-<p> testing </p>
+<button class="collapsible" type="button">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
-
 ```
