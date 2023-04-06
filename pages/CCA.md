@@ -3,7 +3,6 @@ title: CCA
 permalink: /co-curriculum/cca/
 description: ""
 ---
-![](/images/culture%20of%20excellence.png)
 
 ####  **Uniformed Groups**
 
