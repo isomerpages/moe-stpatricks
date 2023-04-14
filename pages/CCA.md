@@ -3,8 +3,6 @@ title: CCA
 permalink: /co-curriculum/cca/
 description: ""
 ---
-### **CCA**
-
 ####  **Uniformed Groups**
 
 |  |  |  |  |
@@ -15,7 +13,7 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| <a href="/cca/Sports/football/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:240px; aspect-ratio: 3/2" src="/images/2022_Migration/Golf.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:200px; aspect-ratio: 4/3x" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
+| <a href="/cca/Sports/football/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/football.jpg"></a>[Football](/cca/Sports/football/) | <a href="/cca/Sports/golf/"><img style="width:250px; aspect-ratio: 3/2" src="/images/2022_Migration/golf-2.jpg"></a>[Golf](/cca/Sports/golf/) | <a href="/cca/Sports/basketball/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Basketball.jpg"></a>[Basketball](/cca/Sports/basketball/) | <a href="/cca/Sports/athletics/"><img style="width:200px; aspect-ratio: 4/3x" src="/images/2022_Migration/tracknField.jpg"></a>[Athletics](/cca/Sports/athletics/) |
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
@@ -31,4 +29,4 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Library.jpg"></a>[Library](/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |
+|<a href="/cca/Clubs-and-Societies/legion-of-mary/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/legion%20of%20mary.jpg"></a>[Legion of Mary](/cca/Clubs-and-Societies/legion-of-mary/) | <a href="/cca/Clubs-and-Societies/library/"><img style="width:200px; aspect-ratio: 4/3" src="/images/2022_Migration/Library.jpg"></a>[Library](/cca/Clubs-and-Societies/library/) | <a href="/cca/Clubs-and-Societies/media-club/"><img style="width:200px; aspect-ratio: 4/34/3" src="/images/2022_Migration/media%20and%20design.jpg">Media Club</a> |

@@ -7,10 +7,10 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Co-Curriculum
-    url: /co-curriculum/cca
+    url: /co-curriculum/cca2
     sublinks:
       - title: CCA
-        url: /co-curriculum/cca
+        url: /co-curriculum/cca2/
       - title: Student Leadership
         url: /co-curriculum/student-leadership/
       - title: Values in Action (VIA)
@@ -28,5 +28,3 @@ links:
         url: https://thepatriciansociety.org/
       - title: The Patrician Parent
         url: /connect/the-patrician-parent/
-  - title: Contact Us
-    url: /contact-us/

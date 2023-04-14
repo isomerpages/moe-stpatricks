@@ -26,7 +26,7 @@ third_nav_title: Staff Directory
 
 | 2 Integrity |  |
 |:---:|:---:|
-| Miss Lee Yen Pheng Felicia | [lee_yen_pheng_felicia@moe.edu.sg](mailto:lee_yen_pheng_felicia@moe.edu.sg) |
+| Mr Tan Chiew Seng | [tan_chiew_seng@moe.edu.sg](mailto:tan_chiew_seng@moe.edu.sg) |
 | Miss Nicola Loh Sijin | [nicola_loh_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg) |
 |
 
