@@ -2,12 +2,11 @@
 title: Legion of Mary
 permalink: /cca/Clubs-and-Societies/legion-of-mary/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
-### **Legion of Mary**
 
-<img src="/images/2022_Migration/Legion.jpg" 
-     style="width:100%">
+
+<img src="/images/2022_Migration/Legion.jpg" style="width:100%">
 
 #### **Profile**
 
@@ -23,5 +22,5 @@ Fridays: 1.00 – 2.00pm
 
 #### **CCA Teachers-in-Charge**
 
-* Mr Ang Darrenkane - [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg)  
-* Mr Michael Fredrick - [michael_chandra_fredrick@moe.edu.sg](mailto:michael_chandra_fredrick@moe.edu.sg)
+* Mr Ang Darrenkane -&nbsp;[ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg)  
+* Mr Michael Fredrick -&nbsp;[michael_chandra_fredrick@moe.edu.sg](mailto:michael_chandra_fredrick@moe.edu.sg)
