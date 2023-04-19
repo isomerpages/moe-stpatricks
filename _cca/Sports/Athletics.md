@@ -4,10 +4,9 @@ permalink: /cca/Sports/athletics/
 description: ""
 third_nav_title: Sports
 ---
-### **Athletics**
 
-<img src="/images/2022_Migration/Athletics.jpg" 
-     style="width:100%">
+
+<img src="/images/2022_Migration/Athletics.jpg" style="width:100%">
 
 #### **Profile**
 
@@ -26,7 +25,7 @@ Our team is thankful for the experienced coaching by Coach Hamkah Afik and Coach
 * 200m - 2nd position
 * 400m - 7th position
 * Long Jump - 8th position
-* 4 x 100m -  4th position
+* 4 x 100m -&nbsp; 4th position
 * 4 x 400m - 2nd position
 * Overall Ranking - 6th position
 
