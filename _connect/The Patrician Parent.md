@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/2022_Migration/patrician_parent_header.jpg)
 
-<img src="/images/2022_Migration/patrician%20parent%20Kevin%20Seah-Co-Chairperson.jpg" style="width:30%;margin-right:15px;" align = "Left">
+<img src="/images/2022_Migration/patrician%20parent%20Kevin%20Seah-Co-Chairperson.jpg" style="width:30%;margin-right:15px;" align="Left">
 
 A cordial welcome to the Patrician Parent! It is an incredible pleasure to have you all onboard.
 
