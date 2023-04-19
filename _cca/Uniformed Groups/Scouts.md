@@ -4,16 +4,15 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **Scouts**
 
-<img src="/images/2022_Migration/Scouts.jpg" 
-     style="width:85%">
+
+<img src="/images/2022_Migration/Scouts.jpg" style="width:85%">
 
 #### **Profile**
 
 ##### **"Pajigwad: Stick to it!"**
 
-St. Patrick’s School Pajigwad Scouts Troop has attained the Frank Cooper Sands Gold Award for more than 10 consecutive years. 
+St. Patrick’s School Pajigwad Scouts Troop has attained the Frank Cooper Sands Gold Award for more than 10 consecutive years.&nbsp;
 
 Our Scouts continue to exemplify excellence in their weekly training and at Scout HQ events. Weekly training sessions focus on honing core scouting skills and patrol bonding. Scouts continue to participate in HQ and area competitions and have clinched several awards.
 
@@ -38,6 +37,6 @@ Fridays: 2.00 - 5.00pm
 
 #### **CCA Teachers-in-Charge**
 
-* Ms Christie Cheah - [cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) 
-* Mr Boon Jia Hui - [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)
+* Ms Christie Cheah -&nbsp;[cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) 
+* Mr Boon Jia Hui -&nbsp;[boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)
 * Mdm Li Xiyao - [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg)
