@@ -3,7 +3,6 @@ title: Alumni Achievements
 permalink: /about/alumni-achievement/
 description: ""
 ---
-### **Alumni Achievements**
 
 #### **St Pats Class of 2012**
 
@@ -41,7 +40,7 @@ Soldier of the Year 2016
 **Bryce Goh Ying Ming**<br>
 Ngee Ann Polytechnic Class of 2017<br>
 Diploma with Merit in Aerospace Technology, Mechanical Engineering Division<br>
-Rolls Royce Gold Medal & Prize for Most Outstanding Performance<br>
+Rolls Royce Gold Medal &amp; Prize for Most Outstanding Performance<br>
 Turbine Technologies Prize
 
 **Benjamin Ho Zhi En**<br>
@@ -59,7 +58,7 @@ Vice President of PFP Ambassador
 
 **Edmund Chow Wei Jie**<br>
 Nanyang Polytechnic Class of 2017<br>
-Diploma in Fund Management & Administration <br>
+Diploma in Fund Management &amp; Administration <br>
 UOB Asset Management Bronze Award
 
 **Nigel Leno Gasper**<br>
@@ -94,4 +93,3 @@ ITE Business Information Systems<br>
 Temasek Polytechnic Class of 2020<br>
 Diploma in Business Information Technology with Merit<br>
 Director’s List
-
