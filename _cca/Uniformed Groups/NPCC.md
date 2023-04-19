@@ -4,10 +4,9 @@ permalink: /cca/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **NPCC**
 
-<img src="/images/2022_Migration/NPCC.jpg" 
-     style="width:100%">
+
+<img src="/images/2022_Migration/NPCC.jpg" style="width:100%">
 
 #### **Profile**
 
@@ -19,7 +18,7 @@ These efforts led to all our cadets attaining proficiency in different skills an
 
 #### **Achievements/ Participation Unit**
 
-Overall Proficiency Award 2021 - Gold 
+Overall Proficiency Award 2021 - Gold&nbsp;
 
 SPF-NPCC Badge Awardee (Pinnacle Award in NPCC) 2022 - Gabriel Ang Wee Jun (4V)
 
@@ -29,6 +28,6 @@ Fridays: 2.30 - 5.30pm
 
 #### **CCA Teachers-in-Charge**
 
-* A/ASP (NPCC) Ruth Zhuo - [zhuo_suyin_ruth@moe.edu.sg](mailto:zhuo_suyin_ruth@moe.edu.sg) 
-* INSP (NPCC) Sylvester Chan - [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) 
-* INSP (NPCC) Rachel Koh - [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
+* A/ASP (NPCC) Ruth Zhuo -&nbsp;[zhuo_suyin_ruth@moe.edu.sg](mailto:zhuo_suyin_ruth@moe.edu.sg) 
+* INSP (NPCC) Sylvester Chan -&nbsp;[sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) 
+* INSP (NPCC) Rachel Koh -&nbsp;[koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
