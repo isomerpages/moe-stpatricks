@@ -4,7 +4,6 @@ permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
 ---
-### **Head of Department**
 
 | No. | HOD / Subject | Name | Email |
 |:---:|:---:|:---:|:---:|
