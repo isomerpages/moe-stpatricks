@@ -4,8 +4,6 @@ permalink: /about/staff-directory/sec-2/
 description: ""
 third_nav_title: Staff Directory
 ---
-### **Secondary Two Form Teachers**
-
 | 2 Self-Discipline |  |
 |:---:|:---:|
 | Mr Rajesh Somu | [rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg) |

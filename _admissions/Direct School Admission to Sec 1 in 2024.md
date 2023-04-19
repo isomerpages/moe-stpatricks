@@ -3,7 +3,7 @@ title: Direct School Admission to Sec 1 in 2024
 permalink: /admission/dsa-2024/
 description: ""
 ---
-### **Direct School Admission to Sec 1 in 2024**
+
 
 #### **Direct School Admission – Secondary (DSA-Sec)**
 

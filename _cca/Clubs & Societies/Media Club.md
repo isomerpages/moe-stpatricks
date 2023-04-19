@@ -2,12 +2,9 @@
 title: Media Club
 permalink: /cca/Clubs-and-Societies/media-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
-### **Media Club**
-
-<img src="/images/2022_Migration/Media.jpg" 
-     style="width:100%">
+<img src="/images/2022_Migration/Media.jpg" style="width:100%">
 
 #### **Profile**
 
@@ -19,7 +16,7 @@ Trained by industry professionals, the 3 branches of the Media and Info Communic
 
 #### **Achievements/ Participation**
 
-##### **Media & Design**
+##### **Media &amp; Design**
 **1\. Participation in External Competitions**
 * Chromatic Awards – International Photo Competition
 * Nikon Photo Contest 2020- 2021
@@ -60,7 +57,7 @@ Friday, 230 - 530pm
 
 **Overall I/C:**<br>
 
-* Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) 
+* Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg)&nbsp;
 
 **Second I/C and Media and Design I/C:**
 
@@ -76,6 +73,6 @@ Friday, 230 - 530pm
 
 **Audio/Videography:**
 
-* Mr Juhari- [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) 
+* Mr Juhari- [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg)&nbsp;
 * Ms Mabel Sim - [sim_yi_wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
 * Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg)

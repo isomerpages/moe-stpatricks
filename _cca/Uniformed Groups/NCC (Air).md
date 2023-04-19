@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **NCC (Air)**
+
 
 <img src="/images/2022_Migration/Ncc_Air_1.jpg" style="width:65%">
 		 

@@ -4,7 +4,7 @@ permalink: /cca/Aesthetics/modern-dance/
 description: ""
 third_nav_title: Aesthetics
 ---
-### **Modern Dance**
+
 
 #### **Profile**
 
@@ -30,5 +30,3 @@ Fridays: 2.30 - 4.30pm
 
 * Mr. Haniel Soh - [soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg)
 * Ms. Zhao Jing - [zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg)
-
-

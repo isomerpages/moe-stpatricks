@@ -4,7 +4,6 @@ permalink: /about/staff-directory/sec-3/
 description: ""
 third_nav_title: Staff Directory
 ---
-### **Secondary Three Form Teachers**
 
 | 3 Self-Discipline |  |
 |:---:|:---:|

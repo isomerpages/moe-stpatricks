@@ -4,10 +4,7 @@ permalink: /cca/Sports/cricket/
 description: ""
 third_nav_title: Sports
 ---
-### **Cricket**
-
-<img src="/images/2022_Migration/Cricket.jpg" 
-     style="width:100%">
+<img src="/images/2022_Migration/Cricket.jpg" style="width:100%">
 		 
 #### **Profile**
 
@@ -31,5 +28,5 @@ Friday, 2.00 - 4.00pm
 
 #### **CCA Teachers in Charge**
 
-* Mr. Mariappan Arjunan - [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg)  
-* Mr. Selvanayagam Sivalingam - [selvanayagam_sivalingam@moe.edu.sg](mailto:selvanayagam_sivalingam@moe.edu.sg)
+* Mr.&nbsp;Mariappan Arjunan&nbsp;-&nbsp;[mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg)  
+* Mr.&nbsp;Selvanayagam Sivalingam&nbsp;-&nbsp;[selvanayagam_sivalingam@moe.edu.sg](mailto:selvanayagam_sivalingam@moe.edu.sg)

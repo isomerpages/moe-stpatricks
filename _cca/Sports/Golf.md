@@ -4,10 +4,7 @@ permalink: /cca/Sports/golf/
 description: ""
 third_nav_title: Sports
 ---
-### **Golf**
-
-<img src="/images/2022_Migration/Golf.jpg" 
-     style="width:65%">
+<img src="/images/2022_Migration/golf-2.jpg" style="width:65%">
 		 
 #### **Profile**
 
@@ -21,15 +18,15 @@ Mentally resilient in the pursuit of excellence, success is par for the course w
 
 #### **Achievements**
 
-**_B Division National School Games Golf Team Championship 2022 – 4th place_**
+**_B Division National School Games Golf Team Championship 2022 – 4th&nbsp;place_**
 
-*  Lam Jun Xi   4L
-*  Bryan Heng Guo Wei   3V
+*  Lam Jun Xi &nbsp; 4L
+*  Bryan Heng Guo Wei &nbsp; 3V
 
-**_C Division National School Games Golf Team Championship 2022 – 4th place_**
+**_C Division National School Games Golf Team Championship 2022 – 4th&nbsp;place_**
 
-*   Koo Ming Cong Randall   2SD
-*   Yan Ming De    1I
+*   Koo Ming Cong Randall&nbsp;&nbsp; 2SD
+*   Yan Ming De&nbsp;&nbsp;&nbsp; 1I
 
 #### **CCA Training Schedule**
 

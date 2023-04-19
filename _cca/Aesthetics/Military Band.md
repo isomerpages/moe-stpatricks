@@ -4,16 +4,15 @@ permalink: /cca/Aesthetics/military-band/
 description: ""
 third_nav_title: Aesthetics
 ---
-### **Military Band**
 
-<img src="/images/2022_Migration/BAND.jpg" 
-     style="width:85%">
+
+<img src="/images/2022_Migration/BAND.jpg" style="width:85%">
 		 
 #### **Profile**
 
 ##### **“To develop strong musicians and leaders who will serve others”**
 
-Set up on 2nd March 1953 as a bugle, fife and drum band, It became Singapore's first school military band in 1957 and evolved into a concert band in the mid-1980s. Over the years, the Saint Patrick’s School Military Band has established itself as one of the most outstanding secondary school bands in Singapore. With the sustained records of achievements over the years, the Ministry of Education (MOE) has recognized and awarded Saint Patrick’s School Military Band as **a Niche Programme School** in 2007. In the recent Singapore Youth Festival (SYF) 2021 Arts Presentation, Saint Patrick’s School Military Band continued to maintain the **standard of excellence** and added on to our **16 consecutive distinctions**; a feat achieved through our Patricians’ hard work and passion for music.
+Set up on 2nd March 1953 as a bugle, fife and drum band, It became Singapore's first school military band in 1957 and evolved into a concert band in the mid-1980s. Over the years, the Saint Patrick’s School Military Band has established itself as one of the most outstanding secondary school bands in Singapore. With the sustained records of achievements over the years, the Ministry of Education (MOE) has recognized and awarded Saint Patrick’s School Military Band as&nbsp;**a Niche Programme School**&nbsp;in 2007. In the recent Singapore Youth Festival (SYF) 2021 Arts Presentation, Saint Patrick’s School Military Band continued to maintain the&nbsp;**standard of excellence**&nbsp;and added on to our&nbsp;**16 consecutive distinctions**; a feat achieved through our Patricians’ hard work and passion for music.
 
 #### **Achievements/Participation**
 
@@ -46,8 +45,8 @@ Secondary 2 – 4: Monday (odd week), Wednesday and Friday, 2.30 – 6pm
 
 #### **CCA Teachers-in-Charge**
 
-* Ms. Belinda Toh - [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg)
-* Ms. Charissa Chia - [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg)
-* Ms. Yeo Hui Wen - [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg)
-* Ms. Teng Mui Lim - [teng_mui_lim@moe.edu.sg](mailto:teng_mui_lim@moe.edu.sg)
-* Ms. Dorothy Seng - [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg)
+* Ms. Belinda Toh&nbsp;- [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg)
+* Ms. Charissa Chia&nbsp;- [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg)
+* Ms. Yeo Hui Wen&nbsp;- [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg)
+* Ms. Teng Mui Lim&nbsp;- [teng_mui_lim@moe.edu.sg](mailto:teng_mui_lim@moe.edu.sg)
+* Ms. Dorothy Seng&nbsp;- [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg)

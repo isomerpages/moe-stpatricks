@@ -4,7 +4,7 @@ permalink: /about/staff-directory/sec-1/
 description: ""
 third_nav_title: Staff Directory
 ---
-### **Secondary One Form Teachers**
+
 
 | 1 Self-Discipline |  |
 |:---:|:---:|
