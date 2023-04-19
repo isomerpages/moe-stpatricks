@@ -4,13 +4,11 @@ permalink: /cca/Aesthetics/drama/
 description: ""
 third_nav_title: Aesthetics
 ---
-### **Drama**
 
-<img src="/images/2022_Migration/Drama%20Club.jpg" 
-     style="width:65%">
+
+<img src="/images/2022_Migration/Drama%20Club.jpg" style="width:65%">
 		 
-<img src="/images/2022_Migration/drama%202.jpg" 
-     style="width:100%">
+<img src="/images/2022_Migration/drama%202.jpg" style="width:100%">
 		 
 #### **Profile**
 
@@ -37,5 +35,5 @@ Friday 2.30 - 6 pm
 
 #### **CCA Teachers-in-Charge**
 
-* Mr. Nicholas Huang - [huang_hanmin_nicholas@moe.edu.sg](mailto:huang_hanmin_nicholas@moe.edu.sg)
-* Ms. Annisa Shaaban  - [annisa_shaaban@moe.edu.sg](mailto:annisa_shaaban@moe.edu.sg)
+* Mr. Nicholas Huang -&nbsp;[huang_hanmin_nicholas@moe.edu.sg](mailto:huang_hanmin_nicholas@moe.edu.sg)
+* Ms. Annisa Shaaban&nbsp; -&nbsp;[annisa_shaaban@moe.edu.sg](mailto:annisa_shaaban@moe.edu.sg)
