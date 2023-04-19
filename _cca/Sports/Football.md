@@ -4,13 +4,11 @@ permalink: /cca/Sports/football/
 description: ""
 third_nav_title: Sports
 ---
-### **Football**
 
-<img src="/images/2022_Migration/football%201.jpg" 
-     style="width:100%">
+
+<img src="/images/2022_Migration/football%201.jpg" style="width:100%">
 		 
-<img src="/images/2022_Migration/football%202.jpg" 
-     style="width:100%">		 
+<img src="/images/2022_Migration/football%202.jpg" style="width:100%">		 
 		 
 #### **Profile**
 
