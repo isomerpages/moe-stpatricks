@@ -1,9 +1,8 @@
 ---
-title: Financial & Non Financial Information
+title: Financial &amp; Non Financial Information
 permalink: /about/financial/
 description: ""
 ---
-### **Financial & Non-Financial Information**
 
 #### **Basic information**
 
@@ -33,7 +32,7 @@ The school offers Emerging Technologies as its Applied Learning Programme (ALP).
 Nil
 
 ##### **Upcoming school’s activities/programmes:**
-The school continues to expand its adoption of technology beyond classroom learning into ALP and LLP. To prepare our students to be future ready, the ALP is expanding its coding expertise into making e-sports and gaming software and/or apps. LLP is also tapping on technology to enhance the students’ interest in making and performing music. Broadcasting and DJ skills will be introduced. The school is also reviewing its student leadership structure to achieve a target of 100% leadership opportunities for our students where numerous opportunities are provided for students to exercise and develop their leadership skills and shape positive futures for themselves, their families, and the global community. The school will be tapping on the FSBB infrastructure support to increase the number of learning spaces to cater to whole school implementation of FSBB.
+The school continues to expand its adoption of technology beyond classroom learning into ALP and LLP. To prepare our students to be future ready, the ALP is expanding its coding expertise into making e-sports and gaming software and/or apps. LLP is also tapping on technology to enhance the students’ interest in making and performing music. Broadcasting and DJ skills will be introduced. The school is also reviewing its student leadership structure to achieve a target of 100% leadership opportunities for our students where numerous opportunities are provided for students to exercise and develop their leadership skills and shape positive futures for themselves, their families, and the global community. The school will be tapping on the FSBB infrastructure&nbsp;support to increase the number of learning spaces to cater to whole school implementation of FSBB.
 
 ##### **Future fundraising plans (if any):**
 Fundraising to co-pay for the lift building project. The project has identified the need of 4 lifts for the school. The project was expected to complete in 2023.<br>
