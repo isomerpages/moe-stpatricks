@@ -4,7 +4,7 @@ permalink: /co-curriculum/student-leadership/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **Student Leadership Overview**
+
 
 #### **Our Philosophy**
 
