@@ -3,7 +3,7 @@ title: Vision, Mission, Motto and Values
 permalink: /about/vision-mission-motto-values/
 description: ""
 ---
-### **Vision, Mission, Motto and Values**
+
 
 #### **Vision**
 A Lasallian institution nurturing Boys of Faith, Gentlemen with Purpose and Leaders with Heart, who are worthy of God and man
@@ -15,5 +15,4 @@ Touch hearts. Engage minds. Transform lives.
 Potest Qui Vult! (He who Wills, Can!)
 
 #### **Values**
-<img src="/images/2022_Migration/value.png" 
-     style="width:80%">
+<img src="/images/2022_Migration/value.png" style="width:80%">
