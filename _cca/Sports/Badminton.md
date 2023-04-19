@@ -4,10 +4,9 @@ permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-### **Badminton**
 
-<img src="/images/2022_Migration/Badminton.jpg" 
-     style="width:85%">
+
+<img src="/images/2022_Migration/Badminton.jpg" style="width:85%">
 		 
 #### **Profile**
 
@@ -33,9 +32,9 @@ Every Friday, 2.30-4.30 pm
 #### **CCA Teachers-in-Charge**
 
 **School Team:**<br>
-* Mdm Ng Yi Ting - [ng_yi_ting@moe.edu.sg](mailto:ng_yi_ting@moe.edu.sg)
-* Mr Rajesh Somu - [rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg)
+* Mdm Ng Yi Ting&nbsp;- [ng_yi_ting@moe.edu.sg](mailto:ng_yi_ting@moe.edu.sg)
+* Mr Rajesh Somu -&nbsp;[rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg)
 
 **Development Team:**<br>
-* Mr John Koh - [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg)
-* Mr Vincent Chong - [chong_weng_chiew_vincent@moe.edu.sg](mailto:chong_weng_chiew_vincent@moe.edu.sg)
+* Mr John Koh&nbsp;- [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg)
+* Mr Vincent Chong&nbsp;- [chong_weng_chiew_vincent@moe.edu.sg](mailto:chong_weng_chiew_vincent@moe.edu.sg)
