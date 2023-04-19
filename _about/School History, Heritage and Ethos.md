@@ -3,7 +3,7 @@ title: School History, Heritage and Ethos
 permalink: /about/sch-history-heritage-ethos/
 description: ""
 ---
-### **School History, Heritage and Ethos**
+
 
 #### **A Lasallian School**
 

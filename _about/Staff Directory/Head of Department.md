@@ -4,8 +4,6 @@ permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
 ---
-### **Head of Department**
-
 | No. | HOD / Subject | Name | Email |
 |:---:|:---:|:---:|:---:|
 | 1.            | HOD Math | Miss Teo Bee Hoon | [teo_bee_hoon@moe.edu.sg](mailto:teo_bee_hoon@moe.edu.sg) |
