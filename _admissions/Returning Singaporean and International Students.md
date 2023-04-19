@@ -3,7 +3,7 @@ title: Returning Singaporean and International Students
 permalink: /admission/returning-students/
 description: ""
 ---
-### **Returning Singaporean and International Students**
+
 
 #### **School Placement Exercise for Returning Singaporeans – Secondary (SPERS-Sec)**
 
