@@ -4,9 +4,7 @@ permalink: /cca/Sports/golf/
 description: ""
 third_nav_title: Sports
 ---
-
-
-<img src="/images/2022_Migration/Golf.jpg" style="width:65%">
+<img src="/images/2022_Migration/Golf-2.jpg" style="width:65%">
 		 
 #### **Profile**
 
