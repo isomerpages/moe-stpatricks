@@ -4,9 +4,9 @@ permalink: /cca/Sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-### **Basketball**
 
-<img src="/images/2022_Migration/Basketball.jpg" style="width:65%">
+
+<img style="width:65%" src="/images/2022_Migration/Basketball.jpg">
 		 
 #### **Title**
 
