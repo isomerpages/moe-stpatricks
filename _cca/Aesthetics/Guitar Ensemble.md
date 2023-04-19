@@ -4,8 +4,6 @@ permalink: /cca/Aesthetics/guitar-ensemble/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 ![](/images/2022_Migration/guitar%201.jpg)
 
 ![](/images/2022_Migration/guitar%202.jpg)
