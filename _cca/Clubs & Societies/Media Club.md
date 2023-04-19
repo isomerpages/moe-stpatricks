@@ -4,8 +4,6 @@ permalink: /cca/Clubs-and-Societies/media-club/
 description: ""
 third_nav_title: Clubs &amp; Societies
 ---
-
-
 <img src="/images/2022_Migration/Media.jpg" style="width:100%">
 
 #### **Profile**
