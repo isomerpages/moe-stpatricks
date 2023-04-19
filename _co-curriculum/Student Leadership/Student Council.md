@@ -4,7 +4,7 @@ permalink: /co-curriculum/student-leadership/student-council/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **Student Council**
+
 
 Tier Two of our leadership education focuses on Team Leadership, where outstanding Patricians who demonstrate competency in striving to lead others are developed as student councillors. The Student Council provides a platform for outstanding leaders to participate collaboratively in meaningful causes that would make a positive difference. It allows Patricians to grow as effective communicators and people managers who are competent and efficient in the execution of their projects. By facilitating school wide events, Patricians will be equipped with the knowledge and skills necessary to strive as effective team leaders.
 
