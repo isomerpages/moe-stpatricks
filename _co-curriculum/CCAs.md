@@ -17,6 +17,7 @@ Our CCAs offer varied experiences to cater for our students’ interest and thei
 
 Click on the various groups to find out more.
 
+
 |||
 | ------ | ------ |
 |<a href="/co-curriculum/ccas/uniformed-groups/"><img src="/images/uniformed%20groups.png"></a>| <a href="/co-curriculum/ccas/aesthetics/"><img src="/images/aesthetics.png"></a>|
