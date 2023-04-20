@@ -59,13 +59,9 @@ Friday, 230 - 530pm
 
 * Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg)&nbsp;
 
-**Second I/C and Media and Design I/C:**
+**Second I/C and Broadcast Journalism I/C:**
 
 * Miss Faith Wong - [faith\_wong\_soke\_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
-
-**Broadcast Journalism:**
-
-* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg)
 
 **Photography:**
 
