@@ -4,7 +4,7 @@ permalink: /curriculum/academic-departments/english-and-lit/
 description: ""
 third_nav_title: Academic Departments
 ---
-_‘Nurturing Patricians to be Effective Communicators’_
+#####  **'Nurturing Patricians to be Effective Communicators’**
 
 <img src="/images/2022_Migration/englit%201.jpg" style="width:100%">
 		 

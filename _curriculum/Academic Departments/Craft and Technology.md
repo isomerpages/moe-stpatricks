@@ -4,9 +4,7 @@ permalink: /curriculum/academic-departments/craft-and-tech/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
-**‘Thinking with a Purpose to Transform Lives for the Better’**
+##### **‘Thinking with a Purpose to Transform Lives for the Better’**
 
 <img src="/images/2022_Migration/craftntech.jpg" style="width:85%">
 		 

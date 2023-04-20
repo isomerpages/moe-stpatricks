@@ -10,9 +10,9 @@ third_nav_title: Clubs &amp; Societies
 
 ##### **"Created to Create!"**
 
-The Media and Info Communication Club of St. Patrick’s School is instrumental in providing print, audio, video and photography support for school events and activities.
+The Media Club of St. Patrick’s School is instrumental in providing print, audio, video and photography support for school events and activities.
 
-Trained by industry professionals, the 3 branches of the Media and Info Communication Club - Broadcast Journalism, Media and Design and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
+Trained by industry professionals, the 3 branches of the Media  Club - Broadcast Journalism, Photography and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
 
 #### **Achievements/ Participation**
 
@@ -59,13 +59,9 @@ Friday, 230 - 530pm
 
 * Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg)&nbsp;
 
-**Second I/C and Media and Design I/C:**
+**Second I/C and Broadcast Journalism I/C:**
 
 * Miss Faith Wong - [faith\_wong\_soke\_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
-
-**Broadcast Journalism:**
-
-* Ms Geraldine Quek - [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg)
 
 **Photography:**
 

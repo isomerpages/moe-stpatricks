@@ -4,9 +4,7 @@ permalink: /curriculum/academic-departments/science/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
-#### <center>IN3guing Science – Inquire · Inspire · Innovate
+##### **IN3guing Science – Inquire · Inspire · Innovate**
 
 <img src="/images/2022_Migration/S1.jpg" style="width:100%">
 	
@@ -96,4 +94,4 @@ In the 2022 Singapore Junior Physics Olympiad, our school achieved 7 individual 
 
 <center><img src="/images/2022_Migration/Science10.png" style="width:100%"></center>
 	
-<center><img src="/images/2022_Migration/Science11.png" style="width:100%"></center></center>
+<center><img src="/images/2022_Migration/Science11.png" style="width:100%"></center>

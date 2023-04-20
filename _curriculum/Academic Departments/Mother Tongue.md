@@ -4,9 +4,7 @@ permalink: /curriculum/academic-departments/mother-tongue/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
-#### <center>Develop confident speakers and learners who appreciate their culture and find purpose and relevance in their Mother Tongue.
+##### **'Develop confident speakers and learners who appreciate their culture and find purpose and relevance in their Mother Tongue.'**
 
 <img src="/images/2022_Migration/mothertongue%201.jpg" style="width:100%">
 		 
@@ -24,4 +22,4 @@ In addition, activities such as the Mother Tongue Language Fortnight experience,
 	
 #### **Key Events / Achievements**
 ##### **Mother Tongue Language Fortnight Carnival**
-Through a wide array of authentic activities, students were provided with an immersive environment that enabled them to learn, use and appreciate their MT language and culture.&nbsp;The hands-on activities also gave students the freedom to learn about other cultures.</center>
+Through a wide array of authentic activities, students were provided with an immersive environment that enabled them to learn, use and appreciate their MT language and culture.&nbsp;The hands-on activities also gave students the freedom to learn about other cultures.

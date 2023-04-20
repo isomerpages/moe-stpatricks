@@ -10,8 +10,8 @@ sections:
       background: /images/website banner-04.png
       key_highlights:
         - title: 90th Anniversary Happenings
-          description: Key Highlight description
-          url: ""
+          description: Celebrations and Stories
+          url: https://sps90.educate.sg/
   - resources:
       title: Announcements
       button: More
