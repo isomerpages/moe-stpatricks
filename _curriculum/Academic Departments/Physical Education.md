@@ -4,9 +4,7 @@ permalink: /curriculum/academic-departments/PE/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
-#### <center>To develop students to demonstrate both individually and others the physical, affective, and cognitive skills to enjoy a lifetime of active and healthy living.
+##### **'To develop students to demonstrate both individually and others the physical, affective, and cognitive skills to enjoy a lifetime of active and healthy living.'**
 
 <img src="/images/2022_Migration/PE%201.jpg" style="width:100%">
 		 
@@ -40,4 +38,4 @@ Students from Secondary 1 to 3 also participate in at least 1 camp per year to a
 * Endurance Walk
 * Interclass Games
 
-	<img src="/images/2022_Migration/PE%203.jpeg" style="width:100%"></center>
+	<img src="/images/2022_Migration/PE%203.jpeg" style="width:100%">
