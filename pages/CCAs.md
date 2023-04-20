@@ -3,7 +3,7 @@ title: CCAs
 permalink: /co-curriculum/ccas/
 description: ""
 ---
-![](/images/ccabanner_gif.gif)
+![](/images/cca%20banner%20gif.gif)
 
 ### **CCA Framework**
 
