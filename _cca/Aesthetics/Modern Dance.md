@@ -9,7 +9,9 @@ third_nav_title: Aesthetics
 ##### **"Dance is the joy of movement and the heart of life"**
 
 <img src="/images/2023_updates/dance01.jpg" style="width:85%">
+<br>
 <img src="/images/2023_updates/dance02.jpg" style="width:85%">
+<br>
 <img src="/images/2023_updates/dance03.jpg" style="width:85%">
 
 As a relatively new CCA, SPS Modern Dance aims to instill a love for dance in its students by exposing them to the intricacies of movement and hidden complexities of music.
