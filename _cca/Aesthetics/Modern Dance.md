@@ -13,7 +13,6 @@ third_nav_title: Aesthetics
 ![](/images/2023updates/dance02.jpg)
 <br>
 ![](/images/2023updates/dance03.jpg)
-<br>
 
 
 As a relatively new CCA, SPS Modern Dance aims to instill a love for dance in its students by exposing them to the intricacies of movement and hidden complexities of music.
