@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/ccabanner_gif.gif)
 
-## CCA Framework
+### **CCA Framework**
 
 St Patrick’s School aims to provide a vibrant and robust co-curriculum programme in the holistic development of our students. Our CCAs are platforms for our students to develop talent, build character and develop leaders. CCAs also help to facilitate the development of values and lifeskills in each child. &nbsp;&nbsp;
 
