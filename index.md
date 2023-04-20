@@ -4,7 +4,7 @@ title: St. Patrick's School
 description: An Isomer site of the Singapore Government
 image: /images/School Logo (Transparent).png
 permalink: /
-notification: ""
+notification: Potest Qui Vult. He Who Wills, Can!
 sections:
   - hero:
       background: /images/website banner-04.png
