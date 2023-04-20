@@ -71,6 +71,8 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-US" style="font-size:12.0pt">Computational Thinking Skills</span></p></td></tr></tbody></table>
+	
+![](/images/dsa%20domain%20(1).png)
 
 The selection criteria and process for the talent areas will be updated from early-May. Please bookmark this page for the updates.
 
