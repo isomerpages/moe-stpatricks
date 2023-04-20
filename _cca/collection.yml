@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Our Aesthetic Groups.md
       - Our Sports CCAs.md
       - Our Uniformed Groups.md
       - Uniformed Groups/NCC (Air).md
