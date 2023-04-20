@@ -34,7 +34,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 |       | Scouts | 
 | Language and Humanities  | Media/Journalism| 
 | Science, Technology, Engineering and Mathematics | Computational Thinking Skills | 
-
+|       |   | 
 
 
 
