@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Our Clubs and Societies.md
       - Uniformed Groups/Our Uniformed Groups.md
       - Uniformed Groups/NCC (Air).md
       - Uniformed Groups/NCC (Land).md
