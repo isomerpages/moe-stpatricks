@@ -15,7 +15,7 @@ Here, we provide an environment for our students to pursue their interests as fa
 
 Our CCAs offer varied experiences to cater for our students’ interest and their holistic development in their journey in St Patrick’s School.
 
-
+Click on the various groups to find out more.
 |||
 | ------ | ------ |
 |<a href="/co-curriculum/cca2/uniformed-groups/"><img src="/images/uniformed%20groups.png"></a>| ![](/images/aesthetics.png)|
