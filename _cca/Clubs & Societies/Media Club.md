@@ -10,9 +10,9 @@ third_nav_title: Clubs &amp; Societies
 
 ##### **"Created to Create!"**
 
-The Media and Info Communication Club of St. Patrick’s School is instrumental in providing print, audio, video and photography support for school events and activities.
+The Media Club of St. Patrick’s School is instrumental in providing print, audio, video and photography support for school events and activities.
 
-Trained by industry professionals, the 3 branches of the Media and Info Communication Club - Broadcast Journalism, Media and Design and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
+Trained by industry professionals, the 3 branches of the Media  Club - Broadcast Journalism, Photography and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
 
 #### **Achievements/ Participation**
 
