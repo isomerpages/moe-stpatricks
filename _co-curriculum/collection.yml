@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCAs/CCAs.md
       - CCAs/.keep
       - Student Leadership/Student Leadership Overview.md
       - Student Leadership/Class Committee.md
