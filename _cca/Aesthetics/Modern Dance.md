@@ -4,11 +4,13 @@ permalink: /cca/Aesthetics/modern-dance/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 #### **Profile**
 
 ##### **"Dance is the joy of movement and the heart of life"**
+
+<img src="/images/2023_updates/dance01.jpg" style="width:85%">
+<img src="/images/2023_updates/dance02.jpg" style="width:85%">
+<img src="/images/2023_updates/dance03.jpg" style="width:85%">
 
 As a relatively new CCA, SPS Modern Dance aims to instill a love for dance in its students by exposing them to the intricacies of movement and hidden complexities of music.
 
@@ -28,5 +30,5 @@ Fridays: 2.30 - 4.30pm
 
 #### **CCA Teachers-in-Charge**
 
-* Mr. Haniel Soh - [soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg)
-* Ms. Zhao Jing - [zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg)
+* Mr. Haniel Soh -&nbsp;[soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg)
+* Ms. Zhao Jing -&nbsp;[zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg)
