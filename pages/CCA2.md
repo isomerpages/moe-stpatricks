@@ -3,7 +3,7 @@ title: CCA2
 permalink: /co-curriculum/cca2/
 description: ""
 ---
-![](/images/culture%20of%20excellence.png)
+![](/images/ccabanner_gif.gif)
 
 ## CCA Framework
 
