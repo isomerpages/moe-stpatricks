@@ -2,11 +2,11 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCAs/Our Clubs and Societies.md
+      - CCAs/.keep
+      - CCAs/Our Uniformed Groups.md
       - CCAs/Our Aesthetic Groups.md
       - CCAs/Our Sports CCAs.md
-      - CCAs/Our Uniformed Groups.md
-      - CCAs/.keep
+      - CCAs/Our Clubs and Societies.md
       - Student Leadership/Student Leadership Overview.md
       - Student Leadership/Class Committee.md
       - Student Leadership/Student Council.md
