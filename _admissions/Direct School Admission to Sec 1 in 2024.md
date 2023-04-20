@@ -3,8 +3,6 @@ title: Direct School Admission to Sec 1 in 2024
 permalink: /admission/dsa-2024/
 description: ""
 ---
-
-
 #### **Direct School Admission – Secondary (DSA-Sec)**
 
 
@@ -15,6 +13,33 @@ The DSA-Sec Exercise was introduced by MOE to provide students who possess diver
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.**
 
 Boys who are interested in pursuing their talents and passion in St Patrick’s School are encouraged to apply for DSA through the following domains:
+
+
+| DSA Domain | Talent Area | 
+| -------- | -------- | 
+| Sports and Games  | Badminton| 
+|       | Cricket| 
+|       | Floorball | 
+|       | Football | 
+|       | Golf | 
+|       | Tennis | 
+|       | Track and Field | 
+| Performing Arts  | Concert Band| 
+|       | English Drama| 
+|       | Guitar Ensemble | 
+|       | Modern Dance | 
+| Leadership &amp; Uniformed Groups  | Community Youth Leadership| 
+|       | National Cadet Corps (NCC) Land | 
+|       | National Police Cadet Corps (NPCC) | 
+|       | Scouts | 
+| Language and Humanities  | Media/Journalism| 
+| Science, Technology, Engineering and Mathematics | Computational Thinking Skills | 
+
+
+
+
+
+
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.9pt"><td width="309" style="width:231.8pt;border:solid windowtext 1.0pt;mso-border-alt:
