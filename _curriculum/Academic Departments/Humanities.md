@@ -4,10 +4,7 @@ permalink: /curriculum/academic-departments/humanities/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
-
-#### <center>To develop gentlemen who see the relevance of an education in the Humanities and are responsible and active citizens of Singapore and the world.
+##### **'To develop gentlemen who see the relevance of an education in the Humanities and are responsible and active citizens of Singapore and the world.'**
 
 
 <img src="/images/2022_Migration/humanities%201.jpg" style="width:100%">
@@ -39,4 +36,4 @@ Participant - Zerowaste&nbsp;SG (1st Runner-up)
 
 With the Green Plan Pillar of Sustainability Living in mind, the team aimed to reduce plastic waste around the school. The students targeted the perennial problem and proposed the replacement of disposable cups in the canteen with reusable cups. They presented their idea to different stakeholders including their peers, drink stall owners and our Vice-Principal, Ms Ng, who were convinced to support them in the execution of the idea.
 
-<img src="images/2022_Migration/Humanities01_2022.png" style="width:100%"></center>
+<img src="images/2022_Migration/Humanities01_2022.png" style="width:100%">
