@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCAs/.keep
-      - CCAs/Our Uniformed Groups.md
+      - CCAs/Uniformed Groups.md
       - CCAs/Our Aesthetic Groups.md
       - CCAs/Our Sports CCAs.md
       - CCAs/Our Clubs and Societies.md
