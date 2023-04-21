@@ -4,7 +4,6 @@ permalink: /ccas/aesthetics/
 description: ""
 third_nav_title: CCAs
 ---
-###  **Aesthetics**
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
