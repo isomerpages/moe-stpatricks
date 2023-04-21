@@ -67,7 +67,7 @@ third_nav_title: Staff Directory
 			</tr>
 			<tr>
 				<th scope="row">8</th>
-				<td>HOD CCE</td>
+				<td>HOD Character and Citizenship Education</td>
 				<td>Mr Adrian Lim</td>
 				<td><a href="mailto:adrian_lim_ming@moe.edu.sg">
 					adrian_lim_ming@moe.edu.sg</a></td>
