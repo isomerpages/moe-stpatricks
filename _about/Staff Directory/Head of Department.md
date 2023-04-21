@@ -51,47 +51,47 @@ third_nav_title: Staff Directory
 				<td><a href="mailto:teo_hwee@moe.edu.sg">
 					teo_hwee@moe.edu.sg</a></td>
 			</tr>
-			<tr>
+						<tr>
 				<th scope="row">6</th>
-				<td>School Staff Developer</td>
-				<td> Mr Errol Chang Lik Hung</td>
-				<td><a href="mailto:chang_lik_hung_errol@moe.edu.sg">
-					chang_lik_hung_errol@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">7</th>
 				<td>HOD ICT &amp; MRL</td>
 				<td>Mr Syed Salleh</td>
 				<td><a href="mailto:syed_salleh@moe.edu.sg">
 					syed_salleh@moe.edu.sg</a></td>
 			</tr>
 			<tr>
-				<th scope="row">8</th>
+				<th scope="row">7</th>
 				<td>HOD PE/CCA</td>
 				<td>Mr Irwan Wijaya Zainal</td>
 				<td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">
 					irwan_wijaya_zainal@moe.edu.sg</a></td>
 			</tr>
 			<tr>
-				<th scope="row">9</th>
+				<th scope="row">8</th>
 				<td>HOD CCE</td>
 				<td>Mr Adrian Lim</td>
 				<td><a href="mailto:adrian_lim_ming@moe.edu.sg">
 					adrian_lim_ming@moe.edu.sg</a></td>
 			</tr>
 			<tr>
-				<th scope="row">10</th>
-				<td>HOD SM</td>
+				<th scope="row">9</th>
+				<td>HOD Student Management</td>
 				<td>Mr Mahadir Wahab</td>
 				<td><a href="mailto:mahadir_b_wahab@moe.edu.sg">
 					mahadir_b_wahab@moe.edu.sg</a></td>
 			</tr>
 			<tr>
-				<th scope="row">11</th>
+				<th scope="row">10</th>
 				<td>HOD SEN</td>
 				<td>Ms Goh Huiling Winnie</td>
 				<td><a href="mailto:goh_huiling_winnie@moe.edu.sg">
 				goh_huiling_winnie@moe.edu.sg</a></td>
+			</tr>
+			<tr>
+				<th scope="row">11</th>
+				<td>School Staff Developer</td>
+				<td> Mr Errol Chang Lik Hung</td>
+				<td><a href="mailto:chang_lik_hung_errol@moe.edu.sg">
+					chang_lik_hung_errol@moe.edu.sg</a></td>
 			</tr>
 		</tbody>
  </table>
@@ -163,7 +163,7 @@ third_nav_title: Staff Directory
 			</tr>
 			<tr>
 				<th scope="row">2</th>
-				<td>SH (D&amp;T)</td>
+				<td>SH (Design and Technology)</td>
 				<td>Mr Mahadi b Salam</td>
 				<td><a href="mailto:mahadi_salam@moe.edu.sg">
 	mahadi_salam@moe.edu.sg</a></td>
@@ -198,10 +198,17 @@ third_nav_title: Staff Directory
 			</tr>
 				<tr>
 				<th scope="row">6</th>
-				<td>SH (COVERING) SLD</td>
+				<td>SH (Student Leadership Development)</td>
 				<td>Miss Cheryl Lek</td>
 				<td><a href="mailto:lek_li_ling_cheryl@moe.edu.sg">
-				slek_li_ling_cheryl@moe.edu.sg</a></td>
+				lek_li_ling_cheryl@moe.edu.sg</a></td>
+			</tr>
+			<tr>
+				<th scope="row">7</th>
+				<td>SH Internal (Literature)</td>
+				<td>Mr Haniel Soh</td>
+				<td><a href="mailto:soh_en_han_haniel@moe.edu.sg">
+				soh_en_han_haniel@moe.edu.sg</a></td>
 			</tr>
 		</tbody>
  </table>
