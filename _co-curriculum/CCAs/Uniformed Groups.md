@@ -4,7 +4,6 @@ permalink: /ccas/uniformed-groups/
 description: ""
 third_nav_title: CCAs
 ---
-### **Uniformed Groups**
 
 |||
 |-----|-----|
