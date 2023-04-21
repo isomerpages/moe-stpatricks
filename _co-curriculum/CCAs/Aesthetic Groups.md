@@ -4,7 +4,6 @@ permalink: /ccas/aesthetics/
 description: ""
 third_nav_title: CCAs
 ---
-
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 |<a href="/cca/Aesthetics/military-band/"><img style="width:400px; aspect-ratio: 4/3" src="/images/2022_Migration/Military%20Band.jpg"></a>[**Military Band**](/cca/Aesthetics/military-band/) | <a href="/cca/Aesthetics/modern-dance/"><img style="width:400px; aspect-ratio: 4/3" src="/images/2022_Migration/dance.jpg"></a>[**Modern Dance**](/cca/Aesthetics/modern-dance/) |
