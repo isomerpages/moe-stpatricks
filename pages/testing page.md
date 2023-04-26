@@ -4,18 +4,26 @@ permalink: /permalink/
 description: ""
 ---
 ### Head Of Departments
-<div class="table-responsive-lg">
-	<table class="table table-striped">
-		<thead class="thead-dark">
-			<tr>
-				<th scope="col">No.</th>
-				<th scope="col">HOD/Subject</th>
-				<th scope="col">Name</th>
-				<th scope="col">Email</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7f7m">No.</th>
+    <th class="tg-7f7m">HOD/Subject</th>
+    <th class="tg-7f7m">Name</th>
+    <th class="tg-7f7m">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
 				<th scope="row">1</th>
 				<td>HOD Mathematics</td>
 				<td>Ms Teo Bee Hoon</td>
@@ -94,21 +102,29 @@ description: ""
 			</tr>
 		</tbody>
  </table>
-</div>
+
 
 ###  Year Heads
-<div class="table-responsive-lg">
-	<table class="table table-striped">
-		<thead class="thead-dark">
-			<tr>
-				<th scope="col">No.</th>
-				<th scope="col">Year Head</th>
-				<th scope="col">Name</th>
-				<th scope="col">Email</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7f7m">No.</th>
+    <th class="tg-7f7m">Year Head</th>
+    <th class="tg-7f7m">Name</th>
+    <th class="tg-7f7m">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
 				<th scope="row">1</th>
 				<td>YEAR HEAD (S1)</td>
 				<td>Mr Huang YeWei</td>
@@ -138,22 +154,30 @@ description: ""
 			</tr>
 		</tbody>
  </table>
-</div>
+
 
 ### Subject Heads
 
-<div class="table-responsive-lg">
-	<table class="table table-striped">
-		<thead class="thead-dark">
-			<tr>
-				<th scope="col">No.</th>
-				<th scope="col">Subject Head</th>
-				<th scope="col">Name</th>
-				<th scope="col">Email</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7f7m">No.</th>
+    <th class="tg-7f7m">Subject Head</th>
+    <th class="tg-7f7m">Name</th>
+    <th class="tg-7f7m">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
 				<th scope="row">1</th>
 				<td>SH (Malay Language)</td>
 				<td>Ms Hazlian Bte Karim</td>
@@ -204,4 +228,3 @@ description: ""
 			</tr>
 		</tbody>
  </table>
-</div>
