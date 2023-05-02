@@ -109,10 +109,12 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 
 * Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at https://go.gov.sg/nmsdsa-sec-application.
 
-
-&gt; All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.
-&gt; 
-&gt; Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview.
+<p style="font-size:1.2vw;">
+**All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.**
+</p>
+<p style="font-size:1.2vw;">
+**Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview.**
+</p>
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
