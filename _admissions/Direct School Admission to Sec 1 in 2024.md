@@ -15,44 +15,47 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:3px;color:#343434;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:3px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-az8j{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:left;
+.tg .tg-jgys{background-color:#efefef;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;text-align:left;
   vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-yyo2{background-color:#cccccc;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jbji{background-color:#cccccc;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-j5n6{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 648px" class="tg">
+<table style="undefined;table-layout: fixed; width: 653px" class="tg">
 <colgroup>
-<col style="width: 150.111111px">
-<col style="width: 253.111111px">
-<col style="width: 245.111111px">
+<col style="width: 151.111111px">
+<col style="width: 255.111111px">
+<col style="width: 247.111111px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-az8j">Area of Interest</th>
-    <th class="tg-fymr">Minimum criteria</th>
-    <th class="tg-fymr">Selection Process</th>
+    <th class="tg-jbji">Area of Interest</th>
+    <th class="tg-yyo2">Minimum criteria</th>
+    <th class="tg-yyo2">Selection Process</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j5n6">Concert Band</td>
-    <td rowspan="2" class="tg-0pky">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.orAttainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
-    <td rowspan="4" class="tg-0pky"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
+    <td class="tg-jgys">Concert Band</td>
+    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.orAttainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
+    <td rowspan="4" class="tg-y698"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
   </tr>
   <tr>
-    <td class="tg-j5n6">Guitar Ensemble</td>
+    <td class="tg-jgys">Guitar Ensemble</td>
   </tr>
   <tr>
-    <td class="tg-j5n6">Modern Dance</td>
-    <td rowspan="2" class="tg-0pky">Represented school<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition.</td>
+    <td class="tg-jgys">Modern Dance</td>
+    <td rowspan="2" class="tg-y698">Represented school<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition.</td>
   </tr>
   <tr>
-    <td class="tg-j5n6">English Drama</td>
+    <td class="tg-jgys">English Drama</td>
   </tr>
   <tr>
     <td class="tg-j5n6">Football</td>
@@ -83,9 +86,9 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
     <td class="tg-0pky">Represented School / Club in SCA competitions<br><br><span style="font-weight:bold">or</span><br><br>equivalent.<br><br><span style="font-weight:bold">or</span><br><br>Be able to demonstrate talent / attributes in cricket.</td>
   </tr>
   <tr>
-    <td class="tg-j5n6">Leadership &amp; Uniformed Groups(NCC Land, NPCC, Scouts)</td>
-    <td class="tg-0pky">Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school</td>
-    <td class="tg-0pky">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023</span>)</td>
+    <td class="tg-jgys">Leadership &amp; Uniformed Groups(NCC Land, NPCC, Scouts)</td>
+    <td class="tg-y698">Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school</td>
+    <td class="tg-y698">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023</span>)</td>
   </tr>
   <tr>
     <td class="tg-j5n6">Media/Journalism</td>
@@ -93,9 +96,9 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
     <td class="tg-0pky">1. Create a 1 minute video of them sharing about a specific spot/activity in their school. <span style="font-style:italic">Video must be filmed in their school. Some possible ideas would be: Day in the life of a student at XXX School where the student can be the main subject, interview/quiz peers on commemorative days (eg. Racial Harmony Day, National Day) where the student can play host.</span> <br><br>Mode of submission - Upload to Youtube. Set to private. <br><br>Share the link with : <span style="font-style:italic">faith_wong_soke_yee@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-j5n6">Community Youth Leadership</td>
-    <td class="tg-0pky">Holds key leadership positions in school leadership boards (e.g. Head or Deputy Head Prefect, CCA Head)<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school (E.g. Active participation in community work/volunteerism)<br><br>Conduct Grade [Excellent]</td>
-    <td class="tg-0pky">For Community Youth Leadership:<br><br>1.Applicants are required to attend an interview <span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023)</span></td>
+    <td class="tg-jgys">Community Youth Leadership</td>
+    <td class="tg-y698">Holds key leadership positions in school leadership boards (e.g. Head or Deputy Head Prefect, CCA Head)<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school (E.g. Active participation in community work/volunteerism)<br><br>Conduct Grade [Excellent]</td>
+    <td class="tg-y698">For Community Youth Leadership:<br><br>1.Applicants are required to attend an interview <span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023)</span></td>
   </tr>
   <tr>
     <td class="tg-j5n6">Computational Thinking Skills</td>
