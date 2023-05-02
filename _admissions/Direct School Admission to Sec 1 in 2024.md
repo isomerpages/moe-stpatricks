@@ -13,8 +13,6 @@ The DSA-Sec Exercise was introduced by MOE to provide students who possess diver
 
 Boys who are interested in pursuing their talents and passion in St Patrick’s School are encouraged to apply for DSA through the following domains:
 
-<p>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -24,13 +22,13 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 .tg .tg-d2v0{background-color:#efefef;border-color:black;font-family:Arial, Helvetica, sans-serif !important;text-align:left;
   vertical-align:top}
 .tg .tg-yyo2{background-color:#cccccc;border-color:black;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ppna{background-color:#cccccc;border-color:black;font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;
-  text-align:left;vertical-align:top}
+.tg .tg-ppna{background-color:#cccccc;border-color:black;font-family:Arial, Helvetica, sans-serif !important;font-weight:bold; text-align:left;vertical-align:top}
 .tg .tg-y698{background-color:#efefef;border-color:black;text-align:left;vertical-align:top}
 .tg .tg-pjqy{border-color:black;font-family:Arial, Helvetica, sans-serif !important;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:black;text-align:left;vertical-align:top}
+.tg .tg-txwv{background-color:#EFEFEF;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 653px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 672px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 295px">
@@ -46,15 +44,15 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 <tbody>
   <tr>
     <td class="tg-d2v0">Concert Band</td>
-    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.orAttainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
-    <td rowspan="4" class="tg-y698"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
+    <td class="tg-y698" rowspan="2">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.orAttainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
+    <td class="tg-y698" rowspan="4"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
   </tr>
   <tr>
     <td class="tg-d2v0">Guitar Ensemble</td>
   </tr>
   <tr>
     <td class="tg-d2v0">Modern Dance</td>
-    <td rowspan="2" class="tg-y698">Represented school<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition.</td>
+    <td class="tg-y698" rowspan="2">Represented school<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition.</td>
   </tr>
   <tr>
     <td class="tg-d2v0">English Drama</td>
@@ -62,7 +60,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   <tr>
     <td class="tg-pjqy">Football</td>
     <td class="tg-0pky">Represented School/Club/Academy in any tournaments <br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any local / overseas competitions.</td>
-    <td rowspan="7" class="tg-0pky">For Sports and Games:<br><br>1. Applicants are required to attend a trial for the respective sports. <span style="font-style:italic">(Trial dates will be notified on school website by 1st July 2023)</span><br><br>2. Only shortlisted applicants will be invited for additional trials and/or interview.<br><br>3. Applicants are to bring their own personal sporting equipment or gear for the trials.</td>
+    <td class="tg-0pky" rowspan="7">For Sports and Games:<br><br>1. Applicants are required to attend a trial for the respective sports. <span style="font-style:italic">(Trial dates will be notified on school website by 1st July 2023)</span><br><br>2. Only shortlisted applicants will be invited for additional trials and/or interview.<br><br>3. Applicants are to bring their own personal sporting equipment or gear for the trials.</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Track &amp; Field</td>
@@ -70,7 +68,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-pjqy">Badminton</td>
-    <td rowspan="2" class="tg-0pky">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in badminton / Floorball.</td>
+    <td class="tg-0pky" rowspan="2">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in badminton / Floorball.</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Floorball</td>
@@ -90,17 +88,16 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   <tr>
     <td class="tg-d2v0">Leadership &amp; Uniformed Groups(NCC Land, NPCC, Scouts)</td>
     <td class="tg-y698">Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school</td>
-    <td class="tg-y698">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023</span>)</td>
+    <td class="tg-y698" rowspan="2">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023</span>)</td>
+  </tr>
+  <tr>
+    <td class="tg-txwv">Community Youth Leadership</td>
+    <td class="tg-txwv">Holds key leadership positions in school leadership boards (e.g. Head or Deputy Head Prefect, CCA Head)<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school (E.g. Active participation in community work/volunteerism)<br><br>Conduct Grade [Excellent]</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Media/Journalism</td>
     <td class="tg-0pky">Evidence of videography and presentation skills:<br>Well-spoken, possess good eye contact, confident in front of the camera, and expressive in tone and body language where appropriate.</td>
     <td class="tg-0pky">1. Create a 1 minute video of them sharing about a specific spot/activity in their school. <span style="font-style:italic">Video must be filmed in their school. Some possible ideas would be: Day in the life of a student at XXX School where the student can be the main subject, interview/quiz peers on commemorative days (eg. Racial Harmony Day, National Day) where the student can play host.</span> <br><br>Mode of submission - Upload to Youtube. Set to private. <br><br>Share the link with : <span style="font-style:italic">faith_wong_soke_yee@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-d2v0">Community Youth Leadership</td>
-    <td class="tg-y698">Holds key leadership positions in school leadership boards (e.g. Head or Deputy Head Prefect, CCA Head)<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school (E.g. Active participation in community work/volunteerism)<br><br>Conduct Grade [Excellent]</td>
-    <td class="tg-y698">For Community Youth Leadership:<br><br>1.Applicants are required to attend an interview <span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023)</span></td>
   </tr>
   <tr>
     <td class="tg-pjqy">Computational Thinking Skills</td>
@@ -109,8 +106,6 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
 </tbody>
 </table>
-
-</p>
 
 ||||
 |---|---|---|
@@ -128,7 +123,8 @@ Applicants not studying in MOE mainstream primary schools: </b>
 • Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview.
 </p>
 
-For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
+### Timeline
+
 
        
 ### Application Process
@@ -143,13 +139,13 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 
 
 #### **The Patrician Experience**
-<iframe width="866" height="487" src="https://www.youtube.com/embed/FsF4QcH4ORg" title="The Patrician Experience video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="The Patrician Experience video" src="https://www.youtube.com/embed/FsF4QcH4ORg" height="487" width="866"></iframe>
 
 #### Day in the Life of a Patrician
-<iframe width="866" height="487" src="https://www.youtube.com/embed/xBUa1Ih5tl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xBUa1Ih5tl8" height="487" width="866"></iframe>
 
 #### He Who Wills, Can!
-<iframe width="866" height="487" src="https://www.youtube.com/embed/LX8URexCZ-M" title="He Who Wills, Can! video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="He Who Wills, Can! video" src="https://www.youtube.com/embed/LX8URexCZ-M" height="487" width="866"></iframe>
 <br>
 <br>
 
