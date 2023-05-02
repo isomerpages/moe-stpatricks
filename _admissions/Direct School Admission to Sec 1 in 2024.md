@@ -118,6 +118,16 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 
+       
+### Application Process
+
+1.&nbsp;&nbsp;&nbsp; Application can only be done through the **DSA-Sec Portal** from 4th May, 11am to 31st May 2023, 3pm.
+
+2.&nbsp;&nbsp;&nbsp; Please follow the instructions in the **DSA-Sec Portal** carefully.
+
+3.&nbsp;&nbsp;&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+4.&nbsp;&nbsp;&nbsp; Shortlisted applicants may be notified to produce certified true photocopies of supporting documents.
 #### **The Patrician Experience**
 <iframe width="866" height="487" src="https://www.youtube.com/embed/FsF4QcH4ORg" title="The Patrician Experience video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
