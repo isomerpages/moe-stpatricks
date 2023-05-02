@@ -107,12 +107,12 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
 </tbody>
 </table>
+<br>
 
-<p style="font-size:1vw;">
 Applicants not studying in MOE mainstream primary schools: 
 
 * Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at https://go.gov.sg/nmsdsa-sec-application.
-</p>
+
 
 &gt; <p style="font-size:1vw;">
 &gt; All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.
