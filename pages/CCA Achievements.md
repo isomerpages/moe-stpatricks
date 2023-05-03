@@ -1,6 +1,6 @@
 ---
-title: CCA
-permalink: /co-curriculum/cca/
+title: CCA Achievements
+permalink: /co-curriculum/cca-achievements/
 description: ""
 ---
 ####  **Uniformed Groups**
