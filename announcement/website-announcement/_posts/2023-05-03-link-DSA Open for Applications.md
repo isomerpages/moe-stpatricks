@@ -4,5 +4,5 @@ date: 2023-05-03
 layout: link
 description: ""
 image: ""
-external: https://www.open.gov.sg/admission/dsa-2024/
+external: https://stpatricks.moe.edusg/admission/dsa-2024/
 ---

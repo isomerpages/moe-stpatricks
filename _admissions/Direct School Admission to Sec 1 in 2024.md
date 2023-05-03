@@ -111,20 +111,18 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 
 ---------
 
-<p></p><p style="font-size:1vw;"><b>
+<b>
 Applicants not studying in MOE mainstream primary schools: </b>
 
-</p><p style="font-size:0.95vw; margin-left:40px">
+<p style="margin-left:40px">
 • Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at https://go.gov.sg/nmsdsa-sec-application)</p> 
-<p></p>
+
 
 ---------
 
-<p style="font-size:1vw;">
 • All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.
-</p><p style="font-size:1vw;">
+
 • Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview.
-</p>
 
 ### Timeline
 
@@ -186,11 +184,9 @@ Applicants not studying in MOE mainstream primary schools: </b>
 
 ---------
 
-<p style="font-size:0.9vw;">
 For any enquiries, please contact the following personnel:-<br>
 1.	Mr Irwan Wijaya, HOD CCA (<a href="mailto:irwan_wijaya_zainal@moe.edu.sg">irwan_wijaya_zainal@moe.edu.sg</a> / 6344 0929)<br>
 2.	Mr Seow Jian Ting, DSA Coordinator (<a href="mailto:seow_jian_ting@moe.edu.sg">seow_jian_ting@moe.edu.sg</a> / 6344 0929)
-</p>
 
 ---------
 
