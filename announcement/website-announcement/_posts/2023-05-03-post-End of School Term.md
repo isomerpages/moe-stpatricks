@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+Please take note of the following dates:
+
+|Event| Date|
+| -------- | -------- |
+|Release of GA/ MR Results | 25 May|  
+|Meet the Parents Session | 26 May|
+|School Vacation| 27 May - 25 June|
+
