@@ -6,15 +6,16 @@ third_nav_title: Staff Directory
 ---
 ### Head Of Departments
 <style type="text/css">
-.tg  {border: 1px solid black;border-collapse:collapse;border-spacing:0;}
-.tg td{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.borderclass {border: 1px solid black;}
 </style>
-<table class="tg">
+<table class="tg borderclass">
 <thead>
   <tr>
     <th class="tg-7f7m">No.</th>
@@ -26,7 +27,7 @@ third_nav_title: Staff Directory
 <tbody>
   <tr>
 				<th scope="row">1</th>
-				<td>HOD Mathematics</td>
+				<td class="borderclass">HOD Mathematics</td>
 				<td>Ms Teo Bee Hoon</td>
 				<td><a href="mailto:teo_bee_hoon@moe.edu.sg">
 					teo_bee_hoon@moe.edu.sg</a></td>
@@ -107,13 +108,14 @@ third_nav_title: Staff Directory
 
 ###  Year Heads
 <style type="text/css">
-.tg  {border: 1px solid black;border-collapse:collapse;border-spacing:0;}
-.tg td{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.borderclass {border: 1px solid black;}
 </style>
 <table class="tg">
 <thead>
@@ -160,13 +162,14 @@ third_nav_title: Staff Directory
 ### Subject Heads
 
 <style type="text/css">
-.tg  {border: 1px solid black;border-collapse:collapse;border-spacing:0;}
-.tg td{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.borderclass {border: 1px solid black;}
 </style>
 <table class="tg">
 <thead>
