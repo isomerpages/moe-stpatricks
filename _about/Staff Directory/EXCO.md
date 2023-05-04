@@ -13,9 +13,8 @@ third_nav_title: Staff Directory
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.borderclass {border: 1px solid black;}
 </style>
-<table class="tg borderclass">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-7f7m">No.</th>
@@ -27,7 +26,7 @@ third_nav_title: Staff Directory
 <tbody>
   <tr>
 				<th scope="row">1</th>
-				<td class="borderclass">HOD Mathematics</td>
+				<td>HOD Mathematics</td>
 				<td>Ms Teo Bee Hoon</td>
 				<td><a href="mailto:teo_bee_hoon@moe.edu.sg">
 					teo_bee_hoon@moe.edu.sg</a></td>
@@ -115,7 +114,6 @@ third_nav_title: Staff Directory
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.borderclass {border: 1px solid black;}
 </style>
 <table class="tg">
 <thead>
@@ -169,7 +167,6 @@ third_nav_title: Staff Directory
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.borderclass {border: 1px solid black;}
 </style>
 <table class="tg">
 <thead>
