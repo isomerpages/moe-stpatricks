@@ -237,3 +237,31 @@ third_nav_title: Staff Directory
 			</tr>
 		</tbody>
  </table>
+ 
+ 
+ <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<thead style="background-color: #D3D3D3; font-weight: bold; font-size: 14.5px;">
+<tr>
+				<td style="text-align:left;color:white;font-family:sans-serif;">1 </td>
+				<td style="text-align:left;color:white;font-family:sans-serif;">2</td>
+			</tr>
+</thead>
+	
+<tbody>
+<tr>
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2</td>
+</tr>
+			
+<tr style="background-color: #f3f3f3;">
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2</td>
+</tr>
+			
+<tr>
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2<br>
+</td></tr>
+						
+</tbody>
+</table>
