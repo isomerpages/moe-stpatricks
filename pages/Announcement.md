@@ -1,5 +1,5 @@
 ---
-title: Annoucement
+title: Announcement
 permalink: /announcement/
 description: ""
 ---

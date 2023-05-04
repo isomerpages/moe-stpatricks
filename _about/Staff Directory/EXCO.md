@@ -9,7 +9,7 @@ third_nav_title: Staff Directory
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
@@ -236,3 +236,31 @@ third_nav_title: Staff Directory
 			</tr>
 		</tbody>
  </table>
+ 
+ 
+ <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<thead style="background-color: #D3D3D3; font-weight: bold; font-size: 14.5px;">
+<tr>
+				<td style="text-align:left;color:white;font-family:sans-serif;">1 </td>
+				<td style="text-align:left;color:white;font-family:sans-serif;">2</td>
+			</tr>
+</thead>
+	
+<tbody>
+<tr>
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2</td>
+</tr>
+			
+<tr style="background-color: #f3f3f3;">
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2</td>
+</tr>
+			
+<tr>
+				<td style="font-family:sans-serif;">1</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">2<br>
+</td></tr>
+						
+</tbody>
+</table>
