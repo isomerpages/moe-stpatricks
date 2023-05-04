@@ -1,9 +1,0 @@
----
-title: DSA Open for Applications
-date: 2023-05-03
-layout: post
-description: ""
-image: ""
-external: stpatricks.moe.edu.sg/admission/dsa-2024/
-permalink: /announcement/website-announcement/dsa-2024/
----
