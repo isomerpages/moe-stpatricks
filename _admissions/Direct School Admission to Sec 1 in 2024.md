@@ -45,7 +45,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 <tbody>
   <tr>
     <td class="tg-d2v0">Concert Band</td>
-    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/s.orAttainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
+    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/Attainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
     <td rowspan="4" class="tg-y698"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-pjqy">Cricket</td>
-    <td class="tg-0pky">Represented School / Club in SCA competitions<br><br><span style="font-weight:bold">or</span><br><br>equivalent.<br><br><span style="font-weight:bold">or</span><br><br>Be able to demonstrate talent / attributes in cricket.</td>
+    <td class="tg-0pky">Represented School / Club in SCA competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in cricket.</td>
   </tr>
   <tr>
     <td class="tg-d2v0">Leadership &amp; Uniformed Groups(NCC Land, NPCC, Scouts)</td>
