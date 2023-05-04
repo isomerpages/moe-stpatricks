@@ -13,6 +13,7 @@ third_nav_title: Staff Directory
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.table {border="1"}
 </style>
 <table class="tg">
 <thead>
