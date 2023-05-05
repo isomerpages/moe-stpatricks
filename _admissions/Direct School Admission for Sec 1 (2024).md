@@ -29,7 +29,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 .tg .tg-0pky{border-color:black;text-align:left;vertical-align:top}
 .tg .tg-txwv{background-color:#EFEFEF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table style="undefined;table-layout: fixed; width: 750px" class="tg">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 295px">
@@ -45,8 +45,8 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 <tbody>
   <tr>
     <td class="tg-d2v0">Concert Band</td>
-    <td class="tg-y698" rowspan="2">A current member of the school band / guitar ensemble with some playing experience with relevant instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on a musical instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition</td>
-    <td class="tg-y698" rowspan="4"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
+    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on a musical instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition</td>
+    <td rowspan="4" class="tg-y698"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
   </tr>
   <tr>
     <td class="tg-d2v0">Guitar Ensemble</td>
@@ -62,7 +62,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   <tr>
     <td class="tg-pjqy">Football</td>
     <td class="tg-0pky">Represented School/Club/Academy in any tournaments or any local / overseas competitions</td>
-    <td class="tg-0pky" rowspan="7">For Sports and Games:<br><br>1.	Applicants are required to attend a trial for the respective sport. 
+    <td rowspan="7" class="tg-0pky">For Sports and Games:<br><br>1.	Applicants are required to attend a trial for the respective sport. 
 <br><br>
 <span style="font-style:italic">(Trial dates will be posted on school website by 1st July 2023)</span>
 <br><br>
@@ -76,14 +76,14 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-pjqy">Badminton</td>
-    <td class="tg-0pky" rowspan="2">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in badminton / floorball</td>
+    <td rowspan="2" class="tg-0pky">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in badminton / floorball</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Floorball</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Tennis</td>
-    <td class="tg-0pky">Participated in National Inter School Championships. <br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br> Participated in tournaments organised by SPEX, Intermediate or KLM<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in tennis</td>
+    <td class="tg-0pky">Participated in National Inter School Championships <br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br> Participated in tournaments organised by SPEX, Intermediate or KLM<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in tennis</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Golf</td>
@@ -95,8 +95,8 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-d2v0">Leadership &amp; Uniformed Groups (NCC Land, NPCC, Scouts)</td>
-    <td class="tg-y698" rowspan="2">Hold key leadership positions in any student leadership boards or Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school
-    </td><td class="tg-y698" rowspan="2">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be posted on the school website by 1st July 2023</span>)</td>
+    <td rowspan="2" class="tg-y698">Hold key leadership positions in any student leadership boards or Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school
+    </td><td rowspan="2" class="tg-y698">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be posted on the school website by 1st July 2023</span>)</td>
   </tr>
   <tr>
     <td class="tg-y698">Community Youth Leadership</td>
@@ -147,7 +147,7 @@ Applicants not studying in MOE mainstream primary schools: </b>
 .tg .tg-cscf{background-color:#c0c0c0;border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width:750px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width:750px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 300px">
@@ -163,11 +163,11 @@ Applicants not studying in MOE mainstream primary schools: </b>
 <tbody>
   <tr>
     <td class="tg-vfn0">19 April (Wednesday)</td>
-    <td colspan="2" class="tg-wp8o">Information about DSA application to St. Patrick's School will <br>be published on the school's website at <br><a rel="noopener noreferrer" target="_blank" href="http://www.stpatricks.moe.edu.sg/">http://www.stpatricks.moe.edu.sg/</a></td>
+    <td class="tg-wp8o" colspan="2">Information about DSA application to St. Patrick's School will <br>be published on the school's website at <br><a href="http://www.stpatricks.moe.edu.sg/" target="_blank" rel="noopener noreferrer">http://www.stpatricks.moe.edu.sg/</a></td>
   </tr>
   <tr>
     <td class="tg-vfn0">4 May (Thursday) to <br>31 May (Wednesday)</td>
-    <td colspan="2" class="tg-wp8o">DSA-Sec Online Application<br>via<br><span style="font-weight:bold"><a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant">DSA-Sec Portal</a></span><br><br>More information about the DSA-Sec Exercise can be found at<br><a rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/secondary/dsa">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></td>
+    <td class="tg-wp8o" colspan="2">DSA-Sec Online Application<br>via<br><span style="font-weight:bold"><a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant">DSA-Sec Portal</a></span><br><br>More information about the DSA-Sec Exercise can be found at<br><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener noreferrer">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></td>
   </tr>
   <tr>
     <td class="tg-vfn0">3 July (Monday) to<br>18 August (Friday)</td>
@@ -201,13 +201,13 @@ For any enquiries, please contact the following personnel:-<br>
 ---------
 
 #### **The Patrician Experience**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="The Patrician Experience video" src="https://www.youtube.com/embed/FsF4QcH4ORg" height="487" width="866"></iframe>
+<iframe width="866" height="487" src="https://www.youtube.com/embed/FsF4QcH4ORg" title="The Patrician Experience video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Day in the Life of a Patrician
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xBUa1Ih5tl8" height="487" width="866"></iframe>
+<iframe width="866" height="487" src="https://www.youtube.com/embed/xBUa1Ih5tl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### He Who Wills, Can!
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="He Who Wills, Can! video" src="https://www.youtube.com/embed/LX8URexCZ-M" height="487" width="866"></iframe>
+<iframe width="866" height="487" src="https://www.youtube.com/embed/LX8URexCZ-M" title="He Who Wills, Can! video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 <br>
 
