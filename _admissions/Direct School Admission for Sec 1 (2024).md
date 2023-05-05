@@ -1,5 +1,5 @@
 ---
-title: Direct School Admission to Sec 1 in 2024
+title: Direct School Admission for Sec 1 (2024)
 permalink: /admission/dsa-2024/
 description: ""
 ---
@@ -45,7 +45,7 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
 <tbody>
   <tr>
     <td class="tg-d2v0">Concert Band</td>
-    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument/Attainment of an ABRSM grade (Theory and/or practical)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent on a musical instrument.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition.</td>
+    <td rowspan="2" class="tg-y698">A current member of the school band / guitar ensemble with some playing experience with relevant instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on a musical instrument<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in music during audition</td>
     <td rowspan="4" class="tg-y698"><span style="font-weight:bold">Audition &amp; Panel Interview</span><br><br>For Performing Arts:<br><br>1. Applicants are required to play a piece of their choice on their instrument. Applicants will also be given a separate piece to sight-read followed by a short listening test.<br><br>2. Applicants are to bring their own instruments for the audition. Only percussion instruments and piano will be provided for audition.<br><br>3. Shortlisted applicants will be invited for an interview on a separate date</td>
   </tr>
   <tr>
@@ -53,30 +53,37 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-d2v0">Modern Dance</td>
-    <td rowspan="2" class="tg-y698">Represented school<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition.</td>
-  </tr>
+    <td class="tg-y698">Represented school or any external organisation in a dance event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br><br>Displays talent in Dance during audition</td>
+  	</tr>
   <tr>
     <td class="tg-d2v0">English Drama</td>
-  </tr>
+  <td class="tg-y698">Represented school or any external organisation in a Drama/Play/Musical event<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Displays talent in Drama during audition</td>
+	</tr>
   <tr>
     <td class="tg-pjqy">Football</td>
-    <td class="tg-0pky">Represented School/Club/Academy in any tournaments <br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>any local / overseas competitions.</td>
-    <td rowspan="7" class="tg-0pky">For Sports and Games:<br><br>1. Applicants are required to attend a trial for the respective sports. <span style="font-style:italic">(Trial dates will be notified on school website by 1st July 2023)</span><br><br>2. Only shortlisted applicants will be invited for additional trials and/or interview.<br><br>3. Applicants are to bring their own personal sporting equipment or gear for the trials.</td>
-  </tr>
+    <td class="tg-0pky">Represented School/Club/Academy in any tournaments or any local / overseas competitions</td>
+    <td rowspan="7" class="tg-0pky">For Sports and Games:<br><br>1.	Applicants are required to attend a trial for the respective sport. 
+<br><br>
+<span style="font-style:italic">(Trial dates will be posted on school website by 1st July 2023)</span>
+<br><br>
+2.	Only shortlisted applicants will be invited for additional trials and/or interview.
+<br><br>
+3.	Applicants are to bring their own personal sporting equipment or gear for the trials.
+  </td></tr>
   <tr>
     <td class="tg-pjqy">Track &amp; Field</td>
-    <td class="tg-0pky">Participated in National Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in track &amp; field.</td>
+    <td class="tg-0pky">Participated in National Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in track &amp; field</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Badminton</td>
-    <td rowspan="2" class="tg-0pky">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in badminton / Floorball.</td>
+    <td rowspan="2" class="tg-0pky">Participated in National / Zonal Inter School Championships or any local / overseas competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in badminton / floorball</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Floorball</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Tennis</td>
-    <td class="tg-0pky">Participated in National Inter School Championships. or Participated in tournaments organised by SPEX, Intermediate or KLM<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in tennis.</td>
+    <td class="tg-0pky">Participated in National Inter School Championships <br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br> Participated in tournaments organised by SPEX, Intermediate or KLM<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in tennis</td>
   </tr>
   <tr>
     <td class="tg-pjqy">Golf</td>
@@ -84,45 +91,48 @@ Boys who are interested in pursuing their talents and passion in St Patrick’s 
   </tr>
   <tr>
     <td class="tg-pjqy">Cricket</td>
-    <td class="tg-0pky">Represented School / Club in SCA competitions<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>equivalent.<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Be able to demonstrate talent / attributes in cricket.</td>
+    <td class="tg-0pky">Represented School / Club in SCA competitions equivalent<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Able to demonstrate talent / attributes in cricket</td>
   </tr>
   <tr>
-    <td class="tg-d2v0">Leadership &amp; Uniformed Groups(NCC Land, NPCC, Scouts)</td>
-    <td class="tg-y698">Hold key leadership positions in any school Leadership Boards (eg Head or Deputy Head Prefect, etc)<br><br><span style="font-weight:bold;text-decoration:underline">or</span><br><br>Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school</td>
-    <td rowspan="2" class="tg-y698">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be notified on school website by 1st July 2023</span>)</td>
+    <td class="tg-d2v0">Leadership &amp; Uniformed Groups (NCC Land, NPCC, Scouts)</td>
+    <td rowspan="2" class="tg-y698">Hold key leadership positions in any student leadership boards or Uniformed Groups in their primary school<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school
+    </td><td rowspan="2" class="tg-y698">For Leadership and Uniformed Groups:<br><br>1. Applicants are required to attend an interview. <br><br><span style="font-style:italic">(Interview dates will be posted on the school website by 1st July 2023</span>)</td>
   </tr>
   <tr>
-    <td class="tg-d2v0">Community Youth Leadership</td>
-    <td class="tg-y698">Holds key leadership positions in school leadership boards (e.g. Head or Deputy Head Prefect, CCA Head)<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Demonstrated exemplary character and leadership in their primary school (E.g. Active participation in community work/volunteerism)<br><br>Conduct Grade [Excellent]</td>
-  </tr>
+    <td class="tg-y698">Community Youth Leadership</td>
+     </tr>
   <tr>
     <td class="tg-pjqy">Media/Journalism</td>
-    <td class="tg-0pky">Evidence of videography and presentation skills:<br><br>Well-spoken, possess good eye contact, confident in front of the camera, and expressive in tone and body language where appropriate.</td>
-    <td class="tg-0pky">1. Create a 1 minute video of them sharing about a specific spot/activity in their school. <span style="font-style:italic">Video must be filmed in their school. <br><br>Some possible ideas would be: Day in the life of a student at XXX School where the student can be the main subject, interview/quiz peers on commemorative days (eg. Racial Harmony Day, National Day) where the student can play host.</span> <br><br>Mode of submission - Upload to Youtube. Set to private. <br><br>Share the link with : <span style="font-style:italic">faith_wong_soke_yee@moe.edu.sg</span><br></td>
+    <td class="tg-0pky">Able to demonstrate talent in videography and presentation skills <br><br>Confident, well-spoken and suitably expressive
+<br><br>
+Able to demonstrate initiative in student-led project</td>
+    <td class="tg-0pky">1. Create a 1 minute video of them sharing about a specific spot/activity in their school. <span style="font-style:italic">Video must be filmed in their school. <br><br>Some possible ideas would be: <br>- Day in the life of a student at XXX School where the student can be the main subject<br>- Interview/quiz peers on commemorative days (eg. Racial Harmony Day, National Day) where the student can play host.</span> <br><br>2. Mode of submission
+			<br>- Upload to Youtube.<br> - Set to private. 
+<br>- Share the link with : <span style="font-style:italic"><a href="mailto:faith_wong_soke_yee@moe.edu.sg">faith_wong_soke_yee@moe.edu.sg</a></span>
+			<br></td>
   </tr>
   <tr>
     <td class="tg-pjqy">Computational Thinking Skills</td>
-    <td class="tg-0pky">Represented in local or international coding-related competitions, such as the National Junior Robotics Competition, First LEGO League, or National Robopreneur Carnival.<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Provide a portfolio of coding-related work and projects.</td>
+    <td class="tg-0pky">Participated in local or international coding-related competitions, such as the National Junior Robotics Competition, First LEGO League, or National Robopreneur Carnival<br><br><span style="font-weight:bold;text-decoration:underline">and</span><br><br>Provide a portfolio of coding-related work and projects</td>
     <td class="tg-0pky">1. Applicants are expected to complete a multiple-choice question test that evaluates your proficiency in computational thinking skills. <br><br>2. You will also be required to participate in a group task that involves mini block-based coding. Please note that your knowledge of a specific programming language will not be evaluated.</td>
   </tr>
 </tbody>
 </table>
 <br>
 
----------
+• All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.
 
+• Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview on another day.
+
+---------
+<br>
 <b>
 Applicants not studying in MOE mainstream primary schools: </b>
 
 <p style="margin-left:40px">
-• Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at https://go.gov.sg/nmsdsa-sec-application)</p> 
-
+• Applicants are to apply for a Registration number (RGxxxxxx) to access the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a>)</p> 
 
 ---------
-
-• All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.
-
-• Students who are unable to attend trials/interviews due to having tested positive for Covid-19 during the trial/interview period may be asked to attend a trial/interview.
 
 ### Timeline
 
@@ -157,7 +167,7 @@ Applicants not studying in MOE mainstream primary schools: </b>
   </tr>
   <tr>
     <td class="tg-vfn0">4 May (Thursday) to <br>31 May (Wednesday)</td>
-    <td class="tg-wp8o" colspan="2">DSA-Sec Online Application<br>via<br><span style="font-weight:bold">DSA-Sec Portal</span><br><br>More information about the DSA-Sec Exercise can be found at<br><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener noreferrer">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></td>
+    <td class="tg-wp8o" colspan="2">DSA-Sec Online Application<br>via<br><span style="font-weight:bold"><a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant">DSA-Sec Portal</a></span><br><br>More information about the DSA-Sec Exercise can be found at<br><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank" rel="noopener noreferrer">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></td>
   </tr>
   <tr>
     <td class="tg-vfn0">3 July (Monday) to<br>18 August (Friday)</td>
@@ -174,9 +184,9 @@ Applicants not studying in MOE mainstream primary schools: </b>
        
 ### Application Process
 
-1.  Application can only be done through the **DSA-Sec Portal** from 4th May, 11am to 31st May 2023, 3pm.
+1.  Application can only be done through the **[DSA-Sec Portal](https://go.gov.sg/nmsdsa-sec-application)** from 4th May, 11am to 31st May 2023, 3pm.
 
-2.  Please follow the instructions in the **DSA-Sec Portal** carefully.
+2.  Please follow the instructions in the **[DSA-Sec Portal](https://go.gov.sg/nmsdsa-sec-application)** carefully.
 
 3.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
