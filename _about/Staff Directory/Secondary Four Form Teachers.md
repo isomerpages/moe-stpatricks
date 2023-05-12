@@ -4,7 +4,6 @@ permalink: /about/staff-directory/sec-4/
 description: ""
 third_nav_title: Staff Directory
 ---
-
 | 4 Self-Discipline |  |
 |:---:|:---:|
 | Mr Chew Damien Gerard | [chew_damien_gerard@moe.edu.sg](mailto:chew_damien_gerard@moe.edu.sg) |
