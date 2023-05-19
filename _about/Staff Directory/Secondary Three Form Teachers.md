@@ -4,7 +4,6 @@ permalink: /about/staff-directory/sec-3/
 description: ""
 third_nav_title: Staff Directory
 ---
-
 | 3 Self-Discipline |  |
 |:---:|:---:|
 | Miss Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
@@ -21,7 +20,7 @@ third_nav_title: Staff Directory
 |:---:|:---:|
 | Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
 | Miss Faith Ang Si Ying  | [faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg) |
-
+|
 
 | 3 Integrity |  |
 |:---:|:---:|
