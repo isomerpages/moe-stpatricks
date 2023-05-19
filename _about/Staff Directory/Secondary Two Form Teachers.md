@@ -24,8 +24,8 @@ third_nav_title: Staff Directory
 
 | 2 Integrity |  |
 |:---:|:---:|
-| Mr Tan Chiew Seng | [tan_chiew_seng@moe.edu.sg](mailto:tan_chiew_seng@moe.edu.sg) |
-| Miss Nicola Loh Sijin | [nicola_loh_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg) |
+| Mr Kang Xianbin | [kang_xianbin@moe.edu.sg](mailto:kang_xianbin@moe.edu.sg) |
+| Miss Annisa' Bte Sha'aban | [annisa_shaaban@moe.edu.sg](mailto:annisa_shaaban@moe.edu.sg) |
 |
 
 | 2 Valour |  |
