@@ -4,8 +4,6 @@ permalink: /cca/Uniformed-Groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 <img src="/images/2022_Migration/Ncc_Air_1.jpg" style="width:65%">
 		 
 <img src="/images/2022_Migration/Ncc%202.jpg" style="width:65%">
@@ -20,20 +18,38 @@ Fueled by their camaraderie and grounded in their training, the St. Patrick’s 
 
 #### **Achievements/ Participation**
 
-**Unit Recognition 2021**  
-  
-National Air Race (organized by Asia Flight Simulation Centre)
+**Unit Recognition**
+* Distinction Award 2021, 2022
+ 
+**HQ NCC Air Competition**
+* Balsa Wood Chuck Glider (3rd Place)
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Air Race (3rd Place)
+* Paper Glider Longest Aloft (2nd Place)
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Top Gun Fighter Challenge (Champion
+* Overall 4th team placing
+
+**16th National Air Race 2022** (organized by Asia Flight Simulation Centre)
+
+* National Air Race (3rd Place)
+
+* National Top Gun Fighter Challenge (Champion
+
+**17th National Air Race 2023**&nbsp;(organized by Asia Flight Simulation Centre)
+
+* Best Spot Landing Category (Individual Champion)
+
+**IgnITE Skills Challenge 2023**
+
+* Patrolling Drones: 2nd Place
+
 
 #### **CCA Training Schedule**
 
-Fridays: 2.00 – 6.00pm
+Fridays: 2.30 – 6.00pm
 
 #### **CCA Teacher-In-Charge**
 
-* LTA (NCC) Koh Shi Li -&nbsp;[shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
-* 2LT (NCC)&nbsp; Ong Lingkang -&nbsp;[ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
-* 2LT (NCC) Ms Ng Yan Li - [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
+* Commanding Officer: Miss Koh Shi Li -&nbsp;[shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
+*  2 I/C Teacher Officer: Ms Ng Yan Li - [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
+* Teacher Officer: Ong Lingkang -&nbsp;[ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
+* Teacher Officer: Mr Hykel Goh -&nbsp;[goh_tze_wee_muhammad@moe.edu.sg](mailto:goh_tze_wee_muhammad@moe.edu.sg)
