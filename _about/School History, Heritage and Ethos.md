@@ -3,8 +3,6 @@ title: School History, Heritage and Ethos
 permalink: /about/sch-history-heritage-ethos/
 description: ""
 ---
-
-
 #### **A Lasallian School**
 
 **_‘We are One, but we are Many’_**
@@ -27,4 +25,4 @@ Today, St Patrick’s School remains proud institution with more than 85 years o
 
 #### **Our Catholic Ethos**
 
-Being a Catholic school, St Patrick’s is proud of its Catholic heritage with its religious programme which also includes Morning Prayers, Angelus, Reflections, Masses and Catholic societies. At the same time, St Patrick’s School is also proud of the students and teachers who are of other religious traditions and seeks opportunities for these students to lead prayers and reflections on significant occasions so that everyone will feel a sense of belonging. Being a government-aided school under the Ministry of Education, St Patrick’s seeks to contribute to nation-building and achieve the same national objectives for all the students in our care.
+Being a Catholic school, St Patrick’s is proud of its Catholic heritage with its religious programme which also includes Morning Prayers, Angelus, Reflections, Masses and Catholic societies. Being a government-aided school under the Ministry of Education, St Patrick’s seeks to contribute to nation-building and achieve the same national objectives for all the students in our care.
