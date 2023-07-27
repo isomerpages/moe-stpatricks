@@ -4,6 +4,34 @@ permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
 ---
+### School Leaders
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+ overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead><tr><th class="tg-7f7m">No.</th><th class="tg-7f7m">School Leader</th><th class="tg-7f7m">Name</th><th class="tg-7f7m">Email</th></tr>
+</thead>
+<tbody><tr>
+<th scope="row">1</th>
+<td>Principal</td>
+<td>Mr Mark Gerard Minjoot</td>
+<td><a href="mailto:Mark_gerard_minjoot@moe.edu.sg">Mark_gerard_minjoot@moe.edu.sg</a></td></tr><tr>
+<th scope="row">2</th>
+<td>Vice Principal</td>
+<td>Ms Ng Foong Meng</td>
+<td><a href="mailto:ng_foong_meng@moe.edu.sg">ng_foong_meng@moe.edu.sg</a></td></tr><tr>
+
+<th scope="row">3</th>
+<td>Vice Principal</td>
+<td>Mr Barnabas Tan Yii Hsien</td>
+<td><a href="mailto:tan_yii_hsien_barnabas@moe.edu.sg">tan_yii_hsien_barnabas@moe.edu.sg </a></td></tr></tbody></table>
+
 ### Head Of Departments
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -236,5 +264,3 @@ third_nav_title: Staff Directory
 			</tr>
 		</tbody>
  </table>
- 
- 
