@@ -14,8 +14,8 @@ Our requirements are as follows: 
 
       i.         Must be a Singapore Citizen or Singapore Permanent Resident. 
 
-1. ii.         Provide food that meets the health/nutritional standards set by Health Promotion Board 
-2. (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
+ii.         Provide food that meets the health/nutritional standards set by Health Promotion Board 
+            (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
 
     iii.         Successful applicant is required to apply for a food stall licence from Singapore Food 
 		            Agency (SFA). 
