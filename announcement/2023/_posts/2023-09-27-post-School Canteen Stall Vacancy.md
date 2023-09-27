@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 **St Patrick’s School** has one (1) vacancy for a Halal Rice/Noodles stall commencing operations from Tuesday, 02 Jan 2024. 
 
 We are located at 490 East Coast Road, Singapore 429058.   
@@ -29,7 +28,7 @@ Our requirements are as follows: 
 
  viii.         Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
-2.      Application form (per attached) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
+2.      [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
                          i.         Photocopy of the applicant’s NRIC (front and back) 
 
