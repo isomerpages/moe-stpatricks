@@ -10,7 +10,7 @@ image: ""
 
 We are located at 490 East Coast Road, Singapore 429058.   
 
-Our requirements are as follows: 
+1. Our requirements are as follows: 
 
 * Must be a Singapore Citizen or Singapore Permanent Resident. 
 * Provide food that meets the health/nutritional standards set by Health Promotion Board (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
@@ -27,11 +27,11 @@ Our requirements are as follows: 
 
 * Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
-2.      [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
+2. [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
-     i.         Photocopy of the applicant’s NRIC (front and back) 
-    ii.         Proposed menu and pricing 
-    iii.         Photocopy of relevant certificates such as Basic Food Hygiene, etc. 
+* Photocopy of the applicant’s NRIC (front and back) 
+* Proposed menu and pricing 
+* Photocopy of relevant certificates such as Basic Food Hygiene, etc. 
 
 Application is not on a first-come-first-served basis.  
 
