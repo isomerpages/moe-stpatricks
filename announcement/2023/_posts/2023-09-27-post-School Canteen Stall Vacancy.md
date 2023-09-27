@@ -12,24 +12,20 @@ We are located at 490 East Coast Road, Singapore 429058.   
 
 Our requirements are as follows: 
 
-      i.         Must be a Singapore Citizen or Singapore Permanent Resident. 
+* Must be a Singapore Citizen or Singapore Permanent Resident. 
+* Provide food that meets the health/nutritional standards set by Health Promotion Board (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
 
-ii.         Provide food that meets the health/nutritional standards set by Health Promotion Board                                (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
+* Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA). 
 
-    iii.         Successful applicant is required to apply for a food stall licence from Singapore Food 
-		            Agency (SFA). 
+* Successful applicant and stall assistant must possess the WSQ Food Hygiene Certificate. 
 
-    iv.         Successful applicant and stall assistant must possess the WSQ Food Hygiene Certificate. 
+* Provide good service and quality food at reasonable prices determined in consultation with the school. 
 
-     v.         Provide good service and quality food at reasonable prices determined in consultation 
-		             with the school. 
+* Maintain high standard of food and personal hygiene. 
 
-    vi.         Maintain high standard of food and personal hygiene. 
+*  Preferably possess catering experience or experience operating in a school environment. 
 
-  vii.         Preferably possess catering experience or experience operating in a school environment. 
-
- viii.         Selected main applicant must be in personal attendance at the stall during the whole of 
-               the operation hours. 
+* Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
 2.      [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
