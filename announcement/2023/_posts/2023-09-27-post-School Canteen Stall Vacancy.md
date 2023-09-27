@@ -17,17 +17,20 @@ Our requirements are as follows: 
      ii.         Provide food that meets the health/nutritional standards set by Health Promotion Board 
 		             (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
 
-    iii.         Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA). 
+    iii.         Successful applicant is required to apply for a food stall licence from Singapore Food 
+		            Agency (SFA). 
 
     iv.         Successful applicant and stall assistant must possess the WSQ Food Hygiene Certificate. 
 
-     v.         Provide good service and quality food at reasonable prices determined in consultation with the school. 
+     v.         Provide good service and quality food at reasonable prices determined in consultation 
+		             with the school. 
 
     vi.         Maintain high standard of food and personal hygiene. 
 
   vii.         Preferably possess catering experience or experience operating in a school environment. 
 
- viii.         Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
+ viii.         Selected main applicant must be in personal attendance at the stall during the whole of 
+               the operation hours. 
 
 2.      [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
