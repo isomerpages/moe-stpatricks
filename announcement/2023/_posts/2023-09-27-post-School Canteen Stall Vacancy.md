@@ -6,3 +6,43 @@ layout: post
 description: ""
 image: ""
 ---
+
+**St Patrick’s School** has one (1) vacancy for a Halal Rice/Noodles stall commencing operations from Tuesday, 02 Jan 2024. 
+
+We are located at 490 East Coast Road, Singapore 429058.   
+
+Our requirements are as follows: 
+
+      i.         Must be a Singapore Citizen or Singapore Permanent Resident. 
+
+     ii.         Provide food that meets the health/nutritional standards set by Health Promotion Board (HPB).  Applicant may refer to the HPB website at [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme). 
+
+    iii.         Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA). 
+
+    iv.         Successful applicant and stall assistant must possess the WSQ Food Hygiene Certificate. 
+
+     v.         Provide good service and quality food at reasonable prices determined in consultation with the school. 
+
+    vi.         Maintain high standard of food and personal hygiene. 
+
+  vii.         Preferably possess catering experience or experience operating in a school environment. 
+
+ viii.         Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
+
+2.      Application form (per attached) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
+
+                         i.         Photocopy of the applicant’s NRIC (front and back) 
+
+                        ii.         Proposed menu and pricing 
+
+                       iii.         Photocopy of relevant certificates such as Basic Food Hygiene, etc. 
+
+Application is not on a first-come-first-served basis.  
+
+Only shortlisted applicants will be notified.  Shortlisted applicants will be contacted for an interview/ food sampling session. 
+
+The decision by the School Selection Panel is final. 
+
+For enquiries, please contact Mr Firdaus/Ms Joyce at 6344 0929.  
+
+Thank you.
