@@ -29,11 +29,9 @@ Our requirements are as follows: 
 
 2.      [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
-                         i.         Photocopy of the applicant’s NRIC (front and back) 
-
-                        ii.         Proposed menu and pricing 
-
-                       iii.         Photocopy of relevant certificates such as Basic Food Hygiene, etc. 
+     i.         Photocopy of the applicant’s NRIC (front and back) 
+    ii.         Proposed menu and pricing 
+    iii.         Photocopy of relevant certificates such as Basic Food Hygiene, etc. 
 
 Application is not on a first-come-first-served basis.  
 
