@@ -27,7 +27,7 @@ We are located at 490 East Coast Road, Singapore 429058.   
 
 * Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
-2.  [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
+A.  [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
 * Photocopy of the applicant’s NRIC (front and back) 
 * Proposed menu and pricing 
