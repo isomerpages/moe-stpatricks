@@ -26,7 +26,7 @@ A. Our requirements are as follows: 
 
 * Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
-B.  [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/application_for_canteen-stall_in_existing_school.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
+B.  [Application Form](https://www.stpatricks.moe.edu.sg/files/announcement/Application-Canteen-Stall.pdf) must be completed and submitted to the school’s General Office **by Fri, 27 Oct 2023** with the following documents: 
 
 * Photocopy of the applicant’s NRIC (front and back) 
 * Proposed menu and pricing 
