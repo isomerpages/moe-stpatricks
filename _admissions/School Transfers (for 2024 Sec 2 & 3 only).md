@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Transfers (for 2024. Sec 2 & 3 only)
 
-![](/images/Spstransfer/spstransfer2024v2.jpg)
+![50%](/images/Spstransfer/spstransfer2024v2.jpg)
 
 Kindly scan the QR code above to submit your application form. You will need to include the Holistic Development Profile report of the Overall results for the current year.
 
