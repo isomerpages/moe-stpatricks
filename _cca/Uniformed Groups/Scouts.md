@@ -4,8 +4,8 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img src="/images/2022_Migration/Scouts.jpg" style="width:85%">
 
+![](/images/Updated%20photos%20for%20CCA/scouts%202023.jpg)
 #### **Profile**
 
 ##### **"Pajigwad: Stick to it!"**
