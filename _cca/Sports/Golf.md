@@ -24,7 +24,7 @@ Student golfers of St. Patrick’s School are part of the prestigious Youth Golf
 *   Koo Ming Cong Randall&nbsp;&nbsp; 2SD
 *   Yan Ming De&nbsp;&nbsp;&nbsp; 1I
 
-**C Division National School Games Golf Team Championship 2023 – 4th place**
+**_C Division National School Games Golf Team Championship 2023 – 4th place_**
 
 * Xavier Soong Yao Wei    2I
 * Wang Hong Yi, Denzel   2L
