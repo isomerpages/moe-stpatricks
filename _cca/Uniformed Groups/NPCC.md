@@ -14,9 +14,8 @@ third_nav_title: Uniformed Groups
 
 #### **Achievements/ Participation Unit**
 
-Overall Proficiency Award 2021 - Gold&nbsp;
-
-SPF-NPCC Badge Awardee (Pinnacle Award in NPCC) 2022 - Gabriel Ang Wee Jun (4V)
+* Overall Proficiency Award 2022 - Gold
+* SPF-NPCC Badge Awardee (Pinnacle Award in NPCC) 2023 - SI Cyrus Too Yuzhe &amp; SSGT Daniyal Mikhail bin Rizal
 
 #### **CCA Training Schedule**
 
