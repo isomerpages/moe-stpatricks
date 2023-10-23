@@ -4,7 +4,6 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/Updated%20photos%20for%20CCA/scouts%202023.jpg)
 #### **Profile**
 
