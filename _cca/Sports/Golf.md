@@ -10,11 +10,7 @@ third_nav_title: Sports
 
 ##### **"Golfers with Discipline and Diligence"**
 
-Student golfers of St. Patrick’s School are part of the prestigious Youth Golf Programme endorsed by the volunteer management committee of Youth Golf Network Ltd. Our golfers benefit tremendously under the tutelage of a dedicated team of skilled golf professionals from SingaGolf Academy at Sembawang Golf Course.
-
-Swinging back into action after the pandemic, Golf CCA showed great resilience on the fairway to clinch the 4th spots for both B Division and C Division in the National School Games Golf Team Championship 2022.
-
-Mentally resilient in the pursuit of excellence, success is par for the course with our golfers!
+Student golfers of St. Patrick’s School are part of the prestigious Youth Golf Programme endorsed by the volunteer management committee of Youth Golf Network Ltd. Our golfers benefit tremendously under the tutelage of a dedicated team of skilled golf professionals from The Golfing Lab at National Service Resort &amp; Country Club (NSRCC). Swinging back into action after the pandemic, Golf CCA showed great resilience on the fairway to clinch the 4th spots for the C Division in the National School Games Golf Team Championship 2023. Mentally resilient in the pursuit of excellence, success is par for the course with our golfers!
 
 #### **Achievements**
 
@@ -28,9 +24,14 @@ Mentally resilient in the pursuit of excellence, success is par for the course w
 *   Koo Ming Cong Randall&nbsp;&nbsp; 2SD
 *   Yan Ming De&nbsp;&nbsp;&nbsp; 1I
 
+**_C Division National School Games Golf Team Championship 2023 – 4th place_**
+
+* Xavier Soong Yao Wei    2I
+* Wang Hong Yi, Denzel   2L
+
 #### **CCA Training Schedule**
 
-Monday, 2:30 to 6pm
+Friday, 2:30 to 6pm
 
 #### **CCA Teachers-in-Charge**
 

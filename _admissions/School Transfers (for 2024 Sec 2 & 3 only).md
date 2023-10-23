@@ -3,7 +3,7 @@ title: School Transfers (for 2024 Sec 2 & 3 only)
 permalink: /admission/school-transfers/
 description: ""
 ---
-## School Transfers (for 2024. Sec 2 & 3 only)
+## School Transfers (for 2024 Sec 2 & 3 only)
 
 
 
@@ -18,4 +18,4 @@ Please note the last day of submission for Transfer Request will be on 3 Nov 202
 We will get back to you on the application outcome by mid-Nov.
 
 
-![](/images/Spstransfer/spstransfer2024v4.jpg)
+![https://go.gov.sg/spstransfer2024](/images/Spstransfer/spstransfer2024v4.jpg)

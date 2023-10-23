@@ -15,21 +15,18 @@ third_nav_title: Aesthetics
 ![](/images/2023updates/dance03.jpg)
 
 
-As a relatively new CCA, SPS Modern Dance aims to instill a love for dance in its students by exposing them to the intricacies of movement and hidden complexities of music.
-
-Our regular training sessions include a healthy mix of physical conditioning to shore up the dancers’ strength and execution of their moves, as well as exposure to new dance vocabulary to improve their versatility as practitioners.
-
-Despite the challenges that COVID-19 has thrown our way, the resilient spirit of the CCA shines through and each batch of students emerges hardier than ever.
+SPS Modern Dance aims to instill increased body and spatial awareness in our members whilst providing a safe, fun and enriching environment for them to develop bonds that will last them a lifetime. During our regular CCA training we go through some physical conditioning followed by the learning of a simple choreography either for internal or external showcases. We also look forward to annual mainstay activities such as learning journeys, team bonding games and overnight camps.
 
 #### **Achievement/ Participation**
 
-* REMIX Dance Competition 2021
-* Chinese Street Dance Competition 2021 and 2022
-* Artist-in-School-Scheme (NAC Collaboration with Oschool) 2022
+* SYF 2023 VIA 
+* Performance at Carlton Hotel (ECG) 
+* Laser Tag Team Bonding Activity
 
 #### **CCA Training Schedule**
 
-Fridays: 2.30 - 4.30pm
+Friday, 2.30 - 4.30pm (non- SYF)
+Wednesday and Friday, 2.30 - 5.30pm (SYF)
 
 #### **CCA Teachers-in-Charge**
 
