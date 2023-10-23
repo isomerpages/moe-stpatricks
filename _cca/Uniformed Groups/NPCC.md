@@ -19,7 +19,7 @@ third_nav_title: Uniformed Groups
 
 #### **CCA Training Schedule**
 
-Fridays: 2.30 - 5.30pm
+Friday 2.30 - 5.30pm
 
 #### **CCA Teachers-in-Charge**
 
