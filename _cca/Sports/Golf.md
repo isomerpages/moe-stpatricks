@@ -31,7 +31,7 @@ Student golfers of St. Patrick’s School are part of the prestigious Youth Golf
 
 #### **CCA Training Schedule**
 
-Monday, 2:30 to 6pm
+Friday, 2:30 to 6pm
 
 #### **CCA Teachers-in-Charge**
 
