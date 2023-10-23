@@ -4,32 +4,18 @@ permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 <img src="/images/2022_Migration/Scouts.jpg" style="width:85%">
 
 #### **Profile**
 
 ##### **"Pajigwad: Stick to it!"**
 
-St. Patrick’s School Pajigwad Scouts Troop has attained the Frank Cooper Sands Gold Award for more than 10 consecutive years.&nbsp;
-
-Our Scouts continue to exemplify excellence in their weekly training and at Scout HQ events. Weekly training sessions focus on honing core scouting skills and patrol bonding. Scouts continue to participate in HQ and area competitions and have clinched several awards.
-
-Key experiences include the annual Troop Camp and Founder’s Day commemoration when patrols come together to develop and showcase their Scouting skills and develop camaraderie. Scouts also participate in the annual Job Week and community service projects. During the COVID-19 pandemic, Scouts contributed to the school as safe distancing ambassadors. Through these experiences. Scouts learn the value of teamwork, valour and excellence. Throughout all our activities we hold true to the Scout Promise:
-
-On my Honour I promise that I will do my best
-
-To do my duty to God and the Republic of Singapore
-
-To help other people and
-
-To keep the Scout Law
+Pajigwad Scout Troop has a rich history in St. Patrick’s School. Our Scouting programme is focused on the Scout Method of learning by doing. Upon joining the troop, Scouts are taught the Scout Law and Scout Promise, and are reminded to live out the values in the Law and Promise throughout their journey as a Scout. Scouts are placed in patrols, where senior scouts mentor and guide their juniors on the Scout Method. Senior scouts belong to a Patrol Leaders’ Council (PLC), where they develop leadership skills and influence their peers. Scouts are engaged in a variety of activities – camping, campfires, orienteering, outdoor cooking and pioneering, to develop their fullest potential. The Scout Progress and Proficiency Badge scheme also enable Scouts to discover and develop their interests and skills. The highest level of achievement for a Scout to work towards is the Chief Commissioner’s Award. Pajigwad Scout Troop has achieved the Frank Cooper Sands Gold Award and Chief Commissioner's Award. The journey in Pajigwad Scouts is meaningful and memorable.
 
 #### **Achievements/ Participation**
 
-National Gangshow Competition 2021 (Gold, Silver and Bronze Awards)  
-Be Prepared against Cancer Competition 2021 (5th and 6th place)
+* 2022 Frank Cooper Sands Award - GOLD with Honours Pennant 
+* Chief Commissioner's Award 2023
 
 #### **CCA Training Schedule**
 Fridays: 2.00 - 5.00pm
@@ -39,4 +25,4 @@ Fridays: 2.00 - 5.00pm
 
 * Ms Christie Cheah -&nbsp;[cheah\_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) 
 * Mr Boon Jia Hui -&nbsp;[boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg)
-* Mdm Li Xiyao - [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg)
+* Ms Shifa - [nur_shifa_saiful_ali@moe.edu.sg](mailto:nur_shifa_saiful_ali@moe.edu.sg)
