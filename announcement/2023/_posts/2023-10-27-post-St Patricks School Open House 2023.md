@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![https://www.stpatricks.moe.edu.sg//announcement/2023/sps-openhse2023](/images/Announcement/2023-openhse.png)
