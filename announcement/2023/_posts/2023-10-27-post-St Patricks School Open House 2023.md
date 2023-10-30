@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+
+
 <p><a href="https://www.stpatsopenhouse.com/">
 <img src="/images/Announcement/2023-openhse.png" align="center">
 </a></p>
+
+#### Click on the image above to access our Open House Website 2023 for more details!
