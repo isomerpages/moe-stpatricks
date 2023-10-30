@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Announcement/2023-openhse.png)
-
-
-<a style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg"></a>
+<p><a href="https://www.stpatsopenhouse.com/">
+<img src="/images/Announcement/2023-openhse.png" align="center">
+</a></p>
