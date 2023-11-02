@@ -4,8 +4,6 @@ permalink: /cca/Sports/tennis/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <img src="/images/2022_Migration/Tennis.jpg" style="width:85%">
 		 
 #### **Profile**
@@ -34,6 +32,4 @@ Friday, 2:15 - 4:15pm
 
 #### **CCA Teachers-in-Charge**
 
-* Mariana Yunus&nbsp;- [mariana_yunus@moe.edu.sg](mailto:mariana_yunus@moe.edu.sg)
 * Lee Chain Ting -&nbsp;[lee_chain_ting@moe.edu.sg](mailto:lee_chain_ting@moe.edu.sg)
-* Rozlinda Abdul Rahim -&nbsp;[rozlinda_abdul_rahim@moe.edu.sg](mailto:rozlinda_abdul_rahim@moe.edu.sg)
