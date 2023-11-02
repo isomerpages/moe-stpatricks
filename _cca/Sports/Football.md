@@ -21,14 +21,14 @@ With a strong team spirit, SPS Football CCA school team will continue to strive 
 #### **Achievements**
 
 **2019 National School Games (NSG)**
-B and C Division: 2nd in Nationals School Premier Division One
+<br>B and C Division: 2nd in Nationals School Premier Division One
 
 **2022 National School Games (NSG)**
-B Division: 3rd Position in East Zone Schools Championships 
+<br>B Division: 3rd Position in East Zone Schools Championships 
 
 **2023 National School Games (NSG)**
-B Division: 3rd National in Nationals School Premier Division One
-C Division: Top 8 National in Nationals School Premier Division One
+<br>B Division: 3rd National in Nationals School Premier Division One
+<br>C Division: Top 8 National in Nationals School Premier Division One
 
 #### **CCA Training Schedule**
 
