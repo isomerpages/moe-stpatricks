@@ -3,8 +3,9 @@ title: NPCC
 permalink: /cca/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-<img src="/images/2022_Migration/NPCC.jpg" style="width:100%">
+![](/images/POP_b_41_2_.jpg)
 
 #### **Profile**
 
