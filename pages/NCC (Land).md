@@ -2,10 +2,7 @@
 title: NCC (Land)
 permalink: /cca/Uniformed-Groups/ncc-land/
 description: ""
-third_nav_title: Uniformed Groups
 ---
-
-
 <img src="/images/2022_Migration/NCC_LAND.jpg" style="width:65%">
 
 #### **Profile**
