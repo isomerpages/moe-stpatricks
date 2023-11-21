@@ -21,6 +21,6 @@ Click on the various groups to find out more.
 
 |||
 | ------ | ------ |
-|<a href="/ccas/uniformed-groups/"><img src="/images/Updated%20photos%20for%20CCA/uniformed%20groups.png"></a>| <a href="/ccas/aesthetics/"><img src="/images/Updated%20photos%20for%20CCA/aesthetics.png"></a>|
+|<a href="/ccas/uniformed-groups/"><img src="/images/Updated%20photos%20for%20CCA/uniform%20groups2.png"></a>| <a href="/ccas/aesthetics/"><img src="/images/Updated%20photos%20for%20CCA/aesthetics.png"></a>|
 <a href="/ccas/sports/"><img src="/images/Updated%20photos%20for%20CCA/sports.png"></a>|<a href="/ccas/clubsandsoc/"><img src="/images/Updated%20photos%20for%20CCA/clubs%20and%20societies.png"></a>|
 ||||
