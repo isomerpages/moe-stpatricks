@@ -2,6 +2,7 @@
 title: CCAs
 permalink: /co-curriculum/ccas/
 description: ""
+variant: markdown
 ---
 ![](/images/Updated%20photos%20for%20CCA/cca%20banner%20gif.gif)
 
