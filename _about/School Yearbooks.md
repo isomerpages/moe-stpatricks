@@ -7,7 +7,7 @@ description: ""
 ### **Yearbook 2023**
 
 
-<a href="https://online.fliphtml5.com/rwsfa/nnax/"><img style="width:250px" src="/images/Yearbook_2023.png">
+<a href="https://online.fliphtml5.com/rwsfa/avex/"><img style="width:250px" src="/images/Yearbook_2023.png">
 </a>
 
 <br>
