@@ -2,9 +2,8 @@
 title: PDLP
 permalink: /about/pdlp/
 description: ""
+variant: markdown
 ---
-
-
 #### **National Digital Literacy Programme**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD).
 
@@ -58,14 +57,14 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 #### **Cyberwellness Resources for Parents**
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf">
-<img style="width:50%" src="/images/2023%20PDLP/Parents HB Part 1.png">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2-ParentHB-I_2024.pdf">
+<img style="width:50%" src="/images/2024/Parent_HB1.png">
 </a></p>
 
 <br>
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/IP3%20-%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf">
-<img style="width:50%" src="/images/2023%20PDLP/Parents HB Part 2.png">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2-ParentHB-II_2024.pdf">
+<img style="width:50%" src="/images/2024/Parent_HB2.png">
 </a></p>
 
 <br>
