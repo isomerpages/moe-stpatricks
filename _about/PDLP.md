@@ -57,13 +57,13 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 #### **Cyberwellness Resources for Parents**
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2-ParentHB-I_2024.pdf">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/IP2_ParentHB_I_2024.pdf">
 <img style="width:50%" src="/images/2024/Parent_HB1.png">
 </a></p>
 
 <br>
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2_ParentHB_I_2024.pdf">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2_ParentHB_II_2024.pdf">
 <img style="width:50%" src="/images/2024/Parent_HB2.png">
 </a></p>
 
