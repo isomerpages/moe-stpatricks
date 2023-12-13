@@ -63,7 +63,7 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 <br>
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2-ParentHB-II_2024.pdf">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2_ParentHB_I_2024.pdf">
 <img style="width:50%" src="/images/2024/Parent_HB2.png">
 </a></p>
 
