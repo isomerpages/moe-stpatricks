@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.open.gov.sg/s1rego2024
+external: https://www.stpatricks.moe.edu.sg/s1rego2024/
 ---
