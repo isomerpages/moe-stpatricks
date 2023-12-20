@@ -42,71 +42,49 @@ If the applicant is from an affiliated primary school, he will need to meet the 
 
 Please refer to the following for the COP for Affiliated and Non-Affiliated students.
 
-**_Indicative PSLE Score ranges of 2022 PSLE students posted to 2023 Sec 1_**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-t671{border-color:#333333;font-size:medium;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-j2qn{background-color:#c0c0c0;border-color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-sn4r{border-color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-t671">Official Cut-Off Point (COP) for 2024 Sec 1 Intake</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j2qn">Description</td>
+    <td class="tg-j2qn">Posting Group 3</td>
+    <td class="tg-j2qn">Posting Group 2</td>
+    <td class="tg-j2qn">Posting Group 1</td>
+  </tr>
+  <tr>
+    <td class="tg-sn4r">Non-Affiliated COP</td>
+    <td class="tg-de2y">14</td>
+    <td class="tg-de2y">22</td>
+    <td class="tg-de2y">29</td>
+  </tr>
+  <tr>
+    <td class="tg-sn4r">Affiliated COP</td>
+    <td class="tg-de2y">22</td>
+    <td class="tg-de2y">24</td>
+    <td class="tg-de2y">29</td>
+  </tr>
+	 <tr>
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:134.75pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#BFBFBF;mso-background-themecolor:
-  background1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ansi-language:EN-SG"></span></b></p></td><td style="width:126.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;background:#BFBFBF;mso-background-themecolor:background1;
-  mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Affiliated</span></b><b><span style="mso-ansi-language:
-  EN-SG"></span></b></p></td><td style="width:126.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;background:#BFBFBF;mso-background-themecolor:background1;
-  mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Non-Affiliated</span></b><b><span style="mso-ansi-language:
-  EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:134.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="180"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">Posting Group 3</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">13 - 20</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-ansi-language:EN-SG"></span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">-</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:134.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="180"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">Posting Group 2</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">21 - 25</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">21 - 23</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:134.75pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="180"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">Posting Group 1</span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.5pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black" lang="EN-US">25 - 29</span><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-ansi-language:EN-SG"></span></p></td><td style="width:126.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="168"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-ansi-language:EN-SG">25 - 26</span></p></td></tr></tbody></table>
+  </tr>
+</tbody>
+</table>
+
 
 
 There were no non-affiliated students posted to Express/Posting Group 3 in the 2022 S1 Posting. All 20% of places reserved for students without affiliation priority were taken up via DSA-Sec. The school’s 2021 PSLE score range for non-affiliated students in Express/Posting Group 3 was 10 to 13.
