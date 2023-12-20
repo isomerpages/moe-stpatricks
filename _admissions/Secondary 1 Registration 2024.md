@@ -7,7 +7,7 @@ variant: markdown
 # Secondary 1 Registration
 
 
-The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** and an **_Online Registration Form_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
+The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
 
 
 If you do not have a PG account, please download the **Parents Gateway App** on the _Apple App Store_ or the _GooglePlay Store_ and sign up for an account with your SingPass **before** posting results are released. The school will also be using PG as a primary mode of communication for future announcements. Please refer to the guide below for setting up your PG account if you have not done so.
