@@ -84,5 +84,3 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
   </tr>
 </tbody>
 </table>
-
-There were no non-affiliated students posted to Express/Posting Group 3 in the 2022 S1 Posting. All 20% of places reserved for students without affiliation priority were taken up via DSA-Sec. The school’s 2021 PSLE score range for non-affiliated students in Express/Posting Group 3 was 10 to 13.
