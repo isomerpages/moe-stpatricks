@@ -6,6 +6,7 @@ variant: markdown
 ---
 # Secondary 1 Registration
 
+![](/images/2024/pg_down.jpeg)
 
 The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
 
