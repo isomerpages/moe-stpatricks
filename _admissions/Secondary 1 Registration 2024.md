@@ -42,7 +42,6 @@ If the applicant is from an affiliated primary school, he will need to meet the 
 
 Please refer to the following for the COP for Affiliated and Non-Affiliated students.
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -50,6 +49,7 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-t671{border-color:#333333;font-size:medium;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-j2qn{background-color:#c0c0c0;border-color:#333333;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-sn4r{border-color:#333333;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
@@ -79,13 +79,10 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
     <td class="tg-de2y">24</td>
     <td class="tg-de2y">29</td>
   </tr>
-	 <tr>
-
+  <tr>
+    <td colspan="4" class="tg-1wig">Note : When accessing appeal for discretionary admission, student needs to meet the above course COP i.e. AL score should be the same or lower.</td>
   </tr>
 </tbody>
 </table>
-    
-**Note : When accessing appeal for discretionary admission, student needs to meet the above course COP i.e. AL score should be the same or lower.**
-
 
 There were no non-affiliated students posted to Express/Posting Group 3 in the 2022 S1 Posting. All 20% of places reserved for students without affiliation priority were taken up via DSA-Sec. The school’s 2021 PSLE score range for non-affiliated students in Express/Posting Group 3 was 10 to 13.
