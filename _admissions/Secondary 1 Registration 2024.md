@@ -7,7 +7,7 @@ variant: markdown
 # Secondary 1 Registration
 
 
-The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** and an **_Online Registration Form_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
+The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
 
 
 If you do not have a PG account, please download the **Parents Gateway App** on the _Apple App Store_ or the _GooglePlay Store_ and sign up for an account with your SingPass **before** posting results are released. The school will also be using PG as a primary mode of communication for future announcements. Please refer to the guide below for setting up your PG account if you have not done so.
@@ -18,10 +18,9 @@ If you do not have a PG account, please download the **Parents Gateway App** on 
 For parents/guardians who are **unable to sign up for a PG account or have difficulty accessing** your account, please fill in [this form](https://form.gov.sg/652376b2bbec81001300f4c6). The Information Booklet and Online Registration Form will be e-mailed to you instead.
 
 
-Please refer to the table below for the timeline for Registration.
+Please refer to the infographic below for the timeline for Registration.
 
-
-**![](/images/Rego2024v2.png)**
+![](/images/2024/Sec1_registration_fc.png)
 
 If you require any assistance on the registration process or setting up of PG, please contact the General Office at 63440929. You may also choose to email the School Administrative Team at [stpatricksch@moe.edu.sg](mailto:stpatricksch@moe.edu.sg).
 
