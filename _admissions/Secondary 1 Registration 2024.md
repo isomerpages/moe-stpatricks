@@ -18,10 +18,9 @@ If you do not have a PG account, please download the **Parents Gateway App** on 
 For parents/guardians who are **unable to sign up for a PG account or have difficulty accessing** your account, please fill in [this form](https://form.gov.sg/652376b2bbec81001300f4c6). The Information Booklet and Online Registration Form will be e-mailed to you instead.
 
 
-Please refer to the table below for the timeline for Registration.
+Please refer to the infographic below for the timeline for Registration.
 
-
-**![](/images/Rego2024v2.png)**
+![](/images/2024/Sec1_registration_fc.png)
 
 If you require any assistance on the registration process or setting up of PG, please contact the General Office at 63440929. You may also choose to email the School Administrative Team at [stpatricksch@moe.edu.sg](mailto:stpatricksch@moe.edu.sg).
 
