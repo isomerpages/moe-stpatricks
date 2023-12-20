@@ -9,6 +9,7 @@ variant: markdown
 
 The Secondary 1 Registration for 2024 at St. Patrick’s School will be conducted **online**. An **_Information Booklet_** will be sent via Parents Gateway (PG) **by 5pm on the day of the release of posting results**. The **_Information Booklet_** will include details on the purchase of uniforms and books. We seek your cooperation to read through the **_Information Booklet_** thoroughly and **refrain from coming down to the school without a prior appointment**. More information on the booking of appointment slots can also be found in the **_Information Booklet_**.
 
+Alternatively, you may access the&nbsp;**_Information Booklet_**&nbsp;from the following link:&nbsp;[https://go.gov.sg/sps-s1-parents-info-book](https://go.gov.sg/sps-s1-parents-info-book).
 
 If you do not have a PG account, please download the **Parents Gateway App** on the _Apple App Store_ or the _GooglePlay Store_ and sign up for an account with your SingPass **before** posting results are released. The school will also be using PG as a primary mode of communication for future announcements. Please refer to the guide below for setting up your PG account if you have not done so.
 
@@ -84,5 +85,3 @@ Please refer to the following for the COP for Affiliated and Non-Affiliated stud
   </tr>
 </tbody>
 </table>
-
-There were no non-affiliated students posted to Express/Posting Group 3 in the 2022 S1 Posting. All 20% of places reserved for students without affiliation priority were taken up via DSA-Sec. The school’s 2021 PSLE score range for non-affiliated students in Express/Posting Group 3 was 10 to 13.
