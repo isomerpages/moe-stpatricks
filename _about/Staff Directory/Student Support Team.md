@@ -49,9 +49,9 @@ third_nav_title: Staff Directory
 			<tr>
 				<th scope="row">4</th>
 				<td>School Counsellor</td>
-				<td>Mdm Tan Helen</td>
-				<td><a href="mailto:tan_helen@moe.edu.sg">
-					tan_helen@moe.edu.sg</a></td>
+				<td>Mdm Neo Mary</td>
+				<td><a href="mailto:neo_mary@moe.edu.sg">
+					 neo_mary@moe.edu.sg</a></td>
 			</tr>
 			<tr>
 				<th scope="row">5</th>
