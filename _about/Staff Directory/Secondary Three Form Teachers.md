@@ -3,51 +3,53 @@ title: Secondary Three Form Teachers
 permalink: /about/staff-directory/sec-3/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
-| 3 Self-Discipline |  |
+| 3 Self-Discipline |  |
 |:---:|:---:|
-| Miss Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
-| Mr Mariappan Arjunan | [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg) |
+| Mr Rajesh Somu | [rajesh_somu@moe.edu.sg](mailto:rajesh_somu@moe.edu.sg) |
+| Mdm Siti Nur Faizah Bte Ibrahim | [siti_nur_faizah_ibrahim@moe.edu.sg](mailto:siti_nur_faizah_ibrahim@moe.edu.sg) |
 |
 
-| 3 Teamwork |  |
+| 3 Teamwork |  |
 |:---:|:---:|
-| Mr Koh Seng John | [koh_seng_john@moe.edu.sg](mailto:koh_seng_john@moe.edu.sg) |
-| Ms Shirley Tang | [tang_xueli_shirley@moe.edu.sg](mailto:tang_xueli_shirley@moe.edu.sg) |
+| Mr Tan Chee Wei | [tan_chee_wei@moe.edu.sg](mailto:tan_chee_wei@moe.edu.sg) |
+| Miss Haida Bte Abdulah | [haida_abdullah@moe.edu.sg](mailto:haida_abdullah@moe.edu.sg) |
 |
 
-| 3 Respect |  |
+|3 Respect |  |
 |:---:|:---:|
-| Mr Ang Darrenkane | [ang_darrenkane@moe.edu.sg](mailto:ang_darrenkane@moe.edu.sg) |
-| Miss Faith Ang Si Ying  | [faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg) |
+| Mr Tan Tat Hock | [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg) |
+| Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
 |
 
-| 3 Integrity |  |
+| 3 Integrity |  |
 |:---:|:---:|
-| Miss Nicola Loh Sijin | [nicola_loh_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg) |
-| Mr Tan Chiew Seng | [tan_chiew_seng@moe.edu.sg](mailto:tan_chiew_seng@moe.edu.sg) |
+| Mr Kang Xianbin | [kang_xianbin@moe.edu.sg](mailto:kang_xianbin@moe.edu.sg) |
+| Miss Quek Yi Ling Geraldine | [quek_yi_ling_geraldine@moe.edu.sg](mailto:quek_yi_ling_geraldine@moe.edu.sg) |
 |
 
-| 3 Valour |  |
+| 3 Valour |  |
 |:---:|:---:|
-| Mr Boon Jia Hui | [boon_jia_hui@moe.edu.sg](mailto:boon_jia_hui@moe.edu.sg) |
-| Ms Lim Li Chen Ruth | [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg) |
+| Mdm Rafiqah Bte Sani | [rafiqah_sani@moe.edu.sg](mailto:rafiqah_sani@moe.edu.sg) |
+| Miss Teng Mui Lim | [teng_mui_lim@moe.edu.sg](mailto:teng_mui_lim@moe.edu.sg) |
 |
 
-| 3 Excellence |  |
+| 3 Excellence |  |
 |:---:|:---:|
-| Mr Ong Ling Kang | [ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg) |
-| Ms Chan Hui Lun | [hui_lun_chan@moe.edu.sg](mailto:hui_lun_chan@moe.edu.sg) |
+| Mdm Hazlian Bte Karim | [hazlian_karim@moe.edu.sg](mailto:hazlian_karim@moe.edu.sg) |
+| Mr Taufiq Bin Abdul Malek | [taufiq_abd_malek@moe.edu.sg](mailto:taufiq_abd_malek@moe.edu.sg) |
 |
 
-| 3 Patrick |  |
+| 3 Patrick |  |
 |:---:|:---:|
-| Mr Sylvester Chan Chee Cheong | [sylvester_chan_chee_choong@moe.edu.sg](mailto:sylvester_chan_chee_choong@moe.edu.sg) |
-| Mdm Ng Yi Ting | [ng_yi_ting@moe.edu.sg](mailto:lng_yi_ting@moe.edu.sg) |
+| Mdm Li Xiyao | [li_xiyao@moe.edu.sg](mailto:li_xiyao@moe.edu.sg) |
+| Mr Samuel Tay Woei Long | [tay_woei_long@moe.edu.sg](mailto:tay_woei_long@moe.edu.sg) |
 |
 
-| 3 Lasalle |  |
+| 3 Lasalle |  |
 |:---:|:---:|
-| Miss Cheryl Lek Li Ling | [lek_li_ling_cheryl@moe.edu.sg](mailto:lek_li_ling_cheryl@moe.edu.sg) |
-| Miss Yee Yun Shawn | [yee_yun_shawn@moe.edu.sg](mailto:yee_yun_shawn@moe.edu.sg) |
+| Mdm Siti Norniza Bte Junadi | [siti_norniza_junadi@moe.edu.sg](mailto:siti_norniza_junadi@moe.edu.sg) |
+| Mr Vincent Chong Weng Chiew | [chong_weng_chiew_vincent@moe.edu.sg](mailto:chong_weng_chiew_vincent@moe.edu.sg) |
+|
 |
