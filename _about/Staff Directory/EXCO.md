@@ -3,6 +3,7 @@ title: EXCO
 permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 ### School Leaders
 <style type="text/css">
@@ -55,9 +56,9 @@ third_nav_title: Staff Directory
   <tr>
 				<th scope="row">1</th>
 				<td>HOD Mathematics</td>
-				<td>Ms Teo Bee Hoon</td>
-				<td><a href="mailto:teo_bee_hoon@moe.edu.sg">
-					teo_bee_hoon@moe.edu.sg</a></td>
+				<td>Mdm Soh Kim Ling</td>
+				<td><a href="mailto:soh_kim_ling@moe.edu.sg">
+					soh_kim_ling@moe.edu.sg</a></td>
 			</tr>
 			<tr>
 				<th scope="row">2</th>
@@ -118,16 +119,16 @@ third_nav_title: Staff Directory
 			<tr>
 				<th scope="row">10</th>
 				<td>HOD SEN</td>
-				<td>Ms Goh Huiling Winnie</td>
-				<td><a href="mailto:goh_huiling_winnie@moe.edu.sg">
-				goh_huiling_winnie@moe.edu.sg</a></td>
+				<td>Ms Teo Bee Hoon</td>
+				<td><a href="mailto:teo_bee_hoon@moe.edu.sg">
+				teo_bee_hoon@moe.edu.sg</a></td>
 			</tr>
 			<tr>
 				<th scope="row">11</th>
 				<td>School Staff Developer</td>
-				<td> Mr Errol Chang Lik Hung</td>
-				<td><a href="mailto:chang_lik_hung_errol@moe.edu.sg">
-					chang_lik_hung_errol@moe.edu.sg</a></td>
+				<td>Ms Grace Lim</td>
+				<td><a href="mailto:grace_alessandra_lim@moe.edu.sg">
+	grace_alessandra_lim@moe.edu.sg</a></td>
 			</tr>
 		</tbody>
  </table>
@@ -156,30 +157,30 @@ third_nav_title: Staff Directory
   <tr>
 				<th scope="row">1</th>
 				<td>YEAR HEAD (S1)</td>
+		<td> Mr Errol Chang Lik Hung</td>
+				<td><a href="mailto:chang_lik_hung_errol@moe.edu.sg">
+					chang_lik_hung_errol@moe.edu.sg</a></td>
+			</tr>
+			<tr>
+				<th scope="row">2</th>
+				<td>YEAR HEAD (S2)</td>
 				<td>Mr Huang YeWei</td>
 				<td><a href="mailto:huang_yewei@moe.edu.sg">
 	huang_yewei@moe.edu.sg</a></td>
 			</tr>
 			<tr>
-				<th scope="row">2</th>
-				<td>YEAR HEAD (S2)</td>
-				<td>Ms Grace Lim</td>
-				<td><a href="mailto:grace_alessandra_lim@moe.edu.sg">
-	grace_alessandra_lim@moe.edu.sg</a></td>
-			</tr>
-			<tr>
 				<th scope="row">3</th>
 				<td>YEAR HEAD (S3)</td>
-				<td>Mdm Christine Tan</td>
-				<td><a href="mailto:tan_cheng_gek_christine@moe.edu.sg">
-					tan_cheng_gek_christine@moe.edu.sg</a></td>
+				<td>  Ms Goh Huiling Winnie</td>
+				<td><a href="mailto:goh_huiling_winnie@moe.edu.sg">
+				goh_huiling_winnie@moe.edu.sg</a></td>
 			</tr>
 			<tr>
 				<th scope="row">4</th>
 				<td>YEAR HEAD (S4)</td>
-				<td> Mdm Soh Kim Ling</td>
-				<td><a href="mailto:soh_kim_ling@moe.edu.sg">
-				soh_kim_ling@moe.edu.sg</a></td>
+				<td>Mdm Christine Tan</td>
+				<td><a href="mailto:tan_cheng_gek_christine@moe.edu.sg">
+					tan_cheng_gek_christine@moe.edu.sg</a></td>
 			</tr>
 		</tbody>
  </table>
@@ -236,7 +237,7 @@ third_nav_title: Staff Directory
 			</tr>
 			<tr>
 				<th scope="row">5</th>
-				<td>SH (CCA)</td>
+				<td>SH (Student Well Being)</td>
 				<td>Mr Seow Jian Ting</td>
 				<td><a href="mailto:seow_jian_ting@moe.edu.sg">
 				seow_jian_ting@moe.edu.sg</a></td>
@@ -257,10 +258,24 @@ third_nav_title: Staff Directory
 			</tr>
 			<tr>
 				<th scope="row">7</th>
-				<td>SH Internal (Literature)</td>
-				<td>Mr Haniel Soh</td>
-				<td><a href="mailto:soh_en_han_haniel@moe.edu.sg">
-				soh_en_han_haniel@moe.edu.sg</a></td>
+				<td>SH Internal (History)</td>
+				<td>Ms Christie Eugenia</td>
+				<td><a href="mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg">
+				cheah_yi-lin_christie_eugenia@moe.edu.sg</a></td>
+			</tr>
+	<tr>
+				<th scope="row">8</th>
+				<td>SH Internal (Chinese)</td>
+				<td>Mr Boon Jia Hui </td>
+				<td><a href="mailto:boon_jia_hui@moe.edu.sg">
+				boon_jia_hui@moe.edu.sg</a></td>
+			</tr>
+	<tr>
+				<th scope="row">9</th>
+				<td>SH Internal (Lower Sec Science)</td>
+				<td>Ms Chan Hui Lun </td>
+				<td><a href="mailto:hui_lun_chan@moe.edu.sg">
+				hui_lun_chan@moe.edu.sg</a></td>
 			</tr>
 		</tbody>
  </table>

@@ -3,53 +3,46 @@ title: Secondary One Form Teachers
 permalink: /about/staff-directory/sec-1/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 
+| 1 Self-Discipline |  |
+|:---:|:---:|
+| Ms Koh Wen Yuan Rachel | [koh_wen_yuan_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg) |
+| Mr Wong Liang Deng | [wong_liang_deng@moe.edu.sg](mailto:wong_liang_deng@moe.edu.sg) |
+|
 
-| 1 Self-Discipline |  |
+| 1 Teamwork |  |
 |:---:|:---:|
 | Miss Koh Shi Li | [shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg) |
-| Mdm Faheema Bte Mohamad | [faheema\_mohamad@moe.edu.sg](mailto:faheema_mohamad@moe.edu.sg) |
+| Ms Ng Yan Li | [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg) |
+
+| 1 Respect |  |
+|:---:|:---:|
+| Ms Charissa Chia Jia Hui | [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg) |
+| Mdm Firza Maisarah Bte Mohd Raffid | [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg) |
 |
 
-| 1 Teamwork |  |
+| 1 Integrity |  |
 |:---:|:---:|
-| Mdm Wong Shwo Mun | [wong_shwo_mun@moe.edu.sg](mailto:wong_shwo_mun@moe.edu.sg) |
-| Ms Christie Eugenia Cheah Yi-Lin | [cheah_yi-lin_christie_eugenia@moe.edu.sg](mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg) |
+| Mr Sayed Hud Bin S H Alhabshe | [sayed_hud_alhabshe@moe.edu.sg](mailto:sayed_hud_alhabshe@moe.edu.sg) |
+| Mr Kelvin Yee Chee Chung | [kelvin_yee_chee_chung@moe.edu.sg](mailto:kelvin_yee_chee_chung@moe.edu.sg) |
 |
 
-| 1 Respect |  |
+| 1 Valour |  |
 |:---:|:---:|
-| Ms Faith Wong Soke Yee | [faith_wong_soke_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg) |
-| Mr Yosef Effency | [yosef_effendy@moe.edu.sg](mailto:yosef_effendy@moe.edu.sg) |
+| Mr Akmal Zakwan Bin Zulkifli | [akmal_zakwan_zulkifli@moe.edu.sg](mailto:akmal_zakwan_zulkifli@moe.edu.sg) |
+| Mdm Pereira Karen | [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg) |
 |
 
-| 1 Integrity |  |
+| 1 Excellence |  |
 |:---:|:---:|
-| Ms Lee Yen Pheng Felicia | [lee_yen_pheng_felicia@moe.edu.sg](mailto:lee_yen_pheng_felicia@moe.edu.sg) |
-| Mr Haniel Soh En Han | [soh_en_han_haniel@moe.edu.sg](mailto:soh_en_han_haniel@moe.edu.sg) |
-|
+| Mr Mahadi b Salam | [mahadi_salam@moe.edu.sg](mailto:mahadi_salam@moe.edu.sg) |
+| Ms Zhao Jing | [zhao_jing_1@moe.edu.sg](mailto:zhao_jing_1@moe.edu.sg) |
 
-| 1 Valour |  |
+| 1 Lasalle |  |
 |:---:|:---:|
-| Mdm Choi Mei Yoke Adeline | [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg) |
-| Mdm Mariana Bte Yunus | [mariana_yunus@moe.edu.sg](mailto:mariana_yunus@moe.edu.sg) |
-|
+| Mdm Belinda Toh Mei Fang | [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg) |
+| Mr Juhari Bin Mohamed | [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg) |
 
-| 1 Excellence |  |
-|:---:|:---:|
-| Miss Chen Li Yan | [chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg) |
-| Mr Chia Wenn Teck | [chia_wenn_teck@moe.edu.sg](mailto:chia_wenn_teck@moe.edu.sg) |
-|
-
-| 1 Patrick |  |
-|:---:|:---:|
-| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg) |
-| Mr Seow Jian Ting | [seow_jian_ting@moe.edu.sg](mailto:seow_jian_ting@moe.edu.sg) |
-|
-
-| 1 Lasalle |  |
-|:---:|:---:|
-| Mr Chng Siong Hwa | [chng_siong_hwa@moe.edu.sg](mailto:chng_siong_hwa@moe.edu.sg) |
-| Mr Joseph Teo Huay Meng | [joseph_teo_huay_meng@moe.edu.sg](mailto:joseph_teo_huay_meng@moe.edu.sg) |
 |
