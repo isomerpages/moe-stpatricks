@@ -1,0 +1,18 @@
+collections:
+  about:
+    output: true
+    order:
+      - Vision, Mission, Motto and Values.md
+      - School History, Heritage and Ethos.md
+      - Principal's Message.md
+      - Staff Directory/.keep
+      - Staff Directory/EXCO.md
+      - Staff Directory/Secondary One Form Teachers.md
+      - Staff Directory/Secondary Two Form Teachers.md
+      - Staff Directory/Secondary Three Form Teachers.md
+      - Staff Directory/Secondary Four Form Teachers.md
+      - Staff Directory/Student Support Team.md
+      - Alumni Achievements.md
+      - PDLP.md
+      - Financial & Non Financial Information.md
+      - School Yearbooks.md

@@ -1,0 +1,26 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Uniformed Groups/NCC (Air).md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/.keep
+      - Sports/.keep
+      - Sports/Football.md
+      - Sports/Golf.md
+      - Sports/Basketball.md
+      - Sports/Athletics.md
+      - Sports/Tennis.md
+      - Sports/Floorball.md
+      - Sports/Cricket.md
+      - Sports/Badminton.md
+      - Aesthetics/Military Band.md
+      - Aesthetics/Modern Dance.md
+      - Aesthetics/Drama.md
+      - Aesthetics/Guitar Ensemble.md
+      - Aesthetics/.keep
+      - Clubs & Societies/Legion of Mary.md
+      - Clubs & Societies/Library.md
+      - Clubs & Societies/Media Club.md
+      - Clubs & Societies/.keep
