@@ -32,7 +32,7 @@ variant: markdown
 | 2 Valour |  |
 |:---:|:---:|
 | Mdm Choi Mei Yoke Adeline | [choi_mei_yoke_adeline@moe.edu.sg](mailto:choi_mei_yoke_adeline@moe.edu.sg) |
-| Ms Nur Shifa Saiful Ali | [nur_shifa_saiful_ali@schools.gov.sg](mailto:nur_shifa_saiful_ali@schools.gov.sg) |
+| Ms Nur Shifa Saiful Ali | [nur_shifa_saiful_ali@moe.edu.sg](mailto:nur_shifa_saiful_ali@moe.edu.sg) |
 |
 
 | 2 Excellence |  |
@@ -43,8 +43,8 @@ variant: markdown
 
 | 2 Patrick |  |
 |:---:|:---:|
-| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad\_shahrom\_mohammed\_sal@moe.edu.sg) |
-| Mr Goh Tze Wee Muhammad Hykel | [goh_tze_wee_muhammad@moel.edu.sg](mailto:goh_tze_wee_muhammad@schools.gov.sg) |
+| Mr Muhamad Shahrom B Mohd Salleh | [muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg) |
+| Mr Goh Tze Wee Muhammad Hykel | [goh_tze_wee_muhammad@moel.edu.sg](mailto:goh_tze_wee_muhammad@moe.edu.sg) |
 |
 
 | 2 Lasalle |  |
