@@ -1,7 +1,7 @@
 ---
 title: School Canteen Stall Vacancy
 permalink: /announcement/2023/canteen-stall/
-date: 2023-09-27
+date: 2024-03-01
 layout: post
 description: ""
 image: ""
