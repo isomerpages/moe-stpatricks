@@ -1,6 +1,6 @@
 ---
 title: School Canteen Stall Vacancy
-permalink: /announcement/2023/canteen-stall/
+permalink: /announcement/2024/canteen-stall/
 date: 2024-03-01
 layout: post
 description: ""
