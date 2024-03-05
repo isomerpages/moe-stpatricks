@@ -28,7 +28,7 @@ A. Our requirements are as follows: 
 * Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
 B.  [Application Form](https://www.stpatricks.moe.edu.sg/files/formbf7.pdf)
-must be completed and submitted to the school’s General Office **by Monday, 11 March 2024** with the following documents: 
+must be completed and submitted to the school’s General Office **by Monday, 12 March 2024** with the following documents: 
 
 * Photocopy of the applicant’s NRIC (front and back) 
 * Proposed menu and pricing 
