@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**St Patrick’s School** has one (1) vacancy for a Halal Rice stall commencing operations from Monday, 01 April 2024. 
+**St Patrick’s School** has one (1) vacancy for a Halal Rice stall commencing operations from Monday, 25 June 2024. 
 
 We are located at 490 East Coast Road, Singapore 429058.   
 
@@ -28,7 +28,7 @@ A. Our requirements are as follows: 
 * Selected main applicant must be in personal attendance at the stall during the whole of the operation hours. 
 
 B.  [Application Form](https://www.stpatricks.moe.edu.sg/files/formbf7.pdf)
-must be completed and submitted to the school’s General Office **by Monday, 12 March 2024** with the following documents: 
+must be completed and submitted to the school’s General Office **by Monday, 31 March 2024** with the following documents: 
 
 * Photocopy of the applicant’s NRIC (front and back) 
 * Proposed menu and pricing 
