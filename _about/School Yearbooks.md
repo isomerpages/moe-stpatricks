@@ -16,7 +16,7 @@ description: ""
 ### **Yearbook 2022**
 
 
-<a href="https://online.fliphtml5.com/imxpa/lrcs/"><img style="width:250px" src="/images/Yearbook_2022.png">
+<a href="https://heyzine.com/flip-book/a633904f36.html"><img style="width:250px" src="/images/Yearbook_2022.png">
 </a>
 
 <br>
@@ -25,5 +25,5 @@ description: ""
 ### **Yearbook 2021**
 
 
-<a href="https://issuu.com/touche-design/docs/st_patricks_school_e-magazine_2021"><img style="width:250px" src="/images/Yearbook_2021.png">
+<a href="https://heyzine.com/flip-book/6e5755b1ba.html"><img style="width:250px" src="/images/Yearbook_2021.png">
 </a>
