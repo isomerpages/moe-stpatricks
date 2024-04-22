@@ -38,17 +38,17 @@ School are encouraged to apply for DSA through the following domains:</p>
 <p>A current member of the school band / guitar ensemble with some playing
 experience with relevant instrument
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Displays talent in music during audition</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><strong>Audition &amp; Panel Interview</strong>
+<p><strong>Audition &amp; Panel Interview</strong> 
 <br>
 <br>For Performing Arts:
 <br>
@@ -75,7 +75,7 @@ date</p>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a dance event
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>
 <br>Displays talent in Dance during audition</p>
@@ -89,7 +89,7 @@ date</p>
 <p>Represented school or any external organisation in a Drama/Play/Musical
 event
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Displays talent in Drama during audition</p>
 </td>
@@ -124,7 +124,7 @@ for the trials.</p>
 <p>Participated in National Inter School Championships or any local / overseas
 competitions
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Able to demonstrate talent / attributes in track &amp; field</p>
 </td>
@@ -137,7 +137,7 @@ competitions
 <p>Participated in National / Zonal Inter School Championships or any local
 / overseas competitions
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Able to demonstrate talent / attributes in badminton / floorball</p>
 </td>
@@ -154,11 +154,11 @@ competitions
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Participated in tournaments organised by SPEX, Intermediate or KLM
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Able to demonstrate talent / attributes in tennis</p>
 </td>
@@ -179,7 +179,7 @@ from a bona fide club affiliated to a recognized golf association</p>
 <td rowspan="1" colspan="1">
 <p>Represented School / Club in SCA competitions equivalent
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Able to demonstrate talent / attributes in cricket</p>
 </td>
@@ -191,7 +191,7 @@ from a bona fide club affiliated to a recognized golf association</p>
 <td rowspan="1" colspan="1">
 <p>Represented School / Club in competitions equivalent
 <br>
-<br><strong><u>or</u></strong>
+<br><strong><u>or</u></strong> 
 <br>
 <br>Able to demonstrate talent / attributes in Basketball</p>
 </td>
@@ -207,7 +207,7 @@ from a bona fide club affiliated to a recognized golf association</p>
 <p>Hold key leadership positions in any student leadership boards or Uniformed
 Groups in their primary school
 <br>
-<br><strong><u>and</u></strong>
+<br><strong><u>and</u></strong> 
 <br>
 <br>Demonstrated exemplary character and leadership in their primary school</p>
 </td>
@@ -256,7 +256,7 @@ in their school. <em>Video must be filmed in their school. <br><br>Some possible
 as the National Junior Robotics Competition, First LEGO League, or National
 Robopreneur Carnival
 <br>
-<br><strong><u>and</u></strong>
+<br><strong><u>and</u></strong> 
 <br>
 <br>Provide a portfolio of coding-related work and projects</p>
 </td>
