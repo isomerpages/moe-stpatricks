@@ -273,11 +273,105 @@ programming language will not be evaluated.</p>
 <p>
 <br>
 </p>
-<p>• All applicants will be required to declare any medical status at the
-start of their trials / auditions for safety reasons.</p>
-<p>• Students who are unable to attend trials/interviews due to having tested
+<ul data-tight="true" class="tight">
+<li>
+<p>All applicants will be required to declare any medical status at the start
+of their trials / auditions for safety reasons.</p>
+</li>
+<li>
+<p>Students who are unable to attend trials/interviews due to having tested
 positive for Covid-19 during the trial/interview period may be asked to
-attend a trial/interview on another day.</p>
+attend a trial/interview on another day.&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>TIMELINE</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Process</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>22 April (Monday)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+<p>Information about DSA application to St. Patrick’s School will be published
+on the school’s website at <a rel="noopener noreferrer nofollow" target="_blank">http://www.stpatricks.moe.edu.sg/</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May (Thursday) to</p>
+<p>3 June (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>DSA-Sec Online Application</p>
+<p>via</p>
+<p><strong>DSA-Sec Portal</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>More information about the DSA-Sec Exercise can be found at</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec) | MOE</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>5 July (Friday) to</p>
+<p>2 August (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>CCA Auditions, Trials and interviews.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Shortlisted applicants</strong> will be informed of the schedule
+through email.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>10 September to 12 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Notification of results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Both successful and unsuccessful applicants will be notified through email.</p>
+<p><strong><em>No results of applications will be released or confirmed through telephone enquiries.</em></strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p>For any enquiries, please contact the following personnel:-
 <br>
