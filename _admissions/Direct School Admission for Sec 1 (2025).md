@@ -36,16 +36,18 @@ School are encouraged to apply for DSA through the following domains:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A current member of the school band / guitar ensemble with some playing
-experience with relevant instrument
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
-a musical instrument
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Displays talent in music during audition</p>
+experience with relevant instrument/s.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
+a musical instrument.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in music during audition.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p><strong>Audition &amp; Panel Interview</strong> 
@@ -73,12 +75,12 @@ date</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented school or any external organisation in a dance event
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>
-<br>Displays talent in Dance during audition</p>
+<p>Represented school or any external organisation in a dance event</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in Dance during audition.</p>
 </td>
 </tr>
 <tr>
@@ -87,11 +89,12 @@ date</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Displays talent in Drama during audition</p>
+event</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in Drama during audition.</p>
 </td>
 </tr>
 <tr>
@@ -100,9 +103,9 @@ event
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented School/Club/Academy in any tournaments or any local / overseas
-competitions</p>
+competitions.</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>For Sports and Games:
 <br>
 <br>1. Applicants are required to attend a trial for the respective sport.
@@ -122,24 +125,31 @@ for the trials.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships or any local / overseas
-competitions
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in track &amp; field</p>
+competitions,</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Be able to demonstrate talent / attributes in track &amp; field.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Badminton</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Participated in National / Zonal Inter School Championships or any local
-/ overseas competitions
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in badminton / floorball</p>
+/ overseas competitions,</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
 </td>
 </tr>
 <tr>
@@ -152,15 +162,17 @@ competitions
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in National Inter School Championships
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Participated in tournaments organised by SPEX, Intermediate or KLM
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in tennis</p>
+<p>Participated in National Inter School Championships.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p>
+<br>Be able to demonstrate talent / attributes in tennis.</p>
 </td>
 </tr>
 <tr>
@@ -168,8 +180,9 @@ competitions
 <p>Golf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum USGA Handicap Index of not more than 24.0 (as of 1st April 2016)
-from a bona fide club affiliated to a recognized golf association</p>
+<p>Minimum USGA Handicap Index of not more than 24.0 (as of
+<br>1<sup>st</sup> April 2016) from a bona fide club affiliated to a recognized
+golf association</p>
 </td>
 </tr>
 <tr>
@@ -177,26 +190,12 @@ from a bona fide club affiliated to a recognized golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions equivalent
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in cricket</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Represented School / Club in competitions equivalent
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Represented School / Club in SCA competitions or equivalent.</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Be able to demonstrate talent / attributes in cricket.</p>
 </td>
 </tr>
 <tr>
@@ -204,12 +203,13 @@ from a bona fide club affiliated to a recognized golf association</p>
 <p>Leadership &amp; Uniformed Groups (NCC, NPCC, Scouts)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Hold key leadership positions in any student leadership boards or Uniformed
-Groups in their primary school
-<br>
-<br><strong><u>and</u></strong> 
-<br>
-<br>Demonstrated exemplary character and leadership in their primary school</p>
+<p>Hold key leadership positions in any school Leadership Boards (eg Head
+or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
+<p></p>
+<p><strong><u>and</u></strong>
+</p>
+<p></p>
+<p>Demonstrated exemplary character and leadership in their primary school</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>For Leadership and Uniformed Groups:
