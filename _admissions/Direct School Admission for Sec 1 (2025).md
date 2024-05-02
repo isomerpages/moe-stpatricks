@@ -89,11 +89,8 @@ date</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event</p>
-<p>
+event
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Displays talent in Drama during audition.</p>
 </td>
 </tr>
@@ -163,15 +160,10 @@ competitions,</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships.</p>
-<p></p>
 <p><strong><u>or</u></strong>
 </p>
-<p></p>
 <p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
-<p></p>
 <p><strong><u>or</u></strong>
-</p>
-<p>
 <br>Be able to demonstrate talent / attributes in tennis.</p>
 </td>
 </tr>
@@ -190,11 +182,8 @@ golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions or equivalent.</p>
-<p>
+<p>Represented School / Club in SCA competitions or equivalent.
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Be able to demonstrate talent / attributes in cricket.</p>
 </td>
 </tr>
