@@ -36,11 +36,9 @@ School are encouraged to apply for DSA through the following domains:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A current member of the school band / guitar ensemble with some playing
-experience with relevant instrument/s.</p>
-<p></p>
-<p><strong><u>or</u></strong>
-</p>
-<p></p>
+experience with relevant instrument/s.
+	</p>
+<p><strong><u>or</u></strong></p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
 <p></p>
