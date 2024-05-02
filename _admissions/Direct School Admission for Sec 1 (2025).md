@@ -51,7 +51,6 @@ a musical instrument.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>For Performing Arts:</p>
-<p>&nbsp;</p>
 <p>1. Applicants are required to play a piece of their choice on their instrument.
 Applicants will also be given a separate piece to sight-read followed by
 a short listening test.</p>
