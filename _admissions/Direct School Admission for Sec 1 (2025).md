@@ -50,19 +50,18 @@ a musical instrument.</p>
 <br>Displays talent in music during audition.</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><strong>Audition &amp; Panel Interview</strong> 
-<br>
-<br>For Performing Arts:
-<br>
-<br>1. Applicants are required to play a piece of their choice on their instrument.
+<p>For Performing Arts:</p>
+<p>&nbsp;</p>
+<p>1. Applicants are required to play a piece of their choice on their instrument.
 Applicants will also be given a separate piece to sight-read followed by
-a short listening test.
-<br>
-<br>2. Applicants are to bring their own instruments for the audition. Only
-percussion instruments and piano will be provided for audition.
-<br>
-<br>3. Shortlisted applicants will be invited for an interview on a separate
-date</p>
+a short listening test.</p>
+<p>&nbsp;</p>
+<p>2. Applicants are to bring their own instruments for the audition. Only
+percussion instruments and piano will be provided for audition.</p>
+<p>&nbsp;</p>
+<p>3.&nbsp;Shortlisted applicants will be invited for an interview on a separate
+date.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +90,7 @@ date</p>
 <p>Represented school or any external organisation in a Drama/Play/Musical
 event</p>
 <p>
-<br><strong><u>or</u></strong> 
+<br><strong><u>or</u></strong>
 </p>
 <p>
 <br>Displays talent in Drama during audition.</p>
@@ -108,14 +107,13 @@ competitions.</p>
 <td rowspan="8" colspan="1">
 <p>For Sports and Games:
 <br>
-<br>1. Applicants are required to attend a trial for the respective sport.
-<br>
-<br><em>(Trial dates will be posted on school website by 1st July 2024)</em> 
-<br>
-<br>2. Only shortlisted applicants will be invited for additional trials and/or
-interview.
-<br>
-<br>3. Applicants are to bring their own personal sporting equipment or gear
+<br>1.&nbsp;Applicants are required to attend a trial for the respective sports.</p>
+<p>(<em>Trial dates will be notified on school website by 1<sup>st</sup> July 2024</em>)</p>
+<p>&nbsp;</p>
+<p>2. Only shortlisted applicants will be invited for additional trials and/or
+interview.</p>
+<p>&nbsp;</p>
+<p>3. Applicants are to bring their own personal sporting equipment or gear
 for the trials.</p>
 </td>
 </tr>
@@ -169,7 +167,7 @@ competitions,</p>
 <p></p>
 <p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
 <p></p>
-<p><strong><u>or</u></strong> 
+<p><strong><u>or</u></strong>
 </p>
 <p>
 <br>Be able to</p>
@@ -193,7 +191,7 @@ golf association</p>
 <td rowspan="1" colspan="1">
 <p>Represented School / Club in SCA competitions or equivalent.</p>
 <p>
-<br><strong><u>or</u></strong> 
+<br><strong><u>or</u></strong>
 </p>
 <p>
 <br>Be able to demonstrate talent / attributes in cricket.</p>
@@ -215,7 +213,8 @@ or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
 <td rowspan="2" colspan="1">
 <p>For Leadership and Uniformed Groups:
 <br>
-<br>1. Applicants are required to attend an interview.
+<br>1. Applicants are required to attend an interview.&nbsp;</p>
+<p>(<em>Interview dates will be notified on school website by 1<sup>st</sup> July 2024</em>)
 <br>
 <br><em>(Interview dates will be posted on the school website by 1st July 2024</em>)</p>
 </td>
