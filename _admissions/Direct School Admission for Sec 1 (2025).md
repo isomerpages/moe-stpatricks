@@ -36,11 +36,14 @@ School are encouraged to apply for DSA through the following domains:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A current member of the school band / guitar ensemble with some playing
-experience with relevant instrument/s.	</p>
-<p><strong><u>or</u></strong></p>
+experience with relevant instrument/s.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
-
+<p></p>
 <p><strong><u>or</u></strong>
 </p>
 <p>
@@ -282,6 +285,34 @@ attend a trial/interview on another day.&nbsp;</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Application procedure and information</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
+For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<p></p>
+</li>
+<li>
+<p>Students who do not have any prior experience may also apply, and that
+will be assessed on the basis of their potential.</p>
+<p></p>
+</li>
+<li>
+<p>The school's decision on the offer is final. We regret that no appeal
+will be entertained. The school reserves the right not to disclose the
+reason for non-selection of an applicant or to release the results of the
+trials.</p>
+</li>
+</ul>
+<p></p>
 <p><strong><u>TIMELINE</u></strong>
 </p>
 <table>
@@ -321,6 +352,7 @@ on the school’s website at <a rel="noopener noreferrer nofollow" target="_blan
 <td rowspan="1" colspan="2">
 <p>DSA-Sec Online Application</p>
 <p>via</p>
+<p></p>
 <p><strong>DSA-Sec Portal</strong>
 </p>
 <p><strong>&nbsp;</strong>
