@@ -296,7 +296,7 @@ attend a trial/interview on another day.&nbsp;</p>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
-For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>
+For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>
 </p>
 <p></p>
 </li>
