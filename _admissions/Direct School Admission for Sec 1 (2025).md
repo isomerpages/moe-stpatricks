@@ -17,7 +17,12 @@ in the same category.
 <br>
 <br>Boys who are interested in pursuing their talents and passion in St Patrick’s
 School are encouraged to apply for DSA through the following domains:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -315,7 +320,12 @@ trials.</p>
 <p></p>
 <p><strong><u>TIMELINE</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
