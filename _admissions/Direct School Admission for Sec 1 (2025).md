@@ -17,7 +17,12 @@ in the same category.
 <br>
 <br>Boys who are interested in pursuing their talents and passion in St Patrick’s
 School are encouraged to apply for DSA through the following domains:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -291,7 +296,7 @@ attend a trial/interview on another day.&nbsp;</p>
 <li>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
-For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>
 </p>
 <p></p>
 </li>
@@ -315,7 +320,12 @@ trials.</p>
 <p></p>
 <p><strong><u>TIMELINE</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
