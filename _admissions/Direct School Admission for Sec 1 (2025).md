@@ -36,31 +36,31 @@ School are encouraged to apply for DSA through the following domains:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>A current member of the school band / guitar ensemble with some playing
-experience with relevant instrument
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
-a musical instrument
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Displays talent in music during audition</p>
+experience with relevant instrument/s.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
+a musical instrument.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in music during audition.</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><strong>Audition &amp; Panel Interview</strong> 
-<br>
-<br>For Performing Arts:
-<br>
-<br>1. Applicants are required to play a piece of their choice on their instrument.
+<p>For Performing Arts:</p>
+<p>1. Applicants are required to play a piece of their choice on their instrument.
 Applicants will also be given a separate piece to sight-read followed by
-a short listening test.
-<br>
-<br>2. Applicants are to bring their own instruments for the audition. Only
-percussion instruments and piano will be provided for audition.
-<br>
-<br>3. Shortlisted applicants will be invited for an interview on a separate
-date</p>
+a short listening test.</p>
+<p>&nbsp;</p>
+<p>2. Applicants are to bring their own instruments for the audition. Only
+percussion instruments and piano will be provided for audition.</p>
+<p>&nbsp;</p>
+<p>3.&nbsp;Shortlisted applicants will be invited for an interview on a separate
+date.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -73,12 +73,12 @@ date</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented school or any external organisation in a dance event
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>
-<br>Displays talent in Dance during audition</p>
+<p>Represented school or any external organisation in a dance event</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in Dance during audition.</p>
 </td>
 </tr>
 <tr>
@@ -87,11 +87,12 @@ date</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Displays talent in Drama during audition</p>
+event</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Displays talent in Drama during audition.</p>
 </td>
 </tr>
 <tr>
@@ -100,19 +101,18 @@ event
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented School/Club/Academy in any tournaments or any local / overseas
-competitions</p>
+competitions.</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>For Sports and Games:
 <br>
-<br>1. Applicants are required to attend a trial for the respective sport.
-<br>
-<br><em>(Trial dates will be posted on school website by 1st July 2024)</em> 
-<br>
-<br>2. Only shortlisted applicants will be invited for additional trials and/or
-interview.
-<br>
-<br>3. Applicants are to bring their own personal sporting equipment or gear
+<br>1.&nbsp;Applicants are required to attend a trial for the respective sports.</p>
+<p>(<em>Trial dates will be notified on school website by 1<sup>st</sup> July 2024</em>)</p>
+<p>&nbsp;</p>
+<p>2. Only shortlisted applicants will be invited for additional trials and/or
+interview.</p>
+<p>&nbsp;</p>
+<p>3. Applicants are to bring their own personal sporting equipment or gear
 for the trials.</p>
 </td>
 </tr>
@@ -122,24 +122,31 @@ for the trials.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships or any local / overseas
-competitions
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in track &amp; field</p>
+competitions,</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Be able to demonstrate talent / attributes in track &amp; field.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Badminton</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Participated in National / Zonal Inter School Championships or any local
-/ overseas competitions
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in badminton / floorball</p>
+/ overseas competitions,</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
 </td>
 </tr>
 <tr>
@@ -152,15 +159,18 @@ competitions
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in National Inter School Championships
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Participated in tournaments organised by SPEX, Intermediate or KLM
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in tennis</p>
+<p>Participated in National Inter School Championships.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p></p>
+<p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
+<p></p>
+<p><strong><u>or</u></strong>
+</p>
+<p>
+<br>Be able to</p>
+<p>demonstrate talent / attributes in tennis.</p>
 </td>
 </tr>
 <tr>
@@ -168,8 +178,9 @@ competitions
 <p>Golf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum USGA Handicap Index of not more than 24.0 (as of 1st April 2016)
-from a bona fide club affiliated to a recognized golf association</p>
+<p>Minimum USGA Handicap Index of not more than 24.0 (as of
+<br>1<sup>st</sup> April 2016) from a bona fide club affiliated to a recognized
+golf association</p>
 </td>
 </tr>
 <tr>
@@ -177,26 +188,12 @@ from a bona fide club affiliated to a recognized golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions equivalent
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in cricket</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Represented School / Club in competitions equivalent
-<br>
-<br><strong><u>or</u></strong> 
-<br>
-<br>Able to demonstrate talent / attributes in Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Represented School / Club in SCA competitions or equivalent.</p>
+<p>
+<br><strong><u>or</u></strong>
+</p>
+<p>
+<br>Be able to demonstrate talent / attributes in cricket.</p>
 </td>
 </tr>
 <tr>
@@ -204,17 +201,19 @@ from a bona fide club affiliated to a recognized golf association</p>
 <p>Leadership &amp; Uniformed Groups (NCC, NPCC, Scouts)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Hold key leadership positions in any student leadership boards or Uniformed
-Groups in their primary school
-<br>
-<br><strong><u>and</u></strong> 
-<br>
-<br>Demonstrated exemplary character and leadership in their primary school</p>
+<p>Hold key leadership positions in any school Leadership Boards (eg Head
+or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
+<p></p>
+<p><strong><u>and</u></strong>
+</p>
+<p></p>
+<p>Demonstrated exemplary character and leadership in their primary school</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>For Leadership and Uniformed Groups:
 <br>
-<br>1. Applicants are required to attend an interview.
+<br>1. Applicants are required to attend an interview.&nbsp;</p>
+<p>(<em>Interview dates will be notified on school website by 1<sup>st</sup> July 2024</em>)
 <br>
 <br><em>(Interview dates will be posted on the school website by 1st July 2024</em>)</p>
 </td>
@@ -274,11 +273,134 @@ programming language will not be evaluated.</p>
 <p>
 <br>
 </p>
-<p>• All applicants will be required to declare any medical status at the
-start of their trials / auditions for safety reasons.</p>
-<p>• Students who are unable to attend trials/interviews due to having tested
+<ul data-tight="true" class="tight">
+<li>
+<p>All applicants will be required to declare any medical status at the start
+of their trials / auditions for safety reasons.</p>
+</li>
+<li>
+<p>Students who are unable to attend trials/interviews due to having tested
 positive for Covid-19 during the trial/interview period may be asked to
-attend a trial/interview on another day.</p>
+attend a trial/interview on another day.&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Application procedure and information</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.
+For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<p></p>
+</li>
+<li>
+<p>Students who do not have any prior experience may also apply, and that
+will be assessed on the basis of their potential.</p>
+<p></p>
+</li>
+<li>
+<p>The school's decision on the offer is final. We regret that no appeal
+will be entertained. The school reserves the right not to disclose the
+reason for non-selection of an applicant or to release the results of the
+trials.</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>TIMELINE</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Process</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>22 April (Monday)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+<p>Information about DSA application to St. Patrick’s School will be published
+on the school’s website at <a rel="noopener noreferrer nofollow" target="_blank">http://www.stpatricks.moe.edu.sg/</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May (Thursday) to</p>
+<p>3 June (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>DSA-Sec Online Application</p>
+<p>via</p>
+<p></p>
+<p><strong>DSA-Sec Portal</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>More information about the DSA-Sec Exercise can be found at</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec) | MOE</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>5 July (Friday) to</p>
+<p>2 August (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>CCA Auditions, Trials and interviews.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Shortlisted applicants</strong> will be informed of the schedule
+through email.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>10 September to 12 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Notification of results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Both successful and unsuccessful applicants will be notified through email.</p>
+<p><strong><em>No results of applications will be released or confirmed through telephone enquiries.</em></strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p>For any enquiries, please contact the following personnel:-
 <br>
