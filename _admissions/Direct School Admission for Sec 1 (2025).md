@@ -394,7 +394,7 @@ through email.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>10 September to 12 September</p>
+<p>9 September</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
