@@ -3,279 +3,526 @@ title: EXCO
 permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
-variant: markdown
+variant: tiptap
 ---
-### School Leaders
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
- overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead><tr><th class="tg-7f7m">No.</th><th class="tg-7f7m">School Leader</th><th class="tg-7f7m">Name</th><th class="tg-7f7m">Email</th></tr>
-</thead>
-<tbody><tr>
-<th scope="row">1</th>
-<td>Principal</td>
-<td>Mr Mark Gerard Minjoot</td>
-<td><a href="mailto:Mark_gerard_minjoot@moe.edu.sg">Mark_gerard_minjoot@moe.edu.sg</a></td></tr><tr>
-<th scope="row">2</th>
-<td>Vice Principal</td>
-<td>Ms Ng Foong Meng</td>
-<td><a href="mailto:ng_foong_meng@moe.edu.sg">ng_foong_meng@moe.edu.sg</a></td></tr><tr>
-
-<th scope="row">3</th>
-<td>Vice Principal</td>
-<td>Mr Barnabas Tan Yii Hsien</td>
-<td><a href="mailto:tan_yii_hsien_barnabas@moe.edu.sg">tan_yii_hsien_barnabas@moe.edu.sg </a></td></tr></tbody></table>
-
-### Head Of Departments
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7f7m">No.</th>
-    <th class="tg-7f7m">HOD/Subject</th>
-    <th class="tg-7f7m">Name</th>
-    <th class="tg-7f7m">Email</th>
-  </tr>
-</thead>
+<h3>School Leaders</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-				<th scope="row">1</th>
-				<td>HOD Mathematics</td>
-				<td>Mdm Soh Kim Ling</td>
-				<td><a href="mailto:soh_kim_ling@moe.edu.sg">
-					soh_kim_ling@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">2</th>
-				<td>HOD Humanities</td>
-				<td>Mrs Tam Siew Lin</td>
-				<td><a href="mailto:wong_siew_lin@moe.edu.sg">
-					wong_siew_lin@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">3</th>
-				<td>Acting HOD Mother Tongue</td>
-				<td>Mdm Laura Lim Hwee Min</td>
-				<td><a href="mailto:lim_hwee_mean@moe.edu.sg">
-					lim_hwee_mean@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">4</th>
-				<td>HOD English Language</td>
-				<td>Ms Nur Azzah Bte Amir Gany</td>
-				<td><a href="mailto:nur_azzah_amir_gany@moe.edu.sg">
-					nur_azzah_amir_gany@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">5</th>
-				<td> HOD Science</td>
-				<td>Ms Teo Hwee</td>
-				<td><a href="mailto:teo_hwee@moe.edu.sg">
-					teo_hwee@moe.edu.sg</a></td>
-			</tr>
-						<tr>
-				<th scope="row">6</th>
-				<td>HOD ICT &amp; MRL</td>
-				<td>Mr Syed Salleh</td>
-				<td><a href="mailto:syed_salleh@moe.edu.sg">
-					syed_salleh@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">7</th>
-				<td>HOD PE/CCA</td>
-				<td>Mr Irwan Wijaya Zainal</td>
-				<td><a href="mailto:irwan_wijaya_zainal@moe.edu.sg">
-					irwan_wijaya_zainal@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">8</th>
-				<td>HOD Character and Citizenship Education</td>
-				<td>Mr Adrian Lim</td>
-				<td><a href="mailto:adrian_lim_ming@moe.edu.sg">
-					adrian_lim_ming@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">9</th>
-				<td>HOD Student Management</td>
-				<td>Mr Mahadir Wahab</td>
-				<td><a href="mailto:mahadir_b_wahab@moe.edu.sg">
-					mahadir_b_wahab@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">10</th>
-				<td>HOD SEN</td>
-				<td>Ms Teo Bee Hoon</td>
-				<td><a href="mailto:teo_bee_hoon@moe.edu.sg">
-				teo_bee_hoon@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">11</th>
-				<td>School Staff Developer</td>
-				<td>Ms Grace Lim</td>
-				<td><a href="mailto:grace_alessandra_lim@moe.edu.sg">
-	grace_alessandra_lim@moe.edu.sg</a></td>
-			</tr>
-		</tbody>
- </table>
-
-
-###  Year Heads
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7f7m">No.</th>
-    <th class="tg-7f7m">Year Head</th>
-    <th class="tg-7f7m">Name</th>
-    <th class="tg-7f7m">Email</th>
-  </tr>
-</thead>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Leader</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Gerard Minjoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Mark_gerard_minjoot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mark_gerard_minjoot@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Foong Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_foong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_foong_meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Barnabas Tan Yii Hsien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yii_hsien_barnabas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yii_hsien_barnabas@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Head Of Departments</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-				<th scope="row">1</th>
-				<td>YEAR HEAD (S1)</td>
-		<td> Mr Errol Chang Lik Hung</td>
-				<td><a href="mailto:chang_lik_hung_errol@moe.edu.sg">
-					chang_lik_hung_errol@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">2</th>
-				<td>YEAR HEAD (S2)</td>
-				<td>Mr Huang YeWei</td>
-				<td><a href="mailto:huang_yewei@moe.edu.sg">
-	huang_yewei@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">3</th>
-				<td>YEAR HEAD (S3)</td>
-				<td>  Ms Goh Huiling Winnie</td>
-				<td><a href="mailto:goh_huiling_winnie@moe.edu.sg">
-				goh_huiling_winnie@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">4</th>
-				<td>YEAR HEAD (S4)</td>
-				<td>Mdm Christine Tan</td>
-				<td><a href="mailto:tan_cheng_gek_christine@moe.edu.sg">
-					tan_cheng_gek_christine@moe.edu.sg</a></td>
-			</tr>
-		</tbody>
- </table>
-
-
-### Subject Heads
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7f7m">No.</th>
-    <th class="tg-7f7m">Subject Head</th>
-    <th class="tg-7f7m">Name</th>
-    <th class="tg-7f7m">Email</th>
-  </tr>
-</thead>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HOD/Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Kim Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_kim_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_kim_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tam Siew Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_siew_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_siew_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Acting HOD Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazlian Bte Karim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hazlian_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlian_karim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>4</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Azzah Bte Amir Gany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_azzah_amir_gany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azzah_amir_gany@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>5</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>6</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD ICT &amp; MRL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syed Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syed_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>7</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Irwan Wijaya Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irwan_wijaya_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_wijaya_zainal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>8</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adrian_lim_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_lim_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>9</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mahadir Wahab</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mahadir_b_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahadir_b_wahab@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>10</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>HOD SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Bee Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_bee_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_bee_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>11</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:grace_alessandra_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_alessandra_lim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Year Heads</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-				<th scope="row">1</th>
-				<td>SH (Malay Language)</td>
-				<td>Ms Hazlian Bte Karim</td>
-				<td><a href="mailto:Hazlian_karim@moe.edu.sg">
-	hazlian_karim@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">2</th>
-				<td>SH (Design and Technology)</td>
-				<td>Mr Mahadi b Salam</td>
-				<td><a href="mailto:mahadi_salam@moe.edu.sg">
-	mahadi_salam@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">3</th>
-				<td>SH (ICT)</td>
-				<td>Mr Tan Chee Wei</td>
-				<td><a href="mailto:tan_chee_wei@moe.edu.sg">
-					tan_chee_wei@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">4</th>
-				<td>SH (Computing)</td>
-				<td>Mr Tay Woei Long Samuel</td>
-				<td><a href="mailto:tay_woei_long@moe.edu.sg">
-				tay_woei_long@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">5</th>
-				<td>SH (Student Well Being)</td>
-				<td>Mr Seow Jian Ting</td>
-				<td><a href="mailto:seow_jian_ting@moe.edu.sg">
-				seow_jian_ting@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">5</th>
-				<td>SH (Aesthetics)</td>
-				<td>Mdm Dorothy Seng</td>
-				<td><a href="mailto:seng_swee_cheng_dorothy@moe.edu.sg">
-				seng_swee_cheng_dorothy@moe.edu.sg</a></td>
-			</tr>
-				<tr>
-				<th scope="row">6</th>
-				<td>SH (Student Leadership Development)</td>
-				<td>Miss Cheryl Lek</td>
-				<td><a href="mailto:lek_li_ling_cheryl@moe.edu.sg">
-				lek_li_ling_cheryl@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">7</th>
-				<td>SH Internal (History)</td>
-				<td>Ms Christie Eugenia</td>
-				<td><a href="mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg">
-				cheah_yi-lin_christie_eugenia@moe.edu.sg</a></td>
-			</tr>
-	<tr>
-				<th scope="row">8</th>
-				<td>SH Internal (Chinese)</td>
-				<td>Mr Boon Jia Hui </td>
-				<td><a href="mailto:boon_jia_hui@moe.edu.sg">
-				boon_jia_hui@moe.edu.sg</a></td>
-			</tr>
-	<tr>
-				<th scope="row">9</th>
-				<td>SH Internal (Lower Sec Science)</td>
-				<td>Ms Chan Hui Lun </td>
-				<td><a href="mailto:hui_lun_chan@moe.edu.sg">
-				hui_lun_chan@moe.edu.sg</a></td>
-			</tr>
-		</tbody>
- </table>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year Head</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>YEAR HEAD (S1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Errol Chang Lik Hung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_lik_hung_errol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_lik_hung_errol@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>YEAR HEAD (S2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Huang YeWei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_yewei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yewei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>YEAR HEAD (S3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Huiling Winnie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_huiling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huiling_winnie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>4</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>YEAR HEAD (S4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Subject Heads</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Head</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hazlian Bte Karim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hazlian_karim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlian_karim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Design and Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mahadi b Salam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mahadi_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahadi_salam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chee Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chee_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>4</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Computing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Woei Long Samuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_woei_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_woei_long@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>5</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Student Well Being)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seow Jian Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>5</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Dorothy Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>6</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH (Student Leadership Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Cheryl Lek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lek_li_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ling_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>7</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH Internal (History)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christie Eugenia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_yi-lin_christie_eugenia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>8</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH Internal (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boon Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:boon_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boon_jia_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>9</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH Internal (Lower Sec Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Hui Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hui_lun_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lun_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
