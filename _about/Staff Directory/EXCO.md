@@ -69,7 +69,7 @@ variant: markdown
 			</tr>
 			<tr>
 				<th scope="row">3</th>
-				<td>HOD Mother Tongue</td>
+				<td>Acting HOD Mother Tongue</td>
 				<td>Mdm Laura Lim Hwee Min</td>
 				<td><a href="mailto:lim_hwee_mean@moe.edu.sg">
 					lim_hwee_mean@moe.edu.sg</a></td>
