@@ -3,6 +3,7 @@ title: NCC (Air)
 permalink: /cca/Uniformed-Groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <img src="/images/2022_Migration/Ncc_Air_1.jpg" style="width:65%">
 		 
@@ -44,7 +45,5 @@ Friday, 2.30 – 6.00pm
 
 #### **CCA Teacher-In-Charge**
 
-* Commanding Officer: Miss Koh Shi Li -&nbsp;[shi_li_koh@moe.edu.sg](mailto:shi_li_koh@moe.edu.sg)  
-*  2 I/C Teacher Officer: Ms Ng Yan Li - [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
-* Teacher Officer: Ong Lingkang -&nbsp;[ong_ling_kang@moe.edu.sg](mailto:ong_ling_kang@moe.edu.sg)
-* Teacher Officer: Mr Hykel Goh -&nbsp;[goh_tze_wee_muhammad@moe.edu.sg](mailto:goh_tze_wee_muhammad@moe.edu.sg)
+* Commanding Officer: Ms Ng Yan Li - [ng_yan_li@moe.edu.sg](mailto:ng_yan_li@moe.edu.sg)
+* Teacher Officer: Mr Akmal Zakwan Zulfiki - [akmal_zakwan_zulkifi@moe.edu.sg](mailto:akmal_zakwan_zulkifi@moe.edu.sg)
