@@ -3,6 +3,7 @@ title: Military Band
 permalink: /cca/Aesthetics/military-band/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 <img src="/images/2022_Migration/BAND.jpg" style="width:85%">
 		 
@@ -43,8 +44,7 @@ Secondary 2 – 4: Monday (odd week), Wednesday and Friday, 2.30 – 6pm
 
 #### **CCA Teachers-in-Charge**
 
-* Ms. Belinda Toh&nbsp;- [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg)
-* Ms. Charissa Chia&nbsp;- [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg)
 * Ms. Yeo Hui Wen&nbsp;- [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg)
+* Ms. Charissa Chia&nbsp;- [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg)
 * Ms. Dorothy Seng&nbsp;- [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg)
 * Ms. Firza Maisarah - [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg)
