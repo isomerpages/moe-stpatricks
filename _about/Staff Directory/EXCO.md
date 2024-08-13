@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff Directory
 variant: tiptap
 ---
-<h3>School Leaders</h3>
+<h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Head Of Departments</h3>
+<h3><strong>Head Of Departments</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -265,7 +265,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Year Heads</h3>
+<h3><strong>Year Heads</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -350,7 +350,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Subject Heads</h3>
+<h3><strong>Subject Heads</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
