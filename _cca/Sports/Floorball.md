@@ -3,8 +3,9 @@ title: Floorball
 permalink: /cca/Sports/Floorball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
- ![](/images/Updated%20photos%20for%20CCA/floorball2022_sml.jpg)
+![](/images/Updated%20photos%20for%20CCA/floorball2022_sml.jpg)
 
 ### **Profile**
 
@@ -23,4 +24,4 @@ Thursday, 3-5pm.
 ### **CCA Teachers**
 
 Miss Yee Yun Shawn [yee\_yun\_shawn@moe.edu.sg](mailto:yee_yun_shawn@moe.edu.sg)<br>
-Miss Nicola Loh [nicola\_loh\_sijin@moe.edu.sg](mailto:nicola_loh_sijin@moe.edu.sg)
+Ms. Faith Wong Soke Yee [faith_wong_soke_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
