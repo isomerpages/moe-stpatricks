@@ -46,5 +46,6 @@ Secondary 2 – 4: Monday (odd week), Wednesday and Friday, 2.30 – 6pm
 
 * Ms. Yeo Hui Wen&nbsp;- [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg)
 * Ms. Charissa Chia&nbsp;- [charissa_chia_jia_hui@moe.edu.sg](mailto:charissa_chia_jia_hui@moe.edu.sg)
-* Ms. Dorothy Seng&nbsp;- [seng_swee_cheng_dorothy@moe.edu.sg](mailto:seng_swee_cheng_dorothy@moe.edu.sg)
+* Ms. Shirley Tang [tang\_xueli\_shirley@moe.edu.sg](mailto:tang_xueli_shirley@moe.edu.sg)
 * Ms. Firza Maisarah - [firza_maisarah_mohd@moe.edu.sg](mailto:firza_maisarah_mohd@moe.edu.sg)
+* Ms. Koh Wen Yuan Rachel - [koh\_wen\_yuan\_rachel@moe.edu.sg](mailto:koh_wen_yuan_rachel@moe.edu.sg)
