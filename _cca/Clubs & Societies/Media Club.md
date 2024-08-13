@@ -2,7 +2,8 @@
 title: Media Club
 permalink: /cca/Clubs-and-Societies/media-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img src="/images/2022_Migration/Media.jpg" style="width:100%">
 
@@ -59,10 +60,6 @@ Friday, 230 - 530pm
 
 * Ms Ruth Lim - [lim_li_chen_ruth@moe.edu.sg](mailto:lim_li_chen_ruth@moe.edu.sg)&nbsp;
 
-**Second I/C and Broadcast Journalism I/C:**
-
-* Miss Faith Wong - [faith\_wong\_soke\_yee@moe.edu.sg](mailto:faith_wong_soke_yee@moe.edu.sg)
-
 **Photography:**
 
 * Ms Karen Pereira - [pereira_karen_louise@moe.edu.sg](mailto:pereira_karen_louise@moe.edu.sg)
@@ -70,5 +67,4 @@ Friday, 230 - 530pm
 **Audio/Videography:**
 
 * Mr Juhari- [juhari_mohamed@moe.edu.sg](mailto:juhari_mohamed@moe.edu.sg)&nbsp;
-* Ms Mabel Sim - [sim_yi_wei_mabel@moe.edu.sg](mailto:sim_yi_wei_mabel@moe.edu.sg)
 * Mr Tan Tat Hock - [tan_tat_hock@moe.edu.sg](mailto:tan_tat_hock@moe.edu.sg)
