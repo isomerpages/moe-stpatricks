@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Staff Directory
 variant: markdown
 ---
-
-
 | 4 Self-Discipline |  |
 |:---:|:---:|
-| Miss Ms Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
+| Miss Yeo Hui Wen | [yeo_hui_wen@moe.edu.sg](mailto:yeo_hui_wen@moe.edu.sg) |
 | Mr Mariappan Arjunan | [mariappan_arjunan@moe.edu.sg](mailto:mariappan_arjunan@moe.edu.sg) |
 |
 
