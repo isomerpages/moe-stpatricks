@@ -483,6 +483,21 @@ variant: tiptap
 <p>7</p>
 </th>
 <td rowspan="1" colspan="1">
+<p>SH (Lower Sec Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Hui Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hui_lun_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lun_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>8</p>
+</th>
+<td rowspan="1" colspan="1">
 <p>SH Internal (History)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,7 +510,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>SH Internal (Chinese)</p>
@@ -505,21 +520,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:boon_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boon_jia_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>9</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>SH Internal (Lower Sec Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Hui Lun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hui_lun_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lun_chan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

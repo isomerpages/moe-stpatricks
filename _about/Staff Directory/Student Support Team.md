@@ -1,72 +1,123 @@
 ---
 title: Student Support Team
 permalink: /about/staff-directory/student-support/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Staff Directory
 ---
-### Student Support Team
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border: 1px solid black;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7f7m{background-color:#656565;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7f7m">No.</th>
-    <th class="tg-7f7m">Designation</th>
-    <th class="tg-7f7m">Name</th>
-    <th class="tg-7f7m">Email</th>
-  </tr>
-</thead>
+<h3>Student Support Team</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-				<th scope="row">1</th>
-				<td>Special Educational Needs Officer (SENO)</td>
-				<td>Mr Muhammad Hafiz Syahiddin Bin Johar</td>
-				<td><a href="mailto:muhammad_hafiz_syahiddin_johar@moe.edu.sg">
-					muhammad_hafiz_syahiddin_johar@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">2</th>
-				<td>Special Educational Needs Officer (SENO)</td>
-				<td>Mr Patrick Chng Seng Buan</td>
-				<td><a href="mailto:chng_seng_buan_patrick@moe.edu.sg">
-					chng_seng_buan_patrick@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">3</th>
-				<td>Senior Student Welfare Officer</td>
-				<td>Mr Syahir Iskandar Bin Rosli</td>
-				<td><a href="mailto:syahir_iskandar_rosli@moe.edu.sg">
-					syahir_iskandar_rosli@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">4</th>
-				<td>School Counsellor</td>
-				<td>Mdm Neo Mary</td>
-				<td><a href="mailto:neo_mary@moe.edu.sg">
-					 neo_mary@moe.edu.sg</a></td>
-			</tr>
-			<tr>
-				<th scope="row">5</th>
-				<td> School Counsellor</td>
-				<td>Mr Lim Hao Chong, Joel</td>
-				<td><a href="mailto:lim_hao_chong_joel@moe.edu.sg">
-					lim_hao_chong_joel@moe.edu.sg</a></td>
-			</tr>
-						<tr>
-				<th scope="row">6</th>
-				<td>ECG Counsellor</td>
-				<td>Ms Aw Xin Yi Grace</td>
-				<td><a href="mailto:aw_xin_yi_grace@moe.edu.sg">
-					aw_xin_yi_grace@moe.edu.sg</a></td>
-			</tr>
-		</tbody>
- </table>
- 
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hafiz Syahiddin Bin Johar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_hafiz_syahiddin_johar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_syahiddin_johar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sharudin Bin Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharudin_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharudin_othman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>3</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Senior Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syahir Iskandar Bin Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syahir_iskandar_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syahir_iskandar_rosli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>4</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Neo Mary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_mary@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>5</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hao Chong, Joel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hao_chong_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hao_chong_joel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>6</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aw Xin Yi Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aw_xin_yi_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_xin_yi_grace@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

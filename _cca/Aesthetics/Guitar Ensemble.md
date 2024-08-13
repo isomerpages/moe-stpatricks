@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /cca/Aesthetics/guitar-ensemble/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ![](/images/2022_Migration/guitar%201.jpg)
 
@@ -44,6 +45,6 @@ Wednesday and Friday (even week)
 
 #### **CCA Teachers-in-Charge**
 
-* Ms Chen Li Yan -&nbsp;[chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg)
 * Ms Faith Ang -&nbsp;[faith_ang_si_ying@moe.edu.sg](mailto:faith_ang_si_ying@moe.edu.sg)
-* Mr Shahrom -&nbsp;[muhamad_shahrom_mohammed_sal@moe.edu.sg](mailto:muhamad_shahrom_mohammed_sal@moe.edu.sg%C2%A0)
+* Ms Chen Li Yan -&nbsp;[chen_li_yan@moe.edu.sg](mailto:chen_li_yan@moe.edu.sg)
+* Ms. Belinda Toh&nbsp;- [toh_mei_fang_belinda@moe.edu.sg](mailto:toh_mei_fang_belinda@moe.edu.sg)

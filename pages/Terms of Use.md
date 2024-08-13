@@ -26,7 +26,7 @@ proprietary rights. All rights, title, and interest in the Contents are
 owned by, licensed to, or controlled by St. Patrick’s School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click <a href="https://stpatricks.moe.edu.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>5. Click <a href="https://www.stpatricks.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 review this Website Privacy Statement.</p>
 <p><strong>Restrictions on the Use of Materials</strong>
 </p>
