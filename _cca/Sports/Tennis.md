@@ -3,6 +3,7 @@ title: Tennis
 permalink: /cca/Sports/tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <img src="/images/2022_Migration/Tennis.jpg" style="width:85%">
 		 
@@ -33,3 +34,5 @@ Friday, 2:15 - 4:15pm
 #### **CCA Teachers-in-Charge**
 
 * Lee Chain Ting -&nbsp;[lee_chain_ting@moe.edu.sg](mailto:lee_chain_ting@moe.edu.sg)
+* Mdm Wong Shwo Mun - [wong\_shwo\_mun@moe.edu.sg](mailto:wong_shwo_mun@moe.edu.sg)
+* Mr Joseph Teo Huay Meng - [joseph\_teo\_huay\_meng@moe.edu.sg](mailto:joseph_teo_huay_meng@moe.edu.sg)
