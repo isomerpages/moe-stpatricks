@@ -1,7 +1,7 @@
 ---
 title: Purchase of School Uniform
 permalink: /announcement/website-announcement/purchaseuniform/
-date: 2023-11-22
+date: 2024-01-02
 layout: post
 description: ""
 image: /images/School Logo (Transparent).png
