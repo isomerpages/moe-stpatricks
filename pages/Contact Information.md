@@ -29,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>490 East Coast Road Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,10 +56,7 @@ description: ""
 <h4><strong>Bus Stop</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<blockquote>
-<p><strong>Bus Services</strong>
-</p>
-</blockquote>
+<h4><strong>Bus Services</strong></h4>
 </td>
 </tr>
 <tr>
