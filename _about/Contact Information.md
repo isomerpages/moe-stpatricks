@@ -30,10 +30,10 @@ p.big {
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Address</strong></h3>
+<h2><strong>Address</strong></h2>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Operationg Hours</strong></h3>
+<h2><strong>Operationg Hours</strong></h2>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ p.big {
 <p style="font-size:28px">490 East Coast Road<br> Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p style="font-size:24px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
+	<p style="font-size:28px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
 	</td>
 </tr>
 </tbody>
