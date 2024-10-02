@@ -38,7 +38,7 @@ p.big {
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size:24px">490 East Coast Road Singapore 429058</p>
+<p style="font-size:25px">490 East Coast Road Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
 	<p style="font-size:24px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
