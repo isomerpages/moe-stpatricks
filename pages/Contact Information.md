@@ -4,13 +4,12 @@ permalink: /contact-information/
 variant: markdown
 description: ""
 ---
-
 <style>
 p.small {
   line-height: 1.5;
 }
 p.big {
-  line-height: 1.8;
+  line-height: 5;
 }
 </style>
 
@@ -21,6 +20,8 @@ p.big {
 </div>
 <p></p>
 
+<br><br>
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,24 +30,24 @@ p.big {
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Address</strong></h4>
+<h3><strong>Address</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Operationg Hours</strong></h4>
+<h3><strong>Operationg Hours</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size:21px">490 East Coast Road Singapore 429058</p>
+<p style="font-size:24px">490 East Coast Road Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p style="font-size:21px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
+	<p style="font-size:24px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
 	</td>
 </tr>
 </tbody>
 </table>
 
-<p> </p>
+<br><br>
 <p> </p>
 <p> </p>
 
