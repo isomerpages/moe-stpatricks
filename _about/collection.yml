@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Contact Information.md
       - Vision, Mission, Motto and Values.md
       - School History, Heritage and Ethos.md
       - Principal's Message.md
