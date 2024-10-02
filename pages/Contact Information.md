@@ -4,15 +4,23 @@ permalink: /contact-information/
 variant: markdown
 description: ""
 ---
+
+<style>
+p.small {
+  line-height: 1.5;
+}
+p.big {
+  line-height: 1.8;
+}
+</style>
+
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024/contact_header.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Contact_Info.png">
-</div>
-<p></p>
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,31 +28,29 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4><strong>Address</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong>Operating Hours</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>490 East Coast Road Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Operationg Hours</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p style="font-size:21px">490 East Coast Road Singapore 429058</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
+	<p style="font-size:21px" class="small"><b>Mon - Fri:</b> 7.15am to 5.30pm <br>Close on Weekends and Public Holidays<br></p>
+	</td>
 </tr>
 </tbody>
 </table>
+
+<p> </p>
+<p> </p>
+<p> </p>
+
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
