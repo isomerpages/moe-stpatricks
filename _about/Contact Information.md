@@ -61,7 +61,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 	<h5><strong>General Enquiries &amp; Feedback</strong></h5>
-<br><a href="tel:+6563440929" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 0929</u></a>
+<a href="tel:+6563440929" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 0929</u></a>
 <br><a href="mailto:stpatricksch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>stpatricksch@moe.edu.sg</u></a><p></p>
 
 </td>
