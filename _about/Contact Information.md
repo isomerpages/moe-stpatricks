@@ -56,7 +56,6 @@ description: ""
 <h3><strong>Contact Us</strong></h3>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
