@@ -35,11 +35,11 @@ description: ""
 	<br></p><p></p>
 </td>
 <td rowspan="1" colspan="1">
-<strong>Mon - Fri:</strong> 7.15am to 5.30pm
+<p><strong>Mon - Fri:</strong> 7.15am to 5.30pm
 <br>Close on Weekends and Public Holidays
 <br><strong>Mon - Fri:</strong> 8am to 5pm
 <br>On School Holidays
-<p></p>
+</p><p></p>
 </td>
 </tr>
 </tbody>
@@ -61,14 +61,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 	<h5><strong>General Enquiries &amp; Feedback</strong></h5>
-<a href="tel:+6563440929" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 0929</u></a>
-<br><a href="mailto:stpatricksch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>stpatricksch@moe.edu.sg</u></a>
+<p><a href="tel:+6563440929" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 0929</u></a>
+<br><a href="mailto:stpatricksch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>stpatricksch@moe.edu.sg</u></a></p>
 
 </td>
 <td rowspan="1" colspan="1">
 <h5><strong>Fax</strong></h5>
-<a href="tel:+6563445152" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 5152</u></a>
-<p></p>
+<p><a href="tel:+6563445152" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 5152</u></a>
+</p>
 </td>
 </tr>
 <tr>
