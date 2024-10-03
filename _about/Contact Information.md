@@ -37,7 +37,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Mon - Fri:</strong> 7.15am to 5.30pm
 <br>Close on Weekends and Public Holidays
-<br>
+<br><strong>Mon - Fri:</strong> 8am to 5pm
+<br>On School Holidays
 </p>
 </td>
 </tr>
