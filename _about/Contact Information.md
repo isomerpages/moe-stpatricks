@@ -60,11 +60,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>General Enquiries &amp; Feedback
+<h5><strong>General Enquiries &amp; Feedback
 <br><a href="tel:+6563440929" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 0929</u></a>
 <br><a href="mailto:stpatricksch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>stpatricksch@moe.edu.sg</u></a>
 <p></p>
-</h5></td>
+</strong></h5></td>
 <td rowspan="1" colspan="1">
 <h5>Fax
 <br><a href="tel:+6563445152" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 5152</u></a>
