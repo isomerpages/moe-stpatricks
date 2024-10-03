@@ -66,10 +66,10 @@ description: ""
 <p></p>
 </strong></h5></td>
 <td rowspan="1" colspan="1">
-<h5>Fax
+<h5><strong>Fax
 <br><a href="tel:+6563445152" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6344 5152</u></a>
 <p></p>
-</h5></td>
+</strong></h5></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
