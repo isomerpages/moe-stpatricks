@@ -29,17 +29,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>490 East Coast Road
+490 East Coast Road
 <br>Singapore 429058
 <br><a href="https://maps.google.com/maps?q=490+East+Coast+Road+Singapore+429058+" rel="noopener nofollow" target="_blank">View Map -&gt;</a>
-	<br></p>
+	<br><p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon - Fri:</strong> 7.15am to 5.30pm
+<strong>Mon - Fri:</strong> 7.15am to 5.30pm
 <br>Close on Weekends and Public Holidays
 <br><strong>Mon - Fri:</strong> 8am to 5pm
 <br>On School Holidays
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
