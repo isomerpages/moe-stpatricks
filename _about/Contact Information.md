@@ -48,9 +48,6 @@ p.big {
 </table>
 
 <br><br>
-<p> </p>
-<p> </p>
-
 
 <table style="minWidth: 50px">
 <colgroup>
@@ -106,8 +103,7 @@ p.big {
 </table>
 
 <br><br>
-<p> </p>
-<p> </p>
+
 
 <table style="minWidth: 50px">
 <colgroup>
