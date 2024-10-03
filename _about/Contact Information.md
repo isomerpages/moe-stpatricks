@@ -104,4 +104,26 @@ p.big {
 </tr>
 </tbody>
 </table>
-<p></p>
+
+<br><br>
+<p> </p>
+<p> </p>
+
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+
+</colgroup>
+<tbody>
+<tr>
+<td colspan="1">
+<h3><strong>MRT Service</strong></h3><strong>
+</strong></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p style="font-size:28px">Marine Terrace Station (TE 27) Exit 5</p>
+</td>
+</tr>
+</tbody>
+</table>
