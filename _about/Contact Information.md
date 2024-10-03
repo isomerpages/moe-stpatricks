@@ -60,46 +60,46 @@ p.big {
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Bus Stop</strong></h4>
+<h3><strong>Bus Stop</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Bus Services</strong></h4>
+<h3><strong>Bus Services</strong></h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>92159 – St. Patrick’s Sch</p>
+<p style="font-size:20px">92159 – St. Patrick’s Sch</p>
 <p>(East Coast Road)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10, 10e, 12, 14, 14A, 14e, 32, 40, 135, 155</p>
+<p style="font-size:20px">10, 10e, 12, 14, 14A, 14e, 32, 40, 135, 155</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>92151 – Christ Meth Ch</p>
-<p>(Opp School at East Coast Road)</p>
+<p style="font-size:20px">92151 – Christ Meth Ch</p>
+<p style="font-size:20px">(Opp School at East Coast Road)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10, 10e, 12, 14, 14e, 32, 40, 135, 155</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>92081 – St. Patrick’s Sch</p>
-<p>(Marine Parade Road)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13, 16, 16M, 31, 36, 36B, 43, 47, 48, 55, 196, 196e, 197, 853M</p>
+<p style="font-size:20px">10, 10e, 12, 14, 14e, 32, 40, 135, 155</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>92089 – Marine Terr Stn/Katong Convent</p>
-<p>(Opp School at Marine Parade Road)</p>
+<p style="font-size:20px">92081 – St. Patrick’s Sch</p>
+<p style="font-size:20px">(Marine Parade Road)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13, 16, 16M, 31, 36, 36A, 36B, 43, 47, 48, 55, 196, 196A, 196e, 197, 853M</p>
+<p style="font-size:20px">13, 16, 16M, 31, 36, 36B, 43, 47, 48, 55, 196, 196e, 197, 853M</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p style="font-size:20px">92089 – Marine Terr Stn/Katong Convent</p>
+<p style="font-size:20px">(Opp School at Marine Parade Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p style="font-size:20px">13, 16, 16M, 31, 36, 36A, 36B, 43, 47, 48, 55, 196, 196A, 196e, 197, 853M</p>
 </td>
 </tr>
 </tbody>
