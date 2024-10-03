@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Contact Information.md
       - Vision, Mission, Motto and Values.md
       - School History, Heritage and Ethos.md
       - Principal's Message.md
@@ -17,3 +16,4 @@ collections:
       - PDLP.md
       - Financial & Non Financial Information.md
       - School Yearbooks.md
+      - Contact Information.md
