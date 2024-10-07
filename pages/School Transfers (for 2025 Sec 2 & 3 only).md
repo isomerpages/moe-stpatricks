@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>School Transfers (for 2025 Sec 2 &amp; 3 only)</h2>
-<p>Kindly scan the QR code above to submit your application form. You will
+<p>Kindly scan the QR code below to submit your application form. You will
 need to include the Holistic Development Profile report of the Overall
 results for the current year.</p>
 <p>Only online application via <a href="https://go.gov.sg/spstransfer2025" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> will be accepted.</p>
