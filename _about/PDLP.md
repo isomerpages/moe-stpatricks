@@ -67,6 +67,11 @@ Please refer to our Frequently Asked Questions section for more information on t
 <img style="width:50%" src="/images/2024/Parent_HB2.png">
 </a></p>
 
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2_ParentHB_II_2024.pdf">
+<img style="width:50%" src="/images/2024/Parent_HB2.png">
+</a></p>
+
+
 <br>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
 <img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align="center">
