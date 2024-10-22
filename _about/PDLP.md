@@ -67,20 +67,20 @@ Please refer to our Frequently Asked Questions section for more information on t
 <img style="width:50%" src="/images/2024/Parent_HB2.png">
 </a></p>
 
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/IP2_ParentHB_II_2024.pdf">
-<img style="width:50%" src="/images/2024/Parent_HB2.png">
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/SPS_CE04_Parent_Engagement_Deck.pdf">
+<img style="width:50%" src="/images/2024/Raising_a_Smart_Child.png">
 </a></p>
 
 
 <br>
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
-<img style="width:70%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align="center">
+<img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" align="center">
 </a></p>
 
 <br>
 
 <p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents">
-<img style="width:50%" src="/images/2022_Migration/cyberwellness%20for%20parents%204.png" align="center">
+<img style="width:25%" src="/images/2022_Migration/cyberwellness%20for%20parents%204.png" align="center">
 </a></p><br>
 
 
