@@ -85,13 +85,13 @@ Please refer to our Frequently Asked Questions section for more information on t
 
 
 <p><a href="https://sure.nlb.gov.sg/">
-<img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" align="center">
+<img style="width:25%" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" align="center">
 </a></p>
 <br>
 
 
 <p><a href="https://www.help123.sg/">
-<img style="width:35%" src="/images/2022_Migration/cyberwellness%20for%20parents%206.png" align="center">
+<img style="width:25%" src="/images/2022_Migration/cyberwellness%20for%20parents%206.png" align="center">
 </a></p>
 <br><br>
 
