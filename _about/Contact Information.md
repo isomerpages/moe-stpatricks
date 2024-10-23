@@ -24,7 +24,7 @@ description: ""
 <h3><strong>Address</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>Operationg Hours</strong></h3>
+<h3><strong>Operating Hours</strong></h3>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon - Fri:</strong> 7.15am to 5.30pm
-<br>Close on Weekends and Public Holidays
+<br>Closed on Weekends and Public Holidays
 <br><strong>Mon - Fri:</strong> 8am to 5pm
 <br>On School Holidays
 </p><p></p>
