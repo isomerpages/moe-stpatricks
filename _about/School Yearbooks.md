@@ -4,6 +4,17 @@ permalink: /about/e-yearbooks/
 variant: markdown
 description: ""
 ---
+### **Yearbook 2024**
+
+
+<a href="https://issuu.com/stpatricksch7022/docs/the_patrician_2023_compressed"><img style="width:250px" src="/images/Yearbook_2023.png">
+</a>
+
+<br>
+<hr>
+
+
+
 ### **Yearbook 2023**
 
 
