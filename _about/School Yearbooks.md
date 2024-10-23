@@ -7,7 +7,7 @@ description: ""
 ### **Yearbook 2024**
 
 
-<a href="https://issuu.com/stpatricksch7022/docs/the_patrician_2023_compressed"><img style="width:250px" src="/images/Yearbook_2024.png">
+<a href="https://issuu.com/stpatricksch7022/docs/yearbook_2024_final_v2_compressed?fr=xKAE9_zU1NQ"><img style="width:250px" src="/images/Yearbook_2024.png">
 </a>
 
 <br>
