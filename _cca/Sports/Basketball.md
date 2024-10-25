@@ -24,6 +24,7 @@ we will continue to achieve excellence!</p>
 <h4><strong>Achievement(s)/Participation</strong></h4>
 <p>National School Games 2022 (B Division Basketball)</p>
 <h4><strong>CCA Training Schedule</strong></h4>
+<p>Wednesday, 3.15 - 5.15pm</p>
 <p>Friday, 2:30 – 5:30pm</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
