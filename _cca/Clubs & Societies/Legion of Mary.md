@@ -2,11 +2,10 @@
 title: Legion of Mary
 permalink: /cca/Clubs-and-Societies/legion-of-mary/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: markdown
 ---
-
-
-<img src="/images/2022_Migration/Legion.jpg" style="width:100%">
+![](/images/Updates%20for%202025/Legion_2___small.jpg)
 
 #### **Profile**
 
