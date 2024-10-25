@@ -45,10 +45,7 @@ and their holistic development in their journey in St Patrick’s School.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/sports.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ccas/sports/"><img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/sports.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ccas/clubsandsoc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated photos for CCA/Asset_8.png"></a>
 </td>
