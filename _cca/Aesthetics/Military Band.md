@@ -69,70 +69,9 @@ was a great milestone and a perfect way to kick-start our members’ journey.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022_Migration/military%20band%205.jpg">
 </div>
 <h4><strong>CCA Training Schedule</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Odd Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Odd Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Even Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Even Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Odd Mondays,</p>
+<p>Every Tuesday and Friday</p>
+<p>2.30 - 6.00pm</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
