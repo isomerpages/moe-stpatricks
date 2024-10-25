@@ -3,8 +3,9 @@ title: Golf
 permalink: /cca/Sports/golf/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<img src="/images/2022_Migration/golf-2.jpg" style="width:65%">
+![](/images/Updates%20for%202025/golf_small.jpg)
 		 
 #### **Profile**
 
