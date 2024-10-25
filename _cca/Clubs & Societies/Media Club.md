@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-
 ![](/images/Updates%20for%202025/Media_small.jpg)
+
+![](/images/Updates%20for%202025/media_photo01.jpg)
+
 #### **Profile**
 
 ##### **"Created to Create!"**
@@ -26,9 +28,11 @@ Trained by industry professionals, the 2 branches of the Media  Club - Photograp
 * Our Schools, Our Stories Photo Contest 2020-2024
 
 **2. Workshops**
-* Apple New Media Advanced Video and Photography
-On top of reinforcing the techniques using in videography and photography, students are equipped with the Changemaker mindset, where they do research, conduct analysis and pick up project management skills.
-
+* **Apple New Media Advanced Video and Photography** <br> On top of reinforcing the techniques using in videography and photography, students are equipped with the Changemaker mindset, where they do research, conduct analysis and pick up project management skills.
+*  **Objectifs Photography Workshop**
+<br>After students have picked up the various techniques in photography, they shoot at various outdoor locations to practice!
+![](/images/Updates%20for%202025/St_Patricks_Digital_Photography_25_SMALL.jpg)
+* **Canon Photography Workshop**
 
 #### **CCA Training Schedule**
 
