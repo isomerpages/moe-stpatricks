@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/2022_Migration/Badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/Badminton_small.jpg">
 </div>
 <h4><strong>Profile</strong></h4>
 <h5><strong>"Badminton School Team: Serve it, Smash it, Win it, Love it!<br>Badminton Development team: To learn, to love and to lead."</strong></h5>
