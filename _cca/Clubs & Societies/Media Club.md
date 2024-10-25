@@ -5,48 +5,30 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img src="/images/2022_Migration/Media.jpg" style="width:100%">
 
+![](/images/Updates%20for%202025/Media_small.jpg)
 #### **Profile**
 
 ##### **"Created to Create!"**
 
 The Media Club of St. Patrick’s School is instrumental in providing print, audio, video and photography support for school events and activities.
 
-Trained by industry professionals, the 3 branches of the Media  Club - Broadcast Journalism, Photography and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
+Trained by industry professionals, the 2 branches of the Media  Club - Photography and Audio-Videography work hand in hand to ensure the successful running and coverage of events. Applying the skills and techniques taught and adding their own creativity, our Patrician content creators produce content to best represent our school values and culture, thereby fostering a stronger school spirit in this digital age.
 
 #### **Achievements/ Participation**
 
-##### **Media &amp; Design**
-**1\. Participation in External Competitions**
-* Chromatic Awards – International Photo Competition
-* Nikon Photo Contest 2020- 2021
-* Our Schools, Our Stories 2020-2022
-* KMPOA Youth Portfolio 2022
-* SYF Pixel Perfect 2022
-
-**2\. Participation in External CCA Events**
-* VJC Expose 2018
-* Montage 2018, 2019
-
-**3\. Workshops with Professional Photographers, such as Mr Bernard Sim, owner of Magicdow.**
-
-##### **Infocomm**
-
 **1\. Participation in External Competitions**
 
-* Safety Starts With Me 2020 Competition
-* Our Schools, Our Stories Photo Contest 2020-2021
-* Singapore Young Photographer Award 2020
 * Copyright School Challenge Video Competition 2021-2022
 * Lions Home School Video Competition 2020-2022
-* National Youth Film Awards 2022
+* Safety Starts With Me 2024 Competition
+* Singapore Young Photographer Award 2023 - 2024
+* Our Schools, Our Stories Photo Contest 2020-2024
 
-##### **Broadcast Journalism**
+**2. Workshops**
+* Apple New Media Advanced Video and Photography
+On top of reinforcing the techniques using in videography and photography, students are equipped with the Changemaker mindset, where they do research, conduct analysis and pick up project management skills.
 
-**1\. Participation in External Competitions**
-* Our Schools, Our Stories 2020-2022
-* Lions Home School Video Competition 2022
 
 #### **CCA Training Schedule**
 
