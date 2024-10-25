@@ -35,6 +35,9 @@ excellence.&nbsp; Potest Qui Vult!</p>
 <br>2021 – Sunrise IV: Incandescence
 <br>2022 – Sunrise V: Reminiscence</p>
 <h4><strong>CCA Training Schedule</strong></h4>
+<p>Senior Ensemble: Odd Week Monday 1430-1630 Friday 1330-1630 Even Week
+Wednesday 1430-1630 Friday 1330-1630 Junior Ensemble: Odd and Even Week
+Wednesday 1430-1630 Friday 1330-1630</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,62 +46,32 @@ excellence.&nbsp; Potest Qui Vult!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Week</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Non HBL week (odd week)</p>
+<p>Senior Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday
-<br>2:30 - 4:30 pm
-<br>
-<br>Wednesday
-<br>2:30 - 4:30 pm
-<br>Friday
-<br>* 1:30 - 4:30 pm</p>
+<p><em>Odd Week</em> Monday</p>
+<p>2.30 - 4.30 pm</p>
+<p><em>Odd Week</em> Friday</p>
+<p>1.30 - 4.30 pm</p>
+<p><em>Even Week</em> Wednesday</p>
+<p>2.30 - 4.30pm</p>
+<p><em>Even Week</em> Friday</p>
+<p>1.30 - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 - 4
-<br>
-<br>
-<br>Sec 1 - 2
-<br>
-<br>
-<br>Sec 1 - 4</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HBL week (Even week)</p>
+<p>Junior Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday
-<br>2:30 - 4:30 pm
-<br>
-<br>Friday
-<br>* 1:30 - 4:30 pm
-<br>
+<p><em>Both Odd and Even Weeks</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 - 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Wednesday, 2.30 - 4.30pm</p>
+<p>Friday, 1.30 - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
