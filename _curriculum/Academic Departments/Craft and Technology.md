@@ -3,6 +3,7 @@ title: Craft and Technology
 permalink: /curriculum/academic-departments/craft-and-tech/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 ##### **‘Thinking with a Purpose to Transform Lives for the Better’**
 
@@ -22,5 +23,7 @@ third_nav_title: Academic Departments
 <img src="/images/2022_Migration/craftntech_1.jpg" style="width:100%">
 
 **Art** at Lower Secondary offers students the opportunity to explore 2-dimensional and 3-dimensional art forms through a range of teaching approaches. These include guiding them through appreciating well-known artworks, using digital apps for stop-motion animation videos, basic photography and exploring dry and wet media such as acrylic and color pencil rendering. Students are also provided the opportunity to understand and learn art and design principles. These principles are then used in the completion of authentic art tasks. Students are also guided through a reflection process to improve on the quality of their submissions.
+
+Check out and follow Patrician artwork [@sps_artworks](https://www.instagram.com/sps_artworks/?hl=en) !
 
 <img src="/images/2022_Migration/craftntech%205.jpg" style="width:100%">

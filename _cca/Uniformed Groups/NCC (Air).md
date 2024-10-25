@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<img src="/images/2022_Migration/Ncc_Air_1.jpg" style="width:65%">
-		 
-<img src="/images/2022_Migration/Ncc%202.jpg" style="width:65%">
 
+![](/images/Updates%20for%202025/NCC_AIR_for_website.png)
 #### **Profile**
 
 ##### **"Above all!"**
