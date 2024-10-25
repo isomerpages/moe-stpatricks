@@ -3,6 +3,7 @@ title: Cricket
 permalink: /cca/Sports/cricket/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <img src="/images/2022_Migration/Cricket.jpg" style="width:100%">
 		 
@@ -23,8 +24,8 @@ Onward and through, to success!
 
 #### **CCA Training Schedule**
 
-Wednesday, 2.30 - 4.30pm <br>
-Friday, 2.00 - 4.00pm
+Wednesday, 3.30 - 5.30pm <br>
+Friday, 2.30 - 4.30pm
 
 #### **CCA Teachers in Charge**
 
