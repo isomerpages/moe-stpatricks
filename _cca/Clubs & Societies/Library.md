@@ -2,10 +2,9 @@
 title: Library
 permalink: /cca/Clubs-and-Societies/library/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: markdown
 ---
-
-
 <img src="/images/2022_Migration/MRL.jpg" style="width:100%">
 		 
 #### **Profile**
@@ -23,5 +22,4 @@ Fridays: 2.30 -5.30pm
 #### **CCA Teachers-in-Charge**
 
 * Mdm Hazlian Karim -&nbsp;[Hazlian_karim@moe.edu.sg](mailto:Hazlian_karim@moe.edu.sg)  
-* Ms Haida Abdullah -&nbsp;[Haida_abdullah@moe.edu.sg](mailto:Haida_abdullah@moe.edu.sg)  
 * Ms Deepa Sekhri -&nbsp;[Deepa_sekhri@moe.edu.sg](mailto:Deepa_sekhri@moe.edu.sg)
