@@ -39,15 +39,9 @@ and their holistic development in their journey in St Patrick’s School.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/uniform%20groups2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ccas/uniformed-groups/"><img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/uniform%20groups2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/aesthetics.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ccas/aesthetics/"><img style="width: 100%" height="auto" width="100%" src="/images/Updated%20photos%20for%20CCA/aesthetics.png"></a>
 </td>
 </tr>
 <tr>
