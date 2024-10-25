@@ -1,11 +1,10 @@
 ---
-title: Athletics
-permalink: /cca/Sports/athletics/
+title: Track and Field
+permalink: /cca/sports/athletics/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
-
 <img src="/images/2022_Migration/Athletics.jpg" style="width:100%">
 
 #### **Profile**
@@ -44,7 +43,7 @@ Friday, 2.30 – 4.30pm
 #### **CCA Teachers-in-Charge**
 
 * Mdm Siti Nur Faizah Ibrahim - [siti_nur_faizah_ibrahim@moe.edu.sg](mailto:siti_nur_faizah_ibrahim@moe.edu.sg)
-* Mdm Faheema Mohamad - [faheema_mohamad@moe.edu.sg](mailto:faheema_mohamad@moe.edu.sg)
+
 * Mdm Nur Huda Mohamed Ali - [nur_huda_mohamed_ali@moe.edu.sg](mailto:nur_huda_mohamed_ali@moe.edu.sg)
 * Mdm Rafiqah Sani - [rafiqah_sani@moe.edu.sg](mailto:rafiqah_sani@moe.edu.sg)
 * Mr Sayed Hud Alhabshe - [sayed_hud_alhabshe@moe.edu.sg](mailto:sayed_hud_alhabshe@moe.edu.sg)

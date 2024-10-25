@@ -42,7 +42,7 @@ both with on-stage and backstage processes to culminate in a perfect production.
 </ul>
 <h4><strong>CCA Training Schedule</strong></h4>
 <p>Wednesday 3.30 - 5.30 pm
-<br>Friday 2.30 - 6 pm</p>
+<br>Friday 2.30 - 5.30 pm</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
