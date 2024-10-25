@@ -34,6 +34,60 @@ to strive for and achieve excellence, as one!</p>
 <br>B Division: 3rd National in Nationals School Premier Division One
 <br>C Division: Top 8 National in Nationals School Premier Division One</p>
 <h4><strong>CCA Training Schedule</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday and Wednesday, 3.00 - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday and Thursday, 3.30 - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday, 2.30 - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Monday, 2:40 to 5:30pm
 <br>Wednesday, 3:30 to 5:30pm
 <br>Friday, 2:30 to 5:30pm
