@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Aesthetics
 variant: markdown
 ---
-![](/images/2022_Migration/guitar%201.jpg)
+![](/images/Updates%20for%202025/Guitar_Photo_3___small.jpg)
 
-![](/images/2022_Migration/guitar%202.jpg)
+![](/images/Updates%20for%202025/DSC03677___small.jpg)
 
 #### **Profile**
 
