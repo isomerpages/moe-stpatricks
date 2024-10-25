@@ -3,10 +3,9 @@ title: Football
 permalink: /cca/Sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<img src="/images/2022_Migration/football%201.jpg" style="width:100%">
-		 
-<img src="/images/2022_Migration/football%202.jpg" style="width:100%">		 
+![](/images/Updates%20for%202025/Football_Photo_5___Abd_Malek_Taufiq.jpg)
 		 
 #### **Profile**
 
