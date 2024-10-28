@@ -40,7 +40,26 @@ their critical and creative thinking abilities in problem-centred and authentic
 tasks during ALP lessons.</p>
 <p></p>
 <h4><strong>Unity Game Design Workshop 2024</strong></h4>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/ALP1_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Updates for 2025/ALP1_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>This was a student-initiated workshop to share knowledge with their peers
 on creating a first -person perspective game using Unity® software. At
 the end of the workshop, students created their own games embedded with
