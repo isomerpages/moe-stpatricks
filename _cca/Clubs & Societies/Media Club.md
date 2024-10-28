@@ -57,10 +57,14 @@ shoot at various outdoor locations to practice!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates%20for%202025/St_Patricks_Digital_Photography_25_SMALL.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p><strong>Canon Photography Workshop</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/Light_Painting.jpg">
+</div>
 </li>
 </ul>
 <h4><strong>CCA Training Schedule</strong></h4>
