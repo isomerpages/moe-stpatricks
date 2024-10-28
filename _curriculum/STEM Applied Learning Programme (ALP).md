@@ -4,7 +4,10 @@ permalink: /curriculum/stem-alp/
 description: ""
 variant: tiptap
 ---
-<p>‘To be future-ready in shaping the digital world'</p>
+<blockquote>
+<p><em>‘To be future-ready in shaping the digital world'</em>
+</p>
+</blockquote>
 <h4><strong>Department Highlights</strong></h4>
 <p>St. Patrick’s School STEM ALP exposes students to various fields in technology,
 giving them the opportunity to identify their aptitudes and interests,
