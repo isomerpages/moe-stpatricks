@@ -5,17 +5,13 @@ description: ""
 third_nav_title: CCAs
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -38,9 +34,6 @@ variant: tiptap
 <p><strong><a href="/cca/clubs-and-societies/media-club/" rel="noopener noreferrer nofollow" target="_blank">Media Club</a></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,14 +49,8 @@ variant: tiptap
 </div>
 <p>SYFC</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
