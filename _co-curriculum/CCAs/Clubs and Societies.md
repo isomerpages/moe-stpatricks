@@ -47,7 +47,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/Asset_3.png">
 </div>
-<p>SYFC</p>
+<p><strong><a href="/singapore-youth-flying-club/" rel="noopener nofollow" target="_blank">SPS Youth Flying Club</a></strong>
+</p>
 </td>
 </tr>
 <tr>
