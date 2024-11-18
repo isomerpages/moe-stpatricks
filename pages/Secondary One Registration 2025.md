@@ -318,7 +318,7 @@ students.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Financial Assistance</h3>
+<h3><strong><u>Financial Assistance</u></strong></h3>
 <p>New information to be added <u>to FAS page</u>  <a href="https://www.stpatricks.moe.edu.sg/admission/fas/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance (</a>
 <a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a><a href="https://www.stpatricks.moe.edu.sg/admission/fas/" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
