@@ -67,8 +67,8 @@ your order.</p>
 <p>Contact Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6929 8012</p>
-<p>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
+<p>6929 8012<br>
+(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
 </td>
 </tr>
 <tr>
