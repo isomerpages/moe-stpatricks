@@ -48,8 +48,7 @@ school uniform.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
-<br>
-You will need to <strong>create an account</strong> on the website to make
+<br>You will need to <strong>create an account</strong> on the website to make
 your order.</p>
 </td>
 </tr>
@@ -67,8 +66,8 @@ your order.</p>
 <p>Contact Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6929 8012<br>
-(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
+<p>6929 8012
+<br>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +124,7 @@ can be found on the website.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
-<br>
-Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
+<br>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
 to the website.</p>
 </td>
 </tr>
@@ -224,8 +222,7 @@ instead.</p>
 <p>If you require any assistance on the registration process or setting up
 of PG, please contact the General Office at 63440929. You may also choose
 to email the School Administrative Team at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">stpatricksch@moe.edu.sg</a>.</p>
-<p>&nbsp;</p>
-<h3><strong><u>Appeals for Transfer into St. Patrick’s School</u></strong></h3>
+<h3>&nbsp;<strong><u>Appeals for Transfer into St. Patrick’s School</u></strong></h3>
 <p>For those who wish to appeal for transfer into St. Patrick’s School, please
 submit&nbsp;<strong><a href="https://form.gov.sg/652377b7074ea80012e2cbb0" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong>&nbsp;by&nbsp;<strong>20 December 2024, 5 pm.</strong>&nbsp;</p>
 <p></p>
