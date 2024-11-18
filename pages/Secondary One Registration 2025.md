@@ -4,8 +4,7 @@ permalink: /secondary-one-registration-2025/
 variant: tiptap
 description: ""
 ---
-<h1>Secondary 1 Registration<br>
-(Welcome to SPS)</h1>
+<h1>Secondary 1 Registration<br>(Welcome to SPS)</h1>
 <h3>&nbsp;<strong><u>Main Information Booklet</u></strong></h3>
 <p>The Secondary 1 Registration for 2025 at St. Patrick’s School will be
 conducted&nbsp;<strong>online</strong>.&nbsp; Please access the <strong>Information Booklet</strong> through
@@ -321,23 +320,5 @@ students.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong><u>Financial Assistance</u></strong></h3>
-<p>New information to be added <u>to FAS page</u>  <a href="https://www.stpatricks.moe.edu.sg/admission/fas/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance (</a>
-<a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a><a href="https://www.stpatricks.moe.edu.sg/admission/fas/" rel="noopener noreferrer nofollow" target="_blank">)</a>
-</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp; </strong>If you have applied for <strong>MOE FAS in Primary School</strong>,
-please submit a copy of the <strong>approved MOE letter</strong> to the General
-Office <strong>by</strong>  <strong>20 December 2024</strong>. You will be
-able to <strong>collect your books and uniform from the following week onwards.</strong>
-</p>
+<h3></h3>
 <p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; </strong>If your child has <strong>a sibling in another school and you have already applied for MOE FAS for the sibling</strong>,
-please make a copy of the approved MOE letter and submit it to the General
-Office on <strong>by</strong>  <strong>20 December 2024. </strong>You will
-be able to <strong>collect your books and uniform from the following week.</strong>
-</p>
-<p></p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; For <strong>NEW applicants</strong>, <strong>do <u>NOT</u> purchase your child/ward’s uniform and books until the results of your FAS application is approved.</strong> Please
-follow the steps below in <strong>Section B</strong> and complete the FAS
-application latest by <strong>20 December 2024.</strong>
-</p>
