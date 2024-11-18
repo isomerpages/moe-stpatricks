@@ -219,6 +219,8 @@ Information Booklet and Online Registration Form will be e-mailed to you
 instead.</p>
 <p></p>
 <p>Please refer to the infographic below for the timeline for Registration.</p>
+<p></p>
+<p></p>
 <p>If you require any assistance on the registration process or setting up
 of PG, please contact the General Office at 63440929. You may also choose
 to email the School Administrative Team at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">stpatricksch@moe.edu.sg</a>.</p>
