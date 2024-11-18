@@ -3,95 +3,216 @@ title: Science
 permalink: /curriculum/academic-departments/science/
 description: ""
 third_nav_title: Academic Departments
+variant: tiptap
 ---
-##### **IN3guing Science – Inquire · Inspire · Innovate**
-
-<img src="/images/2022_Migration/S1.jpg" style="width:100%">
-	
-
-#### **Department's core beliefs**
-
-Building a positive learning culture to develop students into competent and confident 21st century learners&nbsp;
-
-Use of technology to support students in understanding scientific ideas and organizing knowledge
-
-Leveraging on real-world problems for conceptual change in a student-centric classroom
-
-#### About Department
-
-The department aims to create an engaging and conducive learning environment that develops students into 21st century learners who are scientifically literate.&nbsp;
-
-Through our differentiated approach, we hope to nurture students who
-*   enjoy learning Science and regard Science as relevant and meaningful&nbsp;
-*   have a strong foundation in Science and possess the spirit of scientific inquiry&nbsp;
-*   apply and experience the potential of Science to generate creative solution to solve real-world problems&nbsp;
-
-Technology and hands-on experiences are leveraged to&nbsp;
-*   engage and harness students’ preconceptions for conceptual change&nbsp;
-*   provide students with task environments that represent and simulate the real-world problems, situations, and contexts&nbsp;
-*   design tasks to connect, challenge, deepen and extend students’ thinking.
-
-<img src="/images/2022_Migration/Science01.png" style="width:100%">
-	
-<img src="/images/2022_Migration/Science02.png" style="width:100%">
-	
-<center><img src="/images/2022_Migration/Science03.png" style="width:100%"></center>
-
-##### International C. B. Paul Science Quiz
-
-The International C.B. Paul Science Quiz aims to provide a platform for students to develop their aptitude and potential in the pure and applied Sciences through critical thinking. There are 2 categories for the Quiz, the Lower Secondary and the Upper Secondary category.&nbsp;
-
-The school sends students for this Quiz annually. They performed well, receiving the following accolades over the years:
-
-2017: 1 Gold and 4 Bronze awards<br>
-2018: 1 Gold, 1 Silver and 5 Merit awards<br>
-2019: 1 Bronze, 3 Honourable Mentions and 3 Merit awards<br>
-2021: 2 Gold, 6 Bronze, 6 Honourable Mentions and 5 Merit awards<br>
-2022: 1 Gold, 3 Silver, 2 Bronze, 7 Merit awards<br>
-
-<center><img src="/images/2022_Migration/Science04.png" style="width:100%"></center>
-	
-<center><img src="/images/2022_Migration/Science05.png" style="width:100%"></center>
-
-##### National STEM Championship (April to Sep 2022)
-
-Previously known as the National Science Challenge (NSC), the National STEM Championship has adopted similar objectives and improved its relevance to better align with research, innovation and enterprise incorporating elements of Science, Technology, Engineering and Mathematics.
-
-Our team comprising of Alief Ahmad (3P), Chan Kwon Ray John (3I), Teo Cheng Feng Elden (3I) and Jayden Khoo Wei Sheng (3E) took part in the competition and did exceptionally well in Qualifying Round 1 (written test) and Round 2 (mystery box challenge) to be one of the top 26 teams that made it to the Quarter-Finals of NSC 2022!&nbsp; The Quarter-Finals were held on 27 June 2022 at Science Centre Singapore.
-
-<center><img src="/images/2022_Migration/Science06.png" style="width:100%"></center>
-	
-##### Chips@Schools
-
-This competition is organised by Infineon and presents a defined theme annually. Students participated in a design thinking workshop and learnt more about semiconductors and Artificial Intelligence (AI). They then work in teams to generate novel ideas to improve lives and present their suggestions to a panel of leaders from Infineon.
-
-In 2021, our school emerged as runners-up for their AI driven idea to design a Sweat Health Monitor that can detect and provide user health information through monitoring biochemical operations.&nbsp;
-
-In 2022, our students again impressed the judges with their novel idea of preserving marine biodiversity using ECO, an Artificial Intelligence self-sustainable cleaning robot and emerged as winner for Best Presentation.
-
-<center><img src="/images/2022_Migration/Science07.png" style="width:100%"></center>
-
-<center><img src="/images/2022_Migration/Science08a.png" style="width:100%"></center>
-
-	
-##### VJC Amazing Eco-STEM Race 2022
-
-2022 Amazing Eco-STEM Race is organized by the East Zone Science &amp; Technology Centre @ VJC as part of the center’s effort to inspire and create greater interest in Science, Technology, Engineering &amp; Math during its STEM Festival.&nbsp;
-
-Teams of upper secondary science students put their STEM knowledge and analytical skills to the test in this race against time. They were then scored based on the accuracy with which they completed the tasks assigned.&nbsp;
-
-St. Patrick’s School clinched both first and second place in this competition.
-	
-<center><img src="/images/2022_Migration/Science09.png" style="width:100%"></center>
-	
-##### Singapore Junior Physics Olympiad
-
-The Singapore Junior Physics Olympiad is a competition for secondary school students and is aimed at encouraging the study and appreciation of physics beyond the school curriculum.&nbsp;
-
-This annual competition provides opportunities for students to solve Physics problems that require critical and inventive thinking.&nbsp;
-
-In the 2022 Singapore Junior Physics Olympiad, our school achieved 7 individual Honorable Mentions, 1 individual Bronze award and 1 team Bronze award.
-
-<center><img src="/images/2022_Migration/Science10.png" style="width:100%"></center>
-	
-<center><img src="/images/2022_Migration/Science11.png" style="width:100%"></center>
+<h5><strong>IN3guing Science – Inquire · Inspire · Innovate</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/2022_Migration/S1.jpg">
+</div>
+<h4><strong>Department's core beliefs</strong></h4>
+<p>Building a positive learning culture to develop students into competent
+and confident 21st century learners&nbsp;</p>
+<p>Use of technology to support students in understanding scientific ideas
+and organizing knowledge</p>
+<p>Leveraging on real-world problems for conceptual change in a student-centric
+classroom</p>
+<h4>About Department</h4>
+<p>The department aims to create an engaging and conducive learning environment
+that develops students into 21st century learners who are scientifically
+literate.&nbsp;</p>
+<p>Through our differentiated approach, we hope to nurture students who</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>enjoy learning Science and regard Science as relevant and meaningful&nbsp;</p>
+</li>
+<li>
+<p>have a strong foundation in Science and possess the spirit of scientific
+inquiry&nbsp;</p>
+</li>
+<li>
+<p>apply and experience the potential of Science to generate creative solution
+to solve real-world problems&nbsp;</p>
+</li>
+</ul>
+<p>Technology and hands-on experiences are leveraged to&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>engage and harness students’ preconceptions for conceptual change&nbsp;</p>
+</li>
+<li>
+<p>provide students with task environments that represent and simulate the
+real-world problems, situations, and contexts&nbsp;</p>
+</li>
+<li>
+<p>design tasks to connect, challenge, deepen and extend students’ thinking.</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/sc1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Updates for 2025/sc2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/sc3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/sc4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/sc5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>NXplorers 2.0</h4>
+<p>NXplorers 2.0 Journey is championed by Science Centre Singapore and Shell
+Singapore. It is a platform for young people to develop sustainable solutions
+to food, water and energy challenges. Through the process, students learn
+systems thinking, scenario planning, and develop change management skills
+- all highly relevant skill sets that inspire and equip students to be
+positive agents of change.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Team ECO Robot was granted $2500 Seed Fund from Science Centre and Shell
+in 2023</p>
+</li>
+<li>
+<p>Invited to showcase to President Tharman at Singapore World Water Day
+2024 by PUB and Science Centre</p>
+</li>
+<li>
+<p>Invited to present at NXplorers&nbsp;Carnival 2024</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/nxexplorers_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/nxexplorers_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>VJC Amazing Eco-STEM Race 2024</h4>
+<p>The 2024 VJC Amazing eco-STEM Race is a competition held during VJC Science
+&amp; Technology Centre’s STEM Festival. It aims to engage secondary school
+students by getting them to put their STEM knowledge and analytical skills
+to the test in this race against time. They will also be scored based on
+the accuracy of which they complete the tasks assigned. The challenge also
+serves to start getting students to think about how the Science they learn
+in the classrooms can be applied to tackling the most pressing issues of
+today, primarily, the sustainability of the environment.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Team came in 4<sup>th</sup> (Merit Award)</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/stemsc_1.jpg">
+</div>
+<h5>Singapore Junior Physics Olympiad</h5>
+<p>The Singapore Junior Physics Olympiad not only provides a platform for
+upper secondary students to challenge themselves in their science knowledge
+and skills, but also plays a crucial role in identifying and nurturing
+talents, thereby promoting excitement in learning science.</p>
+<p>It is an initiative built on their firm grasp of fundamentals. Patricians
+have have consistently performed well in the various Science Olympiads.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/2022_Migration/Science10.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/2022_Migration/Science11.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>IgnITE Skills Challenge</h4>
+<p>Organised by ITE, the IgnITE Skills Challenge is an annual competition
+that introduces students to technical skills and fosters a deeper understanding
+of courses offered by ITE. Challenges are designed to be engaging and fun,
+so as to make learning enjoyable and memorable.</p>
+<p>This year, 12 teams participated in the various challenges and 2 teams
+placed in the finals.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/ignITE1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/ignITE2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updates for 2025/ignITE3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
