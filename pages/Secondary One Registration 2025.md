@@ -4,8 +4,8 @@ permalink: /secondary-one-registration-2025/
 variant: markdown
 description: ""
 ---
-<h1>Secondary 1 Registration</h1>
-<h1>(Welcome to SPS)</h1>
+<h1>Secondary 1 Registration<br>
+(Welcome to SPS)</h1>
 <h3>&nbsp;<strong><u>Main Information Booklet</u></strong></h3>
 <p>The Secondary 1 Registration for 2025 at St. Patrick’s School will be
 conducted&nbsp;<strong>online</strong>.&nbsp; Please access the <strong>Information Booklet</strong> through
