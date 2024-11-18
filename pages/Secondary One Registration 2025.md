@@ -220,6 +220,9 @@ instead.</p>
 <p></p>
 <p>Please refer to the infographic below for the timeline for Registration.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024/timeline.png">
+</div>
 <p></p>
 <p>If you require any assistance on the registration process or setting up
 of PG, please contact the General Office at 63440929. You may also choose
