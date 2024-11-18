@@ -17,7 +17,7 @@ and&nbsp;<strong>refrain from coming down to the school without a prior appointm
 More information on the booking of appointment slots can also be found
 in the&nbsp;<strong>Information Booklet</strong>.</p>
 <p></p>
-<h3><strong><u>Uniforms Purchase</u></strong></h3>
+<h3><strong><u>Books Purchase</u></strong></h3>
 <p><strong>To allow a smoother purchase process, we strongly encourage you to place your order for books <u>online</u></strong> via
 the Pacific Bookstore website and select your preferred Self-Collection
 date. You may use the<strong> same appointment </strong>for self-collection
@@ -48,8 +48,8 @@ school uniform.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
-</p>
-<p>You will need to <strong>create an account</strong> on the website to make
+<br>
+You will need to <strong>create an account</strong> on the website to make
 your order.</p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ can be found on the website.</p>
 </tr>
 </tbody>
 </table>
-<h3>&nbsp;<strong><u>Books Purchase</u></strong></h3>
+<h3>&nbsp;<strong><u>Uniforms Purchase</u></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
