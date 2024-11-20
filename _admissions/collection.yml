@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Sec One Registration 2025/T Book Purchase.md
       - Sec One Registration 2025/.keep
       - Returning Singaporean and International Students.md
       - Leave of Absence (LOA).md
