@@ -5,21 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Sec One Registration 2025
 ---
-<p><strong><u>Books Purchase</u></strong>
-</p>
+<h2><strong><u>Books Purchase</u></strong></h2>
 <p><strong>To allow a smoother purchase process, we strongly encourage you to place your order for books <u>online</u></strong> via
 the Pacific Bookstore website and select your preferred Self-Collection
 date. You may use the<strong> same appointment </strong>for self-collection
 of books and walk-in purchase of school uniform. Self-collection hours
 in school is from<strong> 9am to 3pm.</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Please show your appointment confirmation at the security counter when
 entering the school for self-collection of books and walk-in purchase of
 school uniform.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Please refer to the table below to access the relevant links.</p>
 <table style="minWidth: 50px">
 <colgroup>
