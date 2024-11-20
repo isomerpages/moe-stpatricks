@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Sec One Registration 2025/Sec One Orientation Program.md
+      - Sec One Registration 2025/T Sec One Orientation Program.md
       - Sec One Registration 2025/Uniform Purchase.md
       - Sec One Registration 2025/Book Purchase.md
       - Sec One Registration 2025/.keep
