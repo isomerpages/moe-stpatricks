@@ -36,8 +36,7 @@ school uniform.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
-<br>
-You will need to <strong>create an account</strong> on the website to make
+<br>You will need to <strong>create an account</strong> on the website to make
 your order.</p>
 </td>
 </tr>
@@ -55,8 +54,8 @@ your order.</p>
 <p>Contact Information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6929 8012<br>
-(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
+<p>6929 8012
+<br>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
 </td>
 </tr>
 <tr>
@@ -64,13 +63,19 @@ your order.</p>
 <p>Mode of Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please place your order <strong>online</strong> via
-Pacific Bookstore Pte Ltd website and arrange a time for self-collection
-or delivery.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-collection in school is strictly
-by appointment only.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery option is available
-for a fee, per destination. More information can be found on the website.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please place your order <strong>online</strong> via Pacific Bookstore Pte
+Ltd website and arrange a time for self-collection or delivery.</p>
+</li>
+<li>
+<p>Self-collection in school is strictly by appointment only.</p>
+</li>
+<li>
+<p>Home Delivery option is available for a fee, per destination. More information
+can be found on the website.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -80,11 +85,18 @@ for a fee, per destination. More information can be found on the website.</p>
 <p>FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All purchases are final and no cancellation.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No refunds allowed and only exchange
-will be entertained.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For FAQs, please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>All purchases are final and no cancellation.</p>
+</li>
+<li>
+<p>No refunds allowed and only exchange will be entertained.</p>
+</li>
+<li>
+<p>For FAQs, please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
