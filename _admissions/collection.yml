@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Direct School Admission for Sec 1 (2025).md
       - Returning Singaporean and International Students.md
       - School Transfers (for 2025 Sec 2 & 3 only).md
       - Leave of Absence (LOA).md
