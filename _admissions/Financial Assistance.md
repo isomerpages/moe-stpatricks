@@ -13,4 +13,4 @@ More information regarding the financial assistance scheme and application form
 
 **2.**    If your child has **a sibling in another school and you have already applied for MOE FAS for the sibling**, please make a copy of the approved MOE letter and submit it to the General Office on **by** **20 December 2024.** You will be able to **collect your books and uniform from the following week.**
 
-3.     For **NEW applicants**, **do NOT purchase your child/ward’s uniform and books until the results of your FAS application is approved.** Please follow the steps below in **Section B** and complete the FAS application latest by **20 December 2024.**
+3.     For **NEW applicants**, **do NOT purchase your child/ward’s uniform and books until the results of your FAS application is approved.** 
