@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec One Registration 2025
 ---
-<h3><strong><u>Uniforms Purchase</u></strong></h3>
+<h2><strong><u>Uniforms Purchase</u></strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
