@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Sec One Registration/.keep
+      - Sec One Registration 2025/.keep
       - Returning Singaporean and International Students.md
       - School Transfers (for 2025 Sec 2 & 3 only).md
       - Leave of Absence (LOA).md
