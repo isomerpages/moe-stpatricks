@@ -53,7 +53,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:200px; aspect-ratio: 4/3x" height="auto" width="100%" src="/images/2022_Migration/tracknField.jpg">
 </div>
-<p><a href="/cca/Sports/athletics/" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
+<p><a href="/cca/sports/athletics/" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a>
 </p>
 </td>
 </tr>
