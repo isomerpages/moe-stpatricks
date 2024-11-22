@@ -93,7 +93,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/CCA_Update_Dec2022/Floorball.jpeg">
 </div>
-<p><a href="/cca/sports/Floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+<p><a href="/cca/sports/floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
