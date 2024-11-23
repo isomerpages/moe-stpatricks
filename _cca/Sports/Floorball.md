@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /cca/Sports/Floorball/
+permalink: /cca/sports/floorball/
 description: ""
 third_nav_title: Sports
 variant: tiptap

@@ -1,11 +1,10 @@
 ---
 title: NCC (Air)
-permalink: /cca/Uniformed-Groups/ncc-air/
+permalink: /cca/uniformed-groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 ![](/images/Updates%20for%202025/NCC_AIR_for_website.png)
 #### **Profile**
 

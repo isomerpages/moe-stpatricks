@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /cca/Sports/basketball/
+permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
 variant: tiptap

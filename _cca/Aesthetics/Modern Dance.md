@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /cca/Aesthetics/modern-dance/
+permalink: /cca/aesthetics/modern-dance/
 description: ""
 third_nav_title: Aesthetics
 variant: tiptap

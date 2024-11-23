@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: /cca/Clubs-and-Societies/library/
+permalink: /cca/clubs-and-societies/library/
 description: ""
 third_nav_title: Clubs & Societies
 variant: markdown

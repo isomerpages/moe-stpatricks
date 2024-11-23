@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /cca/Aesthetics/guitar-ensemble/
+permalink: /cca/aesthetics/guitar-ensemble/
 description: ""
 third_nav_title: Aesthetics
 variant: tiptap

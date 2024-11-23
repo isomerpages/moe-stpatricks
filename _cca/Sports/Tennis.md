@@ -1,6 +1,6 @@
 ---
 title: Tennis
-permalink: /cca/Sports/tennis/
+permalink: /cca/sports/tennis/
 description: ""
 third_nav_title: Sports
 variant: tiptap

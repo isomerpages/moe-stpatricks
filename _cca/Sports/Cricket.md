@@ -1,6 +1,6 @@
 ---
 title: Cricket
-permalink: /cca/Sports/cricket/
+permalink: /cca/sports/cricket/
 description: ""
 third_nav_title: Sports
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: Military Band
-permalink: /cca/Aesthetics/military-band/
+permalink: /cca/aesthetics/military-band/
 description: ""
 third_nav_title: Aesthetics
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /cca/Aesthetics/drama/
+permalink: /cca/aesthetics/drama/
 description: ""
 third_nav_title: Aesthetics
 variant: tiptap

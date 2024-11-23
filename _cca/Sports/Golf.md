@@ -1,6 +1,6 @@
 ---
 title: Golf
-permalink: /cca/Sports/golf/
+permalink: /cca/sports/golf/
 description: ""
 third_nav_title: Sports
 variant: tiptap
