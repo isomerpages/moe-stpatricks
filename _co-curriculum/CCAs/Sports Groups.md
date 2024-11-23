@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCAs
 variant: markdown
 ---
-<table style="minWidth: 50px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -14,14 +14,14 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/2022_Migration/Basketball.jpg">
+<img src="/images/2022_Migration/Basketball.jpg">
 </div>
 <p><strong><a href="/cca/sports/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3x" height="auto" width="100%" src="/images/2022_Migration/tracknField.jpg">
+<img src="/images/2022_Migration/tracknField.jpg">
 </div>
 <p><strong><a href="/cca/sports/athletics/" rel="noopener noreferrer nofollow" target="_blank">Track and Field</a></strong>
 </p>
@@ -30,14 +30,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/2022_Migration/football.jpg">
+<img src="/images/2022_Migration/football.jpg">
 </div>
 <p><strong><a href="/cca/sports/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:250px; aspect-ratio: 3/2" height="auto" width="100%" src="/images/2022_Migration/golf-2.jpg">
+<img src="/images/2022_Migration/golf-2.jpg">
 </div>
 <p><strong><a href="/cca/sports/golf/" rel="noopener noreferrer nofollow" target="_blank">Golf</a></strong>
 </p>
@@ -54,14 +54,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/2022_Migration/tennis.jpg">
+<img src="/images/2022_Migration/tennis.jpg">
 </div>
 <p><strong><a href="/cca/sports/tennis/" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/CCA_Update_Dec2022/Floorball.jpeg">
+<img src="/images/CCA_Update_Dec2022/Floorball.jpeg">
 </div>
 <p><strong><a href="/cca/sports/floorball/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
@@ -70,14 +70,14 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/2022_Migration/cricket.jpg">
+<img src="/images/2022_Migration/cricket.jpg">
 </div>
 <p><strong><a href="/cca/sports/cricket/" rel="noopener noreferrer nofollow" target="_blank">Cricket</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:200px; aspect-ratio: 4/3" height="auto" width="100%" src="/images/2022_Migration/Badminton.jpg">
+<img src="/images/2022_Migration/Badminton.jpg">
 </div>
 <p><strong><a href="/cca/sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></strong>
 </p>
