@@ -102,30 +102,30 @@ students.</p>
 <p><strong>Non-Affiliated COP</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><center>14<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p><center>22<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p><center>29<p></p>
-</center></td>
+<td style="text-align:center" rowspan="1" colspan="1">
+14<p></p>
+</td>
+<td style="text-align:center" rowspan="1" colspan="1">
+22<p></p>
+</td>
+<td style="text-align:center" rowspan="1" colspan="1">
+29<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Affiliated COP</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><center>22<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p><center>24<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p><center>29<p></p>
-</center></td>
+<td style="text-align:center" rowspan="1" colspan="1">
+22<p></p>
+</td>
+<td style="text-align:center" rowspan="1" colspan="1">
+24<p></p>
+</td>
+<td style="text-align:center" rowspan="1" colspan="1">
+29<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
