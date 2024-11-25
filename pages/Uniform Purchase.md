@@ -7,10 +7,10 @@ description: ""
 <h1><strong>Uniform Purchase</strong></h1>
 <p></p>
 <p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
-</p>
-<p>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
-to the website.</p>
-<p>Contact Information: 6276 6689</p>
+<br>
+<b>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
+	to the website.</b><br>
+</p><p>Contact Information: 6276 6689</p>
 <p></p>
 <h3>Mode of Purchase</h3>
 <ul data-tight="true" class="tight">
