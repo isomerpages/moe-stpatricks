@@ -103,14 +103,14 @@ students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14</p>
-</td>
+<p></p><center>14<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>22</p>
-</td>
+<p></p><center>22<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>29</p>
-</td>
+<p></p><center>29<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -118,14 +118,14 @@ students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22</p>
-</td>
+<p></p><center>22<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>24</p>
-</td>
+<p></p><center>24<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
-<p>29</p>
-</td>
+<p></p><center>29<p></p>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
