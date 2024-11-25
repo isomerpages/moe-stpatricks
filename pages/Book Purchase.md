@@ -23,8 +23,8 @@ school uniform.</p>
 <p>Booklists: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-s1-booklist</a>
 </p>
 <p></p>
-<p>Contact Information: 6929 8012</p>
-<p>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
+<p>Contact Information: 6929 8012<br>
+(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
 <h4>Mode of Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
