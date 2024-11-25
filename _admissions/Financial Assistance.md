@@ -18,8 +18,6 @@ submit a copy of the <strong>approved MOE letter</strong> to the General
 Office <strong>by</strong>  <strong>20 December 2024</strong>. You will be
 able to <strong>collect your books and uniform from the following week onwards.</strong>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 <li>
@@ -28,8 +26,6 @@ please make a copy of the approved MOE letter and submit it to the General
 Office on <strong>by</strong>  <strong>20 December 2024. </strong>You will
 be able to <strong>collect your books and uniform from the following week.</strong>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 <li>
