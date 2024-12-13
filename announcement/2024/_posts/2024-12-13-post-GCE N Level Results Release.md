@@ -7,10 +7,17 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The 2024 Singapore-Cambridge GCE N(A) and N(T) Level Examination results
-will be released on <strong>Monday, December 16, 2024.</strong>
-</p>
-<p>The result slips, and examination certificates for school candidates will
-be issued to schools on the result release day. Schools may issue their
-candidates the result slips and examination certificates from 2.00 pm on
-16 December 2024.</p>
+<h2>2024 GCE N-Level Results</h2>
+<p>The results of the 2024 GCE N-Level Examination will be released on Monday,
+16 December 2024, from 2.00 pm onwards.</p>
+<p>All students are to report to the School Hall by 1.30 pm this coming Monday.
+The Back Gate will be accessible between 1.00 pm and 1.30 pm.</p>
+<p>Do note that students are not required to wear the school uniform. They
+are allowed to report to school dressed appropriately in their home clothes.</p>
+<p></p>
+<p>Parents accompanying their child/ ward should note that there is limited
+parking within the school compound.</p>
+<p>Students who are unwell are advised to seek medical attention and not
+return to school to collect their results. Students who are unable to collect
+their results in person can appoint a proxy to collect a physical copy
+of their results on their behalf from the school.</p>
