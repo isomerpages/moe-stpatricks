@@ -1,7 +1,7 @@
 ---
 title: Book Purchase
 permalink: /book-purchase/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1><strong>Book Purchase</strong></h1>
@@ -22,7 +22,6 @@ school uniform.</p>
 <p></p>
 <p>Booklists: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-s1-booklist</a>
 </p>
-
 <h4>Contact Information</h4>
 <p>Contact Information: 6929 8012
 <br>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
