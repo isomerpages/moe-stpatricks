@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Book Purchase/.keep
-      - Secondary One Registration 2025.md
       - Returning Singaporean and International Students.md
       - Leave of Absence (LOA).md
       - Financial Assistance.md
