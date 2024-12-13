@@ -9,8 +9,7 @@ into the school enjoys the benefits of the SPS experience. Financial assistance
 is available to ensure that no student is deprived of a high-quality education
 at SPS.</p>
 <p>More information regarding the financial assistance scheme&nbsp;and application
-form can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.### <strong>Financial Assistance</strong>
-</p>
+form can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>If you have applied for <strong>MOE FAS in Primary School</strong>, please
