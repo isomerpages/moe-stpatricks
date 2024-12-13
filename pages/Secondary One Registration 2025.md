@@ -1,7 +1,7 @@
 ---
 title: Secondary One Registration 2025
 permalink: /secondary-one-registration-2025/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h1>Secondary 1 Registration</h1>
@@ -47,7 +47,6 @@ by <strong>12:00 pm, 19 December 2024, Thursday.</strong>
 <p>All appeals must be accompanied by relevant supporting documents, such
 as medical reports and letters from doctors. For information on appealing
 for a transfer due to serious medical conditions, please go to this <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
-<p><strong>&nbsp;</strong></p>
 <p></p>
 <h4><strong>Appealing for Transfer due to Non-Medical Reasons</strong></h4>
 <p>Schools will only be allowed to admit a student on discretionary basis
@@ -105,13 +104,13 @@ students.</p>
 <p><strong>Non-Affiliated COP</strong>
 </p>
 </td>
-<td align="center" rowspan="1" colspan="1">
-	<p>14</p>
+<td rowspan="1" colspan="1">
+<p>14</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>22</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>29</p>
 </td>
 </tr>
@@ -120,13 +119,13 @@ students.</p>
 <p><strong>Affiliated COP</strong>
 </p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>22</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>24</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>29</p>
 </td>
 </tr>
