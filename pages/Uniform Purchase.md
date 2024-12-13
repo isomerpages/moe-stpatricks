@@ -5,14 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Uniform Purchase</strong></h1>
-<p></p>
 <p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
-<br>
-<b>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
-	to the website.</b><br>
-</p><p>Contact Information: 6276 6689</p>
-<p></p>
-<h3>Mode of Purchase</h3>
+</p>
+<p>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
+to the website.</p>
+<p>&nbsp;</p>
+<h4>Contact Information: </h4>
+<p>6276 6689</p>
+<p>&nbsp;</p>
+<h4>Mode of Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students will be able to purchase the uniform in school during the orientation
@@ -28,8 +29,8 @@ during school terms.</p>
 and public holidays.</p>
 </li>
 </ul>
-<p></p>
-<h3>Buying Guide for Uniforms</h3>
+<p>&nbsp;</p>
+<h4>Buying Guide for Uniforms</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bring along a shirt and tailored shorts / pants that fit well on your
@@ -39,7 +40,7 @@ take accurate measurements for the vendor to recommend the right fit for
 your child.</p>
 </li>
 </ul>
-<p></p>
+<p>&nbsp;</p>
 <h4>Purchase of PE Attire</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,4 +50,4 @@ because the PE T-shirt is based on the House system which is announced
 when their classes are confirmed.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
