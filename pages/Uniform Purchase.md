@@ -6,13 +6,13 @@ description: ""
 ---
 <h1><strong>Uniform Purchase</strong></h1>
 <p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
-</p>
-<p>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
+<br>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
 to the website.</p>
-<p>&nbsp;</p>
+
 <h4>Contact Information: </h4>
-<p>6276 6689</p>
-<p>&nbsp;</p>
+<br>6276 6689<p></p>
+
+
 <h4>Mode of Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,7 +29,8 @@ during school terms.</p>
 and public holidays.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+
+
 <h4>Buying Guide for Uniforms</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,7 +41,8 @@ take accurate measurements for the vendor to recommend the right fit for
 your child.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+
+
 <h4>Purchase of PE Attire</h4>
 <ul data-tight="true" class="tight">
 <li>
