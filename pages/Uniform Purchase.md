@@ -10,7 +10,8 @@ description: ""
 to the website.</p>
 <h4>Contact Information:</h4>
 <p>6276 6689</p>
-<p></p>
+
+
 <h4>Mode of Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
