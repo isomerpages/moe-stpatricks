@@ -3,14 +3,14 @@ title: Uniform Purchase
 permalink: /uniform-purchase/
 variant: markdown
 description: ""
+third_nav_title: Secondary 1 Registration 2025
 ---
 <h1><strong>Uniform Purchase</strong></h1>
 <p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
 <br>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
 to the website.</p>
-
-<h4>Contact Information: </h4>
-<br>6276 6689<p></p>
+<h4>Contact Information:</h4>
+<p>6276 6689</p>
 
 
 <h4>Mode of Purchase</h4>
@@ -29,8 +29,6 @@ during school terms.</p>
 and public holidays.</p>
 </li>
 </ul>
-
-
 <h4>Buying Guide for Uniforms</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,8 +39,6 @@ take accurate measurements for the vendor to recommend the right fit for
 your child.</p>
 </li>
 </ul>
-
-
 <h4>Purchase of PE Attire</h4>
 <ul data-tight="true" class="tight">
 <li>

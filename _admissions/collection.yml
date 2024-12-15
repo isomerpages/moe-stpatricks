@@ -2,6 +2,10 @@ collections:
   admissions:
     output: true
     order:
+      - Secondary 1 Registration 2025/.keep
+      - Secondary 1 Registration 2025/Secondary One Registration 2025.md
+      - Secondary 1 Registration 2025/Book Purchase.md
+      - Secondary 1 Registration 2025/Uniform Purchase.md
+      - Secondary 1 Registration 2025/Financial Assistance.md
       - Returning Singaporean and International Students.md
       - Leave of Absence (LOA).md
-      - Financial Assistance.md

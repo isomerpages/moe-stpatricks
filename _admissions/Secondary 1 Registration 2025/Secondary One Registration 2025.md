@@ -3,6 +3,7 @@ title: Secondary One Registration 2025
 permalink: /secondary-one-registration-2025/
 variant: markdown
 description: ""
+third_nav_title: Secondary 1 Registration 2025
 ---
 <h1>Secondary 1 Registration</h1>
 <h3>&nbsp;Welcome to St. Patrick’s School!</h3>

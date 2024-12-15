@@ -3,6 +3,7 @@ title: Book Purchase
 permalink: /book-purchase/
 variant: tiptap
 description: ""
+third_nav_title: Secondary 1 Registration 2025
 ---
 <h1><strong>Book Purchase</strong></h1>
 <p></p>
