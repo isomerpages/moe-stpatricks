@@ -22,8 +22,8 @@ the letter on the day itself.</p>
 </li>
 <li>
 <p>For <strong>NEW applicants</strong>, <strong>do NOT purchase your child/ward’s uniform and books until the results of your FAS application is approved.</strong> Please
-follow the steps below in <strong>Section B</strong> and complete the FAS
-application latest by <strong>20 December 2024.</strong>
+complete the <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">FAS Application</a> latest
+by <strong>20 December 2024.</strong>
 </p>
 </li>
 </ol>
