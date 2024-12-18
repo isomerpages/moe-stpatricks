@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
 <h1><strong>Uniform Purchase</strong></h1>
-<p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
+<p>Website: <a href="https://www.myuniformshop.com.sg/shop-now" rel="noopener nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
 <br>Please state <u>Sec 1 (Level)</u> for <u>2025 (Year)</u> to sign up for access
 to the website.</p>
 <h4>Contact Information:</h4>
