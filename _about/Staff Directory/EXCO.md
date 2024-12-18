@@ -66,10 +66,11 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwan Yew Meng</p>
+<p>Mr Kwan Yew Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kwan_yew_meng@moe.edu.sg</p>
+<p><a href="kwan_yew_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">kwan_yew_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
