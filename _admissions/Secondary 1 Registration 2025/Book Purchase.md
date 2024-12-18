@@ -1,7 +1,7 @@
 ---
 title: Book Purchase
 permalink: /book-purchase/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---

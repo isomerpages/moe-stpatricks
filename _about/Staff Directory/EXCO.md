@@ -3,7 +3,7 @@ title: EXCO
 permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 100px">
@@ -66,10 +66,12 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwan Yew Meng</p>
+<p>Mr Kwan Yew Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kwan_yew_meng@moe.edu.sg</p>
+<p><a href="mailto:kwan_yew_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yew_meng@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
