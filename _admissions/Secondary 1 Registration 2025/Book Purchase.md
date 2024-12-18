@@ -1,7 +1,7 @@
 ---
 title: Book Purchase
 permalink: /book-purchase/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
@@ -17,14 +17,12 @@ hours in school is from 9am to 3pm.</p>
 entering the school for self-collection of books and walk-in purchase of
 school uniform.</p>
 <p></p>
-
-Website: [https://www.pacificbookstores.com](https://www.pacificbookstores.com)&nbsp;
+<p>Website: <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>&nbsp;
 <br><strong>You will need to create an account on the website to make your order.</strong>
+</p>
 <p></p>
-<p></p>
-Booklist: [https://go.gov.sg/sps-s1-booklist]
-(https://go.gov.sg/sps-s1-booklist)
-
+<p>Booklist: <a href="https://go.gov.sg/sps-s1-booklist" rel="noopener nofollow" target="_blank">https://go.gov.sg/sps-s1-booklist</a>
+</p>
 <p></p>
 <h4>Contact Information</h4>
 <p>Contact Information: 6929 8012
