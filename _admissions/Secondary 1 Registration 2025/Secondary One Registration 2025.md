@@ -106,13 +106,13 @@ students.</p>
 </p>
 </td>
 <td align="center" rowspan="1" colspan="1">
-<p>14</p>
+<p>11</p>
 </td>
 <td align="center" rowspan="1" colspan="1">
 <p>22</p>
 </td>
 <td align="center" rowspan="1" colspan="1">
-<p>29</p>
+<p>27</p>
 </td>
 </tr>
 <tr>
@@ -121,13 +121,13 @@ students.</p>
 </p>
 </td>
 <td align="center" rowspan="1" colspan="1">
-<p>22</p>
+<p>19</p>
 </td>
 <td align="center" rowspan="1" colspan="1">
-<p>24</p>
+<p>25</p>
 </td>
 <td align="center" rowspan="1" colspan="1">
-<p>29</p>
+<p>28</p>
 </td>
 </tr>
 <tr>
