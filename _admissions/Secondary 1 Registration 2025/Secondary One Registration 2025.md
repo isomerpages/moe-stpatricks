@@ -1,7 +1,7 @@
 ---
 title: Secondary One Registration 2025
 permalink: /secondary-one-registration-2025/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
@@ -78,7 +78,7 @@ students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Official Cut-Off Point (COP) for 2024 Sec 1 Intake</strong>
+<p><strong>Official Cut-Off Point (COP) for 2025 Sec 1 Intake</strong>
 </p>
 </td>
 </tr>
@@ -105,28 +105,28 @@ students.</p>
 <p><strong>Non-Affiliated COP</strong>
 </p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>11</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>22</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>27</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Affiliated COP</strong>
 </p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>19</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>25</p>
 </td>
-<td align="center" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>28</p>
 </td>
 </tr>
