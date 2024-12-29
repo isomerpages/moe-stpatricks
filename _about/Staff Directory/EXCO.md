@@ -3,7 +3,7 @@ title: EXCO
 permalink: /about/staff-directory/
 description: ""
 third_nav_title: Staff Directory
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>School Leaders</strong></h3>
 <table style="minWidth: 100px">
@@ -152,10 +152,10 @@ variant: markdown
 <p>HOD English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Azzah Bte Amir Gany</p>
+<p>MS Quek Yi Ling, Geraldine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azzah_amir_gany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azzah_amir_gany@moe.edu.sg</a>
+<p><a href="mailto:quek_yi_ling_geraldine@moe.edu.sg" rel="noopener nofollow" target="_blank">quek_yi_ling_geraldine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -239,13 +239,13 @@ variant: markdown
 <p>10</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>HOD SEN</p>
+<p>Acting HOD SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Bee Hoon</p>
+<p>Mr Huang YeWei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_bee_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_bee_hoon@moe.edu.sg</a>
+<p><a href="mailto:huang_yewei@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_yewei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -297,10 +297,10 @@ variant: markdown
 <p>YEAR HEAD (S1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Errol Chang Lik Hung</p>
+<p>Mdm Christine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_lik_hung_errol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_lik_hung_errol@moe.edu.sg</a>
+<p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -312,10 +312,10 @@ variant: markdown
 <p>YEAR HEAD (S2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang YeWei</p>
+<p>Mr Errol Chang Lik Hung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_yewei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yewei@moe.edu.sg</a>
+<p><a href="mailto:chang_lik_hung_errol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_lik_hung_errol@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,10 +327,10 @@ variant: markdown
 <p>YEAR HEAD (S3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Huiling Winnie</p>
+<p>Ms Faith Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_huiling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huiling_winnie@moe.edu.sg</a>
+<p><a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -342,10 +342,10 @@ variant: markdown
 <p>YEAR HEAD (S4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Tan</p>
+<p>Ms Goh Huiling Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
+<p><a href="mailto:goh_huiling_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huiling_winnie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
