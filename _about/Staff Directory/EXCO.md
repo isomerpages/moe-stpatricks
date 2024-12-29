@@ -149,7 +149,7 @@ variant: tiptap
 <p>4</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>HOD English Language</p>
+<p>HOD English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS Quek Yi Ling, Geraldine</p>
@@ -254,6 +254,21 @@ variant: tiptap
 <p>11</p>
 </th>
 <td rowspan="1" colspan="1">
+<p>HOD Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Dorothy Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>12</p>
+</th>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,7 +345,7 @@ variant: tiptap
 <p>Ms Faith Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg </a>
+<p><a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -451,16 +466,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SH (Aesthetics)</p>
+<p>SH (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dorothy Seng</p>
+<p>Miss Cheryl Lek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a>
+<p><a href="mailto:lek_li_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ling_cheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -469,13 +484,13 @@ variant: tiptap
 <p>6</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SH (Student Leadership Development)</p>
+<p>SH (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheryl Lek</p>
+<p>Ms Nicola Loh Sijin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lek_li_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ling_cheryl@moe.edu.sg</a>
+<p><a href="mailto:nicola_loh_sijin@moe.edu.sg" rel="noopener nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -507,6 +522,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_yi-lin_christie_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_yi-lin_christie_eugenia@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>9</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>SH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurliyana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
