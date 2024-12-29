@@ -490,7 +490,7 @@ variant: tiptap
 <p>Ms Nicola Loh Sijin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicola_loh_sijin@moe.edu.sg" rel="noopener nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg </a>
+<p><a href="mailto:nicola_loh_sijin@moe.edu.sg" rel="noopener nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
