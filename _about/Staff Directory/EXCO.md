@@ -532,10 +532,11 @@ variant: tiptap
 <p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurliyana</p>
+<p>Ms Nurliyana Mohd Zainudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurliyana_mohamad_zainudin@moe.edu.sg" rel="noopener nofollow" target="_blank">nurliyana_mohamad_zainudin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
