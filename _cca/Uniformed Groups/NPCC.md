@@ -48,12 +48,13 @@ society as a whole.</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>A/ASP (NPCC) Sylvester Chan -&nbsp;<a href="mailto:sylvester_chan_chee_choong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvester_chan_chee_choong@moe.edu.sg</a>
+<p>INSP (NPCC) Wong Liang Deng -&nbsp;<a href="mailto:wong_liang_deng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_deng@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>INSP (NPCC) Wong Liang Deng -&nbsp;<a href="mailto:wong_liang_deng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_deng@moe.edu.sg</a>
+<p>A/ASP (NPCC) Sylvester Chan -&nbsp;<a href="mailto:sylvester_chan_chee_choong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvester_chan_chee_choong@moe.edu.sg</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
