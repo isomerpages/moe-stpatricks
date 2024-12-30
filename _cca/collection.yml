@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/NCC (Air).md
+      - Uniformed Groups/NCC (Air & Land).md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/.keep
