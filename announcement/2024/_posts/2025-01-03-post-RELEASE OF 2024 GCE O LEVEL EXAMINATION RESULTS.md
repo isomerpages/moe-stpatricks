@@ -32,29 +32,29 @@ please refer to the following links:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE’s Resources for Parents on Providing Social &amp; Emotional Support
-for your Child (<a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>)</p>
+for your Child (<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>)</p>
 </li>
 <li>
 <p>Tips &amp; Resources for Parents on Supporting your Teen upon Results
-Release (<a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/supporting-your-teen</a>)</p>
+Release (<a href="https://go.gov.sg/supporting-your-teen" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/supporting-your-teen</a>)</p>
 </li>
 <li>
-<p>What’s Next pamphlet (<a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>)</p>
+<p>What’s Next pamphlet (<a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>)</p>
 </li>
 </ul>
 <p>If your child/ ward would like to speak to an ECG Counsellor, he may make
-an appointment with our school’s ECG Counsellor, Ms Grace Aw (<a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-ecg</a>)
+an appointment with our school’s ECG Counsellor, Ms Grace Aw (<a href="https://go.gov.sg/sps-ecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-ecg</a>)
 or the ECG Centre @ MOE (Grange Road) for online or phone counselling appointments
 via</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">moe_ecg@moe.gov.sg</a> &nbsp;</p>
+<p>Email: <a href="mailto:moe_ecg@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_ecg@moe.gov.sg</a> &nbsp;</p>
 </li>
 <li>
-<p>Appointment booking form: <a href="https://go.gov.sg/sps-proxy-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a> &nbsp;&nbsp;</p>
+<p>Appointment booking form: <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a> &nbsp;&nbsp;</p>
 </li>
 </ul>
 <p>Thank you.</p>
