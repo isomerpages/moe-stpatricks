@@ -2,27 +2,40 @@
 title: The Patrician Parent
 permalink: /connect/the-patrician-parent/
 description: ""
+variant: tiptap
 ---
-![](/images/2022_Migration/patrician_parent_header.jpg)
-
-<img src="/images/2022_Migration/patrician%20parent%20Kevin%20Seah-Co-Chairperson.jpg" style="width:30%;margin-right:15px;" align="Left">
-
-A cordial welcome to the Patrician Parent! It is an incredible pleasure to have you all onboard.
-
-In the past two years, as we all know, the pandemic has weighed on us extremely. Further, safe management measures have distinctly affected the ability and potential of PSGs to provide opportunities for parents to participate and engage in school activities.
-
-During the same time period, the school has made some updates to their provision of a contemporary educational experience. One visible instance is the update of the school uniform.
-
-To be as equally relevant and contemporary, The Patrician Parent has begun the process of updating ourselves to keep in alignment to the school’s Vision, Mission, Motto and Values.
-
-The structure of the EXCO has been revamped and we have identified 4 domains where we can collaborate and support the school in the Lasallian tradition of Touching Hearts, Engaging Minds and Transforming Lives.
-
-These 4 domains are admittedly broad in scope and opportunities. However, we need to acknowledge that resources and time are circumscribed. Thus, we will be inviting you to participate in a need’s analysis survey so that the EXCO can plan and execute events to their best ability to achieve prime wellbeing and holistic development for both parents and sons.
-
-We heartily appreciate your time and express our deepest gratitude for supporting us and we hope for a successful journey with you all!
-
-Together with my co-chairperson, Ms Ng Foong Meng (VP), we wish you a Merry Christmas, Happy New Year, and a blessed 2022 ahead.
-
-Kevin Seah <br>
-Co-Chairperson 2022 – 2023<br>
-22 Dec 2021
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022_Migration/patrician_parent_header.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Chairman.jpg">
+</div>
+<p>Dear Parents,</p>
+<p>A warm welcome to the St. Patrick’s School community! As the Co-Chairperson
+of the Parent Support Group (PSG), it is my privilege to invite you to
+join us on this meaningful journey of nurturing and shaping the lives of
+our sons.</p>
+<p>At St. Patrick’s, we believe that a strong partnership between parents
+and the school is key to fostering a positive and enriching environment
+for our boys to grow, learn, and thrive. The St Pat’s PSG is a vibrant
+community of dedicated parents who actively collaborate with the school
+to enhance the teaching and learning experience for every Patrician.</p>
+<p>The PSG serves as a platform for parents to connect, share, and support
+one another in this exciting but often challenging parenting journey. Together,
+we aim to embody a mindset of “Doing With” and “Enabling Positive Growth,”
+supporting not only our boys but also each other. Through our activities,
+we provide opportunities for parents to get involved in meaningful ways—whether
+it is by volunteering during school events, organising workshops for fellow
+parents, or participating in programmes that support the social and emotional
+development of our boys.</p>
+<p>Beyond these activities, the PSG also values the power of prayer and community.
+Together, we uplift one another and our sons, drawing strength from our
+faith and dedication to their well-being.</p>
+<p>We warmly invite you to join us as partners in nurturing confident, compassionate,
+and capable young men. Let’s work hand in hand to make their journey at
+St. Patrick’s truly memorable and impactful.</p>
+<p>With warm regards,
+<br>Leonie Nagarajan
+<br>Co-Chairperson
+<br>The Patrician Parents - Parent Support Group (PSG)</p>
