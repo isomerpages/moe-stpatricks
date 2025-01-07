@@ -2,7 +2,7 @@
 title: PDLP
 permalink: /about/pdlp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>National Digital Literacy Programme</strong></h4>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
@@ -49,6 +49,11 @@ if their Gross Household Income (GHI) is $4,400 or less, or Per Capita
 Income (PCI) is $1,100 or less.</p>
 <p>“<strong>PCI</strong>" refers to the Gross Household Income divided by
 the total number of family members in the household.</p>
+<p></p>
+<p>Students from eligible low-income households may apply for the DigitalAccess@Home
+scheme by the Infocomm Media Development Authority (IMDA), which provides
+subsidised broadband access. More information can be found at: <a href="https://imda.gov.sg/dah" rel="noopener nofollow" target="_blank">https://imda.gov.sg/dah</a>
+</p>
 <h4><strong>ICT applications</strong></h4>
 <p>As part of the programme, the school will make available ICT applications
 that will be vital to students’ learning experience and educational journey.</p>
@@ -75,34 +80,26 @@ on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
 <p></p>
 <p>
-<br> 
-<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf">
-<img src="/images/2025/parenthb1-2025.png" style="width:35%">
-</a><br></p>
-
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf">
-<img src="/images/2025/parenthb2-2025.png" style="width:35%">
-</a></p>
-
-<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img src="/images/2025/raising_smartchild.png" style="width:35%"></a><br><p></p>
-
-
-<a href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img src="/images/2025/parenting_wmoe.png" style="width:35%"></a><br><p></p>
- 
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
-</a></p>
-
-<p><a href="https://sure.nlb.gov.sg/">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%">
-</a></p>
-
+<br><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 <br>
 </p>
-
-
 <p></p>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
