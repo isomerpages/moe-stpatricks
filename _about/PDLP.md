@@ -87,7 +87,7 @@ on the DMA as well as MOE’s collection of data.</p>
 <a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img src="/images/2025/raising_smartchild.png" style="width:35%"></a><br><p></p>
 
 
-<a href="(https://www.instagram.com/parentingwith.moesg/?hl=en)"><img src="/images/2025/parenting_wmoe.png" style="width:35%"></a><br><p></p>
+<a href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img src="/images/2025/parenting_wmoe.png" style="width:35%"></a><br><p></p>
  
 <p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
 <img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
