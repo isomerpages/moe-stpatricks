@@ -98,10 +98,22 @@ on the DMA as well as MOE’s collection of data.</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/2025/parenting_wmoe.png">
 </div>
-<p>
-<br>
-</p>
+
 <p></p>
+
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
+<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
+
+</a></p>
+
+  
+
+<a href="https://sure.nlb.gov.sg/">
+<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%">
+
+</a><p></p>
+
+<p><br></p>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
 </p>
