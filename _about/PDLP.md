@@ -76,7 +76,7 @@ on the DMA as well as MOE’s collection of data.</p>
 <p></p>
 <p>
 <br> 
-<a href="https://staging.dgqb0jbouderh.amplifyapp.com//files/2025/IP2_ParentHB1_2025.pdf">
+<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf">
 <img src="/images/2025/parenthb1-2025.png" style="width:35%">
 </a>
 </p><p>
