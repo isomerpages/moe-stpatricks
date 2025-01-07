@@ -90,7 +90,11 @@ on the DMA as well as MOE’s collection of data.</p>
 <img src="/images/2025/parenthb2-2025.png" style="width:35%">
 </a><br><p></p>
 
-<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">
+<a href="https://www.instagram.com/parentingwith.moesg/?hl=en">
+	<img media="" src="/images/2025/parenting_wmoe.png”></a><br><p></p>
+															
+
+<a href=" style="width:35%">
 <img src="/images/2024/Raising_a_Smart_Child.png" style="width:35%">
 </a><br>
 
@@ -99,7 +103,8 @@ on the DMA as well as MOE’s collection of data.</p>
 
 
 
-<h4><strong>Frequently Asked Questions</strong></h4>
+<p>
+</p><h4><strong>Frequently Asked Questions</strong></h4>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" target="rel=">here</a>
 </p><p></p>
 <p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2024/SPS_ParentEngagemenDeck.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
