@@ -77,11 +77,11 @@ on the DMA as well as MOE’s collection of data.</p>
 <p>
 <br> 
 <a href="/files/2025/IP2_ParentHB1_2025.pdf">
-<img src="/images/2025/parentHB1-2025.png" style="width:35%">
+<img src="/images/2025/parenthb1-2025.png" style="width:35%">
 </a>
 </p><p>
 <a href="/files/2025/IP3_ParentHB2_2025.pdf">
-<img src="/images/2025/parentHB1-2025.png" style="width:35%">
+<img src="/images/2025/parenthb1-2025.png" style="width:35%">
 </a>
 </p>
  
