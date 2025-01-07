@@ -93,16 +93,8 @@ on the DMA as well as MOE’s collection of data.</p>
 <img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
 </a></p>
 
-<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%204.png" style="width:25%">
-</a></p>
-
 <p><a href="https://sure.nlb.gov.sg/">
 <img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%">
-</a></p>
-
-<p><a href="https://www.help123.sg/">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%206.png" style="width:25%">
 </a></p>
 
 <p></p>
