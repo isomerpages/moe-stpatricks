@@ -81,11 +81,14 @@ on the DMA as well as MOE’s collection of data.</p>
 </a>
 </p><p>
 <a href="/files/2025/IP3_ParentHB2_2025.pdf">
-<img src="/images/2025/parenthb1-2025.png" style="width:35%">
-</a>
-</p>
+<img src="/images/2025/parenthb2-2025.png" style="width:35%">
+</a></p>
+<p>
+<img src="/images/2024/Raising_a_Smart_Child.png" style="width:35%">
+
+
  
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
+</p><p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
 <img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
 </a></p>
 
