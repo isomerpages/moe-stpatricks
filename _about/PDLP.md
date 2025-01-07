@@ -75,13 +75,12 @@ on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
 <p></p>
 <p>
-<br>    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'; min-height: 15.0px}
-
-<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf">
+<br> 
+<a href="/files/2025/IP2_ParentHB1_2025.pdf">
 <img src="/images/2025/parentHB1-2025.png" style="width:35%">
 </a>
 </p><p>
-<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf">
+<a href="/files/2025/IP3_ParentHB2_2025.pdf">
 <img src="/images/2025/parentHB1-2025.png" style="width:35%">
 </a>
 </p>
