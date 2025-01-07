@@ -80,13 +80,11 @@ on the DMA as well as MOE’s collection of data.</p>
 <img src="/images/2025/parenthb1-2025.png" style="width:35%">
 </a>
 </p><p>
-<a href="/files/2025/IP3_ParentHB2_2025.pdf">
+<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf">
 <img src="/images/2025/parenthb2-2025.png" style="width:35%">
 </a></p>
 
-<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">
-
-<img src="/images/2024/Raising\_a\_Smart\_Child.png" style="width:35%">
+<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">img style="width:35%" src="/images/2024/Raising\_a\_Smart\_Child.png"&gt;
 
 </a>
  
