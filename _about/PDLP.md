@@ -109,9 +109,7 @@ on the DMA as well as MOE’s collection of data.</p>
   
 
 <a href="https://sure.nlb.gov.sg/">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%">
-
-</a><p></p>
+<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%"></a><p></p>
 
 <p><br></p>
 <h4><strong>Frequently Asked Questions</strong></h4>
