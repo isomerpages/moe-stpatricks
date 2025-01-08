@@ -22,6 +22,19 @@ players are keen to prove their mettle on the court.&nbsp;&nbsp;</p>
 <p>Tuesday, 3.30 -5.30pm.
 <br>Thursday, 3.30 -5.30pm.</p>
 <h3><strong>CCA Teachers</strong></h3>
-<p>Miss Yee Yun Shawn <a href="mailto:yee_yun_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yun_shawn@moe.edu.sg</a>
-<br>Ms. Faith Wong Soke Yee <a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Miss Yee Yun Shawn - <a href="mailto:yee_yun_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yun_shawn@moe.edu.sg</a>
 </p>
+</li>
+<li>
+<p>Ms Cheryl Lek Li Ling - <a href="mailto:lek_li_ling_cheryl@moe.edu.sg" rel="noopener nofollow" target="_blank">lek_li_ling_cheryl@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Mr Kang Xianbin - <a href="mailto:kang_xianbin@moe.edu.sg" rel="noopener nofollow" target="_blank">kang_xianbin@moe.edu.sg</a>
+<br>
+</p>
+</li>
+</ul>
+<p></p>
