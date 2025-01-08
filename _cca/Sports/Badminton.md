@@ -97,11 +97,10 @@ on the court, united as one!</p>
 </table>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p><strong>School Team:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Ng Yi Ting&nbsp;- <a href="mailto:ng_yi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yi_ting@moe.edu.sg</a>
+<p>Mr Kelvin Yee Chee Chung&nbsp;- <a href="mailto:kelvin_yee_chee_chung@moe.edu.sg" rel="noopener nofollow" target="_blank">kelvin_yee_chee_chung@moe.edu.sg</a>
 </p>
 </li>
 <li>
