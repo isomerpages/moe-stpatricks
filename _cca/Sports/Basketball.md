@@ -35,10 +35,7 @@ we will continue to achieve excellence!</p>
 <li>
 <p>Mr. Tan Chee Wei - <a href="mailto:tan_chee_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_wei@moe.edu.sg</a>
 </p>
-</li>
-<li>
-<p>Mr. Kelvin Yee Chee Chung - <a href="mailto:kelvin_yee_chee_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_yee_chee_chung@moe.edu.sg</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
