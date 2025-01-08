@@ -91,7 +91,7 @@ on the DMA as well as MOE’s collection of data.</p>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img style="width:35%" height="auto" width="100%" alt="Instagram: Parenting with MOE" src="/images/2025/parenting_wmoe.png"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf"><img style="width: 100%" height="auto" width="100%" alt="Cyber Wellness for Your Child" src="/images/2022_Migration/cyberwellness for parents 2.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf"><img style="width: 45%;" height="auto" width="100%" alt="Cyber Wellness for Your Child" src="/images/2022_Migration/cyberwellness for parents 2.jpg"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://sure.nlb.gov.sg/"><img style="width:25%" height="auto" width="100%" alt="Source. Understand. Research. Evaluate - NLB" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg"></a>
 <p></p>
