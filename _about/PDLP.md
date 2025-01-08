@@ -2,7 +2,7 @@
 title: PDLP
 permalink: /about/pdlp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>National Digital Literacy Programme</strong></h4>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
@@ -79,39 +79,25 @@ to prevent cyber addiction.</p>
 on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf"><img style="width: 35%;" height="auto" width="100%" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb1-2025.png"></a>
+<p>
+<br>
+</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/2025/parenthb2-2025.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
 <p>
 <br>
-</p>
+</p><a class="isomer-image-wrapper" href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img style="width:35%" height="auto" width="100%" alt="Instagram: Parenting with MOE" src="/images/2025/parenting_wmoe.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/2024/Raising_a_Smart_Child.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf"><img style="width: 100%" height="auto" width="100%" alt="Cyber Wellness for Your Child" src="/images/2022_Migration/cyberwellness for parents 2.jpg"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://sure.nlb.gov.sg/"><img style="width:25%" height="auto" width="100%" alt="Source. Understand. Research. Evaluate - NLB" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg"></a>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/2025/parenting_wmoe.png">
-</div>
-
-<p></p>
-
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%202.jpg" style="width:50%">
-
-</a></p>
-
-  
-
-<a href="https://sure.nlb.gov.sg/">
-<img align="center" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg" style="width:25%"></a><p></p>
-
-<p><br></p>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
 </p>
