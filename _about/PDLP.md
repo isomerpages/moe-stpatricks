@@ -79,7 +79,7 @@ to prevent cyber addiction.</p>
 on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf"><img style="width: 35%;" height="auto" width="100%" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb1-2025.png"></a>
+<p></p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP2_ParentHB1_2025.pdf"><img style="width: 35%;" height="auto" width="100%" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb1-2025.png"></a>
 <p>
 <br>
 </p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
