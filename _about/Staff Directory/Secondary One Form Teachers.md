@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Self-Discipline</p>
+<p>1 Valour</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -55,7 +55,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Teamwork</p>
+<p>1 Excellence</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -97,7 +97,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>1 Integrity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +139,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>1 Teamwork</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -181,7 +181,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Valour</p>
+<p>1 Lasalle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -223,7 +223,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>1 Self-Discipline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jaclyn Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -256,7 +256,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Lasalle</p>
+<p>1 Respect</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
