@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Staff Directory
 variant: markdown
 ---
-
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -173,265 +172,134 @@ variant: markdown
 
  
 <table style="minWidth: 50px">
-
 <colgroup>
-
 <col>
-
 <col>
-
 </colgroup>
-
 <tbody>
-
 <tr>
-
 <th rowspan="1" colspan="1">
-
 <p>1 Valour</p>
-
 </th>
-
 <th rowspan="1" colspan="1">
-
 <p></p>
-
 </th>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Miss Yee Yun Shawn</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:yee\_yun\_shawn@moe.edu.sg" rel="noopener nofollow" target="\_blank">yee\_yun\_shawn@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Mr Liu Weijie</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:liu\_weijie@moe.edu.sg" rel="noopener nofollow" target="\_blank">liu\_weijie@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
 
-  
-
-  
 
 <table style="minWidth: 50px">
-
 <colgroup>
-
 <col>
-
 <col>
-
 </colgroup>
-
 <tbody>
-
 <tr>
-
 <th rowspan="1" colspan="1">
-
 <p>1 Excellence</p>
-
 </th>
-
 <th rowspan="1" colspan="1">
-
 <p></p>
-
 </th>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Mr Ang Darrenkane</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:ang\_darrenkane@moe.edu.sg" rel="noopener nofollow" target="\_blank">ang\_darrenkane@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Miss Yeo Hui Wen</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:yeo\_hui\_wen@moe.edu.sg" rel="noopener nofollow" target="\_blank">yeo\_hui\_wen@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
 
   
-
-  
-
-  
-
 <table style="minWidth: 50px">
-
 <colgroup>
-
 <col>
-
 <col>
-
 </colgroup>
-
 <tbody>
-
 <tr>
-
 <th rowspan="1" colspan="1">
-
 <p>1 Lasalle</p>
-
 </th>
-
 <th rowspan="1" colspan="1">
-
 <p></p>
-
 </th>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Mr Koh Seng John</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:koh\_seng\_john@moe.edu.sg" rel="noopener nofollow" target="\_blank">koh\_seng\_john@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p>Miss Cheryl Lek Li Ling</p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p><a href="mailto:lek\_li\_ling\_cheryl@moe.edu.sg" rel="noopener nofollow" target="\_blank">lek\_li\_ling\_cheryl@moe.edu.sg</a>
-
 </p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 <td rowspan="1" colspan="1">
-
 <p></p>
-
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
 
   
