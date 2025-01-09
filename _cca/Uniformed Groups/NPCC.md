@@ -56,12 +56,12 @@ society as a whole.</p>
 </p>
 </li>
 <li>
-<p>Goh Tze Wee Muhammad Hykel</p>
+<p>Goh Tze Wee Muhammad Hykel - <a href="mailto:goh_tze_wee_muhammad@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tze_wee_muhammad@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Jaclyn Chan</p>
-</li>
-<li>
+<p>Jaclyn Chan - <a href="mailto:jaclyn_chan_peiyi@moe.edu.sg" rel="noopener nofollow" target="_blank">jaclyn_chan_peiyi@moe.edu.sg</a>
+</p>
 <p></p>
 <p></p>
 </li>
