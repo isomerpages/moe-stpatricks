@@ -104,7 +104,7 @@ on the DMA as well as MOE’s collection of data.</p>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
 </p>
 <p></p>
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/ParentEngagementDeck2025-10Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/ParentEngagementDeck2025_10Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
 </p>
 <p>If you have any further queries, kindly email us at:</p>
 <table style="minWidth: 50px">
