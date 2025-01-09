@@ -40,7 +40,18 @@ of boys.</p>
 <h4><strong>CCA Training Schedule</strong></h4>
 <p>Friday, 2:30 pm to 5:00 pm</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
-<p>Mr Muhamad Shahrom B Mohd Salleh, <a href="muhamad_shahrom_mohammed_sal@moe.edu.sg" rel="noopener nofollow" target="_blank">muhamad_shahrom_mohammed_sal@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Muhamad Shahrom B Mohd Salleh - <a href="muhamad_shahrom_mohammed_sal@moe.edu.sg" rel="noopener nofollow" target="_blank">muhamad_shahrom_mohammed_sal@moe.edu.sg</a>
 </p>
+</li>
+<li>
+<p>Mr Liu Weilie - <a href="mailto:liu_weilie@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_weilie@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Mr Thomas Lim - lim_shee@moe.edu.sg</p>
+</li>
+</ul>
 <p></p>
 <p></p>

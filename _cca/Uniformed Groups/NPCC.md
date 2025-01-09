@@ -54,6 +54,15 @@ society as a whole.</p>
 <li>
 <p>A/ASP (NPCC) Sylvester Chan -&nbsp;<a href="mailto:sylvester_chan_chee_choong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvester_chan_chee_choong@moe.edu.sg</a>
 </p>
+</li>
+<li>
+<p>Goh Tze Wee Muhammad Hykel - <a href="mailto:goh_tze_wee_muhammad@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_tze_wee_muhammad@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Jaclyn Chan - <a href="mailto:jaclyn_chan_peiyi@moe.edu.sg" rel="noopener nofollow" target="_blank">jaclyn_chan_peiyi@moe.edu.sg</a>
+</p>
+<p></p>
 <p></p>
 </li>
 </ul>
