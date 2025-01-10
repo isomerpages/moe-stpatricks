@@ -9,7 +9,7 @@ variant: markdown
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img class="left" style="width: 30%;" height="auto" width="30%" alt="" src="/images/2025/Chairman.jpg">
+<img style="width: 30%;" height="auto" width="30%" alt="" src="/images/2025/Chairman.jpg">
 </div>
 <p>Dear Parents,</p>
 <p>A warm welcome to the St. Patrick’s School community! As the Co-Chairperson
