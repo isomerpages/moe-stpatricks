@@ -2,14 +2,14 @@
 title: The Patrician Parent
 permalink: /connect/the-patrician-parent/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022_Migration/patrician_parent_header.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Chairman.jpg">
+<img class="left" style="width: 30%" height="auto" width="30%" alt="" src="/images/2025/Chairman.jpg">
 </div>
 <p>Dear Parents,</p>
 <p>A warm welcome to the St. Patrick’s School community! As the Co-Chairperson
