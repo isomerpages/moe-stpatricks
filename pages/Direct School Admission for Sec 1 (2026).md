@@ -44,8 +44,6 @@ experience with relevant instrument/s.</p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
 <p><strong><u>or</u></strong>
-</p>
-<p>
 <br>Displays talent in music during audition.</p>
 </td>
 </tr>
@@ -59,8 +57,11 @@ a musical instrument.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented school or any external organisation in a dance event
+<p>Represented school or any external organisation in a dance event</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in Dance during audition.</p>
 <p></p>
 </td>
@@ -71,11 +72,8 @@ a musical instrument.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event</p>
-<p>
+event
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Displays talent in Drama during audition.</p>
 <p></p>
 </td>
@@ -111,20 +109,22 @@ competitions,</p>
 <p>Badminton</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Participated in National / Zonal Inter School Championships or any local
 / overseas competitions,</p>
 <p></p>
 <p><strong><u>or</u></strong>
 </p>
 <p></p>
-<p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
 </td>
 </tr>
 <tr>
@@ -140,8 +140,6 @@ competitions,</p>
 <p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
 <p></p>
 <p><strong><u>or</u></strong>
-</p>
-<p>
 <br>Be able to demonstrate talent / attributes in tennis.</p>
 <p></p>
 </td>
@@ -162,11 +160,8 @@ golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions or equivalent.</p>
-<p>
+<p>Represented School / Club in SCA competitions or equivalent.
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Be able to demonstrate talent / attributes in cricket.</p>
 <p></p>
 </td>
@@ -199,7 +194,6 @@ or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
 </p>
 <p></p>
 <p>Articulate and comfortable in front of a camera.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
