@@ -57,8 +57,11 @@ a musical instrument.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented school or any external organisation in a dance event
+<p>Represented school or any external organisation in a dance event</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in Dance during audition.</p>
 <p></p>
 </td>
@@ -69,8 +72,11 @@ a musical instrument.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event
+event</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in Drama during audition.</p>
 <p></p>
 </td>
@@ -137,6 +143,8 @@ competitions,</p>
 <p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
 <p></p>
 <p><strong><u>or</u></strong>
+</p>
+<p>
 <br>Be able to demonstrate talent / attributes in tennis.</p>
 <p></p>
 </td>
@@ -157,8 +165,11 @@ golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions or equivalent.
+<p>Represented School / Club in SCA competitions or equivalent.</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Be able to demonstrate talent / attributes in cricket.</p>
 <p></p>
 </td>
@@ -224,6 +235,7 @@ in their primary school.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
