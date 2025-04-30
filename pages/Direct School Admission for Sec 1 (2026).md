@@ -44,6 +44,8 @@ experience with relevant instrument/s.</p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
 <p><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in music during audition.</p>
 </td>
 </tr>
@@ -392,3 +394,4 @@ admitted into for Year 1 to Year 4.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a> /
 63440929)</p>
 <p>&nbsp;</p>
+<p></p>
