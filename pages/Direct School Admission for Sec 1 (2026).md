@@ -302,49 +302,36 @@ on the school’s website at <a rel="noopener noreferrer nofollow" target="_blan
 <p>via</p>
 <p><strong>DSA-Sec Portal</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>More information about the DSA-Sec Exercise can be found at</p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec) | MOE</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>11 July (Friday) to</p>
+<p>&nbsp;11 July (Friday) to</p>
 <p>8 August (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>CCA Auditions, Trials and interviews.</p>
+<p>&nbsp;CCA Auditions, Trials and interviews.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Shortlisted applicants</strong> will be informed of the schedule
+<p><strong>&nbsp;Shortlisted applicants</strong> will be informed of the schedule
 through email or telephone.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>25 August to
+<p>&nbsp;25 August to
 <br>4 September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Notification of results</p>
+<p>&nbsp;Notification of results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Both successful and unsuccessful applicants will be notified through post
-/ email.</p>
+<p>&nbsp;Both successful and unsuccessful applicants will be notified through
+post / email.</p>
 <p><strong><em>No results of applications will be released or confirmed through telephone enquiries.</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
 </p>
 </td>
 </tr>
@@ -352,27 +339,23 @@ through email or telephone.</p>
 </table>
 <p></p>
 <h3><u>Application Process</u></h3>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp; Application can only be done through the <strong>DSA-Sec Portal</strong> from
 7<sup>th</sup> May, 11am to 3<sup>rd</sup> June 2025, 3pm. For more details,
 please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Please follow the instructions in the <strong>DSA-Sec Portal</strong> carefully.</p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp; Parents and students are encouraged to choose schools
 wisely based on the student’s aptitudes and strengths, bearing in mind
 the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp; Students who are admitted through DSA, will be expected
 to remain and honour his commitment to the DSA School that he is posted
 to, for the duration of the programme that he has applied for and been
 admitted into for Year 1 to Year 4.</p>
 <p></p>
 <p>For any enquiries, please contact the following personnel:</p>
-<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> /
-6344 0929)</p>
+<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> / 6344
+0929)</p>
 <p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a> /
 63440929)</p>
 <p>&nbsp;</p>
