@@ -44,6 +44,8 @@ experience with relevant instrument/s.</p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
 <p><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in music during audition.</p>
 </td>
 </tr>
@@ -63,7 +65,6 @@ a musical instrument.</p>
 </p>
 <p>
 <br>Displays talent in Dance during audition.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -78,7 +79,6 @@ event</p>
 </p>
 <p>
 <br>Displays talent in Drama during audition.</p>
-<p></p>
 </td>
 </tr>
 <tr>
