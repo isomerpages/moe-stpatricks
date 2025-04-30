@@ -70,11 +70,8 @@ a musical instrument.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event</p>
-<p>
+event
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Displays talent in Drama during audition.</p>
 </td>
 </tr>
@@ -249,7 +246,7 @@ trials.</p>
 <h3><strong><u>Applicants not studying in MOE mainstream primary schools:</u></strong></h3>
 <p></p>
 <p>* Applicants are to apply for a Registration number (RGxxxxxx) to access
-the DSA-Sec Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+the DSA-Sec Portal at <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <h4><strong><u>Selection Criteria</u></strong></h4>
 <h3>Audition &amp; Panel Interview</h3>
 <p></p>
@@ -322,7 +319,7 @@ interview.&nbsp;</p>
 <td rowspan="1" colspan="2">
 <p>&nbsp;</p>
 <p>Information about DSA application to St. Patrick’s School will be published
-on the school’s website at <a rel="noopener noreferrer nofollow" target="_blank"><u>http://www.stpatricks.moe.edu.sg/</u></a>
+on the school’s website at <a href="http://www.stpatricks.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.stpatricks.moe.edu.sg/</u></a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -376,7 +373,7 @@ post / email.</p>
 <h3><u>Application Process</u></h3>
 <p>1.&nbsp;&nbsp;&nbsp; Application can only be done through the <strong>DSA-Sec Portal</strong> from
 7<sup>th</sup> May, 11am to 3<sup>rd</sup> June 2025, 3pm. For more details,
-please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp; Please follow the instructions in the <strong>DSA-Sec Portal</strong> carefully.</p>
 <p>3.&nbsp;&nbsp;&nbsp; Parents and students are encouraged to choose schools
@@ -389,9 +386,9 @@ to, for the duration of the programme that he has applied for and been
 admitted into for Year 1 to Year 4.</p>
 <p></p>
 <p>For any enquiries, please contact the following personnel:</p>
-<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> / 6344
-0929)</p>
-<p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a> /
+<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a href="mailto: seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> /
+6344 0929)</p>
+<p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a href="mailto: seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a> /
 63440929)</p>
 <p>&nbsp;</p>
 <p></p>
