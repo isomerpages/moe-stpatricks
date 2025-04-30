@@ -44,6 +44,8 @@ experience with relevant instrument/s.</p>
 <p>Attainment of an ABRSM grade (Theory and/or practical) or equivalent on
 a musical instrument.</p>
 <p><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in music during audition.</p>
 </td>
 </tr>
@@ -60,6 +62,7 @@ a musical instrument.</p>
 <p>Represented school or any external organisation in a dance event
 <br><strong><u>or</u></strong>
 <br>Displays talent in Dance during audition.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,9 +71,13 @@ a musical instrument.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Represented school or any external organisation in a Drama/Play/Musical
-event
+event</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Displays talent in Drama during audition.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -80,6 +87,7 @@ event
 <td rowspan="1" colspan="1">
 <p>Represented School/Club/Academy in any tournaments or any local / overseas
 competitions.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,9 +97,12 @@ competitions.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships or any local / overseas
 competitions,</p>
+<p></p>
 <p><strong><u>or</u></strong>
 </p>
+<p></p>
 <p>Be able to demonstrate talent / attributes in track &amp; field.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -103,9 +114,12 @@ competitions,</p>
 <td rowspan="2" colspan="1">
 <p>Participated in National / Zonal Inter School Championships or any local
 / overseas competitions,</p>
+<p></p>
 <p><strong><u>or</u></strong>
 </p>
+<p></p>
 <p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -119,11 +133,17 @@ competitions,</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National Inter School Championships.</p>
+<p></p>
 <p><strong><u>or</u></strong>
 </p>
+<p></p>
 <p>Participated in tournaments organised by SPEX, Intermediate or KLM.</p>
+<p></p>
 <p><strong><u>or</u></strong>
+</p>
+<p>
 <br>Be able to demonstrate talent / attributes in tennis.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -134,6 +154,7 @@ competitions,</p>
 <p>Minimum USGA Handicap Index of not more than 24.0 (as of
 <br>1<sup>st</sup> April 2016) from a bona fide club affiliated to a recognized
 golf association</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -141,9 +162,13 @@ golf association</p>
 <p>Cricket</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented School / Club in SCA competitions or equivalent.
+<p>Represented School / Club in SCA competitions or equivalent.</p>
+<p>
 <br><strong><u>or</u></strong>
+</p>
+<p>
 <br>Be able to demonstrate talent / attributes in cricket.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -155,9 +180,12 @@ golf association</p>
 <td rowspan="1" colspan="1">
 <p>Hold key leadership positions in any school Leadership Boards (eg Head
 or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
+<p></p>
 <p><strong><u>and</u></strong>
 </p>
+<p></p>
 <p>Demonstrated exemplary character and leadership in their primary school</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -166,8 +194,10 @@ or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Demonstrated exemplary character and leadership in their primary school</p>
+<p></p>
 <p><strong><u>and</u></strong>
 </p>
+<p></p>
 <p>Articulate and comfortable in front of a camera.</p>
 <p>&nbsp;</p>
 </td>
@@ -179,9 +209,12 @@ or Deputy Head Prefect, etc) or Uniformed Groups in their primary school</p>
 <td rowspan="1" colspan="1">
 <p>Demonstrated exemplary character and held executive leadership appointment(s)
 in their primary school.</p>
+<p></p>
 <p><strong><u>and</u></strong>
 </p>
+<p></p>
 <p>Demonstrated evidence of positive impacts on the school community</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -190,8 +223,10 @@ in their primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Possess basic programming knowledge on Micro:bit or LEGO® Mindstorm®</p>
+<p></p>
 <p><strong><u>or</u></strong>
 </p>
+<p></p>
 <p>Has participated in local or international coding-related competitions
 (eg, National Robotics Competition, First LEGO® League, etc)</p>
 </td>
