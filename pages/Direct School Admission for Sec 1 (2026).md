@@ -57,11 +57,8 @@ a musical instrument.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represented school or any external organisation in a dance event</p>
-<p>
+<p>Represented school or any external organisation in a dance event
 <br><strong><u>or</u></strong>
-</p>
-<p>
 <br>Displays talent in Dance during audition.</p>
 <p></p>
 </td>
