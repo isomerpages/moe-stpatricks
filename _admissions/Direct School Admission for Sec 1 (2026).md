@@ -386,9 +386,9 @@ to, for the duration of the programme that he has applied for and been
 admitted into for Year 1 to Year 4.</p>
 <p></p>
 <p>For any enquiries, please contact the following personnel:</p>
-<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a href="mailto: seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> /
+<p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a href="mailto: seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting<u>@moe.ed</u>u.sg</a> /
 6344 0929)</p>
-<p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a href="mailto: seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_swee_cheng_dorothy@moe.edu.sg</a> /
+<p>2.&nbsp;&nbsp;&nbsp; Ms Dorothy Seng, HOD Aesthetics (<a href="mailto: seng_swee_cheng_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seng_swee_cheng_dorothy@moe.edu.sg</u></a> /
 63440929)</p>
 <p>&nbsp;</p>
 <p></p>
