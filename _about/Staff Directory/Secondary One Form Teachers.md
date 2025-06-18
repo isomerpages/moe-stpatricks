@@ -190,10 +190,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Weijie</p>
+<p>Mr Liu Weilie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu\_weijie@moe.edu.sg" rel="noopener nofollow" target="\_blank">liu_weijie@moe.edu.sg</a>
+<p><a href="mailto:liu_weilie@moe.edu.sg" rel="noopener nofollow" target="\_blank">liu_weilie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
