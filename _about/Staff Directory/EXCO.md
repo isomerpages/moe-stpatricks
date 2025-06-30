@@ -276,7 +276,7 @@ variant: tiptap
 <p>Mr Seow Jian Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> 
+<p><a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -537,7 +537,7 @@ variant: tiptap
 <p>Ms Firza Maisarah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:firza_maisarah_mohd@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">firza_maisarah_mohd@moe.edu.sg</a> 
+<p><a href="mailto:firza_maisarah_mohd@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">firza_maisarah_mohd@moe.edu.sg</a>
 </p>
 </td>
 </tr>
