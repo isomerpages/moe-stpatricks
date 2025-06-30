@@ -269,8 +269,7 @@ variant: tiptap
 <p>12</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA</p>
-<p>(Covering HOD)</p>
+<p>SH PE/CCA (Covering HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Jian Ting</p>
