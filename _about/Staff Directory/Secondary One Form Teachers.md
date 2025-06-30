@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Firza Maisarah Binte Mohd Raffid</p>
+<p>Ms Firza Maisarah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:firza\_maisarah\_mohd@moe.edu.sg" rel="noopener nofollow" target="\_blank">firza_maisarah_mohd@moe.edu.sg</a>
