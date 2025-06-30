@@ -68,28 +68,14 @@ shoot at various outdoor locations to practice!</p>
 </li>
 </ul>
 <h4><strong>CCA Training Schedule</strong></h4>
-<p>Wednesday, 230 - 530pm (ad hoc) Friday, 230 - 530pm</p>
+<p>Wednesday, 230 - 530pm (ad hoc)</p>
+<p>Friday, 230 - 530pm</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
-<p><strong>Overall I/C:</strong>
+<p><strong>Teachers:</strong>
 </p>
 <p>Ms Ruth Lim - <a href="mailto:lim_li_chen_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_chen_ruth@moe.edu.sg</a>&nbsp;</p>
-<p><strong>Photography:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Ms Karen Pereira - <a href="mailto:pereira_karen_louise@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pereira_karen_louise@moe.edu.sg</a>
 </p>
-</li>
-</ul>
-<p><strong>Audio/Videography:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Juhari- <a href="mailto:juhari_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juhari_mohamed@moe.edu.sg</a>&nbsp;</p>
-</li>
-<li>
 <p>Mr Tan Tat Hock - <a href="mailto:tan_tat_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tat_hock@moe.edu.sg</a>
 </p>
-</li>
-</ul>
 <p></p>
