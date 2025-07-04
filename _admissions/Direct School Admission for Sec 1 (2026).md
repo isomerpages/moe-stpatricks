@@ -1,7 +1,7 @@
 ---
 title: Direct School Admission for Sec 1 (2026)
 permalink: /direct-school-admission-for-sec-1-2026/
-variant: markdown
+variant: tiptap
 description: DSA 2026
 ---
 <h1><strong>DIRECT SCHOOL ADMISSION (DSA)</strong></h1>
@@ -369,7 +369,7 @@ via email.</p>
 <p>Male students from primary schools completing their PSLE examinations
 in academic year 2025, who meet the following criteria, are invited to
 apply for Direct School Admission to St. Patrick’s School:</p>
-<h4><u>CRITERIA</u></h4>
+<h4><strong><u>CRITERIA</u></strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
