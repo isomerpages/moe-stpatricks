@@ -469,7 +469,7 @@ variant: tiptap
 <p>6</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SH (Student Leadership)</p>
+<p>Acting SH (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nicola Loh Sijin</p>

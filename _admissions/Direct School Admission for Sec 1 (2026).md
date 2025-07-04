@@ -8,13 +8,368 @@ description: DSA 2026
 <p>Sports and Games / Performing Arts/ Leadership &amp; Uniformed Groups/
 Science, Technology, Engineering and Mathematics</p>
 <p></p>
+<h3><strong><u>Details for St Patrick’s DSA-Sec Trials, Interviews and Auditions</u></strong></h3>
+<p>Please check the table below for the details for our DSA Trials, Interviews
+and Auditions.</p>
+<p>Please note that as there are examinations and student activities happening
+in the afternoon, please note that parents are not allowed to enter the
+school premises and you can drop your child/ward at the car porch. Your
+child/ward will be escorted to the respective venues by our CCA leaders.</p>
+<h4><strong><u>Sports</u></strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA/Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 July (Monday)
+<br>16 July (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 3:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cricket</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 July (Friday)
+<br>16 July (Wednesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 July (Thursday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall Level 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 July (Monday)
+<br>15 July (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Golf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A1-04 Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm to 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Tennis Courts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm to 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Track</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong><u>Visual and Performing Arts</u></strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA/Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 July (Tuesday)
+<br>25 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm to 3:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main Band Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama CCA Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 July (Friday)
+<br>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 3:45pm</p>
+<p>2:30pm to 3:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong><u>Uniformed Groups</u></strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA/Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>11 July (Friday)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3:00pm to 4:00pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Heritage Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Clubs and Leadership</u></strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA/Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media/Journalism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meeting Room 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Computational Thinking Skills</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 July (Friday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esports Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Youth Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 July (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm to 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meeting Room 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>We seek your kind understanding that we are unable to entertain requests
+to reschedule the trials, interviews and auditions for your child/ward
+unless he has official reasons such as medical leave or major school events
+such as preliminary examinations.</p>
+<p>Please be reminded that the notification of results is from 25<sup> </sup>August
+to 4 September. Both successful and unsuccessful applicants will be notified
+via email.</p>
+<p></p>
+<hr>
 <h3><strong>FOR ADMISSION TO SECONDARY ONE IN 2026</strong></h3>
 <p></p>
 <p>Male students from primary schools completing their PSLE examinations
 in academic year 2025, who meet the following criteria, are invited to
 apply for Direct School Admission to St. Patrick’s School:</p>
-<p></p>
-<h4><u>CRITERIA</u></h4>
+<h4><strong><u>CRITERIA</u></strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -102,8 +457,9 @@ competitions,</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Badminton</p>
+<p>&nbsp;Badminton
+<br>Floorball
+<br>Basketball</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,16 +468,7 @@ competitions,</p>
 <p></p>
 <p><strong><u>or</u></strong>
 </p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Floorball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Be able to demonstrate talent / attributes in badminton / Floorball.</p>
+<p>Be able to demonstrate talent / attributes in Badminton / Floorball/ Basketball</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +623,6 @@ for additional trials and/or interview.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants are to bring their own personal
 sporting equipment or gear for the trials.</p>
-<p></p>
 <p></p>
 <p></p>
 <h5><strong>For Leadership and Uniformed Groups:</strong></h5>
