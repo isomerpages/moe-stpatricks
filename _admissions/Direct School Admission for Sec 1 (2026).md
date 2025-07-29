@@ -5,36 +5,22 @@ variant: tiptap
 description: DSA 2026
 ---
 <h1><strong>DIRECT SCHOOL ADMISSION (DSA)</strong></h1>
-<p>Sports and Games / Performing Arts/ Leadership &amp; Uniformed Groups/
-Science, Technology, Engineering and Mathematics</p>
-<p></p>
-<p><em>Updated as of 30 July 2025</em>
+<p><em>Sports and Games / Performing Arts/ Leadership &amp; Uniformed Groups/ Science, Technology, Engineering and Mathematics</em>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<h3><strong><u>Announcement</u></strong></h3>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<h4><strong><u>Announcement</u></strong></h4>
 <p><strong>We have sent out interview invitation emails via <u>Postman.gov.sg</u> to all shortlisted applicants for the DSA-Sec process.</strong>
 </p>
-<p><strong>Action Required: Please click on the link provided in the email to indicate your child/ward’s attendance for the interview.  Kindly check your junk/spam folders in case the email was misdirected.</strong>
+<p><strong>Action Required: Please click on the <u>link provided in the email</u> to indicate your child/ward’s attendance for the interview. Kindly check your junk/spam folders in case the email was misdirected.</strong>
 </p>
 <p><strong>The final outcome of your DSA-Sec application will be communicated via email between 29th August and 5th September 2025.</strong>
 </p>
 <p><strong>We appreciate your patience and understanding throughout this process.</strong>
 </p>
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<p><u>(</u><em>Updated as of 30 July 2025)</em>
+</p>
+<p></p>
 <hr>
 <h3><strong><u>Details for St Patrick’s DSA-Sec Trials, Interviews and Auditions</u></strong></h3>
 <p>Please check the table below for the details for our DSA Trials, Interviews
