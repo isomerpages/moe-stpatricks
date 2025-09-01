@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission for Sec 1 (2026)
-date: 2025-07-29
+date: 2025-09-01
 layout: link
 description: ""
 image: ""

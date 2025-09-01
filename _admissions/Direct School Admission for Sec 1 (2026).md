@@ -8,19 +8,17 @@ description: DSA 2026
 <p><em>Sports and Games / Performing Arts/ Leadership &amp; Uniformed Groups/ Science, Technology, Engineering and Mathematics</em>
 </p>
 <h3><strong><u>Announcement</u></strong></h3>
-<p></p>
-<p><strong>We have sent out interview invitation emails via <u>Postman.gov.sg</u> to all shortlisted applicants for the DSA-Sec process.</strong>
+<p><strong>Dear Parents/Guardians,</strong>
 </p>
-<p><strong>Action Required: Please click on the <u>link provided in the email</u> to indicate your child/ward’s attendance for the interview. Kindly check your junk/spam folders in case the email was misdirected.</strong>
+<p><strong>The outcomes of this year's DSA-Sec have been sent out to 'ALL' applicants via <a href="http://Postman.gov" rel="noopener noreferrer nofollow" target="_blank">Postman.gov</a>.</strong>
 </p>
-<p><strong>The final outcome of your DSA-Sec application will be communicated via email between 29th August and 5th September 2025.</strong>
+<p><strong>Please do check your spam/junk folders in your email in case the email gets routed there.</strong>
 </p>
-<p><strong>We appreciate your patience and understanding throughout this process.</strong>
-</p>
-<p></p>
-<p><u>(</u><em>Updated as of 30 July 2025)</em>
+<p><strong>We thank you for showing an interest in St Patrick's School and we wish your child/ward the best in their PSLE.</strong>
 </p>
 <p></p>
+<p><em>(updated as of 1 September 2025)</em>
+</p>
 <hr>
 <h3><strong><u>Details for St Patrick’s DSA-Sec Trials, Interviews and Auditions</u></strong></h3>
 <p>Please check the table below for the details for our DSA Trials, Interviews
