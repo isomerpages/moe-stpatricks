@@ -48,50 +48,6 @@ description: ""
 </li>
 </ul>
 <hr>
-<p><strong>🌏 For Returning Singaporeans</strong>
-</p>
-<p>Returning Singaporeans who wish to join St. Patrick’s School at <strong>Secondary 2 or 3</strong> in
-2026 should register for the <strong>MOE School Placement Exercise for Returning Singaporeans (SPERS-Sec).</strong>
-</p>
-<p><strong>About SPERS-Sec:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A <strong>centralised posting exercise</strong> conducted by MOE, usually
-in <strong>October</strong> each year.</p>
-</li>
-<li>
-<p>Applicants sit for a central test and are provided a list of eligible
-schools based on their results.</p>
-</li>
-<li>
-<p>Applicants may indicate <strong>up to six school choices</strong> from this
-list.</p>
-</li>
-<li>
-<p>MOE will post applicants to schools based on <strong>merit</strong>, <strong>choice order</strong>,
-and <strong>available vacancies</strong>.</p>
-</li>
-</ul>
-<p><strong>Benefits:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Admission is based on results and available vacancies — <strong>no additional testing required</strong> by
-schools.</p>
-</li>
-</ul>
-<p>For details, visit:
-<br>🔗 <a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
-</p>
-<hr>
-<p><strong>✝️ Considering a Catholic Education?</strong>
-</p>
-<p>If you are exploring Catholic schools in Singapore, you may wish to refer
-to:
-<br>🔗 <a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Catholic Schools in Singapore</a>
-</p>
-<hr>
 <p><strong>📩 Contact Us</strong>
 </p>
 <p>For enquiries:</p>
