@@ -90,7 +90,7 @@ schools.</p>
 </p>
 <p>If you are exploring Catholic schools in Singapore, you may wish to refer
 to:
-<br>🔗 <a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Catholic Schools in Singapore</a>  <em>(<a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">https://www.accs.sg/directory/</a>)</em>
+<br>🔗 <a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Catholic Schools in Singapore</a> 
 </p>
 <hr>
 <p><strong>📩 Contact Us</strong>
