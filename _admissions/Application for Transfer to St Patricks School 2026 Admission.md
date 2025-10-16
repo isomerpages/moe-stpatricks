@@ -30,7 +30,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Submit your application <strong>online</strong> at
-<br>🔗 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-transfer-form</a>
+<br>🔗 <a href="https://go.gov.sg/sps-transfer-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-transfer-form</a>
 </p>
 </li>
 <li>
@@ -83,14 +83,14 @@ schools.</p>
 </li>
 </ul>
 <p>For details, visit:
-<br>🔗 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
+<br>🔗 <a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
 </p>
 <hr>
 <p><strong>✝️ Considering a Catholic Education?</strong>
 </p>
 <p>If you are exploring Catholic schools in Singapore, you may wish to refer
 to:
-<br>🔗 <a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Catholic Schools in Singapore</a>  <em>(<a rel="noopener noreferrer nofollow" target="_blank">https://www.accs.sg/directory/</a>)</em>
+<br>🔗 <a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Catholic Schools in Singapore</a>  <em>(<a href="https://www.accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">https://www.accs.sg/directory/</a>)</em>
 </p>
 <hr>
 <p><strong>📩 Contact Us</strong>
