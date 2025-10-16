@@ -102,7 +102,7 @@ to:
 <br>(Mondays – Fridays, 8.00am – 5.00pm)</p>
 </li>
 <li>
-<p><strong>Email:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">stpatricksch@moe.edu.sg</a>
+<p><strong>Email:</strong>  <a href="mailto:stpatricksch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stpatricksch@moe.edu.sg</a>
 <br><em>(Please indicate “School Transfer” in the subject header.)</em>
 </p>
 </li>
