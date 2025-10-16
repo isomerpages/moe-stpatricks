@@ -51,8 +51,7 @@ description: ""
 <p><strong>🌏 For Returning Singaporeans</strong>
 </p>
 <p>Returning Singaporeans who wish to join St. Patrick’s School at <strong>Secondary 2 or 3</strong> in
-2026 should register for the
-<br><strong>MOE School Placement Exercise for Returning Singaporeans (SPERS-Sec).</strong>
+2026 should register for the <strong>MOE School Placement Exercise for Returning Singaporeans (SPERS-Sec).</strong>
 </p>
 <p><strong>About SPERS-Sec:</strong>
 </p>
