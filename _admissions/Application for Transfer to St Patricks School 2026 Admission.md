@@ -41,7 +41,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only <strong>shortlisted applicants</strong> will be informed <strong>via email or phone call</strong> by <strong>12 November 2025</strong>.</p>
+<p><strong>Successful applicants</strong> will be informed <strong>via email or phone call</strong> by <strong>12 November 2025</strong>.</p>
 </li>
 <li>
 <p>If you do not hear from the school by this date, your application is <strong>unsuccessful</strong>.</p>
