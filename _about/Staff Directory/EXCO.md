@@ -149,21 +149,6 @@ variant: tiptap
 <p>4</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>HOD English Language &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS Quek Yi Ling, Geraldine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_yi_ling_geraldine@moe.edu.sg" rel="noopener nofollow" target="_blank">quek_yi_ling_geraldine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>5</p>
-</th>
-<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>HOD ICT &amp; MRL</p>
@@ -191,7 +176,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>HOD Character and Citizenship Education</p>
@@ -206,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>HOD Student Management</p>
@@ -221,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Acting HOD SEN</p>
@@ -236,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>HOD Aesthetics</p>
@@ -251,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -266,7 +251,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>SH PE/CCA (Covering HOD)</p>
@@ -409,7 +394,7 @@ variant: tiptap
 <p>2</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>SH (Design and Technology)</p>
+<p>SH (Design &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mahadi b Salam</p>
