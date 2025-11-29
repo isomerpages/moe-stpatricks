@@ -16,9 +16,6 @@ effectively in all mediums. Our multi-faceted approach towards language
 learning focuses on student choice, digital literacy and authentic learning.
 As a department, we are passionate in nurturing all Patricians to appreciate
 the value of the written and spoken word.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/2022_Migration/englit%202.jpg">
-</div>
 <h4><strong>SPS Reads!</strong></h4>
 <p>At St. Patrick's School, we have an innovative approach to fostering a
 love for reading among our students. We have relocated the library to the
