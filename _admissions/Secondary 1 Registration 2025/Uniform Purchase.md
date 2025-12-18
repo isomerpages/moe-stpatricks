@@ -14,16 +14,16 @@ to the website.</p>
 <h4>Mode of Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>(For Sec 1s only) </strong>Students will be able to purchase their
-uniform in school on the following dates, from 9.00am to 3.00pm:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>19, 20, 23, 26 &amp; 27 December 2024</p>
+<p>Students will be able to purchase the uniform in school during the orientation
+week.</p>
 </li>
 <li>
-<p>2, 3, 7, 8 &amp; 9 January 2025</p>
+<p>Sale of uniform will be available at the bookshop from 7.30am to 3.00pm
+during school terms.</p>
 </li>
-</ul>
+<li>
+<p><strong>(For Sec 1s only) </strong>Sale of uniform will be available from <u>19 December 2025 to 7 January 2026</u>,
+from 9.00am to 3.00pm, excluding weekends and public holidays.</p>
 </li>
 </ul>
 <h4>Buying Guide for Uniforms</h4>
