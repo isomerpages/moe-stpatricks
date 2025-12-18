@@ -15,12 +15,12 @@ hours in school is from 9am to 3pm.</p>
 <p>Please show your appointment confirmation at the security counter when
 entering the school for self-collection of books and walk-in purchase of
 school uniform.</p>
-<p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+<p>Website: <a href="https://www.pacificbookstores.com" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com</a>
 </p>
 <hr>
 <p><strong>You will need to create an account on the website to make your order.</strong>
 </p>
-<p>Booklists: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-s1-booklist</a>
+<p>Booklists: <a href="https://file.go.gov.sg/sps-s1-booklist.pdf" rel="noopener nofollow" target="_blank">https://file.go.gov.sg/sps-s1-booklist.pdf</a>
 </p>
 <p>Contact Information: 6929 8012</p>
 <p>(Mon to Fri, 9.00am to 5.00pm, excluding eve of public holidays)</p>
@@ -52,7 +52,7 @@ can be found on the website.</p>
 <p>No refunds allowed and only exchange will be entertained.</p>
 </li>
 <li>
-<p>For FAQs, please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
+<p>For FAQs, please refer to <a href="https://www.pacificbookstores.com/faqs" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
 </p>
 </li>
 </ul>

@@ -36,7 +36,7 @@ as medical reports and letters from doctors. For information on appealing
 for a transfer due to serious medical conditions, please go to this <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
 <p>&nbsp;</p>
 <p><strong>If you are appealing for school transfer due to non-medical reasons:</strong>
-<br>Please fill in the online form at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sps-transfer-appeal</a> by <strong>26 December 2025, 5 pm.</strong>
+<br>Please fill in the online form at <a href="https://go.gov.sg/sps-transfer-appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/sps-transfer-appeal</a> by <strong>26 December 2025, 5 pm.</strong>
 </p>
 <p>Your child’s PSLE score must meet the school’s S1 Posting cut-off point
 (COP) which will be published in SchoolFinder on 19 December 2025, after
