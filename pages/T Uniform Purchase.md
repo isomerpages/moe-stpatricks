@@ -17,7 +17,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>
-<br>Please state <u>Sec 1 2025</u> for <u>Class (Year)</u> to sign up for access
+<br>Please state <u>Sec 1 2026</u> for <u>Class (Year)</u> to sign up for access
 to the website.</p>
 </td>
 </tr>
