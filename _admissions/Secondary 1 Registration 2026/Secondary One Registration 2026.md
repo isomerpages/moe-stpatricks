@@ -50,6 +50,78 @@ the applicant will need to meet the non-affiliate COP.</p>
 <p>Students successfully allocated to their DSA schools will not be allowed
 to transfer to another school. They are expected to honour their commitment
 to the allocated DSA school for the entire duration of the programme.&nbsp;</p>
+<p>&nbsp;Please refer to the following for the COP for Affiliated and Non-Affiliated
+students.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Official Cut-Off Point (COP) for 2026 Sec 1 Intake</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Non-Affiliated COP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Affiliated COP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Note: When accessing appeal for discretionary admission, student needs to meet the above course COP i.e. AL score should be the same or lower.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
