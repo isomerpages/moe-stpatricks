@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Application for Transfer.md
       - Secondary 1 Registration 2026/.keep
       - Secondary 1 Registration 2026/Secondary One Registration 2026.md
       - Secondary 1 Registration 2026/Book Purchase.md
