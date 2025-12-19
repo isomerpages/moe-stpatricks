@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/website banner-04.png
-  - resources:
-      title: Announcements
-      button: More
   - infobar:
       title: Sec 1 Registration 2026
       subtitle: Welcome!
@@ -18,4 +15,7 @@ sections:
       description: Information Booklet | Book Lists | Uniform Purchase | FAS
       button: Click here for more information
       url: https://stpatricks.moe.edu.sg/secondary-one-registration-2026/
+  - resources:
+      title: Announcements
+      button: More
 ---
