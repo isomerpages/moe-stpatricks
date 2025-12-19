@@ -1,10 +1,9 @@
 ---
 title: St Patrick's School Open House 2025
 date: 2025-11-03
-layout: post
+layout: link
 description: ""
 image: ""
 variant: tiptap
-external: www.stpatsopenhouse.com/
-permalink: /sps-open-house-2025/
+external: https://www.stpatsopenhouse.com/
 ---
