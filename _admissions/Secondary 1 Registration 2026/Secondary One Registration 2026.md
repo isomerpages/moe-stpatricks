@@ -30,11 +30,11 @@ to email the School Administrative Team at <a rel="noopener noreferrer nofollow"
 <p><strong>If you are appealing for school transfer due to serious medical conditions: </strong>
 <br>Please do so in person at our General Office by <strong>12:00 pm, 22 December 2025, Monday.</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>All appeals must be accompanied by relevant supporting documents, such
 as medical reports and letters from doctors. For information on appealing
 for a transfer due to serious medical conditions, please go to this <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>If you are appealing for school transfer due to non-medical reasons:</strong>
 <br>Please fill in the online form at <a href="https://go.gov.sg/sps-transfer-appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/sps-transfer-appeal</a> by <strong>26 December 2025, 5 pm.</strong>
 </p>
@@ -51,8 +51,5 @@ the applicant will need to meet the non-affiliate COP.</p>
 to transfer to another school. They are expected to honour their commitment
 to the allocated DSA school for the entire duration of the programme.&nbsp;</p>
 <p>&nbsp;</p>
-<p>
-<br>
-</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
