@@ -366,5 +366,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Subject Heads</strong></h3>
 <p></p>
