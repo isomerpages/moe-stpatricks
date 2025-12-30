@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Self-Discipline</p>
+<p>4 Self-Discipline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -55,7 +55,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Teamwork</p>
+<p>4 Teamwork</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -97,7 +97,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Respect</p>
+<p>4 Respect</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +139,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p>4 Integrity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -181,7 +181,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Valour</p>
+<p>4 Valour</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -223,7 +223,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Excellence</p>
+<p>4 Excellence</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -265,7 +265,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Patrick</p>
+<p>4 Patrick</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -307,7 +307,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 Lasalle</p>
+<p>4 Lasalle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -324,10 +324,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Teo Huay Meng</p>
+<p>Mr Kang Xianbin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_teo_huay_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">joseph_teo_huay_meng@moe.edu.sg</a>
+<p><a href="kang_xianbin@moe.edu.sg" rel="noopener nofollow" target="_blank">kang_xianbin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
