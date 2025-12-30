@@ -324,6 +324,7 @@ variant: tiptap
 <p>2</p>
 </th>
 <td rowspan="1" colspan="1">
+<p>Acting</p>
 <p>YEAR HEAD (S2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,6 +363,175 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahadi_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahadi_salam@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>Subject Heads</strong></h3>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SH/ Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurliyana Mohd Zainudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurliyana_mohamad_zainudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurliyana_mohamad_zainudin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boon Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:boon_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boon_jia_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Hui Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hui_lun_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lun_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (PE &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seow Jian Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Character and Citizenship Development)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Lek Li Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lek_li_ling_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ling_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chee Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chee_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chee_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Faith Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Liang Deng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_liang_deng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_deng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
