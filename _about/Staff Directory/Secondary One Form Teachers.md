@@ -33,7 +33,8 @@ variant: tiptap
 <p>Mr Ong Ling Kang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_ling_kang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ling_kang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +75,8 @@ variant: tiptap
 <p>Ms Faith Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:faith_wong_soke_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_wong_soke_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +200,8 @@ variant: tiptap
 <p>Mr Joseph Teo Huay Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:joseph_teo_huay_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph_teo_huay_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
