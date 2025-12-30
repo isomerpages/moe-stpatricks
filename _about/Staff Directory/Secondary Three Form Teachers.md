@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Self-Discipline</p>
+<p>3 Self-Discipline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -46,7 +46,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Teamwork</p>
+<p>3 Teamwork</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -88,7 +88,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Respect</p>
+<p>3 Respect</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +122,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p>3 Integrity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -164,7 +164,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Valour</p>
+<p>3 Valour</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -206,7 +206,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Excellence</p>
+<p>3 Excellence</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -214,10 +214,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mahadi Bin Salam</p>
+<p>Ms Nicola Loh Sijin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahadi_salam@moe.edu.sg" rel="noopener nofollow" target="_blank">mahadi_salam@moe.edu.sg</a>
+<p><a href="nicola_loh_sijin@moe.edu.sg" rel="noopener nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2 Lasalle</p>
+<p>3 Lasalle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -265,11 +265,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Juhari Bin Mohamed</p>
+<p>Mr Loke Ying Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juhari_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">juhari_mohamed@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
