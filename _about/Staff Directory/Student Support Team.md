@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Staff Directory
 ---
-<h3>Student Support Team</h3>
+<h3><strong>Student Support Team</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -63,21 +63,6 @@ third_nav_title: Staff Directory
 <p>3</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syahir Iskandar Bin Rosli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syahir_iskandar_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syahir_iskandar_rosli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>4</p>
-</th>
-<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +75,7 @@ third_nav_title: Staff Directory
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -105,7 +90,7 @@ third_nav_title: Staff Directory
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
