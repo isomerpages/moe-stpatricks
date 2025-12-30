@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Self-Discipline</p>
+<p>2 Self-Discipline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -30,11 +30,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jaclyn Chan</p>
+<p>Ms Nalisha Iriana bte Amran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jaclyn_chan_peiyi@moe.edu.sg" rel="noopener nofollow" target="_blank">jaclyn_chan_peiyi@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -47,7 +54,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Teamwork</p>
+<p>2 Teamwork</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -64,10 +71,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Firza Maisarah</p>
+<p>Mr Ang Darrenkane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:firza\_maisarah\_mohd@moe.edu.sg" rel="noopener nofollow" target="\_blank">firza_maisarah_mohd@moe.edu.sg</a>
+<p><a href="mailto:ang\_darrenkane@moe.edu.sg" rel="noopener nofollow" target="\_blank">ang_darrenkane@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -89,7 +96,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>2 Respect</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -97,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nicola Loh Sijin</p>
+<p>Mdm Siti Nur Faizah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nicola\_loh\_sijin@moe.edu.sg" rel="noopener nofollow" target="\_blank">nicola_loh_sijin@moe.edu.sg</a>
@@ -131,7 +138,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>2 Integrity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -139,10 +146,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Tang</p>
+<p>Mr Seow Jian Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang\_xueli\_shirley@moe.edu.sg" rel="noopener nofollow" target="\_blank">tang_xueli_shirley@moe.edu.sg</a>
+<p><a href="seow_jian_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -173,20 +180,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Valour</p>
+<p>2 Valour</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Yee Yun Shawn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yee\_yun\_shawn@moe.edu.sg" rel="noopener nofollow" target="\_blank">yee_yun_shawn@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,6 +197,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Jasmine Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,20 +221,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>2 Excellence</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Darrenkane</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang\_darrenkane@moe.edu.sg" rel="noopener nofollow" target="\_blank">ang_darrenkane@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -241,6 +238,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Zheng Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +262,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1 Lasalle</p>
+<p>2 Lasalle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
