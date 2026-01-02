@@ -324,8 +324,7 @@ variant: tiptap
 <p>2</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Acting</p>
-<p>YEAR HEAD (S2)</p>
+<p>Acting YEAR HEAD (S2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Firza Maisarah</p>
