@@ -4,10 +4,14 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/P_photograph.jpg">
+</div>
 <h4><strong>Peace be with you and welcome to St Patrick’s School!</strong></h4>
 <p></p>
 <blockquote>
-<p><strong>Boys of Faith, Gentleman with Purpose and Leaders with Heart, who are worthy of God and man.</strong> 
+<p><strong>Boys of Faith, Gentleman with Purpose and Leaders with Heart, who are worthy of God and man.</strong>
 </p>
 </blockquote>
 <p>These words were on my mind as I walked through the school gates for the
@@ -65,7 +69,7 @@ as gentlemen and leaders. I invite you to join us in our mission to <strong>touc
 <p></p>
 <p><strong>Your Partner in Education</strong>
 </p>
-<p><strong>Mr  Aloysius Ting</strong>
+<p><strong>Mr Aloysius Ting</strong>
 </p>
 <p><strong>Principal</strong>
 </p>
