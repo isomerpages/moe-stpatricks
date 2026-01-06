@@ -45,8 +45,8 @@ for all existing students on MOE FAS to use their Edusave to pay for the
 PLD, after subsidies have been granted.</p>
 <p>Students who are currently not under the MOE Financial Assistance Scheme
 may approach the school’s General Office to apply for additional subsidy
-if their Gross Household Income (GHI) is $4,400 or less, or Per Capita
-Income (PCI) is $1,100 or less.</p>
+if their Gross Household Income (GHI) is $4,000 or less, or Per Capita
+Income (PCI) is $1,000 or less.</p>
 <p>“<strong>PCI</strong>" refers to the Gross Household Income divided by
 the total number of family members in the household.</p>
 <p></p>
