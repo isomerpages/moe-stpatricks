@@ -6,7 +6,7 @@ description: ""
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_photograph_v2_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/P_photograph_v2_01_01.jpg">
 </div>
 <h4><strong>Peace be with you and welcome to St Patrick’s School!</strong></h4>
 <p></p>
