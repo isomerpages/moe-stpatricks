@@ -78,13 +78,8 @@ to prevent cyber addiction.</p>
 <p>Please refer to our Frequently Asked Questions section for more information
 on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP2_Parent_Handbook_I_2026.pdf"><img style="width: 40%;" height="auto" width="100%" alt="Parent Handbook (I) 2026" src="/images/2026/Parent_Handbook_I_2026.png"></a>
-<p></p>
-<p></p>
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP2_Parent_Handbook_I_2026.pdf" class="isomer-image-wrapper" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP3_Parent_Handbook_II_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
-<p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/ip2_parent_handbook_i_2026.pdf"><img style="width: 40%;" height="auto" width="100%" alt="Parent Handbook (I) 2026" src="/images/2026/Parent_Handbook_I_2026.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP3_Parent_Handbook_II_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
 <p>
 <br>
