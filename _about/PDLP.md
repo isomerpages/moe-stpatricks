@@ -85,7 +85,7 @@ on the DMA as well as MOE’s collection of data.</p>
 </div>
 <p>
 <br>
-</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
+</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP3_Parent_Handbook_II_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
@@ -104,7 +104,7 @@ on the DMA as well as MOE’s collection of data.</p>
 <p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
 </p>
 <p></p>
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/ParentEngagementDeck2025_10Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
 </p>
 <p>If you have any further queries, kindly email us at:</p>
 <table style="minWidth: 50px">
