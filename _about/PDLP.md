@@ -81,11 +81,11 @@ on the DMA as well as MOE’s collection of data.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb1-2025.png">
-</div>
+<a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP2_Parent_Handbook_I_2026.pdf">img src="/images/2025/parenthb1-2025.png" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" width="100%" height="auto" style="width: 35%;"&gt;
+</a></div><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP2_Parent_Handbook_I_2026.pdf">
 <p>
 <br>
-</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP3_Parent_Handbook_II_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
+</p></a><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/IP3_Parent_Handbook_II_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
