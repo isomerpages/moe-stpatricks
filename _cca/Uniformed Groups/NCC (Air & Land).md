@@ -28,40 +28,19 @@ knowledge to the cutting edge.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Distinction Award 2021, 2022</p>
+<p>Distinction Award 2025</p>
 </li>
 </ul>
-<p><strong>HQ NCC Air Competition</strong>
-</p>
-<ul>
-<li>
-<p>Balsa Wood Chuck Glider (3rd Place)</p>
-</li>
-<li>
-<p>Paper Glider Longest Aloft (2nd Place)</p>
-</li>
-<li>
-<p>Overall 4th team placing</p>
-</li>
-</ul>
-<p><strong>17th National Air Race 2023</strong>&nbsp;(organized by Asia Flight
-Simulation Centre)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Spot Landing Category (Individual Champion)</p>
-</li>
-</ul>
-<p><strong>IgnITE Skills Challenge 2023</strong>
+<p><strong>NCC (Air) Outstanding Cadet Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Patrolling Drones: 2nd Place</p>
+<p>Vijayandran Deepshan (4I)</p>
+</li>
+<li>
+<p>Ahmad Anaqi Muhammad Azami (4V)</p>
 </li>
 </ul>
-<p><strong>Drones Swarming Course</strong>
-</p>
-<p><strong>Flight Simulator Course</strong>
-</p>
 <h4><strong>CCA Training Schedule</strong></h4>
 <p>Friday, 2.30 – 6.00pm</p>
 <h4><strong>CCA Teacher-In-Charge</strong></h4>
