@@ -88,15 +88,11 @@ Friday prayer will only attend CCA after their activity.</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Faith Ang -&nbsp;<a href="mailto:faith_ang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ang_si_ying@moe.edu.sg</a>
+<p>Ms Charissa Chia - <a href="charissa_chia_jia_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">charissa_chia_jia_hui@moe.edu.sg </a>
 </p>
 </li>
 <li>
 <p>Ms Chen Li Yan -&nbsp;<a href="mailto:chen_li_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_li_yan@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Ms. Belinda Toh&nbsp;- <a href="mailto:toh_mei_fang_belinda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_mei_fang_belinda@moe.edu.sg</a>
 </p>
 </li>
 </ul>

@@ -78,16 +78,8 @@ to prevent cyber addiction.</p>
 <p>Please refer to our Frequently Asked Questions section for more information
 on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="PARENT HANDBOOK (I) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb1-2025.png">
-</div>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/IP3_ParentHB2_2025.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
-<p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/ip2_parent_handbook_i_2026.pdf"><img style="width: 40%;" height="auto" width="100%" alt="Parent Handbook (I) 2026" src="/images/2026/Parent_Handbook_I_2026.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/ip3_parent_handbook_ii_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
 <p>
 <br>
@@ -101,10 +93,10 @@ on the DMA as well as MOE’s collection of data.</p>
 <br>
 </p>
 <h4><strong>Frequently Asked Questions</strong></h4>
-<p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/PDLP%202023/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
+<p>A list of answers to Frequently Asked Questions can be found&nbsp;<a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/FAQs_on_PDLP_web.pdf" rel="noopener noreferrer nofollow" target="rel=">here</a>
 </p>
 <p></p>
-<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2025/ParentEngagementDeck2025_10Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
+<p><a href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/Parent_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">SPS Parent Engagement Deck</a>
 </p>
 <p>If you have any further queries, kindly email us at:</p>
 <table style="minWidth: 50px">

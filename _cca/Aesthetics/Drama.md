@@ -54,7 +54,7 @@ both with on-stage and backstage processes to culminate in a perfect production.
 </p>
 </li>
 <li>
-<p>Mr. Ong Ling Kang - <a href="mailto:ong_ling_kang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ling_kang@moe.edu.sg</a>
+<p>Ms. Haida - <a href="mailto:haida_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haida_abdullah@moe.edu.sg</a>
 </p>
 </li>
 </ul>
