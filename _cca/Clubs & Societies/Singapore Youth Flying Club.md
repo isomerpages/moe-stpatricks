@@ -46,11 +46,12 @@ of boys.</p>
 </p>
 </li>
 <li>
-<p>Mr Liu Weilie - <a href="mailto:liu_weilie@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_weilie@moe.edu.sg</a>
+<p>Mr Juhari - <a href="mailto:juhari_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juhari_mohamed@moe.edu.sg</a> 
 </p>
 </li>
 <li>
-<p>Mr Thomas Lim - lim_shee@moe.edu.sg</p>
+<p>Mr Thomas Lim - <a href="lim_shee@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_shee@moe.edu.sg</a>
+</p>
 </li>
 </ul>
 <p></p>
