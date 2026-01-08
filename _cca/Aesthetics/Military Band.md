@@ -79,19 +79,11 @@ was a great milestone and a perfect way to kick-start our members’ journey.</p
 </p>
 </li>
 <li>
-<p>Ms. Charissa Chia&nbsp;- <a href="mailto:charissa_chia_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charissa_chia_jia_hui@moe.edu.sg</a>
+<p>Ms. Faith Ang&nbsp;- <a href="mailto:faith_ang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faith_ang_si_ying@moe.edu.sg</a>
 </p>
 </li>
 <li>
 <p>Ms. Shirley Tang - <a href="mailto:tang_xueli_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_xueli_shirley@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Ms. Firza Maisarah - <a href="mailto:firza_maisarah_mohd@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">firza_maisarah_mohd@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Ms. Koh Wen Yuan Rachel - <a href="mailto:koh_wen_yuan_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wen_yuan_rachel@moe.edu.sg</a>
 </p>
 </li>
 </ul>
