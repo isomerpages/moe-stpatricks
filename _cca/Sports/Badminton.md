@@ -106,10 +106,7 @@ on the court, united as one!</p>
 <li>
 <p>Mr John Koh&nbsp;- <a href="mailto:koh_seng_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_seng_john@moe.edu.sg</a>
 </p>
-</li>
-<li>
-<p>Mr Vincent Chong&nbsp;- <a href="mailto:chong_weng_chiew_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent@moe.edu.sg</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
