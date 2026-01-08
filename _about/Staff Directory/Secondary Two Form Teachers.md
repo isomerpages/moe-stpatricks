@@ -107,7 +107,7 @@ variant: tiptap
 <p>Mdm Siti Nur Faizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicola\_loh\_sijin@moe.edu.sg" rel="noopener nofollow" target="\_blank">nicola_loh_sijin@moe.edu.sg</a>
+<p><a href="mailto:siti_nur_faizah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_faizah_ibrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -241,7 +241,8 @@ variant: tiptap
 <p>Mr Ng Zheng Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_zheng_jie_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zheng_jie_c@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
