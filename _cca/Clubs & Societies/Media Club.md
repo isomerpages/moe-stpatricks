@@ -73,9 +73,21 @@ shoot at various outdoor locations to practice!</p>
 <h4><strong>CCA Teachers-in-Charge</strong></h4>
 <p><strong>Teachers:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ms Ruth Lim - <a href="mailto:lim_li_chen_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_chen_ruth@moe.edu.sg</a>&nbsp;</p>
+</li>
+<li>
 <p>Ms Karen Pereira - <a href="mailto:pereira_karen_louise@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pereira_karen_louise@moe.edu.sg</a>
 </p>
+</li>
+<li>
 <p>Mr Tan Tat Hock - <a href="mailto:tan_tat_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tat_hock@moe.edu.sg</a>
 </p>
+</li>
+<li>
+<p>Ms Nicola Loh - <a href="mailto:nicola_loh_sijin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg</a>
+</p>
+</li>
+</ul>
 <p></p>
