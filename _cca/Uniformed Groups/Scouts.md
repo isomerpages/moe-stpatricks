@@ -28,10 +28,10 @@ and memorable.</p>
 <h4><strong>Achievements/ Participation</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 Frank Cooper Sands Award - GOLD with Honours Pennant</p>
+<p>2025 Frank Cooper Sands Award</p>
 </li>
 <li>
-<p>Chief Commissioner's Award 2023</p>
+<p>Chief Commissioner's Award 2025</p>
 </li>
 </ul>
 <h4><strong>CCA Training Schedule</strong></h4>
