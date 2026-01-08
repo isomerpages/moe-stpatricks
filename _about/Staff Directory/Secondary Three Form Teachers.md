@@ -277,7 +277,8 @@ variant: tiptap
 <p>Mr Loke Ying Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loke_ying_chow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_ying_chow@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
