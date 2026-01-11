@@ -117,7 +117,8 @@ variant: tiptap
 <p>Ms Tan Eu-Hsuan Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_euhsuan_chloe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_euhsuan_chloe@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
