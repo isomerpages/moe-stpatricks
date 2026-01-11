@@ -33,7 +33,8 @@ variant: tiptap
 <p>Ms Nalisha Iriana bte Amran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nalisha_iriana_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nalisha_iriana_amran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,10 +198,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Chew</p>
+<p>Ms Jasmine Chew Kai Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jasmine_chew_kai_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_chew_kai_yu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +243,7 @@ variant: tiptap
 <p>Mr Ng Zheng Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zheng_jie_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zheng_jie_c@moe.edu.sg</a> 
+<p><a href="mailto:ng_zheng_jie_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zheng_jie_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
