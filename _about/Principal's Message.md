@@ -21,7 +21,7 @@ lives through education. Since its founding in 1933, St Patrick’s School
 has done just that, creating generations of Patricians who have gone on
 to make a positive impact in their communities and in Singapore. I thank
 my predecessor, Mr Mark Minjoot, and the school leaders who have come before
-us for stewarding the school over the past 92 years. I am honoured to take
+us for stewarding the school over the past 93 years. I am honoured to take
 up the baton in the next stage of the school’s journey.</p>
 <p>As a Catholic-mission school, St Patrick’s provides students with a holistic
 student-centric curriculum which focuses on character development and values.
