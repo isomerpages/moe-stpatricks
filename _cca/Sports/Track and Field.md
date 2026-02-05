@@ -45,5 +45,5 @@ Friday, 2.30 – 4.30pm
 * Mdm Siti Nur Faizah Ibrahim - [siti_nur_faizah_ibrahim@moe.edu.sg](mailto:siti_nur_faizah_ibrahim@moe.edu.sg)
 
 * Mdm Nur Huda Mohamed Ali - [nur_huda_mohamed_ali@moe.edu.sg](mailto:nur_huda_mohamed_ali@moe.edu.sg)
-* Mdm Nurliyana Mohd Zainudin- [nurliyana_mohamad_zainudin@moe.edu.sg](mailto:nurliyana_mohamad_zainudin@moe.edu.sg)
+
 * Mr Sayed Hud Alhabshe - [sayed_hud_alhabshe@moe.edu.sg](mailto:sayed_hud_alhabshe@moe.edu.sg)
