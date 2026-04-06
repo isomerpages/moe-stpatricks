@@ -80,12 +80,12 @@ on the DMA as well as MOE’s collection of data.</p>
 <h4><strong>Cyberwellness Resources for Parents</strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/ip2_parent_handbook_i_2026.pdf"><img style="width: 40%;" height="auto" width="100%" alt="Parent Handbook (I) 2026" src="/images/2026/Parent_Handbook_I_2026.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://staging.dgqb0jbouderh.amplifyapp.com/files/2026/ip3_parent_handbook_ii_2026.pdf"><img style="width:35%" height="auto" width="100%" alt="PARENT HANDBOOK (II) ON LEARNING WITH A PERSONAL LEARNING DEVICE" src="/images/2025/parenthb2-2025.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf"><img style="width:35%" height="auto" width="100%" alt="Raising a Digitally Smart Child" src="/images/2024/Raising_a_Smart_Child.png"></a>
 <p>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.instagram.com/parentingwith.moesg/?hl=en"><img style="width:35%" height="auto" width="100%" alt="Instagram: Parenting with MOE" src="/images/2025/parenting_wmoe.png"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf"><img style="width: 45%;" height="auto" width="100%" alt="Cyber Wellness for Your Child" src="/images/2022_Migration/cyberwellness for parents 2.jpg"></a>
+<p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://sure.nlb.gov.sg/"><img style="width:25%" height="auto" width="100%" alt="Source. Understand. Research. Evaluate - NLB" src="/images/2022_Migration/cyberwellness%20for%20parents%205.jpg"></a>
 <p></p>

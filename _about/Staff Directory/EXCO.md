@@ -51,21 +51,6 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Barnabas Tan Yii Hsien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yii_hsien_barnabas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yii_hsien_barnabas@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>3</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Kwan Yew Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
