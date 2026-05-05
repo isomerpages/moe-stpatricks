@@ -19,7 +19,7 @@ of the programme that he has applied for and been admitted into for Sec
 <p>Male students from primary schools completing their PSLE examinations
 in academic year 2026, who meet the following criteria, are invited to
 apply for Direct School Admission to St. Patrick’s School:</p>
-<p>&nbsp;</p>
+<p></p>
 <h3><strong>CRITERIA</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -216,7 +216,6 @@ will be entertained. The school reserves the right not to disclose the
 reason for non-selection of an applicant or to release the results of the
 trials.</p>
 <p></p>
-<p></p>
 <p><strong><u>Applicants not studying in MOE mainstream primary schools:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -246,6 +245,82 @@ further information, please refer to the AEIS website: <a href="https://www.moe.
 </p>
 </li>
 </ul>
+<hr>
+<h3><strong>Overview of St Patrick’s School DSA Selection Criteria</strong></h3>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the student’s area of talent.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on our selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>We seek parents’ understanding that meeting all our selection criteria
+does not guarantee that your son will be shortlisted or given an offer.
+Due to different profiles of applicants, selection/ shortlisting trends
+may differ year on year.</p>
+<p></p>
+<h4><strong>Audition &amp; Panel Interview</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>For Performing Arts:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>1.&nbsp;&nbsp;&nbsp; Applicants are required to attend a trial/audition
+for the respective performing arts.</p>
+<p>2.&nbsp;&nbsp;&nbsp; Applicants are required to play a piece of their
+choice on their instrument. Applicants will also be given a separate piece
+to sight-read followed by a short listening test.</p>
+<p>3.&nbsp;&nbsp;&nbsp; Applicants are to bring their own instruments for
+the audition. Only percussion instruments and piano will be provided for
+audition.</p>
+<p>4.&nbsp;&nbsp;&nbsp; Shortlisted applicants will be invited for an interview
+on a separate date.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>For Sports and Games:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants are required to attend a trial
+for the respective sports.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only shortlisted applicants will be invited
+for additional trials and/or interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants are to bring their own personal
+sporting equipment or gear for the trials.</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>For Leadership and Uniformed Groups:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants are required to
+attend an interview.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;<strong><em>All applicants will be required to declare any medical status at the start of their trials / auditions for safety reasons.</em></strong>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>DSA Timeline</strong></h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong><u>6 May 2026, 11.00am to 2 June 2026, 4.30pm</u></strong>.
+Please follow the instructions in the <strong>DSA-Sec Portal</strong> carefully.</p>
+<p>For more details, please refer to the MOE website at <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> .</p>
+<p></p>
+<h4><strong><u>TIMELINE</u></strong></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/secondary/dsa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA_2026.png"></a>
+<p></p>
+<p><em>[updated as of 6 May 2026]</em>
+</p>
 <hr>
 <p>For any enquiries, please contact the following personnel:</p>
 <p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> /
