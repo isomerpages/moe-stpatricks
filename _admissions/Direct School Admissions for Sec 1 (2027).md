@@ -19,7 +19,7 @@ of the programme that he has applied for and been admitted into for Sec
 <p>Male students from primary schools completing their PSLE examinations
 in academic year 2026, who meet the following criteria, are invited to
 apply for Direct School Admission to St. Patrick’s School:</p>
-<p>&nbsp;</p>
+<p></p>
 <h3><strong>CRITERIA</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -215,7 +215,6 @@ will be shortlisted/given an offer.</p>
 will be entertained. The school reserves the right not to disclose the
 reason for non-selection of an applicant or to release the results of the
 trials.</p>
-<p></p>
 <p></p>
 <p><strong><u>Applicants not studying in MOE mainstream primary schools:</u></strong>
 </p>
