@@ -265,10 +265,6 @@ may differ year on year.</p>
 <summary><strong>For Performing Arts:</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>1.&nbsp;&nbsp;&nbsp; Applicants are required to attend a trial/audition
 for the respective performing arts.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Applicants are required to play a piece of their
@@ -279,30 +275,30 @@ the audition. Only percussion instruments and piano will be provided for
 audition.</p>
 <p>4.&nbsp;&nbsp;&nbsp; Shortlisted applicants will be invited for an interview
 on a separate date.</p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>For Sports and Games:</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants are required to attend a trial
 for the respective sports.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only shortlisted applicants will be invited
 for additional trials and/or interview.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants are to bring their own personal
 sporting equipment or gear for the trials.</p>
+</div>
+</details>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>For Leadership and Uniformed Groups:</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants are required to
 attend an interview.</p>
 <ul data-tight="true" class="tight">
@@ -311,9 +307,11 @@ attend an interview.</p>
 </p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
-<p><strong>DSA Timeline</strong>
-</p>
+<h4><strong>DSA Timeline</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong><u>6 May 2026, 11.00am to 2 June 2026, 4.30pm</u></strong>.
 Please follow the instructions in the <strong>DSA-Sec Portal</strong> carefully.</p>
