@@ -318,6 +318,9 @@ Please follow the instructions in the <strong>DSA-Sec Portal</strong> carefully.
 <p>For more details, please refer to the MOE website at <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> .</p>
 <p></p>
 <h4><strong><u>TIMELINE</u></strong></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/secondary/dsa"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA_2026.png"></a>
+<p></p>
+<p><em>[updated as of 6 May 2026]</em>
+</p>
 <hr>
 <p>For any enquiries, please contact the following personnel:</p>
 <p>1.&nbsp;&nbsp;&nbsp; Mr Seow Jian Ting, DSA Coordinator (<a href="mailto:seow_jian_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jian_ting@moe.edu.sg</a> /
