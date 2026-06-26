@@ -186,10 +186,6 @@ G2)</p>
 </ul>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <p><strong>G3 Subject Combinations</strong>
 </p>
@@ -893,18 +889,13 @@ G2)</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Post Secondary Articulation Options</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Pathway Navigator tool on MySkillsfuture portal to check Post Secondary
 eligibility: <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/pathway-navigator.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/pathway-navigator.html</u></a>
 </p>
@@ -1130,6 +1121,10 @@ validated downward grade mapping table.&nbsp;</p>
 <p>English Language</p>
 </td>
 <td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>G3</p>
 </td>
 </tr>
@@ -1323,6 +1318,8 @@ and <strong>Early Childhood</strong> courses</p>
 <p>Principle of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>G2/3</p>
 </td>
 </tr>
@@ -1686,15 +1683,9 @@ subjects will be mapped to G2 for the computation of the aggregate score.</p>
 <p>
 <br>
 </p>
-<p></p>
-<p>
-<br>
-</p>
 <p><strong>Useful Links:</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>CourseFinder - </strong>&nbsp;</p>
 <ul>
 <li>
@@ -1724,18 +1715,11 @@ to 2025 graduating cohort)</p>
 <p>
 <br>
 <br>
-</p>
-<p></p>
-<p>
-<br>
-<br>
 <br>
 </p>
 <p><strong>Subject Combination Counselling Sessions</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p><u>Dates:&nbsp;</u>
 </p>
 <p>24,&nbsp; 27 &amp; 28 Oct&nbsp;</p>
@@ -1747,18 +1731,11 @@ to 2025 graduating cohort)</p>
 <p>Insert link to book appointments (Grace Aw)</p>
 <p>
 <br>
-<br>
-<br>
-<br>
 </p>
 <p><strong>Appeals</strong>
 </p>
 <p>3 Nov to 6 Nov</p>
 <p>Via AdminBreeze</p>
-<p>
-<br>
-</p>
-<p></p>
 <p>
 <br>
 </p>
