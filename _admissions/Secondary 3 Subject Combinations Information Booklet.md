@@ -1738,8 +1738,18 @@ to 2025 graduating cohort)</p>
 </p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
-<p>1 <em>Can my son opt to take 8 or more subjects at upper secondary?</em>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><em>Can my son opt to take 8 or more subjects at upper secondary?</em>
 </p>
+</th>
+<th rowspan="1" colspan="1">
 <ul>
 <li>
 <p>A 6 to 7 subject combination allows students time to learn and understand
@@ -1758,6 +1768,29 @@ experience.&nbsp;</p>
 subjects only.</p>
 </li>
 </ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>1</p>
 <p>
 <br>
 </p>
