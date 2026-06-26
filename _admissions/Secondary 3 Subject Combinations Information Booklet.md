@@ -1746,10 +1746,18 @@ to 2025 graduating cohort)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em>Can my son opt to take 8 or more subjects at upper secondary?</em>
-</p>
+<p>Question</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Answer</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Can my son opt to take 8 or more subjects at upper secondary?</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>A 6 to 7 subject combination allows students time to learn and understand
@@ -1765,37 +1773,17 @@ experience.&nbsp;</p>
 </li>
 <li>
 <p>Admission to Junior College (JC) and Polytechnic, is based on 5 relevant
-subjects only.</p>
+subjects only</p>
 </li>
 </ul>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>If they perform well in a core subject by end Sec 3, can they move to G3 in Sec 4?</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p>1</p>
-<p>
-<br>
-</p>
-<p>2 <em>If they perform well in a core subject by end Sec 3, can they move to G3 in Sec 4?</em>
-</p>
 <ul>
 <li>
 <p>The increase in syllabus coverage and rigour from G2 to G3 is substantial.&nbsp;</p>
@@ -1805,11 +1793,14 @@ subjects only.</p>
 limited and this can be very stressful.</p>
 </li>
 </ul>
-<p>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>During Sec 3, what happens if students can’t handle the subjects as well as expected? (G3-&gt;G2)</em>
 </p>
-<p>3 <em>During Sec 3, what happens if students can’t handle the subjects as well as expected? (G3-&gt;G2)</em>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>This will be reviewed on a case-by-case basis.&nbsp;</p>
@@ -1819,24 +1810,36 @@ limited and this can be very stressful.</p>
 the best subject combination to maximise his chance of attaining his goals.</p>
 </li>
 </ul>
-<p>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Do students have the option of a mix of G2 and G3 subjects?</em>
 </p>
-<p>4 <em>Do students have the option of a mix of G2 and G3 subjects?</em>
-</p>
+</li>
+<li>
 <p><em>Can a G2 student choose any of the G3 subject combinations?</em>
 </p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>Yes, please book an appointment to discuss the subject combination in
 October after release of results</p>
 </li>
 </ul>
-<p>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Can we offer triple science? Do we need triple science to go JC?</em>
 </p>
-<p>5 <em>Can we offer triple science? Do we need triple science to go JC?</em>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>A student does not need to take Triple Science in order to pursue a science-related
@@ -1851,16 +1854,18 @@ subjects, and a contrasting Humanities subject.</p>
 These are published on the respective JC websites.</p>
 </li>
 </ul>
-<p></p>
-<p>
-<br>
-</p>
-<p>6 <em>Why are some subject combinations not offered?</em>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Why are some subject combinations not offered?</em>
 </p>
 <p><em>Apart from Computing, FCE and Music, are there alternatives offered?</em>
 </p>
 <p><em>Is there no biology or sub science with biology at G2?</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>The combinations are reviewed annually to ensure that the range of subjects
@@ -1874,15 +1879,26 @@ we offer will provide our students a broad range of options for post secondary&n
 physical resources</p>
 </li>
 </ul>
-<p>
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>My son is exempted from MT. Can he take another subject to replace MT?</em>
 </p>
-<p>7 <em>My son is exempted from MT. Can he take another subject to replace MT?</em>
-</p>
+</li>
+<li>
 <p><em>For G1 students who take multiple G2 subjects, what are their options in Sec 3?</em>
 </p>
+</li>
+<li>
 <p><em>My son has a mix of G3 &amp; G2 or G2 &amp; G1 subjects. What will the combination look like?&nbsp;</em>
 </p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>We can arrange conversations to discuss options in the best interest of
@@ -1896,72 +1912,138 @@ year end results are released.</p>
 <p>Book a slot with us to walk through the possibilities</p>
 </li>
 </ul>
-<p>
-<br>
-<br>
-</p>
-<p>8 My son would like to take Japanese language as an additional subject
-for O level.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My son would like to take Japanese language as an additional subject for
+O level.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>It was mentioned that write up and portfolio is required for DSA. If my
 son is looking to try DSA football is that still required?</p>
-<p>
-<br>
-</p>
-<p>9 No MT, can he take up extra subject?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No MT, can he take up extra subject?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kolby is taking Mother Tongue In lieu. Is this replaceable with other
 subject? If so, what are his options?</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>10 My son has Dyslexia, can we apply for exemption for MTL? Any impact
-on that?</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My son has Dyslexia, can we apply for exemption for MTL? Any impact on
+that?</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p>11 What is the implication of dropping Chinese? Does it mean his Chinese
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>What is the implication of dropping Chinese? Does it mean his Chinese
 score will not be considered but other subjects need to be stronger?</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>12 My son takes G3 EL, G1 Chinese and the rest G2. He still fails Chinese.
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My son takes G3 EL, G1 Chinese and the rest G2. He still fails Chinese.
 Does he still continue to take MT?</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>13 Kiran takes G3 Science &amp; G2 for the other subjects. Would he be
-able to take combine science (Chem/Bio) at G3 in Sec 3? This option did
-not seem to be available during the trial or the briefing for G2 students.
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kiran takes G3 Science &amp; G2 for the other subjects. Would he be able
+to take combine science (Chem/Bio) at G3 in Sec 3? This option did not
+seem to be available during the trial or the briefing for G2 students.
 What are the qualifying requirements to do so?</p>
-<p>
-<br>
-</p>
-<p>14 How many classes for Pure Chem + Pure Bio Combi in 2026?</p>
-<p>
-<br>
-</p>
-<p>15 To qualify for pure science, my son needs to attain 65% for science
-and math. Does it mean that as long he meets that criteria he will be offered
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How many classes for Pure Chem + Pure Bio Combi in 2026?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>To qualify for pure science, my son needs to attain 65% for science and
+math. Does it mean that as long he meets that criteria he will be offered
 pure science or does it depend on how many students choose pure science
 and their results?</p>
-<p>
-<br>
-</p>
-<p>16 My son has G1 and G2. What’s his combi like, plus he has no MT?</p>
-<p>
-<br>
-</p>
-<p>17 Lennon has G3 for core subjects, English, Maths and Science and G2
-for the rest. Can he opt for pure science?</p>
-<p>
-<br>
-</p>
-<p>18 He is keen on POA. Will the school prioritize his preference for POA
-vs D&amp;T?</p>
-<p>
-<br>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My son has G1 and G2. What’s his combi like, plus he has no MT?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lennon has G3 for core subjects, English, Maths and Science and G2 for
+the rest. Can he opt for pure science?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>He is keen on POA. Will the school prioritize his preference for POA vs
+D&amp;T?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>My son is taking G3 Maths this year. How should we do the G3 Maths selection
 when his other subjects at G2?</p>
-<p>
-<br>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
-<br>
 <br>
 </p>
 <p><strong>Contact Us</strong>
