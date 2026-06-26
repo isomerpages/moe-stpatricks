@@ -1361,8 +1361,6 @@ and <strong>Early Childhood</strong> courses</p>
 <p>From the AY2028 PFP intake, the PFP will be expanded to also allow students
 taking G3 subjects, or a mix of G2 and G3 subjects to access PFP by mapping
 their G3 grade to the G2 equivalent, using the grade mapping table.&nbsp;</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
@@ -1697,7 +1695,7 @@ area of interest (Note: Net aggregate scores in CourseFinder applies only
 to 2025 graduating cohort)</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u><br><br></a>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u><br></a>
 </p>
 </li>
 </ul>
@@ -1713,7 +1711,6 @@ to 2025 graduating cohort)</p>
 </li>
 </ul>
 <p>
-<br>
 <br>
 <br>
 </p>
@@ -1870,51 +1867,56 @@ year end results are released.</p>
 <br>
 <br>
 </p>
-<p>My son would like to take Japanese language as an additional subject for
-O level.</p>
+<p>8 My son would like to take Japanese language as an additional subject
+for O level.</p>
 <p>It was mentioned that write up and portfolio is required for DSA. If my
 son is looking to try DSA football is that still required?</p>
 <p>
 <br>
 </p>
-<p>No MT, can he take up extra subject?</p>
+<p>9 No MT, can he take up extra subject?</p>
 <p>Kolby is taking Mother Tongue In lieu. Is this replaceable with other
 subject? If so, what are his options?</p>
-<p>My son has Dyslexia, can we apply for exemption for MTL? Any impact on
-that?</p>
-<p>What is the implication of dropping Chinese? Does it mean his Chinese
+<p></p>
+<p>10 My son has Dyslexia, can we apply for exemption for MTL? Any impact
+on that?</p>
+<p></p>
+<p></p>
+<p>11 What is the implication of dropping Chinese? Does it mean his Chinese
 score will not be considered but other subjects need to be stronger?</p>
-<p>My son takes G3 EL, G1 Chinese and the rest G2. He still fails Chinese.
+<p></p>
+<p>12 My son takes G3 EL, G1 Chinese and the rest G2. He still fails Chinese.
 Does he still continue to take MT?</p>
-<p>Kiran takes G3 Science &amp; G2 for the other subjects. Would he be able
-to take combine science (Chem/Bio) at G3 in Sec 3? This option did not
-seem to be available during the trial or the briefing for G2 students.
+<p></p>
+<p>13 Kiran takes G3 Science &amp; G2 for the other subjects. Would he be
+able to take combine science (Chem/Bio) at G3 in Sec 3? This option did
+not seem to be available during the trial or the briefing for G2 students.
 What are the qualifying requirements to do so?</p>
 <p>
 <br>
 </p>
-<p>How many classes for Pure Chem + Pure Bio Combi in 2026?</p>
+<p>14 How many classes for Pure Chem + Pure Bio Combi in 2026?</p>
 <p>
 <br>
 </p>
-<p>To qualify for pure science, my son needs to attain 65% for science and
-math. Does it mean that as long he meets that criteria he will be offered
+<p>15 To qualify for pure science, my son needs to attain 65% for science
+and math. Does it mean that as long he meets that criteria he will be offered
 pure science or does it depend on how many students choose pure science
 and their results?</p>
 <p>
 <br>
 </p>
-<p>My son has G1 and G2. What’s his combi like, plus he has no MT?</p>
+<p>16 My son has G1 and G2. What’s his combi like, plus he has no MT?</p>
 <p>
 <br>
 </p>
-<p>Lennon has G3 for core subjects, English, Maths and Science and G2 for
-the rest. Can he opt for pure science?</p>
+<p>17 Lennon has G3 for core subjects, English, Maths and Science and G2
+for the rest. Can he opt for pure science?</p>
 <p>
 <br>
 </p>
-<p>He is keen on POA. Will the school prioritize his preference for POA vs
-D&amp;T?</p>
+<p>18 He is keen on POA. Will the school prioritize his preference for POA
+vs D&amp;T?</p>
 <p>
 <br>
 </p>
