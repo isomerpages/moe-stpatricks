@@ -1725,7 +1725,7 @@ to 2025 graduating cohort)</p>
 </p>
 <p><u>Book your appointments</u>
 </p>
-<p>Insert link to book appointments (Grace Aw)</p>
+<p>Book your appointment <a href="https://go.gov.sg/fzs53b" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 </p>
