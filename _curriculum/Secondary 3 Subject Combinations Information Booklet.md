@@ -189,7 +189,7 @@ G2)</p>
 </p>
 <p><strong>G3 Subject Combinations</strong>
 </p>
-<table style="minWidth: 200px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
