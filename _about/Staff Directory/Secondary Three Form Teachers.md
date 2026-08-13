@@ -223,10 +223,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nicola Loh Sijin</p>
+<p>Ms Yee Yun Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nicola_loh_sijin@moe.edu.sg" rel="noopener nofollow" target="_blank">nicola_loh_sijin@moe.edu.sg</a>
+<p><a href="mailto:yee_yun_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_yun_shawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
