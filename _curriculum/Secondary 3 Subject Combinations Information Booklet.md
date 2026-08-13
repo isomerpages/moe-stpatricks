@@ -1,7 +1,7 @@
 ---
 title: Secondary 3 Subject Combinations Information Booklet
 permalink: /secondary-3-subject-combinations-information-booklet/
-variant: markdown
+variant: tiptap
 description: (For 2026 Secondary 2 Students)
 ---
 <p><strong>Important Dates</strong>
@@ -46,15 +46,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Oct (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance Sharing for Sec 2 (Online)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Oct&nbsp;</p>
+<p>21 Oct&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Exam Results</p>
@@ -62,7 +54,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Oct – 28 Oct</p>
+<p>23 Oct – 26 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Combination <strong>Selection Exercise</strong>
@@ -71,7 +63,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Oct – 28 Oct</p>
+<p>24 Oct – 26 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Combination <strong>Consultation Sessions</strong>
@@ -80,7 +72,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Nov</p>
+<p>6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Subject Combination Results</p>
@@ -88,7 +80,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Nov – 6 Nov</p>
+<p>6 Nov – 10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Appeal (if applicable)</p>
@@ -96,7 +88,7 @@ description: (For 2026 Secondary 2 Students)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Nov</p>
+<p>16 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Appeal Outcome</p>
