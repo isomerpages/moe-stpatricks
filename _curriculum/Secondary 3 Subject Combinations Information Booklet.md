@@ -168,17 +168,11 @@ their curricular load by one or more of the following ways:</p>
 <p>Reducing the number of subjects (e.g. only offering 6 subjects)</p>
 </li>
 <li>
-<p>Offering <s>elective</s> subject(s) at Less Demanding Level (e.g. G3 to
-G2)</p>
-</li>
-<li>
-<p><s>Offering compulsory subjects at Less Demanding Level if the student obtained E8 or below at G3, or 6 at G2.</s>
-</p>
+<p>Offering elective subject(s) at Less Demanding Level (e.g. G3 to G2)</p>
+<p></p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>G3 Subject Combinations</strong>
 </p>
 <table style="minWidth: 200px">
@@ -432,11 +426,8 @@ G2)</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 200px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -464,17 +455,6 @@ G2)</p>
 <p><strong>Combi 11</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Criteria</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -492,15 +472,6 @@ G2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry / Physics / Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 Science ≥ 75%</p>
 </td>
 </tr>
 <tr>
@@ -520,15 +491,6 @@ G2)</p>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 Maths ≥ 65%</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -546,15 +508,6 @@ G2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Additional Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 Maths ≥ 60%</p>
 </td>
 </tr>
 <tr>
@@ -576,15 +529,6 @@ G2)</p>
 <td rowspan="1" colspan="1">
 <p>Hum (SS/Hist) or
 <br>Hum (SS/Geog)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 Literature ≥ 50%</p>
 </td>
 </tr>
 <tr>
@@ -608,15 +552,6 @@ G2)</p>
 <p>SCI(C/P) or
 <br>SCI(C/B)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 Geography ≥ 50%</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -635,15 +570,6 @@ G2)</p>
 <td rowspan="1" colspan="1">
 <p>POA</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 G3 D&amp;T ≥ 50%</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -661,9 +587,75 @@ G2)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+</tbody>
+</table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Criteria</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemistry / Physics / Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 Science ≥ 75%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 Maths &gt; 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 Maths ≥ 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 Literature ≥ 50%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 Geography ≥ 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 G3 D&amp;T ≥ 70%</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>POA</p>
 </td>
@@ -673,6 +665,7 @@ G2)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>G2 Subject Combinations</strong>
 </p>
