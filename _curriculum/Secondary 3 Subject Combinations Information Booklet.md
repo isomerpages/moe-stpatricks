@@ -1695,32 +1695,8 @@ to 2025 graduating cohort)</p>
 </p>
 </li>
 </ul>
-<p>
-<br>
-<br>
-</p>
-<p><strong>Subject Combination Counselling Sessions</strong>
-</p>
 <p></p>
-<p><u>Dates:&nbsp;</u>
-</p>
-<p>24,&nbsp; 27 &amp; 28 Oct&nbsp;</p>
-<p>
-<br>
-</p>
-<p><u>Book your appointments</u>
-</p>
-<p>Book your appointment <a href="https://go.gov.sg/fzs53b" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>
-<br>
-</p>
-<p><strong>Appeals</strong>
-</p>
-<p>3 Nov to 6 Nov</p>
-<p>Via AdminBreeze</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
 <table style="minWidth: 50px">
