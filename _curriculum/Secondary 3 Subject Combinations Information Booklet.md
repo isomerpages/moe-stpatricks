@@ -620,7 +620,7 @@ their curricular load by one or more of the following ways:</p>
 <p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 G3 Maths &gt; 60%</p>
+<p>Sec 2 G3 Maths &gt; 65%</p>
 </td>
 </tr>
 <tr>
@@ -653,6 +653,7 @@ their curricular load by one or more of the following ways:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 G3 D&amp;T ≥ 70%</p>
+<p>Sec 2 G2 D&amp;T ≥ 60%</p>
 </td>
 </tr>
 <tr>
